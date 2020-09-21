@@ -73,7 +73,7 @@ for index in range(len(lista)):
         
         sender_email = "erwinek@wp.pl"
         receiver_email = "leszek.kula@gmail.com"
-        password = input("Type your password and press enter:")
+        password = "EZ9w-8vpX.G@5Gf"
 
         message = MIMEMultipart("alternative")
         message["Subject"] = lista[index]
