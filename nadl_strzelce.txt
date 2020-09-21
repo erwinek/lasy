@@ -6,8 +6,6 @@
 
 
 
-
-
 Komunikaty i og³oszenia
 
 
@@ -27,16 +25,6 @@ Komunikaty i og³oszenia
 
 
 
-      Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Strzelce Opolskie
-    
-
-
-
-
-
-
-szukaj >
 
 
 
@@ -44,23 +32,43 @@ szukaj >
 
 
 
-
- >> Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Strzelce Opolskie
-
- >> Wyst¹pienia, komunikaty i og³oszenia
+Biuletyn Informacji PublicznejLasów Pañstwowych
 
 
 
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Strzelce Opolskie
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Plan urz¹dzenia lasu
@@ -80,37 +88,35 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~nadl_strzelce
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Strzelce Opolskie
+
+
+wyszukaj w BIP
 
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Strzelce Opolskie
+
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
 
 Komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -410,8 +416,25 @@ Og³oszenie niniejsze opublikowane bêdzie w Nowej Trybunie Opolskiej dn. 12.05.20
 
 
 
-    
-    Pliki do pobrania:      pierwokup_info0001.pdf pobierz       protokol_szymiszow_przetarg0001.pdf pobierz 
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_strzelce~pierwokup_info0001.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_strzelce~protokol_szymiszow_przetarg0001.pdf (2.0MB)
 
 
 
@@ -429,24 +452,17 @@ Og³oszenie niniejsze opublikowane bêdzie w Nowej Trybunie Opolskiej dn. 12.05.20
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+Nadleœniczy mgr in¿. Jan Spa³ek
 
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ: Nadleœniczy mgr in¿. Jan Spa³ek
 Data modyfikacji: 2020/09/16 14:11:21
 Redaktor zatwierdzaj¹cy: Andrzej Bubula
-Wprowadzaj¹cy: Dariusz Krzysztofowicz
+Wprowadzaj¹cy: d.krzysztofowicz
+
 
  
-
-
-
-
 
 
 

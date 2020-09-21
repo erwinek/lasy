@@ -6,8 +6,6 @@
 
 
 
-
-
 Komunikaty i og³oszenia
 
 
@@ -27,16 +25,6 @@ Komunikaty i og³oszenia
 
 
 
-      Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Prudnik
-    
-
-
-
-
-
-
-szukaj >
 
 
 
@@ -44,23 +32,43 @@ szukaj >
 
 
 
-
- >> Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Prudnik
-
- >> Wyst¹pienia, komunikaty i og³oszenia
+Biuletyn Informacji PublicznejLasów Pañstwowych
 
 
 
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Prudnik
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Plan urz¹dzenia lasu
@@ -80,37 +88,35 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~nadl_prudnik
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Prudnik
+
+
+wyszukaj w BIP
 
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Prudnik
+
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
 
 Komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -140,8 +146,52 @@ Zgodnie z Decyzj¹ nr 7 Nadleœniczego Nadleœnictwa Prudnik z dnia 11.05.2020r. dn
 
 
 
-    
-    Pliki do pobrania:      1_klauzula_informacyjna_dotyczaca_danych_osobowych.docx pobierz       decyzja_2020_07__z_dnia_11_05_2020.pdf pobierz       ogloszenie_o_naborze_na_stanowisko_ksiegowej_go_.pdf pobierz       regulamin_naboru_na_wolne_stanowiska_pracy_w_nadlesnictwie_prudnik.pdf pobierz       zarzadzenie_2020_28.pdf pobierz 
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.OCX
+
+px_dg~rdlp_katowice~nadl_prudnik~1_klauzula_informacyjna_dotyczaca_danych_osobowych.docx (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~decyzja_2020_07__z_dnia_11_05_2020.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~ogloszenie_o_naborze_na_stanowisko_ksiegowej_go_.pdf (3.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~regulamin_naboru_na_wolne_stanowiska_pracy_w_nadlesnictwie_prudnik.pdf (4.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_2020_28.pdf (1.0MB)
 
 
 
@@ -159,24 +209,17 @@ Zgodnie z Decyzj¹ nr 7 Nadleœniczego Nadleœnictwa Prudnik z dnia 11.05.2020r. dn
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+Jaros³aw Myœliñski- p.o. Nadleœniczego N-ctwa Prudnik
 
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ: mgr in¿. Marek Cholewa- Nadleœniczy N-ctwa Prudnik
 Data modyfikacji: 2020/08/04 12:33:46
 Redaktor zatwierdzaj¹cy: Rafa³ Kasza
-Wprowadzaj¹cy: Rafa³ Kasza
+Wprowadzaj¹cy: rafaello
+
 
  
-
-
-
-
 
 
 

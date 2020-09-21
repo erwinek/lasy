@@ -6,6 +6,7 @@
 
 
 
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
@@ -27,37 +28,47 @@
 
 
 
-      PGL LP Gospodarstwo Rybackie Krogulna
-    
+
+
+
+
+Biuletyn Informacji PublicznejLasów Pañstwowych
+
+
+
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-szukaj >
-
-
-
-
-
-
-
-
- >> PGL LP Gospodarstwo Rybackie Krogulna
-
- >> Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-PGL LP Gospodarstwo Rybackie Krogulna
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
@@ -75,16 +86,62 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~gr_krogulna
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+PGL LP Gospodarstwo Rybackie Krogulna
+
+
+wyszukaj w BIP
+
+
+
+
+
+
+PGL LP Gospodarstwo Rybackie Krogulna
+
+Wyst¹pienia, komunikaty i og³oszenia
+
+
+
+
+Wyst¹pienia, komunikaty i og³oszenia
+
+
+
+
+
+
+
+
+
+
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~gr_krogulna~ogloszenie_o_sprzedazy_srodkow_trwalych_19.03.2020r..pdf (1.0MB)
+
+
+
+
+
+
+.DOC
+
+px_dg~rdlp_katowice~gr_krogulna~regulamin_sprzedazy_sprzetu__2020.doc (1.0MB)
 
 
 
@@ -102,54 +159,17 @@ Logowanie
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+Zbigniew Borek p.o.Dyrektor PGL LP GR Krogulna
 
-
-
-
-
-
-
-
-
-
-    
-    Pliki do pobrania:      ogloszenie_o_sprzedazy_srodkow_trwalych_19.03.2020r..pdf pobierz       regulamin_sprzedazy_sprzetu__2020.doc pobierz 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ: Zbigniew Borek p.o.Dyrektor PGL LP GR Krogulna
 Data modyfikacji: 2020/03/05 11:37:01
 Redaktor zatwierdzaj¹cy: Wojciech Preuhs
-Wprowadzaj¹cy: Wojciech Preuhs
+Wprowadzaj¹cy: w.preuhs
+
 
  
-
-
-
-
 
 
 

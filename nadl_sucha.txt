@@ -6,8 +6,6 @@
 
 
 
-
-
 Komunikaty i og³oszenia
 
 
@@ -27,16 +25,6 @@ Komunikaty i og³oszenia
 
 
 
-      Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Sucha
-    
-
-
-
-
-
-
-szukaj >
 
 
 
@@ -44,23 +32,43 @@ szukaj >
 
 
 
-
- >> Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Sucha
-
- >> Wyst¹pienia, komunikaty i og³oszenia
+Biuletyn Informacji PublicznejLasów Pañstwowych
 
 
 
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Sucha
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Plan urz¹dzenia lasu
@@ -80,37 +88,35 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~nadl_sucha
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Sucha
+
+
+wyszukaj w BIP
 
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Sucha
+
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
 
 Komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -183,8 +189,16 @@ Twoje dane nie bêd¹ podlegaæ zautomatyzowanemu podejmowaniu decyzji, w tym równi
 
 
 
-    
-    Pliki do pobrania:      Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych pobierz 
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych (1.0MB)
 
 
 
@@ -202,24 +216,17 @@ Twoje dane nie bêd¹ podlegaæ zautomatyzowanemu podejmowaniu decyzji, w tym równi
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+ mgr in¿. Tadeusz Kosman
 
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ:  mgr in¿. Tadeusz Kosman
 Data modyfikacji: 2019/09/27 14:14:51
 Redaktor zatwierdzaj¹cy: Ma³gorzata Murañska
-Wprowadzaj¹cy: Ma³gorzata Murañska
+Wprowadzaj¹cy: malgorzata.muranska
+
 
  
-
-
-
-
 
 
 

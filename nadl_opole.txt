@@ -6,8 +6,6 @@
 
 
 
-
-
 Komunikaty i og³oszenia
 
 
@@ -27,16 +25,6 @@ Komunikaty i og³oszenia
 
 
 
-      Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Opole
-    
-
-
-
-
-
-
-szukaj >
 
 
 
@@ -44,23 +32,43 @@ szukaj >
 
 
 
-
- >> Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Opole
-
- >> Wyst¹pienia, komunikaty i og³oszenia
+Biuletyn Informacji PublicznejLasów Pañstwowych
 
 
 
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Opole
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Plan urz¹dzenia lasu
@@ -80,37 +88,35 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~nadl_opole
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Opole
+
+
+wyszukaj w BIP
 
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Opole
+
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
 
 Komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -298,8 +304,79 @@ Dêbska KuŸnia
 
 
 
-    
-    Pliki do pobrania:      2020_ksiegowa_ds.plac.pdf pobierz       2020_specjalista_ds.infor.adm.tech._i_bhp.pdf pobierz       cennik_detaliczny_1a_2020.pdf pobierz       cennik_detaliczny_1b_2020.pdf pobierz       1_cennik_detaliczny_1c_2020.pdf pobierz       drewno_kominkowe_2020.pdf pobierz       informacja_o_wykonaniu_przez_lasy_panstwowe_prawa_pierwokupu.pdf pobierz       2019_zalacznik_nr_2_do_decyzji_nr_2.pdf pobierz 
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~2020_ksiegowa_ds.plac.pdf (3.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~2020_specjalista_ds.infor.adm.tech._i_bhp.pdf (4.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~cennik_detaliczny_1a_2020.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~cennik_detaliczny_1b_2020.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~1_cennik_detaliczny_1c_2020.pdf (3.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~drewno_kominkowe_2020.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~informacja_o_wykonaniu_przez_lasy_panstwowe_prawa_pierwokupu.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~2019_zalacznik_nr_2_do_decyzji_nr_2.pdf (2.0MB)
 
 
 
@@ -317,24 +394,17 @@ Dêbska KuŸnia
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+Marek Cholewa
 
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ: Marek Cholewa
 Data modyfikacji: 2020/06/03 12:52:36
 Redaktor zatwierdzaj¹cy: Tomasz Rojek
-Wprowadzaj¹cy: Tomasz Rojek
+Wprowadzaj¹cy: t.rojek
+
 
  
-
-
-
-
 
 
 

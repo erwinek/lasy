@@ -6,8 +6,6 @@
 
 
 
-
-
 Komunikaty i og³oszenia
 
 
@@ -27,16 +25,6 @@ Komunikaty i og³oszenia
 
 
 
-      Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Chrzanów
-    
-
-
-
-
-
-
-szukaj >
 
 
 
@@ -44,23 +32,43 @@ szukaj >
 
 
 
-
- >> Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Chrzanów
-
- >> Wyst¹pienia, komunikaty i og³oszenia
+Biuletyn Informacji PublicznejLasów Pañstwowych
 
 
 
+A
+
+
+A
+
+
+A
+
+
+A
+
+
+
+
+A
+
+
+A
+
+
+A
+
+
+
+lasy.gov.pl
 
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Chrzanów
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach
+Strona g³ówna
+Strona g³ówna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
 Plan urz¹dzenia lasu
@@ -80,37 +88,35 @@ Rejestr zbiorów danych osobowych
 Redakcja BIP
 Obs³uga biuletynu
 Instrukcja obs³ugi
+wx_dg~rdlp_katowice~nadl_chrzanow
+Redakcja biuletynu
 Statystyki biuletynu
-Wersja historyczna
-Rejestr zmian treœci
-
 Logowanie
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Chrzanów
+
+
+wyszukaj w BIP
 
 
 
 
 
 
+Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Nadleœnictwo Chrzanów
+
+Wyst¹pienia, komunikaty i og³oszenia
 
 
 
 
 Komunikaty i og³oszenia
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -994,8 +1000,16 @@ Materia³y do pobrania
 
 
 
-    
-    Pliki do pobrania:      20191018_143932_n_chrzanow_000129.pdf pobierz 
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_chrzanow~20191018_143932_n_chrzanow_000129.pdf (1.0MB)
 
 
 
@@ -1013,24 +1027,17 @@ Materia³y do pobrania
 
 
 
+Deklaracja Dostêpnoœci Cyfrowej
 
+Osoba odpowiedzialna za treœæ:
+Nadleœniczy Nadleœnictwa Chrzanów mgr in¿. Andrzej Berkowski
 
-
-
-
-
-              O (nie)u¿ywaniu ciasteczekprzez serwis
-
-Osoba odpowiedzialna za treœæ: Nadleœniczy Nadleœnictwa Chrzanów mgr in¿. Andrzej Berkowski
 Data modyfikacji: 2020/07/08 14:08:34
 Redaktor zatwierdzaj¹cy: £ukasz Cieœlik
-Wprowadzaj¹cy: £ukasz Cieœlik
+Wprowadzaj¹cy: l.cieslik
+
 
  
-
-
-
-
 
 
 
