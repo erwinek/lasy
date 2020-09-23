@@ -145,6 +145,15 @@ Pliki do pobrania - lista za³¹czników
 
 
 
+.ZIP
+
+px_dg~rdlp_katowice~nadl_olesno~nabor_na_stanowisko_administratora_silp.zip (1.0MB)
+
+
+
+
+
+
 .PDF
 
 px_dg~rdlp_katowice~nadl_olesno~informacja_rez._kamieniec.pdf (1.0MB)
@@ -431,9 +440,9 @@ Deklaracja Dostêpnoœci Cyfrowej
 Osoba odpowiedzialna za treœæ:
 Nadleœniczy Nadleœnictwa Olesno mgr in¿. Grzegorz Kimla
 
-Data modyfikacji: 2020/08/27 10:33:02
-Redaktor zatwierdzaj¹cy: Joanna Kubiak
-Wprowadzaj¹cy: grzegorz.kaczmarczyk
+Data modyfikacji: 2020/09/22 13:26:32
+Redaktor zatwierdzaj¹cy: Jerzy Rosó³
+Wprowadzaj¹cy: malgorzata.godyla
 
 
  
