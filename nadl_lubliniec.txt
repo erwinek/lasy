@@ -1617,7 +1617,6 @@ px_dg~rdlp_katowice~nadl_lubliniec~zalacznik_nr_4_przedmiar_robot___prace_budowl
 
 
 
-Deklaracja Dostêpnoœci Cyfrowej
 
 Osoba odpowiedzialna za treœæ:
 Krzysztof Lysik
@@ -1625,6 +1624,7 @@ Krzysztof Lysik
 Data modyfikacji: 2020/05/19 14:23:02
 Redaktor zatwierdzaj¹cy: Andrzej Gajda
 Wprowadzaj¹cy: a.gajda
+Deklaracja Dostêpnoœci
 
 
  
