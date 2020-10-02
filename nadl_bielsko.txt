@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_bielsko
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,8 +117,112 @@ Komunikaty i og³oszenia
 
 
 
+Nadleœnictwo Bielsko zaprasza do z³o¿enia ofert w publicznym przetargu pisemnym na sprzeda¿ samochodu marki Subaru Forester. Szczegó³y dotycz¹ce przetargu opisano w plikach zamieszczonych poni¿ej.
 
 
+
+
+
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~ogloszenie_o_sprzedazy_subaru_forester.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~regulamin_sprzedaz_subaru.pdf (2.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_1_do_regulam_projekt_umowy.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_2_do_regulam_oferta.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_3_do_regulam_klauzula_informacyjna.pdf (1.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121055.jpg (5.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121128.jpg (5.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0010.jpg (1.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0011.jpg (1.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0015.jpg (1.0MB)
+
+
+
+
+
+
+.JPG
+
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0018.jpg (1.0MB)
 
 
 
@@ -144,9 +244,9 @@ Komunikaty i og³oszenia
 Osoba odpowiedzialna za treœæ:
 mgr in¿. Marek Czader - Nadleœniczy Nadleœnictwa Bielsko
 
-Data modyfikacji: 2020/04/16 19:11:02
-Redaktor zatwierdzaj¹cy: Czes³awa Fender
-Wprowadzaj¹cy: Czes³awa Fender
+Data modyfikacji: 2020/10/01 08:34:34
+Redaktor zatwierdzaj¹cy: Waldemar Soberka
+Wprowadzaj¹cy: Pawe³ K³opotowski
 Deklaracja Dostêpnoœci
 
 

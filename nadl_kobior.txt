@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_kobior
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,6 +117,27 @@ Komunikaty i og³oszenia
 
 
 
+Piasek, 1.10.2020r
+ 
+zn.spr. SA.234.3.2.2020
+Nadleœnictwo Kobiór og³asza  drugi - pisemny przetarg niograniczony ( wybór ofert) na sprzeda¿ pojazdów:
+- samochód Suzuki JTD 54V Grand Vitara - rok produkcji 2009, benzyna,przebieg 144 198 km, stan techniczny dobry, cena wywo³awcza - 19 920,00z³ brutto
+- samochód Suzuki JT D44 Grand Vitara - rok produkcji 2011, olej napedowy, przebieg 155 820km, stan techniczny dobry, cena wywo³awcza - 27 760,00z³ brutto
+- pojazd QUAD XINYANG XY 500 UTV , rok produkcji 2013, benzyna, przebieg 8269 km, stan techniczny przeciêtny, cena wywo³awcza - 13 200,00brutto.
+Termin sk³adania ofert - 15.10.2020r - godz. 9,00
+Termin otwarcia ofert - 15.10.2020r godz. 9,15
+treœc og³oszenia, szczegó³owy opis pojazdów, cena wywo³awcza, warunki przyst¹pienia do przetargu - po pobrania w za³acznikach
+ 
+
+ 
+Piasek, 29.08.2020r
+zn.spr. SA.234.3.1.2020
+ 
+Nadleœnictwo Kobiór informuje, i¿ do pisemnego nieograniczonego  przetargu ( wyboru ofert) - na sprzeda¿ pojazdów 
+- w wymaganym terminie nie wp³ynê³a ¿adna oferta.
+Informacja - do pobrania w plikach poni¿ej
+ 
+
 Piasek,15.09.2020r
 zn.spr. SA.234.3.1.2020
 Nadleœnictwo Kobiór og³asza publiczny pisemny przetarg  nieograniczony (wybór ofert) na sprzeda¿ pojazdów:
@@ -146,24 +163,25 @@ Kancelaria Rachunkowo Podatkowa „FinBad” Grzegorz Glaubic; 45-066 Opole, ul. Ko³
  
  
 
-Piasek, 20.05.2020
-zn.spr. S.20.1.7.2020
-Nadleœnictwo Kobiór podaje, i¿  w wyniku przeprowadzonego wyboru ofert na "Remont i modernizacjê budynku leœniczówki Branica w Suszcu" - zosta³a przyjêta oferta  z³o¿ona przez:
-Zak³ad Us³ug Remontowo-Budowalnych Oswalda Pêka³a z Jankowic na kwotê  94 463,85 z³ netto/ 102 020,96 z³ brutto.
+ 
  
 
-Piasek, 7.05.2020r
-zn.spr. S.20.1.7.2020
-Nadleœnictwo Kobiór zaprasza do z³o¿enia oferty w postêpowaniu pn "Remont i modernizacja budynku leœniczówki Branica w Suszcu" prowadzonym w trybie wyboru ofert.
-Termin realizacji zadania - do 31.07.2020r
-Termin sk³adania ofert - 18.05.2020 godz. 13.00
-Treœæ zaproszenia wraz z dokumentacj¹ projektow¹ ze zmianami, przedmiary, STWiBR, druk oferty, istotne postêpowania umowy - do pobrania w za³¹czniku
  
 
  
  
  
 ================================================================================================================================  KLAUZULA INFORMACYJNA dot. przetwarzania danych osobowych Szanowny/-a  Pan/Pani w ramach naszych starañ w celu osi¹gniêcia zgodnoœci z Rozporz¹dzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych w zwi¹zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep³ywu takich danych oraz uchylenia dyrektywy 95/46/WE (dalej jako RODO), a tak¿e w celu dostarczenia informacji o tym, jak Pañstwa dane osobowe s¹ przetwarzane przez Nadleœnictwo Kobiór oraz o przys³uguj¹cych Pañstwu prawach z tym zwi¹zanych przekazujemy poni¿ej niezbêdne informacje w tym zakresie. Informacje zawarte s¹ w plikach do pobrania: 1.Obowi¹zkowa informacja RODO 2. Informacja RODO dla osób zawieraj¹cych umowy
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,7 +196,7 @@ Pliki do pobrania - lista za³¹czników
 
 .PDF
 
- Og³oszenie o przetargu na sprzeda¿ pojazdów (1.0MB)
+Og³oszenie o przetargu na sprzeda¿ pojazdów II (1.0MB)
 
 
 
@@ -187,7 +205,7 @@ Pliki do pobrania - lista za³¹czników
 
 .PDF
 
-Regulamin przetargu publicznego na sprzeda¿ (1.0MB)
+za³ nr 1 -  druk oferty (1.0MB)
 
 
 
@@ -196,7 +214,7 @@ Regulamin przetargu publicznego na sprzeda¿ (1.0MB)
 
 .PDF
 
- Za³ nr 1 do og³oszenia o przetargu na sprzeda¿ pojazdów (1.0MB)
+ zal nr 2 - informacja RODO (1.0MB)
 
 
 
@@ -205,7 +223,7 @@ Regulamin przetargu publicznego na sprzeda¿ (1.0MB)
 
 .PDF
 
-Za³ nr 2 do przetargu na sprzeda¿ pojazdów - Informacja RODO (1.0MB)
+ Regulamin przetargu (1.0MB)
 
 
 
@@ -214,7 +232,7 @@ Za³ nr 2 do przetargu na sprzeda¿ pojazdów - Informacja RODO (1.0MB)
 
 .PDF
 
- Informacja RODO dla osób zawieraj¹cych umowy (1.0MB)
+Og³oszenie o wynikach przetargu (1.0MB)
 
 
 
@@ -245,9 +263,9 @@ Za³ nr 2 do przetargu na sprzeda¿ pojazdów - Informacja RODO (1.0MB)
 Osoba odpowiedzialna za treœæ:
 dr in¿. Marian Pigan - Nadleœniczy
 
-Data modyfikacji: 2020/09/15 15:38:33
+Data modyfikacji: 2020/10/02 08:12:24
 Redaktor zatwierdzaj¹cy: Jadwiga D³ugajczyk
-Wprowadzaj¹cy: Beata Albertusiak
+Wprowadzaj¹cy: Jadwiga D³ugajczyk
 Deklaracja Dostêpnoœci
 
 

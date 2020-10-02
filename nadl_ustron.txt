@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_ustron
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,8 +117,23 @@ Komunikaty i og³oszenia
 
 
 
- 
- 
+ ***********************************************************************************************************************************************************
+Ustroñ 30.09.2020 r.
+                                                                                                                          OG£OSZENIE O SPRZEDA¯Y SAMOCHODU.
+Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Ustroñ ul. 3 Maja 108,            43-450 Ustroñ, tel. 338543521,  og³asza publiczny pisemny przetarg nieograniczony na sprzeda¿ samochodu marki Subaru Forester.
+1. Przedmiotem przetargu jest samochód osobowy marki Subaru Forester, nr rej. SCI 1599E,  rok produkcji 2015, Nr VIN JF1SJ5LC5FG200946, pojemnoœæ:  1995 cm 3,  moc:  110 kW,  skrzynia biegów: lineartronic (CVT),  paliwo: benzyna,  kolor: Crystal Black Silica, przebieg:  121903 km [stan na 28.09.2020] liczba miejsc: 5, masa ca³kowita: 2015kg, hak holowniczy, dodatkowe 4 opony zimowe 225/60/R17, termin badania technicznnego 20.07.2021 r.
+2. Przetarg - otwarcie ofert, odbêdzie sie w dniu  15.10.2020 r. o godz. 10:15 w œwietlicy Nadleœnictwa przy ulicy 3 Maja 108 w Ustroniu.
+3. Oglêdzin samochodu mo¿na dokonaæ w siedzibie biura Nadleœnictwa w Ustroniu przy ul. 3 Maja 108, 43-450 Ustroñ,  od poniedzia³ku do pi¹tku, w godz. od 8:00 – 14:00.
+4. Cena wywo³awcza wynosi 61 200,00 z³. (s³ownie: szeœædziesi¹t jeden tysiêcy dwiescie z³otych) brutto [zawiera podatek VAT 23%].
+5. Warunkiem przyst¹pienia do przetargu jest z³o¿enie oferty w sekretariacie Nadleœnictwa Ustroñ 43-450 Ustroñ ul. 3 Maja 108 do dnia 15.10.2020 r. do godz.. 10:00
+6. Warunkiem przyst¹pienia do przetargu jest wp³ata wadium w wysokoœci 10% ustalonej ceny wywo³awczej brutto, tj. kwota 6 120,00 z³. (s³ownie: szeœæ tysiêcy sto dwadzieœcia z³otych) tytu³em zabezpieczenia wykonania zobowi¹zania wynikaj¹cego z przetargu. Wadium nale¿y wp³aciæ gotówk¹ w kasie Nadleœnictwa do dnia  15.10.2020 r. do godz.10:00 lub na konto sprzedaj¹cego. Nr konta: PKO BP SA O/Ustroñ 60 1020 1390 0000 6602 0117 5884 z dopiskiem „Wadium na samochód”, z takim wyprzedzeniem aby wp³ynê³o na konto Nadleœnictwa do dnia 15.10.2020 r. do godz.10:00.
+7. Wadium z³o¿one przez oferentów, których oferty nie zostan¹ przyjête, zostanie zwrócone bezpoœrednio po dokonaniu wyboru oferty, a oferentowi, którego oferta zosta³a przyjêta, zostanie zarachowane na poczet ceny. Je¿eli wadium z³o¿one przez nabywcê by³o w innej formie ni¿ w gotówce, ulega zwrotowi po zap³aceniu ceny nabycia. Wadium przepada na rzecz sprzedawcy, je¿eli oferent, którego oferta zosta³a przyjêta, uchyli siê od zawarcia umowy
+8. Termin sk³adania ofert: do 15.10.2020 r., do godz. 10:00 w sekretariacie biura Nadleœnictwa w Ustroniu ul. 3 Maja 108. Oferty nale¿y sk³adaæ w zamkniêtych kopertach i opisanych: „Przetarg na samochód. Nie otwieraæ do dnia 15.10.2020 r., godz. 10:15". Termin zwi¹zania ofert¹ - 14 dni, licz¹c od dnia up³ywu skladania ofert.  9. Sprzedawcy przys³uguje prawo swobodnego wyboru oferty, je¿eli uczestnicy przetargu zaoferowali tê sama cenê.
+10. Szczegó³owe dane na temat przetargu znajduj¹ sie na stronie      https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_ustron/komunikaty_i_ogloszenia
+11. Z³o¿enie oferty jest równoznaczne z zapoznaniem siê z klauzul¹ informacyjn¹ dotycz¹c¹ przetwarzania danych osobowych oferenta.
+12. W czêœci nieuregulowanej w og³oszeniu stosowane bêd¹ przepisy Rozporz¹dzenia Rady Ministrów z dnia 5 paŸdziernika 1993r. w sprawie zasad organizowania przetargu na sprzeda¿ œrodków trwa³ych przez przedsiêbiorstwa pañstwowe oraz warunków odst¹pienia od przetargu (Dz.U. Nr 97, poz.443).
+ Szczegó³y do pobrania w plikach poni¿ej.
+ ****************************************************************************************************************************************************
 Ustroñ, dn. 11.09.2020 r.
                                                                                                                                                    OG£OSZENIE O SPRZEDA¯Y NIERUCHOMOŒCI
  
@@ -306,6 +317,27 @@ mgr in¿. Miros³aw Kulis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Pliki do pobrania - lista za³¹czników
 
 
@@ -339,6 +371,51 @@ px_dg~rdlp_katowice~nadl_ustron~bip_klauzula_rodo.pdf (1.0MB)
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_ustron~2020_09_30_ogloszenie_subaru.pdf (2.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_ustron~2020_09_30_zal_1_do_ogloszen_formularz_ofertowy_subaru.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_ustron~2020_09_30_zal_2_do_ogloszenia_subaru_klauzula_informacyjna_rodo.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_ustron~2020_09_30_regulamin_przetargu_subaru.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_ustron~2020_09_30_zal_1_do_regulaminu_projekt_umowy_subaru.pdf (1.0MB)
+
+
+
+
+
+
 
 
 
@@ -354,9 +431,9 @@ px_dg~rdlp_katowice~nadl_ustron~bip_klauzula_rodo.pdf (1.0MB)
 Osoba odpowiedzialna za treœæ:
 in¿ S³awomir Kohut - p.o. Nadleœniczy 
 
-Data modyfikacji: 2020/09/16 09:48:36
-Redaktor zatwierdzaj¹cy: Monika Matl
-Wprowadzaj¹cy: Monika Matl
+Data modyfikacji: 2020/10/01 11:40:48
+Redaktor zatwierdzaj¹cy: Jaros³aw Gabryœ
+Wprowadzaj¹cy: Jaros³aw Gabryœ
 Deklaracja Dostêpnoœci
 
 

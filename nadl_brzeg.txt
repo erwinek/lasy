@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_brzeg
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -128,8 +124,53 @@ od godziny 7:00 do 15:00
 Skargi i Wnioski przyjmuj¹:
 Nadleœniczy i Zastêpca Nadleœniczego
 w ka¿dy poniedzia³ek w godz. 12:00 – 15:30
+
+Nadleœnictwo Brzeg og³asza przetarg pisemny nieograniczony na sprzeda¿ samochodu TOYOTA RAV4.
+Treœæ og³oszenia wraz z za³¹cznikami do pobrania poni¿ej.
+
  
 
+
+
+
+
+
+Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+.DOC
+
+Og³oszenie o przetargu Toyota RAV4 (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Og³oszenie o przetargu Toyota RAV4 (2.0MB)
+
+
+
+
+
+
+.OCX
+
+Umowa o sprzeda¿y Toyota RAV4 wzór (1.0MB)
+
+
+
+
+
+
+.DOC
+
+Wzór oferty Toyota RAV4 (1.0MB)
 
 
 
@@ -151,7 +192,7 @@ w ka¿dy poniedzia³ek w godz. 12:00 – 15:30
 Osoba odpowiedzialna za treœæ:
 mgr in¿. Bart³omiej Kastelik
 
-Data modyfikacji: 2020/01/27 07:22:30
+Data modyfikacji: 2020/10/01 12:37:51
 Redaktor zatwierdzaj¹cy: Kamil Œledziona
 Wprowadzaj¹cy: Kamil Œledziona
 Deklaracja Dostêpnoœci
