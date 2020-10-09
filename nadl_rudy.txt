@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_rudy
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -371,7 +367,7 @@ Og³oszenie o rozstrzygniêciu drugiego przetargu na sprzeda¿ nieruchomoœci po³o¿o
 
 
 Osoba odpowiedzialna za treœæ:
-Tomasz Pacia
+Witold Witosza
 
 Data modyfikacji: 2020/04/20 15:26:22
 Redaktor zatwierdzaj¹cy: Tomasz Pacia

@@ -124,8 +124,16 @@ od godziny 7:00 do 15:00
 Skargi i Wnioski przyjmuj¹:
 Nadleœniczy i Zastêpca Nadleœniczego
 w ka¿dy poniedzia³ek w godz. 12:00 – 15:30
+ 
 
 Nadleœnictwo Brzeg og³asza przetarg pisemny nieograniczony na sprzeda¿ samochodu TOYOTA RAV4.
+ 
+Treœæ og³oszenia wraz z za³¹cznikami do pobrania poni¿ej.
+
+ 
+
+Nadleœnictwo Brzeg og³asza przetarg pisemny nieograniczony na sprzeda¿ samochodu MITSUBISHI L200.
+ 
 Treœæ og³oszenia wraz z za³¹cznikami do pobrania poni¿ej.
 
  
@@ -177,6 +185,33 @@ Wzór oferty Toyota RAV4 (1.0MB)
 
 
 
+.DOC
+
+Og³oszenie o przetargu Mitsubishi L200 (1.0MB)
+
+
+
+
+
+
+.OCX
+
+Umowa o sprzeda¿y Mitsubishi L200 wzór (1.0MB)
+
+
+
+
+
+
+.DOC
+
+Wzór oferty Mitsubishi L200 (1.0MB)
+
+
+
+
+
+
 
 
 
@@ -192,7 +227,7 @@ Wzór oferty Toyota RAV4 (1.0MB)
 Osoba odpowiedzialna za treœæ:
 mgr in¿. Bart³omiej Kastelik
 
-Data modyfikacji: 2020/10/01 12:37:51
+Data modyfikacji: 2020/10/07 13:15:55
 Redaktor zatwierdzaj¹cy: Kamil Œledziona
 Wprowadzaj¹cy: Kamil Œledziona
 Deklaracja Dostêpnoœci
