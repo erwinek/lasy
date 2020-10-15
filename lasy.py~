@@ -18,8 +18,7 @@ listaKato = ["nadl_andrychow", "nadl_bielsko", "nadl_brynek", "nadl_jelesnia","n
 "nadl_swierklaniec","nadl_tulowice","nadl_ujsoly","nadl_ustron","nadl_wegierska","nadl_wisla","nadl_zloty_potok","gr_krogulna","gr_niemodlin","zts_swierklaniec",
 ]
 
-rdlpKrakow =["nadl_brzesko", "nadl_dabrowa_tarnowska", "nadl_debica", "nadl_gorlice", "nadl_gromnik", "nadl_kroscienko", "nadl_krzeszowice", "nadl_limanowa", "nadl_losie", 
-"nadl_miechow", "nadl_myslenice", "nadl_nawojowa", "nadl_niepolomice", "nadl_nowy_targ", "nadl_piwniczna", "nadl_stary_sacz" ] 
+rdlpKrakow =["nadl_brzesko", "nadl_dabrowa_tarnowska", "nadl_debica", "nadl_gorlice" ] 
 
 
 
