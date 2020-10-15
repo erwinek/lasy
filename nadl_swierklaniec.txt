@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_swierklaniec
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Œwierklaniec
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Åšwierklaniec
 
 
 wyszukaj w BIP
@@ -108,79 +104,98 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Œwierklaniec
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Åšwierklaniec
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
-Dotacja na realizacjê zadania pn. "Ochronê zagro¿onych  wyginiêciem  rodzimych gatunków ptaków i nietoperzy" z WFOŒiGW w  Katowicach umowa dotacja 131/2020/74/OP/oz/D z  dnia 03.06.2020 - kwota  dofinansowanie 24 206,80z³
-Dotacja na realizacjê zadania pn. "Ochronê zagro¿onych wyginiêciem  rodzimych gatunków ptaków i nietoperzy" z WFOŒiGW w Katowicach umowa dotacja 622/2018/74/OP/oz/D z  dnia 19.11.2018 - kwota dofinansowanie 16 436,80z³
-Dotacja na realizacjê zadania pn. "Ochronê zagro¿onych wyginiêciem rodzimych gatunków zwierz¹t w 2015roku na terenach leœnych Nadleœnictwa Œwierklaniec" z WFOŒiGW w Katowicach umowa dotacja 417/2015/74/OP/oz/D z dnia 16.10.2015. - kwota dofinansowanie 21 850,40z³
-Dotacja na realizacjê zadania pn.  "Ochronê zagro¿onych wyginiêciem rodzimych gatunków zwierz¹t w 2014roku na terenach leœnych Nadleœnictwa Œwierklaniec" z WFOŒiGW w Katowicach umowa dotacja 204/2014/74/OP/oz/D z dnia 21.07.2014r. - kwota dofinansowanie 7 533,00z³
-Dotacja na realizacjê zadania pn. "Ochronê zagro¿onych wyginiêciem rodzimych gatunków zwierz¹t w 2013roku na terenach leœnych Nadleœnictwa Œwierklaniec" z WFOŒiGW w Katowicach umowa dotacja 245/2013/74/OP/oz/D z dnia 02.07.2013r. - kwota dofinansowanie 3 545,00z³
-Dotacja na realizacjê zadania pn. "Ochronê zagro¿onych wyginiêciem rodzimych gatunków zwierz¹t w 2012roku na terenach leœnych Nadleœnictwa Œwierklaniec" z WFOŒiGW w Katowicach umowa dotacja 269/2012/74/OP/oz/D z dnia 03.10.2012r. - kwota dofinansowanie 1 460,00z³ 
-Dotacja na realizacjê zadania pn. "Program edukacji leœnej pn. Rok w lesie" z WFOŒiGW w Katowicach umowa dotacja 418/2015/74/EE/ee/D z 16.10.2015 - kwota dofinansowanie 16 600,00z³
-Dotacja na realizacjê zadania pn. "Program edukacji leœnej pn. Rok w lesie" z WFOŒiGW w Katowicach umowa dotacja 407/2014/74/EE/ee/D z 22.12.2014- kwota dofinansowanie 7 205,00z³
-Dotacja na realizacjê zadania pn. "Program edukacji leœnej pn. Rok w  lesie" z WFOŒiGW w Katowicach umowa dotacja 425/20118/74/EE/ez/D z dnia 12.10.2018- kwota dofinansowanie  9 400,00z³
-Dotacja na realizacjê zadania pn. "Folder edukacyjno-przyrodniczy - Mapa Nadleœnictwa Swierklaniec" z WFOŒiGW w Katowicach umowa dotacja nr 221/2016/74/EE/cz/D z 06.06.2016 - kwota dofinansowania 6 000,00z³
-Dotacja na realizacjê zadania pn. "Folder edukacyjno-przyrodniczy - Ptaki Nadleœnictwa Swierklaniec" z WFOŒiGW w Katowicach umowa dotacja nr 219/2016/EE/cz/D z 06.06.2016 - kwota dofinansowania 3 120,00z³
-Dotacja na realizacjê zadania pn. "Utworzenie œcie¿ki dydaktyczno-przyrodniczej w Kaletach-Truszczycy" z WFOŒiGW w Katowicach umowa dotacja 485/2018/74/EE/sd/D z 12.10.2018- kwota dofinansowanie 52 500,00z³
-Dotacja na realizacjê zadania  
- Infrastruktura i Œrodowisko na lata 2014-2020. Kompleksowy projekt adaptacji lasów i leœnictwa do zmian klimatu –zapobieganie, przeciwdzia³anie oraz ograniczanie skutków zagro¿eñ zwi¹zanych z po¿arami lasów.
+Komunikaty i ogÅ‚oszenia
+
+
+
+
+Dotacja na realizacjÄ™ zadania pn. "OchronÄ™ zagroÅ¼onych  wyginiÄ™ciem  rodzimych gatunkÃ³w ptakÃ³w i nietoperzy" z WFOÅšiGW w  Katowicach umowa dotacja 131/2020/74/OP/oz/D z  dnia 03.06.2020 - kwota  dofinansowanie 24 206,80zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "OchronÄ™ zagroÅ¼onych wyginiÄ™ciem  rodzimych gatunkÃ³w ptakÃ³w i nietoperzy" z WFOÅšiGW w Katowicach umowa dotacja 622/2018/74/OP/oz/D z  dnia 19.11.2018 - kwota dofinansowanie 16 436,80zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "OchronÄ™ zagroÅ¼onych wyginiÄ™ciem rodzimych gatunkÃ³w zwierzÄ…t w 2015roku na terenach leÅ›nych NadleÅ›nictwa Åšwierklaniec" z WFOÅšiGW w Katowicach umowa dotacjaÂ 417/2015/74/OP/oz/D z dnia 16.10.2015. - kwota dofinansowanie 21 850,40zÅ‚
+Dotacja na realizacjÄ™ zadania pn.Â  "OchronÄ™ zagroÅ¼onych wyginiÄ™ciem rodzimych gatunkÃ³w zwierzÄ…t w 2014roku na terenach leÅ›nych NadleÅ›nictwa Åšwierklaniec" z WFOÅšiGW w Katowicach umowa dotacja 204/2014/74/OP/oz/D z dnia 21.07.2014r. - kwota dofinansowanie 7 533,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "OchronÄ™ zagroÅ¼onych wyginiÄ™ciem rodzimych gatunkÃ³w zwierzÄ…t w 2013roku na terenach leÅ›nych NadleÅ›nictwa Åšwierklaniec" z WFOÅšiGW w Katowicach umowa dotacja 245/2013/74/OP/oz/D z dnia 02.07.2013r. - kwota dofinansowanie 3 545,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "OchronÄ™ zagroÅ¼onych wyginiÄ™ciem rodzimych gatunkÃ³w zwierzÄ…t w 2012roku na terenach leÅ›nych NadleÅ›nictwa Åšwierklaniec" z WFOÅšiGW w Katowicach umowa dotacja 269/2012/74/OP/oz/D z dnia 03.10.2012r. - kwota dofinansowanie 1 460,00zÅ‚Â 
+Dotacja na realizacjÄ™ zadania pn. "Program edukacji leÅ›nej pn. Rok w lesie" z WFOÅšiGW w Katowicach umowa dotacjaÂ 418/2015/74/EE/ee/D z 16.10.2015 - kwota dofinansowanie 16 600,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Program edukacji leÅ›nej pn. Rok w lesie" z WFOÅšiGW w Katowicach umowa dotacjaÂ 407/2014/74/EE/ee/D z 22.12.2014- kwota dofinansowanie 7 205,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Program edukacji leÅ›nej pn. Rok w  lesie" z WFOÅšiGW w Katowicach umowa dotacja 425/2018/74/EE/ez/D z dnia 12.10.2018- kwota dofinansowanieÂ  9 400,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Program edukacji leÅ›nej pn. Rok w   lesie" z WFOÅšiGW w Katowicach umowa dotacja 402/2020/74/EE/ez/D z dnia 23.07.2020- kwota dofinansowanie 11 250,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Folder edukacyjno-przyrodniczy - Mapa NadleÅ›nictwa Swierklaniec" z WFOÅšiGW w Katowicach umowa dotacja nr 221/2016/74/EE/cz/D z 06.06.2016 - kwota dofinansowaniaÂ 6 000,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Folder edukacyjno-przyrodniczy - Ptaki NadleÅ›nictwa Swierklaniec" z WFOÅšiGW w Katowicach umowa dotacja nr 219/2016/EE/cz/D z 06.06.2016 - kwota dofinansowania 3 120,00zÅ‚
+Dotacja na realizacjÄ™ zadania pn. "Utworzenie Å›cieÅ¼ki dydaktyczno-przyrodniczej w Kaletach-Truszczycy" z WFOÅšiGW w Katowicach umowa dotacja 485/2018/74/EE/sd/D z 12.10.2018- kwota dofinansowanie 52 500,00zÅ‚
+Dotacja na realizacjÄ™ zadaniaÂ  
+ Infrastruktura i Åšrodowisko na lata 2014-2020. Kompleksowy projekt adaptacji lasÃ³w i leÅ›nictwa do zmian klimatu â€“zapobieganie, przeciwdziaÅ‚anie oraz ograniczanie skutkÃ³w zagroÅ¼eÅ„ zwiÄ…zanych z poÅ¼arami lasÃ³w.
  
  Numer identyfikacyjny projektu:POIS.02.01.00-00-0007/16-00
- 
- 
+Â 
+Â 
 
 
- 
- 
-Dyrektor Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach
-zawiadamia o:
- 
-1.  Przyst¹pieniu do opracowania projektu Planu Urz¹dzenia Lasu dla Nadleœnictwa Œwierklaniec na lata 2023-2032 wraz z Programem Ochrony Przyrody i Prognoz¹ Oddzia³ywania tego planu na Œrodowisko. 
-2.  Zwo³aniu w dniu 21.07.2020 r., o godz. 900, w siedzibie Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach: ul. œw. Huberta 43/45, 40-543 Katowice – posiedzenia Komisji Za³o¿eñ Planu (KZP) w formie debaty publicznej.
-3.  Celem KZP jest sformu³owanie „Za³o¿eñ do planu urz¹dzenia lasu” oraz zakresu projektowanych uzgodnieñ do prognozy oddzia³ywania tego planu na œrodowisko”. 
-4.  Z uwagi na panuj¹c¹ w kraju pandemiê wirusa Covid-19 zapewnia siê mo¿liwoœæ udzia³u spo³eczeñstwa w obradach KZP wy³¹cznie w trybie wideokonferencji.
-Zaprasza siê przedstawicieli urzêdów, samorz¹dów, przedsiêbiorców leœnych oraz organizacji zainteresowanych gospodarka leœn¹ i ochron¹ przyrody w lasach nadleœnictwa, itp. do uczestniczenia w posiedzeniu KZP wy³¹cznie za poœrednictwem œrodków komunikacji elektronicznej (wideokonferencji).
- 
-Ze wzglêdów organizacyjnych prosimy zainteresowanych o potwierdzenie uczestnictwa poczt¹ elektroniczn¹ na adres swierklaniec@katowice.lasy.gov.pl nie póŸniej ni¿ na 3 dni przed planowanym terminem KZP. W zg³oszeniu nale¿y podaæ imiê i nazwisko osoby uczestnicz¹cej, nazwê instytucji/organizacji, któr¹ siê reprezentuje oraz adres mailowy, na który zostanie wys³any link z adresem wideokonferencji w dniu posiedzenia KZP.
- 
-Dyrektor RDLP w Katowicach
-Józef Kubica  
+Â 
+Â 
+OGÅOSZENIE
+o wyÅ‚oÅ¼eniu do publicznej wiadomoÅ›ci:
+â€ZaÅ‚oÅ¼eÅ„ do opracowania projektu Planu UrzÄ…dzenia Lasuâ€
+Â 
+Â 
+Dyrektor Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach zawiadamia, iÅ¼Â wÂ dniach od 15 paÅºdziernika 2020 roku do 4 listopada 2020 roku zostanie wyÅ‚oÅ¼ony doÂ publicznej wiadomoÅ›ci protokÃ³Å‚ Komisji ZaÅ‚oÅ¼eÅ„ Planu do projektu Planu UrzÄ…dzenia Lasu NadleÅ›nictwa na lata 2023-2032 opracowywanego wg stanu na 01.01.2023Â r. dla NadleÅ›nictwa Åšwierklaniec
 
- 
+Â 
+WyÅ‚oÅ¼enie dokumentacji do konsultacji spoÅ‚ecznych ma na celu zapewnienie udziaÅ‚u lokalnej spoÅ‚ecznoÅ›ci w planach zÂ zakresu ochrony Å›rodowiska, zgodnie z ustawÄ… zÂ dnia 3Â paÅºdziernika 2008 roku oÂ udostÄ™pnianiu informacji o Å›rodowisku i jego ochronie, udziale spoÅ‚eczeÅ„stwa w ochronie Å›rodowiska oraz o ocenach oddziaÅ‚ywania na Å›rodowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471, 1378 z pÃ³Åºn. zm.) oraz treÅ›ciÄ… Instrukcji UrzÄ…dzania Lasu wprowadzonej ZarzÄ…dzeniem Nr 55 Dyrektora Generalnego LasÃ³w PaÅ„stwowych z dnia 21 listopada 2011Â r. w sprawie Instrukcji UrzÄ…dzania Lasu.
+Â 
+W czasie trwania wyÅ‚oÅ¼enia zainteresowane osoby, podmioty majÄ… moÅ¼liwoÅ›Ä‡ skÅ‚adania wÂ formie pisemnej uwag i wnioskÃ³w do opracowania. 
+WystÄ…pienia w powyÅ¼szej sprawie prosimy przesyÅ‚aÄ‡ w terminie doÂ 4 listopada 2020 roku naÂ adres: 
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych w Katowicach, 
+ul. Å›w. Huberta 43/45,
+40-543 Katowice.
+Uwagi i wnioski zostanÄ… rozpatrzone przez Dyrektora Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach.
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Dokumenty w formie analogowej sÄ… do wglÄ…du w siedzibie NadleÅ›nictwa oraz wÂ siedzibie RDLP Katowice.
+Dokumenty opisowe (protokÃ³Å‚ z KZP) w formie elektronicznej (.pdf) sÄ… zamieszczone na stronie internetowej RDLP wÂ Katowicach w zakÅ‚adce â€UrzÄ…dzanie lasuâ€.
+link: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/plan_urzadzenia_lasu
+Â 
+Â 
+Â 
+Dyrektor Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  JÃ³zef KubicaÂ Â Â Â Â Â Â Â Â Â Â  
 
 
- 
-Nadleœnictwo Œwierklaniec informuje, ¿e z dniem 01.07.2020 zosta³ wprowadzony nowy cennik sprzeda¿y detalicznej drewna Zarz¹dzeniem nr 18/2020 z dnia 01.07.2020.
+Â 
 
-poni¿ej scan Zarz¹dzenia wraz z cennikiem
- 
 
- 
-W zwi¹zku z decyzjami organów pañstwa i zaleceniami s³u¿b sanitarnych  odnoœnie epidemii koronawirusa, Nadleœnictwo Œwierklaniec zawiadamia,  ¿e odwo³uje wszystkie zajêcia edukacyjne i spotkania.
-Powy¿sze obwi¹zuje do odwo³ania
- 
- 
+Â 
+NadleÅ›nictwo Åšwierklaniec informuje, Å¼e z dniem 01.07.2020 zostaÅ‚ wprowadzony nowy cennik sprzedaÅ¼y detalicznej drewna ZarzÄ…dzeniem nr 18/2020 z dnia 01.07.2020.
 
-Szanowni Pañstwo
- 
-z uwagi na stan epidemii oraz w trosce o zdrowie i bezpieczeñstwo interesantów i pracowników, od 16 marca kontaka z jednostkami Lasów Pañstwowych jest mo¿liwy:
-1. drog¹ mailow¹
+poniÅ¼ej scan ZarzÄ…dzenia wraz z cennikiem
+Â 
+
+Â 
+Szanowni PaÅ„stwo
+z uwagi na stan epidemii oraz w trosce o zdrowie i bezpieczeÅ„stwo interesantÃ³w i pracownikÃ³w, od 16 marca kontaka z jednostkami LasÃ³w PaÅ„stwowych jest moÅ¼liwy:
+ 
+1. drogÄ… mailowÄ…
+ 
 2. poprzez EPUAP
-3.drog¹ telefoniczn¹ 
+ 
+3.drogÄ… telefonicznÄ…Â 
+ 
 4. przez punkt podawczy
- 
-Przepraszamy za niedogodnoœci
+W szczegÃ³lnych przypadkach, pouzgodnieniu spotkania petenci zobowiÄ…zani sÄ… do zachowania zasad bezpieczeÅ„stwa tj:
+1) noszenia maseczek lub innego rodzaju zasÅ‚anianiu ust i nosa;
+
+2)noszenia rÄ™kawiczek jednorazowych lub stosowania Å›rodkÃ³w do dezynfekcji rÄ…k;
+3) pomiar temperatury ciaÅ‚a
+
+Â 
+Â 
+Przepraszamy za niedogodnoÅ›ci
 
 
 
@@ -197,7 +212,7 @@ Przepraszamy za niedogodnoœci
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -205,7 +220,7 @@ Pliki do pobrania - lista za³¹czników
 
 .PPT
 
-prezentacja wy³¹czenie gruntów z produkcji leœnej (1.0MB)
+prezentacja wyÅ‚Ä…czenie gruntÃ³w z produkcji leÅ›nej (1.0MB)
 
 
 
@@ -214,7 +229,7 @@ prezentacja wy³¹czenie gruntów z produkcji leœnej (1.0MB)
 
 .DOC
 
- umowa o wspó³pracê w zakresie edukacji leœnej wraz z za³¹cznikami (1.0MB)
+ umowa o wspÃ³Å‚pracÄ™ w zakresie edukacji leÅ›nej wraz z zaÅ‚Ä…cznikami (1.0MB)
 
 
 
@@ -223,7 +238,7 @@ prezentacja wy³¹czenie gruntów z produkcji leœnej (1.0MB)
 
 .PDF
 
-Zarz¹dzenie 18/2020 wprowadzaj¹ce cennik detalicznej sprzeda¿y drewna (2.0MB)
+ZarzÄ…dzenie 18/2020 wprowadzajÄ…ce cennik detalicznej sprzedaÅ¼y drewna (2.0MB)
 
 
 
@@ -232,7 +247,7 @@ Zarz¹dzenie 18/2020 wprowadzaj¹ce cennik detalicznej sprzeda¿y drewna (2.0MB)
 
 .PDF
 
-Zarz¹dzenie nr 12/2020 wprowadzaj¹ce regulamin sprzeda¿y detalicznej w Nadleœnictwie Œwierklaniec (2.0MB)
+ZarzÄ…dzenie nr 12/2020 wprowadzajÄ…ce regulamin sprzedaÅ¼y detalicznej w NadleÅ›nictwie Åšwierklaniec (2.0MB)
 
 
 
@@ -260,13 +275,13 @@ klauzula RODO (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. W³odzimierz B³aszczyk
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. WÅ‚odzimierz BÅ‚aszczyk
 
-Data modyfikacji: 2020/07/29 12:12:00
-Redaktor zatwierdzaj¹cy: Monika Szewczyk
-Wprowadzaj¹cy: Monika Szewczyk
-Deklaracja Dostêpnoœci
+Data modyfikacji: 2020/10/09 11:35:11
+Redaktor zatwierdzajÄ…cy: Monika Szewczyk
+WprowadzajÄ…cy: Monika Szewczyk
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

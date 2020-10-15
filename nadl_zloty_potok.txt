@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_zloty_potok
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Z³oty Potok
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ ZÅ‚oty Potok
 
 
 wyszukaj w BIP
@@ -108,48 +108,48 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Z³oty Potok
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ ZÅ‚oty Potok
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
+Komunikaty i ogÅ‚oszenia
 
 
- Z³oty Potok, dnia 25 sierpnia 2020r.
+
+
+
+
+Â ZÅ‚oty Potok, dnia 25 sierpnia 2020r.
 ZG.7400.14.2020.TW
-O G £ O S Z E N I E
- 
- 
-PGL LP Nadleœnictwo Z³oty Potok og³asza przetarg pisemny nieograniczony na dzier¿awê n/w gruntów rolnych znajduj¹cych siê w stanie posiadania Nadleœnictwa Z³oty Potok.
- 
+O G Å O S Z E N I E
+Â 
+Â 
+PGL LP NadleÅ›nictwo ZÅ‚oty Potok ogÅ‚asza przetarg pisemny nieograniczony na dzierÅ¼awÄ™ n/w gruntÃ³w rolnych znajdujÄ…cych siÄ™ w stanie posiadania NadleÅ›nictwa ZÅ‚oty Potok.
+Â 
  
 
 
 
 Lp.
-Adres leœny
+Adres leÅ›ny
 Gmina
-Obrêb ewidencyjny
-Nr dzia³ki
-Rodzaj u¿ytku
+ObrÄ™b ewidencyjny
+Nr dziaÅ‚ki
+Rodzaj uÅ¼ytku
 Klasa
 Pow. 
-Nr ksiêgi wieczystej
+Nr ksiÄ™gi wieczystej
 
 
 1
 
 02-38-1-10-165-c-00
 
-Janów
+JanÃ³w
 Apolonka
 394/1
 
@@ -166,39 +166,39 @@ CZ1C/00112190/8
 
 
  
-  
+Â Â 
 
 
-Sposób zagospodarowania nieruchomoœci
-– dz. nr 394/1 (Apolonka, Gmina Janów) – gospodarka rolna – ogródek dzia³kowy,
+SposÃ³b zagospodarowania nieruchomoÅ›ci
+â€“ dz. nr 394/1 (Apolonka, Gmina JanÃ³w) â€“ gospodarka rolna â€“ ogrÃ³dek dziaÅ‚kowy,
 
 
 
-Obci¹¿enia nieruchomoœci: brak
+ObciÄ…Å¼enia nieruchomoÅ›ci: brak
 
 
-Zobowi¹zania, których przedmiotem jest nieruchomoœæ: brak
+ZobowiÄ…zania, ktÃ³rych przedmiotem jest nieruchomoÅ›Ä‡: brak
 
 
-Informacjê o wpisie nieruchomoœci do rejestru zabytków: brak
+InformacjÄ™ o wpisie nieruchomoÅ›ci do rejestru zabytkÃ³w: brak
 
 
-Roczny czynsz wywo³awczy: ustalony w tabeli
+Roczny czynsz wywoÅ‚awczy: ustalony w tabeli
 
 
- 
+Â 
 
 
 
 Lp.
-Adres leœny
+Adres leÅ›ny
 Gmina
-Obrêb ewidencyjny
-Nr dzia³ki
-Rodzaj U¿ytku
+ObrÄ™b ewidencyjny
+Nr dziaÅ‚ki
+Rodzaj UÅ¼ytku
 Klasa
 Pow.
-CENA WYWO£AWCZA
+CENA WYWOÅAWCZA
 
             [CZYNSZ ROCZNY]
 
@@ -207,7 +207,7 @@ CENA WYWO£AWCZA
 
 02-38-1-10-165-c-00
 
-Janów
+JanÃ³w
 Apolonka
 394/1
 
@@ -223,125 +223,123 @@ V
 
 
 
- 
- 
+Â 
+Â 
 
 
-Termin i miejsce, w którym mo¿na siê zapoznaæ z   dodatkowymi informacjami dot. nieruchomoœci: Nadleœnictwo Z³oty Potok,   pok. Nr 17, w godz. od 8:00 do 15:00, tel: 34 329 11 74
+Termin i miejsce, w ktÃ³rym moÅ¼na siÄ™ zapoznaÄ‡ z   dodatkowymi informacjami dot. nieruchomoÅ›ci: NadleÅ›nictwo ZÅ‚oty Potok,   pok. Nr 17, w godz. od 8:00 do 15:00, tel: 34 329 11 74
 Termin i miejsce przetargu:
 
 
 
-Otwarcie ofert nast¹pi dnia 10 wrzeœnia 2020r. o godz. 9.00 w siedzibie Nadleœnictwa Z³oty Potok – sala nr 10.
-Otwarcie ofert bêdzie jawne. Oferenci mog¹ uczestniczyæ w otwarciu ofert.
+Otwarcie ofert nastÄ…pi dnia 10 wrzeÅ›nia 2020r. o godz. 9.00 w siedzibie NadleÅ›nictwa ZÅ‚oty Potok â€“ sala nr 10.
+Otwarcie ofert bÄ™dzie jawne. Oferenci mogÄ… uczestniczyÄ‡ w otwarciu ofert.
 
 
 
-Wysokoœæ wadium, jego formê, termin i miejsce wniesienia: wadium nie jest wymagane
-Termin i miejsce sk³adania pisemnych ofert:
+WysokoÅ›Ä‡ wadium, jego formÄ™, termin i miejsce wniesienia: wadium nie jest wymagane
+Termin i miejsce skÅ‚adania pisemnych ofert:
 
 
 
-Ofertê nale¿y dostarczyæ do sekretariatu Nadleœnictwa Z³oty Potok w terminie do dnia 10.09.2020r. do godz. 08:30
-Ofertê nale¿y z³o¿yæ w zamkniêtej kopercie. Na kopercie nale¿y napisaæ:
+OfertÄ™ naleÅ¼y dostarczyÄ‡ do sekretariatu NadleÅ›nictwa ZÅ‚oty Potok w terminie do dnia 10.09.2020r. do godz. 08:30
+OfertÄ™ naleÅ¼y zÅ‚oÅ¼yÄ‡ w zamkniÄ™tej kopercie. Na kopercie naleÅ¼y napisaÄ‡:
 
 
 
-Adres Zamawiaj¹cego.
-Opis o nastêpuj¹cej treœci: „Przetarg na dzier¿awê gruntu rolnego w Apolonce - dzia³aka 394/1”.
-Nazwê i adres sk³adaj¹cego ofertê.
+Adres ZamawiajÄ…cego.
+Opis o nastÄ™pujÄ…cej treÅ›ci: â€Przetarg na dzierÅ¼awÄ™ gruntu rolnego w Apolonce - dziaÅ‚aka 394/1â€.
+NazwÄ™ i adres skÅ‚adajÄ…cego ofertÄ™.
 
 
 
-Elementy oferty, które bêd¹ mia³y wp³yw na jej ocenê:
+Elementy oferty, ktÃ³re bÄ™dÄ… miaÅ‚y wpÅ‚yw na jej ocenÄ™:
 
-Przy wyborze oferty Zamawiaj¹cy bêdzie siê kierowa³ wy³¹cznie kryterium ceny.
+Przy wyborze oferty ZamawiajÄ…cy bÄ™dzie siÄ™ kierowaÅ‚ wyÅ‚Ä…cznie kryterium ceny.
 
-Sposób oceny elementów oferty, o których mowa w pkt. 10: waga – 100%
-Nadleœnictwo Z³oty Potok zastrzega, ¿e mo¿e zamkn¹æ przetarg bez wybrania którejkolwiek z ofert.
-Pisemna oferta powinna zawieraæ:
+SposÃ³b oceny elementÃ³w oferty, o ktÃ³rych mowa w pkt. 10: waga â€“ 100%
+NadleÅ›nictwo ZÅ‚oty Potok zastrzega, Å¼e moÅ¼e zamknÄ…Ä‡ przetarg bez wybrania ktÃ³rejkolwiek z ofert.
+Pisemna oferta powinna zawieraÄ‡:
 
 
 
-imiê, nazwisko i adres albo nazwê, siedzibê i adres oferenta;
-numery PESEL, NIP i REGON oferenta, o ile spoczywa na nim obowi¹zek ich uzyskania;
-datê sporz¹dzenia oferty;
+imiÄ™, nazwisko i adres albo nazwÄ™, siedzibÄ™ i adres oferenta;
+numery PESEL, NIP i REGON oferenta, o ile spoczywa na nim obowiÄ…zek ich uzyskania;
+datÄ™ sporzÄ…dzenia oferty;
 oferowany czynsz roczny;
-sposób proponowanego wykorzystania nieruchomoœci;
-oœwiadczenie, ¿e oferent zapozna³ siê z warunkami przetargu i przyjmuje te warunki bez zastrze¿eñ;
-oœwiadczenie o wyra¿eniu zgody na przetwarzanie danych osobowych na potrzeby przeprowadzenia przetargu;
+sposÃ³b proponowanego wykorzystania nieruchomoÅ›ci;
+oÅ›wiadczenie, Å¼e oferent zapoznaÅ‚ siÄ™ z warunkami przetargu i przyjmuje te warunki bez zastrzeÅ¼eÅ„;
+oÅ›wiadczenie o wyraÅ¼eniu zgody na przetwarzanie danych osobowych na potrzeby przeprowadzenia przetargu;
 
 
 
-Przekazanie nieruchomoœci zostanie poprzedzone sporz¹dzeniem protoko³u zdawczo-odbiorczego.
+Przekazanie nieruchomoÅ›ci zostanie poprzedzone sporzÄ…dzeniem protokoÅ‚u zdawczo-odbiorczego.
 
 
-            
+Â  Â  Â Â Â Â Â Â Â  
 
 
-PODPISA£
-ZASTÊPCA NADLEŒNICZEGO
+PODPISAÅ
+ZASTÄ˜PCA NADLEÅšNICZEGO
 
-NADLEŒNICTWA Z£OTY POTOK
-ROBERT GÊSIARZ
+NADLEÅšNICTWA ZÅOTY POTOK
+ROBERT GÄ˜SIARZ
 
 
 
- 
+Â 
 
-Z³oty Potok,  20 sierpnia 2020 r.
+ZÅ‚oty Potok,Â  20 sierpnia 2020 r.
 
 
 Zn. spr.: SA.234.1.2020.KM
-OG£OSZENIE
+OGÅOSZENIE
 o pisemnym przetargu nieograniczonym
- na sprzeda¿ samochodu SUBARU FORESTER SH
-bêd¹cego w³asnoœci¹ PGL LP Nadleœnictwa Z³oty Potok
-Z³oty Potok, ul. Koœciuszki 2, 42-253 Janów
+Â na sprzedaÅ¼ samochodu SUBARU FORESTER SH
+bÄ™dÄ…cego wÅ‚asnoÅ›ciÄ… PGL LP NadleÅ›nictwa ZÅ‚oty Potok
+ZÅ‚oty Potok, ul. KoÅ›ciuszki 2, 42-253 JanÃ³w
 
 
 
-Na podstawie Rozporz¹dzenia Rady Ministrów z dnia 5 paŸdziernika 1993 r. w sprawie zasad organizacji przetargu na sprzeda¿ œrodków trwa³ych przez przedsiêbiorstwa pañstwowe oraz warunków odst¹pienia od przetargu (Dz. U. 1993, Nr 97, poz. 443 z póŸn. zm.) Nadleœnictwo Z³oty Potok og³asza pisemny ofertowy przetarg nieograniczony na zbycie sk³adników mienia ruchomego.
+Na podstawie RozporzÄ…dzenia Rady MinistrÃ³w z dnia 5 paÅºdziernika 1993 r. w sprawie zasad organizacji przetargu na sprzedaÅ¼ Å›rodkÃ³w trwaÅ‚ych przez przedsiÄ™biorstwa paÅ„stwowe oraz warunkÃ³w odstÄ…pienia od przetargu (Dz. U. 1993, Nr 97, poz. 443 z pÃ³Åºn. zm.) NadleÅ›nictwo ZÅ‚oty Potok ogÅ‚asza pisemny ofertowy przetarg nieograniczony na zbycie skÅ‚adnikÃ³w mienia ruchomego.
 
 
-Przetarg odbêdzie siê w dniu 25 wrzeœnia 2020 r. o godz. 10:30 w sali narad, œwietlicy w budynku Nadleœnictwa Z³oty Potok  - pokój nr 10
+Przetarg odbÄ™dzie siÄ™ w dniu 25 wrzeÅ›nia 2020 r. o godz. 10:30 w sali narad, Å›wietlicy w budynku NadleÅ›nictwa ZÅ‚oty PotokÂ  - pokÃ³j nr 10
 Przetarg dotyczy samochodu osobowego SUBARU FORESTER SH (Diesel), nr rej. SCZ 12882
-    Pojemnoœæ: 1998 cm3 
+    PojemnoÅ›Ä‡: 1998 cm3 
     Moc silnika: 108 kW
     Rok produkcji: 2011
     Przebieg: ok. 177 700 km
     Kolor: srebrny 
     Rodzaj nadwozia: kombi, 5 drzwiowe, 5 osobowe
-Cena wywo³awcza 14 700,00 z³ brutto (s³ownie czternaœcie tysiêcy siedemset z³otych, groszy 00/100).
-Oferty z cen¹ brutto sporz¹dzone wg za³¹cznika nr 1 nale¿y przesy³aæ wy³¹cznie drog¹ pocztow¹ lub z³o¿yæ osobiœcie w zaklejonej kopercie opisanej „Oferta – sprzeda¿ samochodu Subaru Forester SH” na adres: PGL LP Nadleœnictwo Z³oty Potok, ul. Koœciuszki 2, Z³oty Potok, 42-253 Janów. Termin na wp³yw ofert up³ywa 25 wrzeœnia 2020 r. o godzinie 10:00.
-Samochód mo¿na ogl¹daæ od dnia og³oszenia przetargu, w dni robocze w godzinach 9:00 do 14:00 w miejscowoœci Z³oty Potok ul. Koœciuszki 2 42-253 Janów wy³¹cznie po uprzednim uzgodnieniu z P. Markiem Szostakiem  tel. 34 3291 11 97 /kom. 795 484 189. Nadleœnictwo ma prawo odmówiæ spotkania w przypadku niedostosowania siê do obowi¹zuj¹cych przepisów dot. ustanowienia ograniczeñ, nakazów i zakazów w zwi¹zku z wyst¹pieniem epidemii. Wszelkich dodatkowych informacji udzielamy telefonicznie pod wskazanym numerem.
-Przystêpuj¹cy do przetargu winni wp³aciæ wadium na konto BNP PARIBAS 70 2030 0045 1110 0000 0253 2970 – w kwocie 10% ceny wywo³awczej tj. 1 470,00 z³ (s³ownie jeden tysi¹c czterysta siedemdziesi¹t z³otych, groszy 00/100) z dopiskiem "Przetarg Subaru Forester". Wadium wniesione przelewem bêdzie skuteczne, je¿eli znajdzie siê na rachunku bankowym Nadleœnictwa Z³oty Potok przed up³ywem sk³adania ofert.
-Wadium przepada na rzecz sprzedawcy, je¿eli oferent którego oferta zostanie przyjêta, uchyli siê od zawarcia umowy.
-Zaoferowana cena musi byæ równa lub wy¿sza od ceny wywo³awczej podanej w niniejszym og³oszeniu.
-Wadium z³o¿one przez oferentów których oferty nie zostan¹ przyjête, zostanie zwrócone bezpoœrednio po dokonaniu wyboru oferty, a oferentowi którego oferta zosta³a przyjêta, zostanie zarachowana na poczet ceny. Je¿eli wadium z³o¿one przez nabywcê by³o w innej formie ni¿ gotówce, ulega zwrotowi po zap³aceniu ceny nabycia.
-Jeden oferent ma prawo z³o¿enia jednej oferty.
-Termin zwi¹zania ofert¹ wynosi 10 dni od daty up³ywu terminu sk³adania ofert.
-Nadleœnictwo Z³oty Potok zastrzega sobie prawo do swobodnego wyboru oferty, je¿eli uczestnicy przetargu zaoferuj¹ tê sam¹ cenê nabycia za w/w pojazd.
-Nadleœnictwo Z³oty Potok nie ponosi odpowiedzialnoœci za wady ukryte pojazdu przeznaczonego do sprzeda¿y.
-Nabywca zobowi¹zany jest zap³aciæ cenê nabycia w terminie do 7 dni.
-Odbiór samochodu nast¹pi po dokonaniu zap³aty.
-Nadleœnictwo Z³oty Potok zastrzega sobie prawo do uniewa¿nienia przetargu bez podania przyczyny.
+Cena wywoÅ‚awcza 14 700,00 zÅ‚ brutto (sÅ‚ownie czternaÅ›cie tysiÄ™cy siedemset zÅ‚otych, groszy 00/100).
+Oferty z cenÄ… brutto sporzÄ…dzone wg zaÅ‚Ä…cznika nr 1 naleÅ¼y przesyÅ‚aÄ‡ wyÅ‚Ä…cznie drogÄ… pocztowÄ… lub zÅ‚oÅ¼yÄ‡ osobiÅ›cie w zaklejonej kopercie opisanej â€Oferta â€“ sprzedaÅ¼ samochodu Subaru Forester SHâ€ na adres: PGL LP NadleÅ›nictwo ZÅ‚oty Potok, ul. KoÅ›ciuszki 2, ZÅ‚oty Potok, 42-253 JanÃ³w. Termin na wpÅ‚yw ofert upÅ‚ywa 25 wrzeÅ›nia 2020 r. o godzinie 10:00.
+SamochÃ³d moÅ¼na oglÄ…daÄ‡ od dnia ogÅ‚oszenia przetargu, w dni robocze w godzinach 9:00 do 14:00 w miejscowoÅ›ci ZÅ‚oty Potok ul. KoÅ›ciuszki 2 42-253 JanÃ³w wyÅ‚Ä…cznie po uprzednim uzgodnieniu z P. Markiem SzostakiemÂ  tel. 34 3291 11 97 /kom. 795 484 189. NadleÅ›nictwo ma prawo odmÃ³wiÄ‡ spotkania w przypadku niedostosowania siÄ™ do obowiÄ…zujÄ…cych przepisÃ³w dot. ustanowienia ograniczeÅ„, nakazÃ³w i zakazÃ³w w zwiÄ…zku z wystÄ…pieniem epidemii. Wszelkich dodatkowych informacji udzielamy telefonicznie pod wskazanym numerem.
+PrzystÄ™pujÄ…cy do przetargu winni wpÅ‚aciÄ‡ wadium na konto BNP PARIBAS 70 2030 0045 1110 0000 0253 2970 â€“ w kwocie 10% ceny wywoÅ‚awczej tj. 1 470,00 zÅ‚ (sÅ‚ownie jeden tysiÄ…c czterysta siedemdziesiÄ…t zÅ‚otych, groszy 00/100) z dopiskiem "Przetarg Subaru Forester". Wadium wniesione przelewem bÄ™dzie skuteczne, jeÅ¼eli znajdzie siÄ™ na rachunku bankowym NadleÅ›nictwa ZÅ‚oty Potok przed upÅ‚ywem skÅ‚adania ofert.
+Wadium przepada na rzecz sprzedawcy, jeÅ¼eli oferent ktÃ³rego oferta zostanie przyjÄ™ta, uchyli siÄ™ od zawarcia umowy.
+Zaoferowana cena musi byÄ‡ rÃ³wna lub wyÅ¼sza od ceny wywoÅ‚awczej podanej w niniejszym ogÅ‚oszeniu.
+Wadium zÅ‚oÅ¼one przez oferentÃ³w ktÃ³rych oferty nie zostanÄ… przyjÄ™te, zostanie zwrÃ³cone bezpoÅ›rednio po dokonaniu wyboru oferty, a oferentowi ktÃ³rego oferta zostaÅ‚a przyjÄ™ta, zostanie zarachowana na poczet ceny. JeÅ¼eli wadium zÅ‚oÅ¼one przez nabywcÄ™ byÅ‚o w innej formie niÅ¼ gotÃ³wce, ulega zwrotowi po zapÅ‚aceniu ceny nabycia.
+Jeden oferent ma prawo zÅ‚oÅ¼enia jednej oferty.
+Termin zwiÄ…zania ofertÄ… wynosi 10 dni od daty upÅ‚ywu terminu skÅ‚adania ofert.
+NadleÅ›nictwo ZÅ‚oty Potok zastrzega sobie prawo do swobodnego wyboru oferty, jeÅ¼eli uczestnicy przetargu zaoferujÄ… tÄ™ samÄ… cenÄ™ nabycia za w/w pojazd.
+NadleÅ›nictwo ZÅ‚oty Potok nie ponosi odpowiedzialnoÅ›ci za wady ukryte pojazdu przeznaczonego do sprzedaÅ¼y.
+Nabywca zobowiÄ…zany jest zapÅ‚aciÄ‡ cenÄ™ nabycia w terminie do 7 dni.
+OdbiÃ³r samochodu nastÄ…pi po dokonaniu zapÅ‚aty.
+NadleÅ›nictwo ZÅ‚oty Potok zastrzega sobie prawo do uniewaÅ¼nienia przetargu bez podania przyczyny.
 
- 
-Za³¹czniki
+Â 
+ZaÅ‚Ä…czniki
 
 
 Formularz ofertowy
 
 
 
-PODPISA£
-ZASTÊPCA NADLEŒNICZEGO
+PODPISAÅ
+ZASTÄ˜PCA NADLEÅšNICZEGO
 
-NADLEŒNICTWA Z£OTY POTOK
-ROBERT GÊSIARZ
-
-
+NADLEÅšNICTWA ZÅOTY POTOK
+ROBERT GÄ˜SIARZ
 
 
 
@@ -352,7 +350,9 @@ ROBERT GÊSIARZ
 
 
 
-Pliki do pobrania - lista za³¹czników
+
+
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -360,7 +360,7 @@ Pliki do pobrania - lista za³¹czników
 
 .PDF
 
-Za³¹cznik nr 1 do og³oszenia SA.234.1.2020.KM z dnia 20.08.2020 (1.0MB)
+ZaÅ‚Ä…cznik nr 1 do ogÅ‚oszenia SA.234.1.2020.KM z dnia 20.08.2020 (1.0MB)
 
 
 
@@ -379,13 +379,13 @@ Za³¹cznik nr 1 do og³oszenia SA.234.1.2020.KM z dnia 20.08.2020 (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Andrzej Krzypkowski - Nadleœniczy
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Andrzej Krzypkowski - NadleÅ›niczy
 
 Data modyfikacji: 2020/08/25 10:30:17
-Redaktor zatwierdzaj¹cy: Adam Deksymer
-Wprowadzaj¹cy: Adam Deksymer
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Adam Deksymer
+WprowadzajÄ…cy: Adam Deksymer
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

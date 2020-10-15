@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_chrzanow
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Chrzanów
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ ChrzanÃ³w
 
 
 wyszukaj w BIP
@@ -108,33 +104,52 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Chrzanów
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ ChrzanÃ³w
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
-Komunikaty i og³oszenia
 
 
+Komunikaty i ogÅ‚oszenia
 
 
 
 
 
-Chrzanów,01.06.2020 r.
- 
- 
+
+
+Â 
+
+
+ChrzanÃ³w, 09.10.2020 r.
+Â 
+Zn.spr.: ZS.2281.4.2019
+OGÅOSZENIE
+NadleÅ›nictwo ChrzanÃ³w zamierza zbyÄ‡ zbÄ™dnÄ… nieruchomoÅ›Ä‡ gruntowÄ…, wÂ trybie art. 38 ustawy o lasach, stanowiÄ…cÄ… dziaÅ‚kÄ™ ewidencyjnÄ… nr 1397/1 obrÄ™b ZagÃ³rze, pow. 0,3160 ha, uÅ¼ytek: RVI, KW nr KR1C/00073204/4.
+Â 
+SprzedaÅ¼ nastÄ…pi w przetargu nieograniczonym â€“ na podstawie RozporzÄ…dzenia Ministra Åšrodowiska z dnia 20 kwietnia 2007r. w sprawie szczegÃ³Å‚owych warunkÃ³w i trybu przeprowadzania przetargu publicznego oraz sposobu i warunkÃ³w przeprowadzania negocjacji cenowej w przypadku sprzedaÅ¼y lasÃ³w, gruntÃ³w i innych nieruchomoÅ›ci znajdujÄ…cych siÄ™ w zarzÄ…dzie LasÃ³w PaÅ„stwowych /Dz.U.nr 78, poz.532/.
+Â 
+Â 
+PodpisaÅ‚:
+NadleÅ›niczy NadleÅ›nictwa ChrzanÃ³w
+mgr inÅ¼. Andrzej Berkowski
+
+Â 
+
+Â 
+ChrzanÃ³w,01.06.2020 r.
+Â 
+Â 
 Zn.spr.: ZS.2181.3.2019
- 
- 
-OG£OSZENIE
- 
-       Nadleœnictwo Chrzanów informuje, ¿e w dniu 22 maja 2020 r. w siedzibie Nadleœnictwa Chrzanów, ul. Oœwiêcimska 31, 32-500 Chrzanów, odby³ siê przetarg ustny nieograniczony na sprzeda¿ zbêdnej nieruchomoœci gruntowej po³o¿onej w Jaworznie:
- 
- 
+Â 
+Â 
+OGÅOSZENIE
+Â 
+Â Â Â Â Â Â  NadleÅ›nictwo ChrzanÃ³w informuje, Å¼e w dniu 22 maja 2020 r. w siedzibie NadleÅ›nictwa ChrzanÃ³w, ul. OÅ›wiÄ™cimska 31, 32-500 ChrzanÃ³w, odbyÅ‚ siÄ™ przetarg ustny nieograniczony na sprzedaÅ¼ zbÄ™dnej nieruchomoÅ›ci gruntowej poÅ‚oÅ¼onej wÂ Jaworznie:
+Â 
+Â 
 
 
 
@@ -142,46 +157,46 @@ OG£OSZENIE
 Godz. przetargu
 
 
-Nr dzia³ki
+Nr dziaÅ‚ki
 
 
-Obrêb
+ObrÄ™b
 
 
 KW
 
 
-u¿ytek
+uÅ¼ytek
 
 
 Powierzchnia
 (ha)
 
 
-Cena wywo³awcza
-(z³)
+Cena wywoÅ‚awcza
+(zÅ‚)
 
 
 Cena nabycia
-(z³)
+(zÅ‚)
 
 
 Nabywca
 
 
-Liczba uczestników   przetargu
+Liczba uczestnikÃ³w   przetargu
 
 
-Liczba osób   niedopuszczonych do przetargu
+Liczba osÃ³b   niedopuszczonych do przetargu
 
 
 
 
- 
+Â 
 10.00
 
 
- 
+Â 
 7/28
 
 
@@ -191,94 +206,94 @@ Liczba osób   niedopuszczonych do przetargu
 KA1J/00029112/8
 
 
- 
+Â 
 Bi
 
 
- 
+Â 
 0,5141
 
 
- 
-199784z³
+Â 
+199784zÅ‚
 
 
- 
-201784z³
+Â 
+201784zÅ‚
 
 
- 
-Parafia   Rzymsko-Katolicka Matki Bo¿ej Anielskiej, ul. Emilii Plater 5a, 43-603   Jaworzno  
+Â 
+Parafia   Rzymsko-Katolicka Matki BoÅ¼ej Anielskiej, ul. Emilii Plater 5a, 43-603   JaworznoÂ  
 
 
- 
+Â 
 1
 
 
- 
+Â 
 brak
 
 
 
 
- 
-Podpisa³:
-Nadleœniczy Nadleœnictwa Chrzanów
-mgr in¿. Andrzej Berkowski
+Â 
+PodpisaÅ‚:
+NadleÅ›niczy NadleÅ›nictwa ChrzanÃ³w
+mgr inÅ¼. Andrzej Berkowski
 
- 
-Chrzanów, dnia 18.10.2019
-OG£OSZENIE
-Informacja o o wykonaniu przez Lasy Pañstowe prawa pierwokupu:
+Â 
+ChrzanÃ³w, dnia 18.10.2019
+OGÅOSZENIE
+Informacja o o wykonaniu przez Lasy PaÅ„stowe prawa pierwokupu:
 
 informacja o wykonaniu prawa pierwokupu
 
 
- 
-Chrzanów, dnia 15.05.2019
-OG£OSZENIE
+Â 
+ChrzanÃ³w, dnia 15.05.2019
+OGÅOSZENIE
 Informacja o pozwoleniu wodnoprawnym:
 
 decyzja dyrektora ZZ w Krakowie
 
 
- 
-Chrzanów, dnia 22.01.2019
-OG£OSZENIE
-Informacja o o wykonaniu przez Lasy Pañstowe prawa pierwokupu:
+Â 
+ChrzanÃ³w, dnia 22.01.2019
+OGÅOSZENIE
+Informacja o o wykonaniu przez Lasy PaÅ„stowe prawa pierwokupu:
 
 informacja o wykonaniu prawa pierwokupu
 
- 
- 
+Â 
+Â 
 
- 
- 
-Chrzanów, dnia 10.10.2017 r.
+Â 
+Â 
+ChrzanÃ³w, dnia 10.10.2017 r.
 Zn. spr. ZS.2261.1.2015
 L.dz. 6978. 2017
- 
-OG£OSZENIE
- 
-Zgodnie z ramowymi wytycznymi w sprawie zamian lasów, gruntów i innych nieruchomoœci znajduj¹cych siê w zarz¹dzie Lasów Pañstwowych dokonywanych na podstawie art.38e ustawy o lasach (Dz.U.2014.1153), Nadleœnictwo Chrzanów podaje do publicznej wiadomoœci zamiar dokonania zamiany nieruchomoœci, na któr¹ 19.07.2017 r. uzyska³o wstêpn¹ zgodê Dyrektora Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach.
- 
-Nieruchomoœci zbywane przez Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Chrzanów
- 
+Â 
+OGÅOSZENIE
+Â 
+Zgodnie z ramowymi wytycznymi w sprawie zamian lasÃ³w, gruntÃ³w i innych nieruchomoÅ›ci znajdujÄ…cych siÄ™ w zarzÄ…dzie LasÃ³w PaÅ„stwowych dokonywanych na podstawie art.38e ustawy o lasach (Dz.U.2014.1153), NadleÅ›nictwo ChrzanÃ³w podaje do publicznej wiadomoÅ›ci zamiar dokonania zamiany nieruchomoÅ›ci, na ktÃ³rÄ… 19.07.2017 r. uzyskaÅ‚o wstÄ™pnÄ… zgodÄ™ Dyrektora Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach.
+Â 
+NieruchomoÅ›ci zbywane przez PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo ChrzanÃ³w
+Â 
 
 
 
 
 
-Adres leœny
+Adres leÅ›ny
 
 
 Adres administracyjny
 
 
-Numer dzia³ki
+Numer dziaÅ‚ki
 
 
-Rodzaj u¿ytku gruntowego
+Rodzaj uÅ¼ytku gruntowego
 
 
 Powierzchnia
@@ -747,23 +762,23 @@ Ls
 
 
 
- 
-Nieruchomoœci nabywane przez Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Chrzanów
- 
+Â 
+NieruchomoÅ›ci nabywane przez PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo ChrzanÃ³w
+Â 
 
 
 
 
-W³aœciciel
+WÅ‚aÅ›ciciel
 
 
 Adres administracyjny
 
 
-Numer dzia³ki
+Numer dziaÅ‚ki
 
 
-Rodzaj u¿ytku gruntowego
+Rodzaj uÅ¼ytku gruntowego
 
 
 Powierzchnia
@@ -817,191 +832,191 @@ Ls
 
 
 
- 
-Nadleœniczy Nadleœnictwa Chrzanów
+Â 
+NadleÅ›niczy NadleÅ›nictwa ChrzanÃ³w
 Andrzej Berkowski
-                                                                                                          
- 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â 
 
-                                                                                                                                                                                                                                                                                                                                   
-                                            
-Chrzanów, 28.06.2017 r.
- 
-OG£OSZENIE
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+ChrzanÃ³w, 28.06.2017 r.
+Â 
+OGÅOSZENIE
  
-o wy³o¿eniu do publicznej wiadomoœci:
+o wyÅ‚oÅ¼eniu do publicznej wiadomoÅ›ci:
  
-„Za³o¿eñ do opracowania projektu Planu Urz¹dzenia Lasu”
+â€ZaÅ‚oÅ¼eÅ„ do opracowania projektu Planu UrzÄ…dzenia Lasuâ€
  
-  
+Â  
 
  
-Dyrektor Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach zawiadamia, i¿ w dniach od 3 lipca 2017 roku do 23 lipca 2017 roku w siedzibie Nadleœnictwa Chrzanów oraz RDLP Katowice zostanie wy³o¿ony do publicznej wiadomoœci protokó³ Komisji Za³o¿eñ Planu do projektu Planu Urz¹dzenia Lasu Nadleœnictwa na lata 2020-2029 opracowywanego wg stanu na 01.01.2020 r.
+Dyrektor Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach zawiadamia, iÅ¼ wÂ dniach od 3 lipca 2017 roku do 23 lipca 2017 roku w siedzibie NadleÅ›nictwa ChrzanÃ³w oraz RDLP Katowice zostanie wyÅ‚oÅ¼ony doÂ publicznej wiadomoÅ›ci protokÃ³Å‚ Komisji ZaÅ‚oÅ¼eÅ„ Planu do projektu Planu UrzÄ…dzenia Lasu NadleÅ›nictwa na lata 2020-2029 opracowywanego wg stanu na 01.01.2020Â r.
  
- Wy³o¿enie dokumentacji do konsultacji spo³ecznych ma na celu zapewnienie udzia³u lokalnej spo³ecznoœci w planach z zakresu ochrony œrodowiska, zgodnie z ustaw¹ z dnia 3 paŸdziernika 2008 roku o udostêpnianiu informacji o œrodowisku i jego ochronie, udziale spo³eczeñstwa w ochronie œrodowiska oraz o ocenach oddzia³ywania na œrodowisko (Dz. U. z 2016 r., poz. 353 z póŸn. zm.) oraz treœci¹ Instrukcji Urz¹dzania Lasu wprowadzonej Zarz¹dzeniem Nr 55 Dyrektora Generalnego Lasów Pañstwowych z dnia 21 listopada 2011 r. w sprawie Instrukcji Urz¹dzania Lasu.
+Â WyÅ‚oÅ¼enie dokumentacji do konsultacji spoÅ‚ecznych ma na celu zapewnienie udziaÅ‚u lokalnej spoÅ‚ecznoÅ›ci w planach zÂ zakresu ochrony Å›rodowiska, zgodnie z ustawÄ… zÂ dnia 3Â paÅºdziernika 2008 roku oÂ udostÄ™pnianiu informacji o Å›rodowisku i jego ochronie, udziale spoÅ‚eczeÅ„stwa w ochronie Å›rodowiska oraz o ocenach oddziaÅ‚ywania na Å›rodowisko (Dz. U. z 2016 r., poz. 353 z pÃ³Åºn. zm.) oraz treÅ›ciÄ… Instrukcji UrzÄ…dzania Lasu wprowadzonej ZarzÄ…dzeniem Nr 55 Dyrektora Generalnego LasÃ³w PaÅ„stwowych z dnia 21 listopada 2011Â r. w sprawie Instrukcji UrzÄ…dzania Lasu.
  
- 
-W czasie trwania wy³o¿enia zainteresowane osoby, podmioty maj¹ mo¿liwoœæ sk³adania w formie pisemnej uwag i wniosków do opracowania. 
+Â 
+W czasie trwania wyÅ‚oÅ¼enia zainteresowane osoby, podmioty majÄ… moÅ¼liwoÅ›Ä‡ skÅ‚adania wÂ formie pisemnej uwag i wnioskÃ³w do opracowania. 
  
-Wyst¹pienia w powy¿szej sprawie prosimy przesy³aæ w terminie do 23 lipca 2017 r. na adres: 
+WystÄ…pienia w powyÅ¼szej sprawie prosimy przesyÅ‚aÄ‡ w terminie doÂ 23Â lipcaÂ 2017Â r. naÂ adres: 
  
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych w Katowicach, 
  
-ul. œw. Huberta 43/45,
+ul. Å›w. Huberta 43/45,
  
 40-543 Katowice.
  
-Uwagi i wnioski zostan¹ rozpatrzone przez Dyrektora Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach w terminie 14 dni, licz¹c od daty zakoñczenia wy³o¿enia.
+Uwagi i wnioski zostanÄ… rozpatrzone przez Dyrektora Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach w terminie 14 dni, liczÄ…c od daty zakoÅ„czenia wyÅ‚oÅ¼enia.
  
-                                               
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
  
-Dokumenty w formie analogowej s¹ do wgl¹du w siedzibie Nadleœnictwa oraz w siedzibie RDLP Katowice.
+Dokumenty w formie analogowej sÄ… do wglÄ…du w siedzibie NadleÅ›nictwa oraz wÂ siedzibie RDLP Katowice.
  
-Dokumenty opisowe (protokó³ z KZP) w formie elektronicznej (.pdf) s¹ zamieszczone na stronie internetowej RDLP w Katowicach w zak³adce „Urz¹dzanie lasu”.
+Dokumenty opisowe (protokÃ³Å‚ z KZP) w formie elektronicznej (.pdf) sÄ… zamieszczone na stronie internetowej RDLP wÂ Katowicach w zakÅ‚adce â€UrzÄ…dzanie lasuâ€.
  
 link: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/plan_urzadzenia_lasu
  
- 
+Â 
  
-  
+Â  
 
  
-                                                                                                            Dyrektor RDLP w Katowicach 
-      mgr in¿. Wies³aw Kucharski          
- 
- 
- 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Dyrektor RDLP w Katowicach 
+Â Â Â Â   mgr inÅ¼. WiesÅ‚aw KucharskiÂ Â Â Â Â Â Â Â Â  
+Â 
+Â 
+Â 
 
- 
-Chrzanów, 16.12.2016 r.
- 
- 
+Â 
+ChrzanÃ³w, 16.12.2016 r.
+Â 
+Â 
 Zn.spr.: NN1.2710.03.2016
 Zawiadomienie o wyborze najkorzystniejszej oferty
-w postêpowaniu przetargowym:
-"Wykonywanie us³ug leœnych w Nadleœnictwie Chrzanów w roku 2017" 
+w postÄ™powaniu przetargowym:
+"Wykonywanie usÅ‚ug leÅ›nych w NadleÅ›nictwie ChrzanÃ³w w roku 2017"Â 
 Do pobrania: plik
- 
-Podpisa³:
-Nadleœniczy Nadleœnictwa Chrzanów
-mgr in¿. Andrzej Berkowski
- 
+Â 
+PodpisaÅ‚:
+NadleÅ›niczy NadleÅ›nictwa ChrzanÃ³w
+mgr inÅ¼. Andrzej Berkowski
+Â 
 
- 
- 
-Chrzanów, dnia 23.11.2016 r. 
+Â 
+Â 
+ChrzanÃ³w, dnia 23.11.2016 r. 
 NN1.270.03.2016
 L.dz. 8956.2016
-Wykonawcy ubiegaj¹cy siê o udzielenie zamówienia 
- Dzia³aj¹c na podstawie art. 38 ust. 4 ustawy z dnia 29 stycznia 2004 r. Prawo zamówieñ publicznych (tekst. Jedn.: Dz. U. z 2015 r. poz. 2164 z póŸn. zm.), Zamawiaj¹cy informuje, i¿ dokonuje zmiany specyfikacji istotnych warunków zamówienia („SIWZ”) dla przetargu nieograniczonego pn. „Wykonywanie us³ug z zakresu gospodarki leœnej na terenie Nadleœnictwa Chrzanów w roku 2017.” w nastêpuj¹cym zakresie:
- 
+Wykonawcy ubiegajÄ…cy siÄ™ o udzielenie zamÃ³wienia 
+Â DziaÅ‚ajÄ…c na podstawie art. 38 ust. 4 ustawy z dnia 29 stycznia 2004 r. Prawo zamÃ³wieÅ„ publicznych (tekst. Jedn.: Dz. U. z 2015 r. poz. 2164 z pÃ³Åºn. zm.), ZamawiajÄ…cy informuje, iÅ¼ dokonuje zmiany specyfikacji istotnych warunkÃ³w zamÃ³wienia (â€SIWZâ€) dla przetargu nieograniczonego pn. â€Wykonywanie usÅ‚ug z zakresu gospodarki leÅ›nej na terenie NadleÅ›nictwa ChrzanÃ³w w roku 2017.â€ w nastÄ™pujÄ…cym zakresie:
+Â 
 
-1)      pkt 7.1. lit. a tiret pierwsze SIWZ otrzymuje brzmienie: 
-„-       na potwierdzenie braku podstaw do wykluczenia wskazanych w art. 24 ust. 1 pkt 13 – 14 PZP – informacje wymagane w Czêœci III lit. A JEDZ oraz  w Czêœci III lit. C wiersz pierwszy JEDZ  (w zakresie przestêpstw o których mowa w art. 181-188 oraz 218-221 Kodeksu karnego a tak¿e przestêpstwa, o którym mowa w art. 9 lub 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywaj¹cym wbrew przepisom na terytorium Rzeczypospolitej Polskiej) oraz w Czêœci III lit. D JEDZ (w zakresie przestêpstw, o których mowa w art. 270-277, 278-298 oraz 300-307 Kodeksu karnego);”
-2)      pkt 7.1. lit. a tiret siedemnaœcie SIWZ otrzymuje brzmienie: 
-„-       na potwierdzenie spe³nienia warunku udzia³u w postêpowaniu dot. technicznej lub zawodowej w zakresie doœwiadczenia – informacje nt. us³ug wykonanych lub wykonywanych (przy czym w tym przypadku bêdzie liczona wartoœæ zrealizowanej czêœci przedmiotu umowy) w okresie ostatnich 3 lat przed up³ywem terminu sk³adania ofert (a je¿eli okres prowadzenia dzia³alnoœci jest krótszy – w tym okresie) polegaj¹cych na wykonywaniu prac z zakresu zagospodarowania lasu, zrywki i pozyskania drewna (pakiety I-III) lub obs³ugi punktu alarmowo-dyspozycyjnego nadleœnictwa oraz obs³ugi dostrzegalni przeciwpo¿arowych (pakiet IV), na kwotê nie mniejsz¹ ni¿ okreœlona w pkt. 6.2 niniejszej SIWZ, które podaæ nale¿y w Czêœci IV lit. C wiersz drugi (pkt 1b) JEDZ;  
+1)Â Â Â Â Â  pkt 7.1. lit. a tiret pierwsze SIWZ otrzymuje brzmienie: 
+â€-Â Â Â Â Â Â  na potwierdzenie braku podstaw do wykluczenia wskazanych w art. 24 ust. 1 pkt 13 â€“ 14 PZP â€“ informacje wymagane w CzÄ™Å›ci III lit. A JEDZ orazÂ  w CzÄ™Å›ci III lit. C wiersz pierwszy JEDZ Â (w zakresie przestÄ™pstw o ktÃ³rych mowa w art. 181-188 oraz 218-221 Kodeksu karnego a takÅ¼e przestÄ™pstwa, o ktÃ³rym mowa w art. 9 lub 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywajÄ…cym wbrew przepisom na terytorium Rzeczypospolitej Polskiej) oraz w CzÄ™Å›ci III lit. D JEDZ (w zakresie przestÄ™pstw, o ktÃ³rych mowa w art. 270-277, 278-298 oraz 300-307 Kodeksu karnego);â€
+2)Â Â Â Â Â  pkt 7.1. lit. a tiret siedemnaÅ›cie SIWZ otrzymuje brzmienie: 
+â€-Â Â Â Â Â Â  na potwierdzenie speÅ‚nienia warunku udziaÅ‚u w postÄ™powaniu dot. technicznej lub zawodowej w zakresie doÅ›wiadczenia â€“ informacje nt. usÅ‚ug wykonanych lub wykonywanych (przy czym w tym przypadku bÄ™dzie liczona wartoÅ›Ä‡ zrealizowanej czÄ™Å›ci przedmiotu umowy) w okresie ostatnich 3 lat przed upÅ‚ywem terminu skÅ‚adania ofert (a jeÅ¼eli okres prowadzenia dziaÅ‚alnoÅ›ci jest krÃ³tszy â€“ w tym okresie) polegajÄ…cych na wykonywaniu prac z zakresu zagospodarowania lasu, zrywki i pozyskania drewna (pakiety I-III) lub obsÅ‚ugi punktu alarmowo-dyspozycyjnego nadleÅ›nictwa oraz obsÅ‚ugi dostrzegalni przeciwpoÅ¼arowych (pakiet IV), na kwotÄ™ nie mniejszÄ… niÅ¼ okreÅ›lona w pkt. 6.2 niniejszej SIWZ, ktÃ³re podaÄ‡ naleÅ¼y w CzÄ™Å›ci IV lit. C wiersz drugi (pkt 1b) JEDZ;Â  
 
-We wskazanej czêœci JEDZ nale¿y podaæ informacje nt. podmiotu, na rzecz którego by³y wykonywane us³ugi (ze wskazaniem nazwy i jego siedziby, terminu wykonywania us³ugi (dat dziennych rozpoczêcia i zakoñczenia realizacji), rodzaju wykonanych us³ug oraz wartoœci (brutto) wykonanych us³ug.”
-3)      pkt 14.2. pkt 2 SIWZ otrzymuje brzmienie:
-„2)     W ramach kryterium „Aspekty spo³eczne realizacji przedmiotu zamówienia” oceniane bêdzie przyjêcie przez Wykonawcê zobowi¹zania umownego do wykonywania czynnoœci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpo¿arowych, wchodz¹cych w sk³ad przedmiotu zamówienia wy³¹cznie przez osoby zatrudnione na podstawê umowy o pracê w rozumieniu przepisów Kodeksu pracy. Zasady realizacji tego zobowi¹zania oraz zasady odpowiedzialnoœci za jego niewykonanie zosta³y opisane we wzorze umowy (stanowi¹cym odpowiednio za³¹cznik nr 6.1 lub 6.2 do SIWZ). We wzorze umowy (stanowi¹cym odpowiednio za³¹cznik nr 6.1 lub 6.2 do SIWZ) zobowi¹zanie do wykonywania czynnoœci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpo¿arowych wchodz¹cych w sk³ad przedmiotu zamówienia wy³¹cznie przez osoby zatrudnione na podstawê umowy o pracê w rozumieniu przepisów Kodeksu pracy jest okreœlane jako „Obowi¹zek Zatrudnienia”. 
-Wykonawca zamieœci informacjê o przyjêciu na siebie zobowi¹zania umownego do wykonywania czynnoœci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpo¿arowych wchodz¹cych w sk³ad przedmiotu zamówienia wy³¹cznie przez osoby zatrudnione na podstawê umowy o pracê w rozumieniu przepisów Kodeksu pracy w formularzu oferty (za³¹cznik nr 1 do SIWZ). Brak wskazania w formularzu oferty przyjêcia przez Wykonawcê zobowi¹zania, o którym mowa w zdaniu poprzednim bêdzie uznawane jako nieprzyjêcie takiego zobowi¹zania, a oferta uzyska 0 pkt w ramach niniejszego kryterium oceny ofert. Oferta Wykonawcy, który zaci¹gnie takie zobowi¹zanie otrzyma 20 pkt.” 
-4)      pkt 15.1. pkt 2 tiret siódme SIWZ otrzymuje brzmienie:
-„-       dokumenty wskazane w § 7 ust. 4 wzoru umowy (stanowi¹cego za³¹cznik nr 6.1 do SIWZ) dot. osób wykonuj¹cych czynnoœci wchodz¹ce w sk³ad przedmiotu zamówienia polegaj¹ce na pozyskaniu i zrywce surowca drzewnego, je¿eli wykonanie tych czynnoœci polega na wykonywaniu pracy w sposób okreœlony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (tekst jedn.: Dz. U. z 2016 r. poz. 1666, z póŸn. zm.) (dot. pakietów I-III)”
-5)      § 7 ust. 4 wzoru umowy, stanowi¹cego za³¹cznik nr 6.1 do SIWZ otrzymuje brzmienie: 
-„4.     Przed rozpoczêciem realizacji czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, w stosunku do osób maj¹cych wykonywaæ te czynnoœci, Wykonawca obowi¹zany jest przed³o¿yæ Zamawiaj¹cemu, nastêpuj¹ce dokumenty:
-1)      je¿eli pracodawc¹ osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia jest Wykonawca - oœwiadczenie Wykonawcy o zatrudnieniu tych osób na podstawie umowy o pracê w rozumieniu Kodeksu pracy;      
+We wskazanej czÄ™Å›ci JEDZ naleÅ¼y podaÄ‡ informacje nt. podmiotu, na rzecz ktÃ³rego byÅ‚y wykonywane usÅ‚ugi (ze wskazaniem nazwy i jego siedziby, terminu wykonywania usÅ‚ugi (dat dziennych rozpoczÄ™cia i zakoÅ„czenia realizacji), rodzaju wykonanych usÅ‚ug oraz wartoÅ›ci (brutto) wykonanych usÅ‚ug.â€
+3)Â Â Â Â Â  pkt 14.2. pkt 2 SIWZ otrzymuje brzmienie:
+â€2)Â Â Â Â  W ramach kryterium â€Aspekty spoÅ‚eczne realizacji przedmiotu zamÃ³wieniaâ€ oceniane bÄ™dzie przyjÄ™cie przez WykonawcÄ™ zobowiÄ…zania umownego do wykonywania czynnoÅ›ci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpoÅ¼arowych, wchodzÄ…cych w skÅ‚ad przedmiotu zamÃ³wienia wyÅ‚Ä…cznie przez osoby zatrudnione na podstawÄ™ umowy o pracÄ™ w rozumieniu przepisÃ³w Kodeksu pracy. Zasady realizacji tego zobowiÄ…zania oraz zasady odpowiedzialnoÅ›ci za jego niewykonanie zostaÅ‚y opisane we wzorze umowy (stanowiÄ…cym odpowiednio zaÅ‚Ä…cznik nr 6.1 lub 6.2 do SIWZ). We wzorze umowy (stanowiÄ…cym odpowiednio zaÅ‚Ä…cznik nr 6.1 lub 6.2 do SIWZ) zobowiÄ…zanie do wykonywania czynnoÅ›ci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpoÅ¼arowych wchodzÄ…cych w skÅ‚ad przedmiotu zamÃ³wienia wyÅ‚Ä…cznie przez osoby zatrudnione na podstawÄ™ umowy o pracÄ™ w rozumieniu przepisÃ³w Kodeksu pracy jest okreÅ›lane jako â€ObowiÄ…zek Zatrudnieniaâ€. 
+Wykonawca zamieÅ›ci informacjÄ™ o przyjÄ™ciu na siebie zobowiÄ…zania umownego do wykonywania czynnoÅ›ci z zakresu hodowli lasu i ochrony lasu, a w zakresie pakietu nr IV obsady dostrzegalni przeciwpoÅ¼arowych wchodzÄ…cych w skÅ‚ad przedmiotu zamÃ³wienia wyÅ‚Ä…cznie przez osoby zatrudnione na podstawÄ™ umowy o pracÄ™ w rozumieniu przepisÃ³w Kodeksu pracy w formularzu oferty (zaÅ‚Ä…cznik nr 1 do SIWZ). Brak wskazania w formularzu oferty przyjÄ™cia przez WykonawcÄ™ zobowiÄ…zania, o ktÃ³rym mowa w zdaniu poprzednim bÄ™dzie uznawane jako nieprzyjÄ™cie takiego zobowiÄ…zania, a oferta uzyska 0Â pkt w ramach niniejszego kryterium oceny ofert. Oferta Wykonawcy, ktÃ³ry zaciÄ…gnie takie zobowiÄ…zanie otrzyma 20 pkt.â€ 
+4)Â Â Â Â Â  pkt 15.1. pkt 2 tiret siÃ³dme SIWZ otrzymuje brzmienie:
+â€-Â Â Â Â Â Â  dokumenty wskazane w Â§ 7 ust. 4 wzoru umowy (stanowiÄ…cego zaÅ‚Ä…cznik nr 6.1 do SIWZ) dot. osÃ³b wykonujÄ…cych czynnoÅ›ci wchodzÄ…ce w skÅ‚ad przedmiotu zamÃ³wienia polegajÄ…ce na pozyskaniu i zrywce surowca drzewnego, jeÅ¼eli wykonanie tych czynnoÅ›ci polega na wykonywaniu pracy w sposÃ³b okreÅ›lony w art. 22 Â§ 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (tekst jedn.: Dz. U. z 2016 r. poz. 1666, z pÃ³Åºn. zm.) (dot. pakietÃ³w I-III)â€
+5)Â Â Â Â Â  Â§ 7 ust. 4 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.1 do SIWZ otrzymuje brzmienie: 
+â€4.Â Â Â Â  Przed rozpoczÄ™ciem realizacji czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, w stosunku do osÃ³b majÄ…cych wykonywaÄ‡ te czynnoÅ›ci, Wykonawca obowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu, nastÄ™pujÄ…ce dokumenty:
+1)Â Â Â Â Â  jeÅ¼eli pracodawcÄ… osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia jest Wykonawca - oÅ›wiadczenie Wykonawcy o zatrudnieniu tych osÃ³b na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy; Â Â Â Â  
 
-Oœwiadczenie to powinno zawieraæ w szczególnoœci: dok³adne okreœlenie podmiotu sk³adaj¹cego oœwiadczenie, datê z³o¿enia oœwiadczenia, wskazanie, ¿e czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia wykonuj¹ osoby zatrudnione na podstawie umowy o pracê w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osób, rodzaju umowy o pracê i wymiaru etatu oraz podpis osoby uprawnionej do z³o¿enia oœwiadczenia w imieniu Wykonawcy. 
-2)      je¿eli pracodawc¹ osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia jest podwykonawca - oœwiadczenie tego podwykonawcy o zatrudnieniu tych osób na podstawie umowy o pracê w rozumieniu Kodeksu pracy;   
+OÅ›wiadczenie to powinno zawieraÄ‡ w szczegÃ³lnoÅ›ci: dokÅ‚adne okreÅ›lenie podmiotu skÅ‚adajÄ…cego oÅ›wiadczenie, datÄ™ zÅ‚oÅ¼enia oÅ›wiadczenia, wskazanie, Å¼e czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia wykonujÄ… osoby zatrudnione na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osÃ³b, rodzaju umowy o pracÄ™ i wymiaru etatu oraz podpis osoby uprawnionej do zÅ‚oÅ¼enia oÅ›wiadczenia w imieniu Wykonawcy. 
+2)Â Â Â Â Â  jeÅ¼eli pracodawcÄ… osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia jest podwykonawca - oÅ›wiadczenie tego podwykonawcy o zatrudnieniu tych osÃ³b na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy;Â   
 
-Oœwiadczenie to powinno zawieraæ w szczególnoœci: dok³adne okreœlenie podmiotu sk³adaj¹cego oœwiadczenie, datê z³o¿enia oœwiadczenia, wskazanie, ¿e czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia wykonuj¹ osoby zatrudnione na podstawie umowy o pracê w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osób, rodzaju umowy o pracê i wymiaru etatu oraz podpis osoby uprawnionej do z³o¿enia oœwiadczenia w imieniu podwykonawcy. 
-3)      poœwiadczon¹ za zgodnoœæ z orygina³em odpowiednio przez Wykonawcê lub podwykonawcê kopiê umowy/umów o pracê osób wykonuj¹cych do których odnosi siê Obowi¹zek Zatrudnienia (których dotyczy oœwiadczenie Wykonawcy lub podwykonawcy wskazane w pkt 1 lub 2 powy¿ej) wraz z dokumentem reguluj¹cym zakres obowi¹zków (je¿eli zosta³ sporz¹dzony). 
-Kopia umowy/umów powinna zostaæ zanonimizowana w sposób zapewniaj¹cy ochronê danych osobowych pracowników (tj. w szczególnoœci  bez imion, nazwisk, adresów, nr PESEL pracowników). Informacje takie jak: data zawarcia umowy, rodzaj umowy o pracê i wymiar etatu powinny byæ mo¿liwe do zidentyfikowania dla osób maj¹cych wykonywaæ te czynnoœci. 
-4)      zaœwiadczenie w³aœciwego oddzia³u ZUS, potwierdzaj¹ce op³acanie przez Wykonawcê lub podwykonawcê sk³adek na ubezpieczenia spo³eczne i zdrowotne z tytu³u zatrudnienia na podstawie umów o pracê osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, za ostatni okres rozliczeniowy (z zastrze¿eniem i¿ Wykonawca/podwykonawca mo¿e nie przedstawiæ takiego zaœwiadczenia w sytuacji nowozatrudnionego pracownika. W takiej sytuacji Wykonawca/podwykonawca dostarczy przedmiotowe zaœwiadczenie po op³aceniu pierwszej sk³adki).
-5)      poœwiadczon¹ za zgodnoœæ z orygina³em odpowiednio przez Wykonawcê lub podwykonawcê kopiê dowodu potwierdzaj¹cego zg³oszenie pracownika przez pracodawcê do ubezpieczeñ dokonane w stosunku do osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia.        
-Dokumenty te powinny byæ zanonimizowany w sposób zapewniaj¹cy ochronê danych osobowych pracowników. 
-- pod rygorem niedopuszczenia tych osób do realizacji tych czynnoœci. 
-W przypadku zmiany sk³adu osobowego Personelu Wykonawcy realizuj¹cego czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, przed dopuszczeniem tych osób do wykonywania poszczególnych czynnoœci Wykonawca obowi¹zany jest przed³o¿yæ Zamawiaj¹cemu dla tych osób dokumenty, o których mowa w pkt 1- 5 (z zastrze¿eniem zapisu w pkt. 4 dot. pracownika nowozatrudnionego) powy¿ej, pod rygorem niedopuszczenia tych osób do realizacji tych czynnoœci.” 
-6)      § 7 ust. 5 wzoru umowy, stanowi¹cego za³¹cznik nr 6.1 do SIWZ, otrzymuje brzmienie: 
-„5.     Na ka¿de ¿¹danie Zamawiaj¹cego Wykonawca zobowi¹zany jest przed³o¿yæ Zamawiaj¹cemu dla osób realizuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia dokumenty, o których mowa w ust. 4. Nieprzed³o¿enie umów, o których mowa w zdaniu poprzednim stanowi przypadek naruszenia Obowi¹zku Zatrudnienia.”
-7)      § 7 ust. 6 wzoru umowy, stanowi¹cego za³¹cznik nr 6.1 do SIWZ, otrzymuje brzmienie: 
-„6.     W przypadku w¹tpliwoœci co do przestrzegania przepisów prawa pracy przez wykonawcê lub podwykonawcê, zamawiaj¹cy mo¿e zwróciæ siê o przeprowadzenie kontroli przez Pañstwow¹ Inspekcjê Pracy.”
-8)      § 7 ust. 3 wzoru umowy, stanowi¹cego za³¹cznik nr 6.2 do SIWZ otrzymuje brzmienie:
-„3.     W przypadku gdy Wykonawca, na podstawie kryteriów oceny ofert zawartych w SIWZ zobowi¹za³ siê do wykonywania czynnoœci z zakresu obsady dostrzegalni przeciwpo¿arowych wchodz¹cych w sk³ad przedmiotu zamówienia wy³¹cznie przez osoby zatrudnione na podstawie umowy o pracê w rozumieniu przepisów Kodeksu pracy,- Wykonawca gwarantuje Zamawiaj¹cemu, ¿e osoby wykonuj¹ce te czynnoœci bêd¹ zatrudnione na podstawie umowy o pracê w rozumieniu Kodeksu pracy („Obowi¹zek Zatrudnienia”) przy czym wykonanie tych zobowi¹zañ mo¿e nast¹piæ równie¿ poprzez zatrudnienie osób przez podwykonawców.” 
- 
-9)      § 7 ust. 4 wzoru umowy, stanowi¹cego za³¹cznik nr 6.2 do SIWZ otrzymuje brzmienie: 
-„4.     Przed rozpoczêciem realizacji czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, w stosunku do osób maj¹cych wykonywaæ te czynnoœci, Wykonawca obowi¹zany jest przed³o¿yæ Zamawiaj¹cemu, nastêpuj¹ce dokumenty:
-1)      je¿eli pracodawc¹ osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia jest Wykonawca - oœwiadczenie Wykonawcy o zatrudnieniu tych osób na podstawie umowy o pracê w rozumieniu Kodeksu pracy;      
+OÅ›wiadczenie to powinno zawieraÄ‡ w szczegÃ³lnoÅ›ci: dokÅ‚adne okreÅ›lenie podmiotu skÅ‚adajÄ…cego oÅ›wiadczenie, datÄ™ zÅ‚oÅ¼enia oÅ›wiadczenia, wskazanie, Å¼e czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia wykonujÄ… osoby zatrudnione na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osÃ³b, rodzaju umowy o pracÄ™ i wymiaru etatu oraz podpis osoby uprawnionej do zÅ‚oÅ¼enia oÅ›wiadczenia w imieniu podwykonawcy. 
+3)Â Â Â Â Â  poÅ›wiadczonÄ… za zgodnoÅ›Ä‡ z oryginaÅ‚em odpowiednio przez WykonawcÄ™ lub podwykonawcÄ™ kopiÄ™ umowy/umÃ³w o pracÄ™ osÃ³b wykonujÄ…cych do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia (ktÃ³rych dotyczy oÅ›wiadczenie Wykonawcy lub podwykonawcy wskazane w pkt 1 lub 2 powyÅ¼ej) wraz z dokumentem regulujÄ…cym zakres obowiÄ…zkÃ³w (jeÅ¼eli zostaÅ‚ sporzÄ…dzony). 
+Kopia umowy/umÃ³w powinna zostaÄ‡ zanonimizowana w sposÃ³b zapewniajÄ…cy ochronÄ™ danych osobowych pracownikÃ³w (tj. w szczegÃ³lnoÅ›ciÂ  bez imion, nazwisk, adresÃ³w, nr PESEL pracownikÃ³w). Informacje takie jak: data zawarcia umowy, rodzaj umowy o pracÄ™ i wymiar etatu powinny byÄ‡ moÅ¼liwe do zidentyfikowania dla osÃ³b majÄ…cych wykonywaÄ‡ te czynnoÅ›ci. 
+4)Â Â Â Â Â  zaÅ›wiadczenie wÅ‚aÅ›ciwego oddziaÅ‚u ZUS, potwierdzajÄ…ce opÅ‚acanie przez WykonawcÄ™ lub podwykonawcÄ™ skÅ‚adek na ubezpieczenia spoÅ‚eczne i zdrowotne z tytuÅ‚u zatrudnienia na podstawie umÃ³w o pracÄ™ osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, za ostatni okres rozliczeniowy (z zastrzeÅ¼eniem iÅ¼ Wykonawca/podwykonawca moÅ¼e nie przedstawiÄ‡ takiego zaÅ›wiadczenia w sytuacji nowozatrudnionego pracownika. W takiej sytuacji Wykonawca/podwykonawca dostarczy przedmiotowe zaÅ›wiadczenie po opÅ‚aceniu pierwszej skÅ‚adki).
+5)Â Â Â Â Â  poÅ›wiadczonÄ… za zgodnoÅ›Ä‡ z oryginaÅ‚em odpowiednio przez WykonawcÄ™ lub podwykonawcÄ™ kopiÄ™ dowodu potwierdzajÄ…cego zgÅ‚oszenie pracownika przez pracodawcÄ™ do ubezpieczeÅ„ dokonane w stosunku do osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia. Â Â Â Â Â Â  
+Dokumenty te powinny byÄ‡ zanonimizowany w sposÃ³b zapewniajÄ…cy ochronÄ™ danych osobowych pracownikÃ³w. 
+- pod rygorem niedopuszczenia tych osÃ³b do realizacji tych czynnoÅ›ci. 
+W przypadku zmiany skÅ‚adu osobowego Personelu Wykonawcy realizujÄ…cego czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, przed dopuszczeniem tych osÃ³b do wykonywania poszczegÃ³lnych czynnoÅ›ci Wykonawca obowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu dla tych osÃ³b dokumenty, o ktÃ³rych mowa w pkt 1- 5 (z zastrzeÅ¼eniem zapisu w pkt. 4 dot. pracownika nowozatrudnionego) powyÅ¼ej, pod rygorem niedopuszczenia tych osÃ³b do realizacji tych czynnoÅ›ci.â€ 
+6)Â Â Â Â Â  Â§ 7 ust. 5 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.1 do SIWZ, otrzymuje brzmienie: 
+â€5.Â Â Â Â  Na kaÅ¼de Å¼Ä…danie ZamawiajÄ…cego Wykonawca zobowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu dla osÃ³b realizujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia dokumenty, o ktÃ³rych mowa w ust. 4. NieprzedÅ‚oÅ¼enie umÃ³w, o ktÃ³rych mowa w zdaniu poprzednim stanowi przypadek naruszenia ObowiÄ…zku Zatrudnienia.â€
+7)Â Â Â Â Â  Â§ 7 ust. 6 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.1 do SIWZ, otrzymuje brzmienie: 
+â€6.Â Â Â Â  W przypadku wÄ…tpliwoÅ›ci co do przestrzegania przepisÃ³w prawa pracy przez wykonawcÄ™ lub podwykonawcÄ™, zamawiajÄ…cy moÅ¼e zwrÃ³ciÄ‡ siÄ™ o przeprowadzenie kontroli przez PaÅ„stwowÄ… InspekcjÄ™ Pracy.â€
+8)Â Â Â Â Â  Â§ 7 ust. 3 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.2 do SIWZ otrzymuje brzmienie:
+â€3.Â Â Â Â  W przypadku gdy Wykonawca, na podstawie kryteriÃ³w oceny ofert zawartych w SIWZ zobowiÄ…zaÅ‚ siÄ™ do wykonywania czynnoÅ›ci z zakresu obsady dostrzegalni przeciwpoÅ¼arowych wchodzÄ…cych w skÅ‚ad przedmiotu zamÃ³wienia wyÅ‚Ä…cznie przez osoby zatrudnione na podstawie umowy o pracÄ™ w rozumieniu przepisÃ³w Kodeksu pracy,- Wykonawca gwarantuje ZamawiajÄ…cemu, Å¼e osoby wykonujÄ…ce te czynnoÅ›ci bÄ™dÄ… zatrudnione na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy (â€ObowiÄ…zek Zatrudnieniaâ€) przy czym wykonanie tych zobowiÄ…zaÅ„ moÅ¼e nastÄ…piÄ‡ rÃ³wnieÅ¼ poprzez zatrudnienie osÃ³b przez podwykonawcÃ³w.â€ 
+Â 
+9)Â Â Â Â Â  Â§ 7 ust. 4 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.2 do SIWZ otrzymuje brzmienie: 
+â€4.Â Â Â Â  Przed rozpoczÄ™ciem realizacji czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, w stosunku do osÃ³b majÄ…cych wykonywaÄ‡ te czynnoÅ›ci, Wykonawca obowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu, nastÄ™pujÄ…ce dokumenty:
+1)Â Â Â Â Â  jeÅ¼eli pracodawcÄ… osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia jest Wykonawca - oÅ›wiadczenie Wykonawcy o zatrudnieniu tych osÃ³b na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy; Â Â Â Â  
 
-Oœwiadczenie to powinno zawieraæ w szczególnoœci: dok³adne okreœlenie podmiotu sk³adaj¹cego oœwiadczenie, datê z³o¿enia oœwiadczenia, wskazanie, ¿e czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia wykonuj¹ osoby zatrudnione na podstawie umowy o pracê w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osób, rodzaju umowy o pracê i wymiaru etatu oraz podpis osoby uprawnionej do z³o¿enia oœwiadczenia w imieniu Wykonawcy. 
-2)      je¿eli pracodawc¹ osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia jest podwykonawca - oœwiadczenie tego podwykonawcy o zatrudnieniu tych osób na podstawie umowy o pracê w rozumieniu Kodeksu pracy;   
+OÅ›wiadczenie to powinno zawieraÄ‡ w szczegÃ³lnoÅ›ci: dokÅ‚adne okreÅ›lenie podmiotu skÅ‚adajÄ…cego oÅ›wiadczenie, datÄ™ zÅ‚oÅ¼enia oÅ›wiadczenia, wskazanie, Å¼e czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia wykonujÄ… osoby zatrudnione na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osÃ³b, rodzaju umowy o pracÄ™ i wymiaru etatu oraz podpis osoby uprawnionej do zÅ‚oÅ¼enia oÅ›wiadczenia w imieniu Wykonawcy. 
+2)Â Â Â Â Â  jeÅ¼eli pracodawcÄ… osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia jest podwykonawca - oÅ›wiadczenie tego podwykonawcy o zatrudnieniu tych osÃ³b na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy;Â   
 
-Oœwiadczenie to powinno zawieraæ w szczególnoœci: dok³adne okreœlenie podmiotu sk³adaj¹cego oœwiadczenie, datê z³o¿enia oœwiadczenia, wskazanie, ¿e czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia wykonuj¹ osoby zatrudnione na podstawie umowy o pracê w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osób, rodzaju umowy o pracê i wymiaru etatu oraz podpis osoby uprawnionej do z³o¿enia oœwiadczenia w imieniu podwykonawcy. 
-3)      poœwiadczon¹ za zgodnoœæ z orygina³em odpowiednio przez Wykonawcê lub podwykonawcê kopiê umowy/umów o pracê osób wykonuj¹cych do których odnosi siê Obowi¹zek Zatrudnienia (których dotyczy oœwiadczenie Wykonawcy lub podwykonawcy wskazane w pkt 1 lub 2 powy¿ej) wraz z dokumentem reguluj¹cym zakres obowi¹zków (je¿eli zosta³ sporz¹dzony). 
+OÅ›wiadczenie to powinno zawieraÄ‡ w szczegÃ³lnoÅ›ci: dokÅ‚adne okreÅ›lenie podmiotu skÅ‚adajÄ…cego oÅ›wiadczenie, datÄ™ zÅ‚oÅ¼enia oÅ›wiadczenia, wskazanie, Å¼e czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia wykonujÄ… osoby zatrudnione na podstawie umowy o pracÄ™ w rozumieniu Kodeksu pracy wraz ze wskazaniem liczby tych osÃ³b, rodzaju umowy o pracÄ™ i wymiaru etatu oraz podpis osoby uprawnionej do zÅ‚oÅ¼enia oÅ›wiadczenia w imieniu podwykonawcy. 
+3)Â Â Â Â Â  poÅ›wiadczonÄ… za zgodnoÅ›Ä‡ z oryginaÅ‚em odpowiednio przez WykonawcÄ™ lub podwykonawcÄ™ kopiÄ™ umowy/umÃ³w o pracÄ™ osÃ³b wykonujÄ…cych do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia (ktÃ³rych dotyczy oÅ›wiadczenie Wykonawcy lub podwykonawcy wskazane w pkt 1 lub 2 powyÅ¼ej) wraz z dokumentem regulujÄ…cym zakres obowiÄ…zkÃ³w (jeÅ¼eli zostaÅ‚ sporzÄ…dzony). 
 
-Kopia umowy/umów powinna zostaæ zanonimizowana w sposób zapewniaj¹cy ochronê danych osobowych pracowników (tj. w szczególnoœci  bez imion, nazwisk, adresów, nr PESEL pracowników). Informacje takie jak: data zawarcia umowy, rodzaj umowy o pracê i wymiar etatu powinny byæ mo¿liwe do zidentyfikowania dla osób maj¹cych wykonywaæ te czynnoœci.
-4)      zaœwiadczenie w³aœciwego oddzia³u ZUS, potwierdzaj¹ce op³acanie przez Wykonawcê lub podwykonawcê sk³adek na ubezpieczenia spo³eczne i zdrowotne z tytu³u zatrudnienia na podstawie umów o pracê osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, za ostatni okres rozliczeniowy (z zastrze¿eniem i¿ Wykonawca/podwykonawca mo¿e nie przedstawiæ takiego zaœwiadczenia w sytuacji nowozatrudnionego pracownika. W takiej sytuacji Wykonawca/podwykonawca dostarczy przedmiotowe zaœwiadczenie po op³aceniu pierwszej sk³adki)
-5)      poœwiadczon¹ za zgodnoœæ z orygina³em odpowiednio przez Wykonawcê lub podwykonawcê kopiê dowodu potwierdzaj¹cego zg³oszenie pracownika przez pracodawcê do ubezpieczeñ dokonane w stosunku do osób wykonuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia.        
+Kopia umowy/umÃ³w powinna zostaÄ‡ zanonimizowana w sposÃ³b zapewniajÄ…cy ochronÄ™ danych osobowych pracownikÃ³w (tj. w szczegÃ³lnoÅ›ciÂ  bez imion, nazwisk, adresÃ³w, nr PESEL pracownikÃ³w). Informacje takie jak: data zawarcia umowy, rodzaj umowy o pracÄ™ i wymiar etatu powinny byÄ‡ moÅ¼liwe do zidentyfikowania dla osÃ³b majÄ…cych wykonywaÄ‡ te czynnoÅ›ci.
+4)Â Â Â Â Â  zaÅ›wiadczenie wÅ‚aÅ›ciwego oddziaÅ‚u ZUS, potwierdzajÄ…ce opÅ‚acanie przez WykonawcÄ™ lub podwykonawcÄ™ skÅ‚adek na ubezpieczenia spoÅ‚eczne i zdrowotne z tytuÅ‚u zatrudnienia na podstawie umÃ³w o pracÄ™ osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, za ostatni okres rozliczeniowy (z zastrzeÅ¼eniem iÅ¼ Wykonawca/podwykonawca moÅ¼e nie przedstawiÄ‡ takiego zaÅ›wiadczenia w sytuacji nowozatrudnionego pracownika. W takiej sytuacji Wykonawca/podwykonawca dostarczy przedmiotowe zaÅ›wiadczenie po opÅ‚aceniu pierwszej skÅ‚adki)
+5)Â Â Â Â Â  poÅ›wiadczonÄ… za zgodnoÅ›Ä‡ z oryginaÅ‚em odpowiednio przez WykonawcÄ™ lub podwykonawcÄ™ kopiÄ™ dowodu potwierdzajÄ…cego zgÅ‚oszenie pracownika przez pracodawcÄ™ do ubezpieczeÅ„ dokonane w stosunku do osÃ³b wykonujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia. Â Â Â Â Â Â  
 
-Dokumenty te powinny byæ zanonimizowany w sposób zapewniaj¹cy ochronê danych osobowych pracowników. 
-- pod rygorem niedopuszczenia tych osób do realizacji tych czynnoœci. 
-W przypadku zmiany sk³adu osobowego Personelu Wykonawcy realizuj¹cego czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia, przed dopuszczeniem tych osób do wykonywania poszczególnych czynnoœci Wykonawca obowi¹zany jest przed³o¿yæ Zamawiaj¹cemu dla tych osób dokumenty, o których mowa w pkt 1- 5 (z zastrze¿eniem zapisu w pkt. 4 dot. pracownika nowozatrudnionego) powy¿ej, pod rygorem niedopuszczenia tych osób do realizacji tych czynnoœci.” 
-10)    § 7 ust. 5 wzoru umowy, stanowi¹cego za³¹cznik nr 6.2 do SIWZ, otrzymuje brzmienie: 
-„5.     Na ka¿de ¿¹danie Zamawiaj¹cego Wykonawca zobowi¹zany jest przed³o¿yæ Zamawiaj¹cemu dla osób realizuj¹cych czynnoœci, do których odnosi siê Obowi¹zek Zatrudnienia dokumenty, o których mowa w ust. 4. Nieprzed³o¿enie umów, o których mowa w zdaniu poprzednim stanowi przypadek naruszenia Obowi¹zku Zatrudnienia.”
-11)    § 7 ust. 6 wzoru umowy, stanowi¹cego za³¹cznik nr 6.2 do SIWZ, otrzymuje brzmienie: 
-„6.     W przypadku w¹tpliwoœci co do przestrzegania przepisów prawa pracy przez wykonawcê lub podwykonawcê, zamawiaj¹cy mo¿e zwróciæ siê o przeprowadzenie kontroli przez Pañstwow¹ Inspekcjê Pracy.”
-12)    skreœla siê § 7 ust. 7 wzoru umowy, stanowi¹cego za³¹cznik nr 6.2 do SIWZ. 
- Niniejsza zmiana SIWZ, z uwagi na fakt, i¿ nie prowadzi do zmiany treœci og³oszenia o zamówieniu, ani nie skutkuje koniecznoœci¹ wprowadzenia zmian w ofertach, nie wymaga przed³u¿enia terminu sk³adania ofert.
- 
- 
- 
- 
- 
-Wykonanie ogrodzenia leœniczówki leœnictwa Szczakowa
+Dokumenty te powinny byÄ‡ zanonimizowany w sposÃ³b zapewniajÄ…cy ochronÄ™ danych osobowych pracownikÃ³w. 
+- pod rygorem niedopuszczenia tych osÃ³b do realizacji tych czynnoÅ›ci. 
+W przypadku zmiany skÅ‚adu osobowego Personelu Wykonawcy realizujÄ…cego czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia, przed dopuszczeniem tych osÃ³b do wykonywania poszczegÃ³lnych czynnoÅ›ci Wykonawca obowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu dla tych osÃ³b dokumenty, o ktÃ³rych mowa w pkt 1- 5 (z zastrzeÅ¼eniem zapisu w pkt. 4 dot. pracownika nowozatrudnionego) powyÅ¼ej, pod rygorem niedopuszczenia tych osÃ³b do realizacji tych czynnoÅ›ci.â€ 
+10)Â Â Â  Â§ 7 ust. 5 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.2 do SIWZ, otrzymuje brzmienie: 
+â€5.Â Â Â Â  Na kaÅ¼de Å¼Ä…danie ZamawiajÄ…cego Wykonawca zobowiÄ…zany jest przedÅ‚oÅ¼yÄ‡ ZamawiajÄ…cemu dla osÃ³b realizujÄ…cych czynnoÅ›ci, do ktÃ³rych odnosi siÄ™ ObowiÄ…zek Zatrudnienia dokumenty, o ktÃ³rych mowa w ust. 4. NieprzedÅ‚oÅ¼enie umÃ³w, o ktÃ³rych mowa w zdaniu poprzednim stanowi przypadek naruszenia ObowiÄ…zku Zatrudnienia.â€
+11)Â Â Â  Â§ 7 ust. 6 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.2 do SIWZ, otrzymuje brzmienie: 
+â€6.Â Â Â Â  W przypadku wÄ…tpliwoÅ›ci co do przestrzegania przepisÃ³w prawa pracy przez wykonawcÄ™ lub podwykonawcÄ™, zamawiajÄ…cy moÅ¼e zwrÃ³ciÄ‡ siÄ™ o przeprowadzenie kontroli przez PaÅ„stwowÄ… InspekcjÄ™ Pracy.â€
+12)Â Â Â  skreÅ›la siÄ™ Â§ 7 ust. 7 wzoru umowy, stanowiÄ…cego zaÅ‚Ä…cznik nr 6.2 do SIWZ. 
+Â Niniejsza zmiana SIWZ, z uwagi na fakt, iÅ¼ nie prowadzi do zmiany treÅ›ci ogÅ‚oszenia o zamÃ³wieniu, ani nie skutkuje koniecznoÅ›ciÄ… wprowadzenia zmian w ofertach, nie wymaga przedÅ‚uÅ¼enia terminu skÅ‚adania ofert.
+Â 
+Â 
+Â 
+Â 
+Â 
+Wykonanie ogrodzenia leÅ›niczÃ³wki leÅ›nictwa Szczakowa
 
-Chrzanów, dnia 8 wrzeœnia 2016 r.
- 
-OG£OSZENIE
-Nadleœnictwo Chrzanów og³asza przetarg  nieograniczony – postêpowanie prowadzone w oparciu o zarz¹dzenie nr  9/2014  Nadleœniczego Nadleœnictwa Chrzanów na wykonanie ogrodzenia  leœniczówki leœnictwa Szczakowa; Jaworzno ul. J. Sobieskiego 3
+ChrzanÃ³w, dnia 8 wrzeÅ›nia 2016 r.
+Â 
+OGÅOSZENIE
+NadleÅ›nictwo ChrzanÃ³w ogÅ‚aszaÂ przetarg  nieograniczony â€“ postÄ™powanie prowadzone w oparciu o zarzÄ…dzenie nr  9/2014 Â NadleÅ›niczego NadleÅ›nictwa ChrzanÃ³w na wykonanie ogrodzenia  leÅ›niczÃ³wki leÅ›nictwa Szczakowa; Jaworzno ul. J. Sobieskiego 3
 
 
-Materia³y do pobrania
+MateriaÅ‚y do pobrania
 
  SIWZ
  Dokumentacja techniczna
 
 
- 
+Â 
 
- 
- 
-Wykonanie ogrodzenia leœniczówki leœnictwa Dulowa
+Â 
+Â 
+Wykonanie ogrodzenia leÅ›niczÃ³wki leÅ›nictwa Dulowa
 
-Chrzanów, dnia 8 wrzeœnia 2016 r.
- 
-OG£OSZENIE
-Nadleœnictwo Chrzanów og³asza przetarg  nieograniczony – postêpowanie prowadzone w oparciu o zarz¹dzenie nr  9/2014  Nadleœniczego Nadleœnictwa Chrzanów na wykonanie ogrodzenia  leœniczówki leœnictwa Dulowa; Dulowa ul. Œw. Floriana 2
+ChrzanÃ³w, dnia 8 wrzeÅ›nia 2016 r.
+Â 
+OGÅOSZENIE
+NadleÅ›nictwo ChrzanÃ³w ogÅ‚aszaÂ przetarg  nieograniczony â€“ postÄ™powanie prowadzone w oparciu o zarzÄ…dzenie nr  9/2014 Â NadleÅ›niczego NadleÅ›nictwa ChrzanÃ³w na wykonanie ogrodzenia  leÅ›niczÃ³wki leÅ›nictwa Dulowa; Dulowa ul. Åšw. Floriana 2
 
-   
+Â Â  
 Do pobrania:
 
 
-Materia³y do pobrania
+MateriaÅ‚y do pobrania
 
  Dokumentacja techniczna
  SIWZ
 
 
- 
- 
- 
+Â 
+Â 
+Â 
 
 
 
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -1028,13 +1043,13 @@ px_dg~rdlp_katowice~nadl_chrzanow~20191018_143932_n_chrzanow_000129.pdf (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-Nadleœniczy Nadleœnictwa Chrzanów mgr in¿. Andrzej Berkowski
+Osoba odpowiedzialna za treÅ›Ä‡:
+NadleÅ›niczy NadleÅ›nictwa ChrzanÃ³w mgr inÅ¼. Andrzej Berkowski
 
-Data modyfikacji: 2020/07/08 14:08:34
-Redaktor zatwierdzaj¹cy: £ukasz Cieœlik
-Wprowadzaj¹cy: £ukasz Cieœlik
-Deklaracja Dostêpnoœci
+Data modyfikacji: 2020/10/09 14:05:31
+Redaktor zatwierdzajÄ…cy: Åukasz CieÅ›lik
+WprowadzajÄ…cy: PrzemysÅ‚aw Baran
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_olkusz
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Olkusz
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Olkusz
 
 
 wyszukaj w BIP
@@ -108,68 +104,96 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Olkusz
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Olkusz
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
-OG£OSZENIE O PRZETARGU
-Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Olkusz
-z siedzib¹ w Olkuszu, ul. £ukasiñskiego 3, 32-300 Olkusz
+Komunikaty i ogÅ‚oszenia
+
+
+
+
+Â 
+
+
+Â 
+OGÅOSZENIE O WYNIKU PRZETARGU
+Â 
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Olkusz
+z siedzibÄ… w Olkuszu, ul. ÅukasiÅ„skiego 3, 32-300 Olkusz
 NIP 637-000-19-57, REGON 272536273
- 
-Og³asza przetarg ustny nieograniczony na sprzeda¿ nieruchomoœci stanowi¹cej w³asnoœæ Skarbu Pañstwa w zarz¹dzie Pañstwowego Gospodarstwa Leœnego Lasy Pañstwowe Nadleœnictwo Olkusz.
-Sprzeda¿ na podstawie art. 38, ust. 1, pkt. 3 oraz ust. 3, ustawy z dnia 28 wrzeœnia 1991 roku o lasach (DZ.U.2020. poz.6) oraz Rozporz¹dzenia Ministra Ochrony Œrodowiska z dnia 20 kwietnia 2007r. (Dz. U. Nr 78, poz. 532).
+Â 
+OgÅ‚asza wyniki przetargu ustnego nieograniczonego na sprzedaÅ¼ nieruchomoÅ›ci stanowiÄ…cej wÅ‚asnoÅ›Ä‡ Skarbu PaÅ„stwa w zarzÄ…dzie PaÅ„stwowego Gospodarstwa LeÅ›nego Lasy PaÅ„stwowe NadleÅ›nictwo Olkusz przeprowadzonego na podstawie art. 38, ust. 1, pkt. 3 oraz ust. 2 ustawy z dnia 28 wrzeÅ›nia 1991 roku o lasach (Dz. U. z 2020r. poz. 1463) oraz RozporzÄ…dzenia Ministra Ochrony Åšrodowiska z dnia 20 kwietnia 2007r. (Dz. U. Nr 78, poz. 532).
+Â 
+1.Â Â PrzetargÂ Â ustny nieograniczony odbyÅ‚ siÄ™ w dniu 01.10.2020r w siedzibie PGL LP NadleÅ›nictwa Olkusz w Olkuszu przy ul. ÅukasiÅ„skiego 3,
+2.Â Â Oznaczenie nieruchomoÅ›ci wg ksiÄ™gi wieczystej: dziaÅ‚ka nr 683 o pow. 0,0328 ha, poÅ‚oÅ¼ona w miejscowoÅ›ci Olewin, obrÄ™b ewidencyjny Olewin, gmina Olkusz, objÄ™ta Â KW nr KR1O/00061533/4, prowadzonÄ… przez SÄ…d Rejonowy w Olkuszu, WydziaÅ‚ V KsiÄ…g Wieczystych.Â  
+3.Â Â Oznaczenie nieruchomoÅ›ci wedÅ‚ug danych z ewidencji gruntÃ³w i budynkÃ³w: 
+dziaÅ‚ka nr 683 o powierzchni 0,0328 ha â€“ uÅ¼ytek Ls 
+4.Â Â W przetargu braÅ‚ udziaÅ‚ jeden uczestnik, osÃ³b niedopuszczonych do przetargu nie byÅ‚o.
+5.Â Â Cena netto wywoÅ‚awcza nieruchomoÅ›ci:Â Â Â Â  16.400,00 zÅ‚ (sÅ‚ownie: szesnaÅ›cie tysiÄ™cy czterysta zÅ‚ Â Â 00/100).
+Cena netto nabycia:Â Â Â Â  16.800,00 (sÅ‚ownie: szesnaÅ›cie tysiÄ™cy osiemset zÅ‚ 00/100).
+
+
+6.Â Â Dane osoby, ktÃ³ra wygraÅ‚a przetarg:
+1. MARO Centrum Logistyczno Magazynowe Roman ChÅ‚osta
+Â 
+Olkusz, 08.10.2020 r.
+NadleÅ›niczy 
+mgr inÅ¼. Marcin Polak
+Â 
+Â 
+Â 
+Â 
+OGÅOSZENIE O PRZETARGU
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Olkusz
+z siedzibÄ… w Olkuszu, ul. ÅukasiÅ„skiego 3, 32-300 Olkusz
+NIP 637-000-19-57, REGON 272536273
+Â 
+OgÅ‚asza przetarg ustny nieograniczony na sprzedaÅ¼ nieruchomoÅ›ci stanowiÄ…cej wÅ‚asnoÅ›Ä‡ Skarbu PaÅ„stwa w zarzÄ…dzie PaÅ„stwowego Gospodarstwa LeÅ›nego Lasy PaÅ„stwowe NadleÅ›nictwo Olkusz.
+SprzedaÅ¼ na podstawie art. 38, ust. 1, pkt. 3 oraz ust. 3, ustawy z dnia 28 wrzeÅ›nia 1991 roku o lasach (DZ.U.2020. poz.6) oraz RozporzÄ…dzenia Ministra Ochrony Åšrodowiska z dnia 20 kwietnia 2007r. (Dz. U. Nr 78, poz. 532).
 I.
-1.  Nieruchomoœæ stanowi dzia³kê ewidencyjn¹ o nr 683 o pow. 0,0328 ha,  po³o¿on¹ w miejscowoœci Olewin, obrêb ewidencyjny Olewin, gmina Olkusz, objêta KW nr KR1O/00061533/4,  prowadzon¹ przez S¹d Rejonowy w Olkuszu, Wydzia³ V Ksi¹g Wieczystych 
-2.  Oznaczenie nieruchomoœci wed³ug danych z ewidencji gruntów i budynków: dz. 683 o powierzchni  0,0328 ha – u¿ytek Ls.
-3. Powierzchnia nieruchomoœci – 328 m2 .
-4.  Nieruchomoœæ  ma nieregularny kszta³t zbli¿ony do prostok¹ta, o d³ugoœci ok. 48 m i szerokoœci ok. 7 m. Po³o¿ona w peryferyjnej zachodniej czêœci Olewina. Grunty zlokalizowane w bezpoœrednim s¹siedztwie to w¹skie dzia³ki drogowe. Od strony pó³nocnej zlokalizowane s¹ zak³ady przemys³owe, od strony po³udniowej tereny rolnicze, czêœciowo poroœniête drzewostanem, od strony pó³nocno wschodniej grunty leœne poroœniête drzewostanem. Teren p³aski.
- 
-5. Przeznaczenie nieruchomoœci w miejscowym planie zagospodarowania przestrzennego:
-– 2KDL – opisany jako „Droga lokalna o szerokoœci 20 m ”, w granicach G³ównego Zbiornika Wód Podziemnych GZWP nr 454.
+1.Â  NieruchomoÅ›Ä‡ stanowi dziaÅ‚kÄ™ ewidencyjnÄ… o nr 683 o pow. 0,0328 ha, Â poÅ‚oÅ¼onÄ… w miejscowoÅ›ci Olewin, obrÄ™b ewidencyjny Olewin, gmina Olkusz, objÄ™taÂ KW nr KR1O/00061533/4, Â prowadzonÄ… przez SÄ…d Rejonowy w Olkuszu, WydziaÅ‚ V KsiÄ…g Wieczystych 
+2.Â  Oznaczenie nieruchomoÅ›ci wedÅ‚ug danych z ewidencji gruntÃ³w i budynkÃ³w: dz. 683 o powierzchni Â 0,0328 ha â€“ uÅ¼ytek Ls.
+3. Powierzchnia nieruchomoÅ›ci â€“ 328 m2 .
+4.Â  NieruchomoÅ›Ä‡Â  ma nieregularny ksztaÅ‚t zbliÅ¼ony do prostokÄ…ta, o dÅ‚ugoÅ›ci ok. 48 m i szerokoÅ›ci ok. 7 m. PoÅ‚oÅ¼ona w peryferyjnej zachodniej czÄ™Å›ci Olewina. Grunty zlokalizowane w bezpoÅ›rednim sÄ…siedztwie to wÄ…skie dziaÅ‚ki drogowe. Od strony pÃ³Å‚nocnej zlokalizowane sÄ… zakÅ‚ady przemysÅ‚owe, od strony poÅ‚udniowej tereny rolnicze, czÄ™Å›ciowo poroÅ›niÄ™te drzewostanem, od strony pÃ³Å‚nocno wschodniej grunty leÅ›ne poroÅ›niÄ™te drzewostanem. Teren pÅ‚aski.
+Â 
+5. Przeznaczenie nieruchomoÅ›ci w miejscowym planie zagospodarowania przestrzennego:
+â€“ 2KDL â€“ opisany jako â€Droga lokalna o szerokoÅ›ci 20 m â€, w granicach GÅ‚Ã³wnego Zbiornika WÃ³d Podziemnych GZWP nr 454.
 
 
-6. Sposób zagospodarowania- nieruchomoœæ jest dzia³k¹ leœn¹, wiêkszoœæ powierzchni nieruchomoœci pokryta jest asfaltem, pozosta³a roœlinnoœci¹ przydro¿n¹. 
- 
-7. Obci¹¿enia nieruchomoœci – odp³atna, nieograniczona w czasie s³u¿ebnoœæ przesy³u na rzecz TAURON Dystrybucja S.A. z siedzib¹ w Krakowie. 
-8. Zobowi¹zania których przedmiotem jest nieruchomoœæ – brak zobowi¹zañ.
-9. Nieruchomoœæ nie jest wpisana do rejestru zabytków ani objêta ochron¹ konserwatorsk¹.   
-10.  Cena wywo³awcza nieruchomoœci   16.400,00 z³ (s³ownie: szesnaœcie tysiêcy czterysta z³ 00/100)  
-Post¹pienie wynosi 400,00 z³  (s³ownie: czterysta z³ 00/100).
-Do ostatecznej ceny sprzeda¿y nieruchomoœci doliczony zostanie podatek VAT, jeœli w momencie sprzeda¿y obowi¹zuj¹ce przepisy bêd¹ tak stanowiæ.
-II.      Wszelkich dodatkowych informacji dotycz¹cych nieruchomoœci mo¿na uzyskaæ w godz. 8:00-15:00 od poniedzia³ku do pi¹tku w siedzibie Nadleœnictwa Olkusz lub telefonicznie 32 643 04 45 wew. *332.
-III.    Przetarg ustny nieograniczony odbêdzie siê w dniu 01.10.2020 r o godz. 10:00 w siedzibie Nadleœnictwa Olkusz, ul. £ukasiñskiego 3, 32-300 Olkusz – sala nr 1, I piêtro.
-IV.        Warunkiem przyst¹pienia do przetargu jest wniesienie wadium w wysokoœci 10% ceny wywo³awczej.
-Wadium mo¿e byæ wnoszone w pieni¹dzu lub w formie gwarancji bankowej.
-Wadium wnoszone w pieni¹dzu nale¿y wnieœæ na rachunek bankowy Nadleœnictwa 
-36 2030 0045 1110 0000 0043 4890 z adnotacj¹ „wadium przetargowe – dzia³ka 683 - Olewin” 
-Wniesienie wadium w pieni¹dzu bêdzie skuteczne, je¿eli znajdzie siê na rachunku bankowym sprzedaj¹cego w terminie do dnia 30.09.2020 r. do godz. 14:00. 
-Wadium w formie gwarancji bankowej nale¿y z³o¿yæ w kasie Nadleœnictwa do dnia 01.10.2020 r. do godz. 9:00.
-Wadium zwraca siê w terminie trzech dni od dnia odwo³ania lub zamkniêcia przetargu.
-Wadium wniesione w pieni¹dzu przez uczestnika, który wygra³ przetarg zalicza siê na poczet ceny nabycia nieruchomoœci, przez któr¹ rozumie siê cenê nieruchomoœci ustalon¹ w wyniku przetargu, któr¹ obowi¹zany jest on zap³aciæ.
-Wadium wniesione w formie gwarancji bankowej przez uczestnika przetargu, który przetarg wygra³, podlega zwrotowi niezw³ocznie po wp³aceniu kwoty równej cenie nabycia nieruchomoœci.
-V.  Je¿eli osoba ustalona jako nabywca nieruchomoœci nie zawrze bez usprawiedliwionej przyczyny umowy sprzeda¿y nieruchomoœci w miejscu i terminie podanym w zawiadomieniu Nadleœnictwo mo¿e odst¹piæ od zawarcia umowy, a wniesione wadium nie podlega zwrotowi.
-VI.        Nadleœnictwo w terminie 14 dni od dnia podania do publicznej wiadomoœci informacji o wyniku przetargu zawiadomi osobê wygrywaj¹c¹ przetarg o miejscu i terminie sporz¹dzenia aktu notarialnego na sprzeda¿ nieruchomoœci.
-VII.      Kupuj¹cy ponosi wszelkie koszty zwi¹zane z zawarciem aktu notarialnego umowy kupna – sprzeda¿y nieruchomoœci, op³at s¹dowych, skarbowych oraz podatków.
-VIII.    Kupuj¹cy zobowi¹zany jest pokryæ koszty zwi¹zane z wycen¹ nieruchomoœci, og³oszeñ prasowych o przetargach oraz pozyskania aktualnych materia³ów geodezyjnych i s¹dowych.
-IX.     Ostatecznym terminem zap³aty ceny nabycia nieruchomoœci jest dzieñ poprzedzaj¹cy termin zawarcia umowy sprzeda¿y.
-X.          Ustala siê, ¿e przetarg jest wa¿ny bez wzglêdu na liczbê uczestników, je¿eli chocia¿ jeden uczestnik przetargu zaoferowa³ co najmniej jedno post¹pienie powy¿ej ceny wywo³awczej nieruchomoœci.
-XI.     Nadleœnictwo mo¿e odwo³aæ przetarg z wa¿nych powodów, informuj¹c o tym niezw³ocznie w formach w³aœciwych dla og³oszenia o przetargu.
-Nadleœniczy 
-mgr in¿. Marcin Polak
- 
-
-
-
+6. SposÃ³b zagospodarowania- nieruchomoÅ›Ä‡ jest dziaÅ‚kÄ… leÅ›nÄ…, wiÄ™kszoÅ›Ä‡ powierzchni nieruchomoÅ›ci pokryta jest asfaltem, pozostaÅ‚a roÅ›linnoÅ›ciÄ… przydroÅ¼nÄ…. 
+Â 
+7. ObciÄ…Å¼enia nieruchomoÅ›ci â€“ odpÅ‚atna, nieograniczona w czasie sÅ‚uÅ¼ebnoÅ›Ä‡ przesyÅ‚u na rzecz TAURON Dystrybucja S.A. z siedzibÄ… w Krakowie. 
+8. ZobowiÄ…zania ktÃ³rych przedmiotem jest nieruchomoÅ›Ä‡ â€“ brak zobowiÄ…zaÅ„.
+9. NieruchomoÅ›Ä‡ nie jest wpisana do rejestru zabytkÃ³w ani objÄ™ta ochronÄ… konserwatorskÄ…. Â Â 
+10.Â  Cena wywoÅ‚awcza nieruchomoÅ›ci Â Â 16.400,00 zÅ‚ (sÅ‚ownie: szesnaÅ›cie tysiÄ™cy czterysta zÅ‚ 00/100) Â 
+PostÄ…pienie wynosi 400,00 zÅ‚ Â (sÅ‚ownie: czterysta zÅ‚ 00/100).
+Do ostatecznej ceny sprzedaÅ¼y nieruchomoÅ›ci doliczony zostanie podatek VAT, jeÅ›li w momencie sprzedaÅ¼y obowiÄ…zujÄ…ce przepisy bÄ™dÄ… tak stanowiÄ‡.
+II.Â Â Â Â Â  Wszelkich dodatkowych informacji dotyczÄ…cych nieruchomoÅ›ci moÅ¼na uzyskaÄ‡ w godz. 8:00-15:00 od poniedziaÅ‚ku do piÄ…tku w siedzibie NadleÅ›nictwa Olkusz lub telefonicznie 32 643 04 45 wew. *332.
+III.Â Â Â  Przetarg ustny nieograniczony odbÄ™dzie siÄ™ w dniu 01.10.2020 r o godz. 10:00 w siedzibie NadleÅ›nictwa Olkusz, ul. ÅukasiÅ„skiego 3, 32-300 Olkusz â€“ sala nr 1, I piÄ™tro.
+IV.Â Â Â Â Â Â Â  Warunkiem przystÄ…pienia do przetargu jest wniesienie wadium w wysokoÅ›ci 10% ceny wywoÅ‚awczej.
+Wadium moÅ¼e byÄ‡ wnoszone w pieniÄ…dzu lub w formie gwarancji bankowej.
+Wadium wnoszone w pieniÄ…dzu naleÅ¼y wnieÅ›Ä‡ na rachunek bankowy NadleÅ›nictwa 
+36 2030 0045 1110 0000 0043 4890 z adnotacjÄ… â€wadium przetargowe â€“ dziaÅ‚ka 683 - Olewinâ€ 
+Wniesienie wadium w pieniÄ…dzu bÄ™dzie skuteczne, jeÅ¼eli znajdzie siÄ™ na rachunku bankowym sprzedajÄ…cego w terminie do dnia 30.09.2020 r. do godz. 14:00. 
+Wadium w formie gwarancji bankowej naleÅ¼y zÅ‚oÅ¼yÄ‡ w kasie NadleÅ›nictwa do dnia 01.10.2020 r. do godz. 9:00.
+Wadium zwraca siÄ™ w terminie trzech dni od dnia odwoÅ‚ania lub zamkniÄ™cia przetargu.
+Wadium wniesione w pieniÄ…dzu przez uczestnika, ktÃ³ry wygraÅ‚ przetarg zalicza siÄ™ na poczet ceny nabycia nieruchomoÅ›ci, przez ktÃ³rÄ… rozumie siÄ™ cenÄ™ nieruchomoÅ›ci ustalonÄ… w wyniku przetargu, ktÃ³rÄ… obowiÄ…zany jest on zapÅ‚aciÄ‡.
+Wadium wniesione w formie gwarancji bankowej przez uczestnika przetargu, ktÃ³ry przetarg wygraÅ‚, podlega zwrotowi niezwÅ‚ocznie po wpÅ‚aceniu kwoty rÃ³wnej cenie nabycia nieruchomoÅ›ci.
+V.  JeÅ¼eli osoba ustalona jako nabywca nieruchomoÅ›ci nie zawrze bez usprawiedliwionej przyczyny umowy sprzedaÅ¼y nieruchomoÅ›ci w miejscu i terminie podanym w zawiadomieniu NadleÅ›nictwo moÅ¼e odstÄ…piÄ‡ od zawarcia umowy, a wniesione wadium nie podlega zwrotowi.
+VI.Â Â Â Â Â Â Â  NadleÅ›nictwo w terminie 14 dni od dnia podania do publicznej wiadomoÅ›ci informacji o wyniku przetargu zawiadomi osobÄ™ wygrywajÄ…cÄ… przetarg o miejscu i terminie sporzÄ…dzenia aktu notarialnego na sprzedaÅ¼ nieruchomoÅ›ci.
+VII.Â Â Â Â Â  KupujÄ…cy ponosi wszelkie koszty zwiÄ…zane z zawarciem aktu notarialnego umowy kupna â€“ sprzedaÅ¼y nieruchomoÅ›ci, opÅ‚at sÄ…dowych, skarbowych oraz podatkÃ³w.
+VIII.Â Â Â  KupujÄ…cy zobowiÄ…zany jest pokryÄ‡ koszty zwiÄ…zane z wycenÄ… nieruchomoÅ›ci, ogÅ‚oszeÅ„ prasowych o przetargach oraz pozyskania aktualnych materiaÅ‚Ã³w geodezyjnych i sÄ…dowych.
+IX.Â Â Â Â  Ostatecznym terminem zapÅ‚aty ceny nabycia nieruchomoÅ›ci jest dzieÅ„ poprzedzajÄ…cy termin zawarcia umowy sprzedaÅ¼y.
+X. Â Â Â Â Â Â Â Â  Ustala siÄ™, Å¼e przetarg jest waÅ¼ny bez wzglÄ™du na liczbÄ™ uczestnikÃ³w, jeÅ¼eli chociaÅ¼ jeden uczestnik przetargu zaoferowaÅ‚ co najmniej jedno postÄ…pienie powyÅ¼ej ceny wywoÅ‚awczej nieruchomoÅ›ci.
+XI.Â Â Â Â  NadleÅ›nictwo moÅ¼e odwoÅ‚aÄ‡ przetarg z waÅ¼nych powodÃ³w, informujÄ…c o tym niezwÅ‚ocznie w formach wÅ‚aÅ›ciwych dla ogÅ‚oszenia o przetargu.
+NadleÅ›niczy 
+mgr inÅ¼. Marcin Polak
+Â 
 
 
 
@@ -191,13 +215,16 @@ mgr in¿. Marcin Polak
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Marcin Polak
 
-Data modyfikacji: 2020/07/31 11:55:31
-Redaktor zatwierdzaj¹cy: Gra¿yna Kapkowska
-Wprowadzaj¹cy: Piotr Komuñski
-Deklaracja Dostêpnoœci
+
+
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Marcin Polak
+
+Data modyfikacji: 2020/10/12 07:59:42
+Redaktor zatwierdzajÄ…cy: GraÅ¼yna Kapkowska
+WprowadzajÄ…cy: Piotr KomuÅ„ski
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

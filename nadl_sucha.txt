@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_sucha
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Sucha
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Sucha
 
 
 wyszukaj w BIP
@@ -108,81 +104,79 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Sucha
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Sucha
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
+Komunikaty i ogÅ‚oszenia
 
-Realizacja obowi¹zku informacyjnego o ochronie danych osobowych
 
-Na podstawie art. 13 ust. 1 i 2 rozporz¹dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w zwi¹zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep³ywu takich danych oraz uchylenia dyrektywy 95/46/WE (dalej: RODO) Nadleœnictwo Sucha informuje, ¿e:
 
-1. Administratorem Twoich danych osobowych jest Nadleœnictwo Sucha z siedzib¹: 
+
+
+Realizacja obowiÄ…zku informacyjnego o ochronie danych osobowych
+
+Na podstawie art. 13 ust. 1 i 2 rozporzÄ…dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osÃ³b fizycznych w zwiÄ…zku z przetwarzaniem danych osobowych i w sprawie swobodnego przepÅ‚ywu takich danych oraz uchylenia dyrektywy 95/46/WE (dalej: RODO) NadleÅ›nictwo Sucha informuje, Å¼e:
+
+1. Administratorem Twoich danych osobowych jest NadleÅ›nictwo Sucha z siedzibÄ…: 
 34-200 Sucha Beskidzka, ul. Zamkowa 7, tel. 33 874 21 74, 
 adres e-mail sucha@katowice.lasy.gov.pl
-2. Z Inspektorem ochrony danych w Nadleœnictwie Sucha Panem Sebastianem Strzechem mo¿na skontaktowaæ siê poprzez e-mail: 
+2. Z Inspektorem ochrony danych w NadleÅ›nictwie Sucha Panem Sebastianem Strzechem moÅ¼na skontaktowaÄ‡ siÄ™ poprzez e-mail: 
 iod@comp-net.pl
-3. Cel przetwarzania oraz podstawê prawn¹ przetwarzania danych osobowych przedstawia tabela zawarta w za³¹czniku do pobrania pod artyku³em.
+3. Cel przetwarzania oraz podstawÄ™ prawnÄ… przetwarzania danych osobowych przedstawia tabela zawarta w zaÅ‚Ä…czniku do pobrania pod artykuÅ‚em.
 
 Okres przechowywania Twoich danych osobowych:
-Sposób tworzenia, ewidencjonowania i przechowywania dokumentów (w szczególnoœci czas przechowywania) w jednostkach organizacyjnych Pañstwowego Gospodarstwa Leœnego Lasy Pañstwowe okreœla Jednolitym rzeczowy wykaz akt dla PGL LP.
-Po zrealizowaniu umowy, Twoje dane osobowe bêd¹ przechowywane zgodnie z przepisami powszechnie obowi¹zuj¹cego prawa. Na potrzeby rachunkowoœci oraz ze wzglêdów podatkowych, przetwarzamy dane przez okres 5 lat liczonych od koñca roku kalendarzowego, w którym powsta³ obowi¹zek podatkowy. 
-Je¿eli dane by³y przez nas przetwarzane w celu ustalenia, dochodzenia lub obrony przed roszczeniami, przetwarzamy dane w tym celu przez okres przedawnienia roszczeñ, wynikaj¹cy z przepisów Kodeksu cywilnego. Jeœli toczy siê spór, proces s¹dowy lub trwa inne postêpowanie (szczególnie karne), okres archiwizacyjny bêdzie liczony od dnia prawomocnego zakoñczenia sporu, a w przypadku wielu postêpowañ prawomocnego zakoñczenia ostatniego z nich, bez wzglêdu na sposób jego zakoñczenia, chyba ¿e przepisy prawa przewiduj¹ d³u¿szy okres przechowywania danych lub d³u¿y okres przedawnienia dla roszczeñ/prawa, którego dotyczy postêpowanie. Je¿eli dane by³y zbierane na podstawie wyra¿onej uprzednio przez Ciebie zgody - bêdziemy przetwarzaæ te dane do czasu jej odwo³ania. 
-Jako pracodawca, jesteœmy obowi¹zani przechowywaæ dokumentacjê pracownicz¹. Akta pracowników zatrudnionych przed 1 stycznia 1999 r. – 50 lat, akta pracowników zatrudnionych po raz pierwszy w okresie od stycznia 1999 r. do grudnia 2018 r. – 50 lat, chyba ¿e przeka¿emy do ZUS oœwiadczenie ZUS OSW oraz raport informacyjny ZUS RIA – wówczas okres przechowywania wynosi 10 lat, akta pracowników nowo zatrudnionych od 1 stycznia 2019 r. – 10 lat od koñca roku kalendarzowego, w którym usta³ stosunek pracy.
+SposÃ³b tworzenia, ewidencjonowania i przechowywania dokumentÃ³w (w szczegÃ³lnoÅ›ci czas przechowywania) w jednostkach organizacyjnych PaÅ„stwowego Gospodarstwa LeÅ›nego Lasy PaÅ„stwowe okreÅ›la Jednolitym rzeczowy wykaz akt dla PGL LP.
+Po zrealizowaniu umowy, Twoje dane osobowe bÄ™dÄ… przechowywane zgodnie z przepisami powszechnie obowiÄ…zujÄ…cego prawa. Na potrzeby rachunkowoÅ›ci oraz ze wzglÄ™dÃ³w podatkowych, przetwarzamy dane przez okres 5 lat liczonych od koÅ„ca roku kalendarzowego, w ktÃ³rym powstaÅ‚ obowiÄ…zek podatkowy. 
+JeÅ¼eli dane byÅ‚y przez nas przetwarzane w celu ustalenia, dochodzenia lub obrony przed roszczeniami, przetwarzamy dane w tym celu przez okres przedawnienia roszczeÅ„, wynikajÄ…cy z przepisÃ³w Kodeksu cywilnego. JeÅ›li toczy siÄ™ spÃ³r, proces sÄ…dowy lub trwa inne postÄ™powanie (szczegÃ³lnie karne), okres archiwizacyjny bÄ™dzie liczony od dnia prawomocnego zakoÅ„czenia sporu, a w przypadku wielu postÄ™powaÅ„ prawomocnego zakoÅ„czenia ostatniego z nich, bez wzglÄ™du na sposÃ³b jego zakoÅ„czenia, chyba Å¼e przepisy prawa przewidujÄ… dÅ‚uÅ¼szy okres przechowywania danych lub dÅ‚uÅ¼y okres przedawnienia dla roszczeÅ„/prawa, ktÃ³rego dotyczy postÄ™powanie. JeÅ¼eli dane byÅ‚y zbierane na podstawie wyraÅ¼onej uprzednio przez Ciebie zgody - bÄ™dziemy przetwarzaÄ‡ te dane do czasu jej odwoÅ‚ania. 
+Jako pracodawca, jesteÅ›my obowiÄ…zani przechowywaÄ‡ dokumentacjÄ™ pracowniczÄ…. Akta pracownikÃ³w zatrudnionych przed 1 stycznia 1999 r. â€“ 50 lat, akta pracownikÃ³w zatrudnionych po raz pierwszy w okresie od stycznia 1999 r. do grudnia 2018 r. â€“ 50 lat, chyba Å¼e przekaÅ¼emy do ZUS oÅ›wiadczenie ZUS OSW oraz raport informacyjny ZUS RIA â€“ wÃ³wczas okres przechowywania wynosi 10 lat, akta pracownikÃ³w nowo zatrudnionych od 1 stycznia 2019 r. â€“ 10 lat od koÅ„ca roku kalendarzowego, w ktÃ³rym ustaÅ‚ stosunek pracy.
 
-W zakresie przetwarzania danych osobowych posiadasz nastêpuj¹ce prawa:
-•    dostêpu do treœci swoich danych – korzystaj¹c z tego prawa masz mo¿liwoœæ pozyskania informacji, jakie dane, w jaki sposób i w jakim celu s¹ przetwarzane;
-•   prawo ich sprostowania – korzystaj¹c z tego prawa mo¿esz zg³osiæ do nas koniecznoœæ poprawienia danych lub uzupe³nienia danych wynikaj¹cych z b³êdu przy zbieraniu;
-•   prawo do usuniêcia - korzystaj¹c z tego prawa, mo¿esz z³o¿yæ wniosek o usuniêcie danych i w przypadku zasadnoœci wniosku, dokonamy niezw³ocznego usuniêcia danych. Prawo to nie dotyczy jednak sytuacji gdy dane osobowe przetwarzane s¹ do celów zwi¹zanych z wywi¹zywaniem siê z prawnych obowi¹zków administratora lub do wykonania zadania realizowanego w interesie publicznym lub w ramach w³adzy publicznej powierzonej administratorowi;
-•    prawo do ograniczenia przetwarzania - korzystaj¹c z tego prawa mo¿esz z³o¿yæ wniosek o ograniczenie przetwarzania danych w razie kwestionowania prawid³owoœæ przetwarzanych danych, a w przypadku zasadnoœci wniosku mo¿emy dane jedynie przechowywaæ, wznowienie przetwarzania mo¿e odbyæ siê po ustaniu przes³anek uzasadniaj¹cych ograniczenie przetwarzania;
-•    prawo do przenoszenia danych – ma zastosowanie jedynie w przypadkach je¿eli dane s¹ przetwarzane na podstawie zgody i w sposób zautomatyzowany;
-•    prawo wniesienia sprzeciwu – korzystaj¹c z tego prawa mo¿esz w dowolnym momencie wnieœæ sprzeciw wobec przetwarzania Twoich danych, je¿eli s¹ one przetwarzane na podstawie art. 6 ust. 1 lit e lub f (prawnie uzasadniony interes lub interes publiczny). Po przyjêciu wniosku w tej sprawie, jesteœmy zobowi¹zani do zaprzestania przetwarzania danych w tym celu. W takiej sytuacji, po rozpatrzeniu Twojego wniosku, nie bêdziemy ju¿ mogli przetwarzaæ danych osobowych objêtych sprzeciwem na tej podstawie, chyba ¿e wyka¿emy, i¿ istniej¹ wa¿ne prawnie uzasadnione podstawy do przetwarzania danych, które wed³ug prawa uznaje siê za nadrzêdne wobec Twoich interesów, praw i wolnoœci lub podstawy do ustalenia, dochodzenia lub obrony roszczeñ;
-•    prawo do cofniêcia zgody na ich przetwarzanie - w dowolnym momencie bez wp³ywu na zgodnoœæ z prawem przetwarzania, w wypadku je¿eli przetwarzania którego dokonano na podstawie zgody wyra¿onej przed jej cofniêciem.
+W zakresie przetwarzania danych osobowych posiadasz nastÄ™pujÄ…ce prawa:
+â€¢Â Â Â  dostÄ™pu do treÅ›ci swoich danych â€“ korzystajÄ…c z tego prawa masz moÅ¼liwoÅ›Ä‡ pozyskania informacji, jakie dane, w jaki sposÃ³b i w jakim celu sÄ… przetwarzane;
+â€¢Â Â  prawo ich sprostowania â€“ korzystajÄ…c z tego prawa moÅ¼esz zgÅ‚osiÄ‡ do nas koniecznoÅ›Ä‡ poprawienia danych lub uzupeÅ‚nienia danych wynikajÄ…cych z bÅ‚Ä™du przy zbieraniu;
+â€¢Â Â  prawo do usuniÄ™cia - korzystajÄ…c z tego prawa, moÅ¼esz zÅ‚oÅ¼yÄ‡ wniosek o usuniÄ™cie danych i w przypadku zasadnoÅ›ci wniosku, dokonamy niezwÅ‚ocznego usuniÄ™cia danych. Prawo to nie dotyczy jednak sytuacji gdy dane osobowe przetwarzane sÄ… do celÃ³w zwiÄ…zanych z wywiÄ…zywaniem siÄ™ z prawnych obowiÄ…zkÃ³w administratora lub do wykonania zadania realizowanego w interesie publicznym lub w ramach wÅ‚adzy publicznej powierzonej administratorowi;
+â€¢Â Â Â  prawo do ograniczenia przetwarzania - korzystajÄ…c z tego prawa moÅ¼esz zÅ‚oÅ¼yÄ‡ wniosek o ograniczenie przetwarzania danych w razie kwestionowania prawidÅ‚owoÅ›Ä‡ przetwarzanych danych, a w przypadku zasadnoÅ›ci wniosku moÅ¼emy dane jedynie przechowywaÄ‡, wznowienie przetwarzania moÅ¼e odbyÄ‡ siÄ™ po ustaniu przesÅ‚anek uzasadniajÄ…cych ograniczenie przetwarzania;
+â€¢Â Â Â  prawo do przenoszenia danych â€“ ma zastosowanie jedynie w przypadkach jeÅ¼eli dane sÄ… przetwarzane na podstawie zgody i w sposÃ³b zautomatyzowany;
+â€¢Â Â Â  prawo wniesienia sprzeciwu â€“ korzystajÄ…c z tego prawa moÅ¼esz w dowolnym momencie wnieÅ›Ä‡ sprzeciw wobec przetwarzania Twoich danych, jeÅ¼eli sÄ… one przetwarzane na podstawie art. 6 ust. 1 lit e lub f (prawnie uzasadniony interes lub interes publiczny). Po przyjÄ™ciu wniosku w tej sprawie, jesteÅ›my zobowiÄ…zani do zaprzestania przetwarzania danych w tym celu. W takiej sytuacji, po rozpatrzeniu Twojego wniosku, nie bÄ™dziemy juÅ¼ mogli przetwarzaÄ‡ danych osobowych objÄ™tych sprzeciwem na tej podstawie, chyba Å¼e wykaÅ¼emy, iÅ¼ istniejÄ… waÅ¼ne prawnie uzasadnione podstawy do przetwarzania danych, ktÃ³re wedÅ‚ug prawa uznaje siÄ™ za nadrzÄ™dne wobec Twoich interesÃ³w, praw i wolnoÅ›ci lub podstawy do ustalenia, dochodzenia lub obrony roszczeÅ„;
+â€¢Â Â Â  prawo do cofniÄ™cia zgody na ich przetwarzanie - w dowolnym momencie bez wpÅ‚ywu na zgodnoÅ›Ä‡ z prawem przetwarzania, w wypadku jeÅ¼eli przetwarzania ktÃ³rego dokonano na podstawie zgody wyraÅ¼onej przed jej cofniÄ™ciem.
 
 Odbiorcy danych:
-W niektórych sytuacjach Twoje dane osobowe mog¹ byæ udostêpniane, jeœli bêdzie to konieczne do wykonywania ustawowych zadañ Administratora. Odbiorcami danych mog¹ byæ:
-•    banki w celu obs³ugi dokonywanych transakcji;
-•    Zak³ad Ubezpieczeñ Spo³ecznych;
-•    Urzêdy Skarbowe;
-•    Podmioty œwiadcz¹ce us³ugi pocztowe oraz kurierskie;
-•    Jednostki organizacyjne PGL Lasy Pañstwowe, uczestnicz¹ce w procedurach internetowych, prowadzonych poprzez dedykowane do tego celu: portal „e-drewno.pl” oraz Portal Leœno-Drzewny, oraz jednostkom uczestnicz¹cym w realizacji zakupów z wykorzystaniem „Centralnej kartoteki kontrahentów”; 
-•    Regionalna Dyrekcja Lasów Pañstwowych w zakresie czynnoœci kontroli i nadzoru oraz udzielenia zgody na zawarcie z Pañstwem umowy najmu, dzier¿awy oraz sprzeda¿y;
-•    Dyrekcja Generalna Lasów Pañstwowych w zakresie czynnoœci kontroli i nadzoru w oparciu o wewnêtrzne przepisy PGL LP;
-•    Biegli rewidenci w ramach badania sprawozdania finansowego;
-•  Osoby lub podmioty, którym udostêpniona zostanie informacja publiczna, informacja o œrodowisku lub dokumentacja postêpowania przetargowego;
-Dane mog¹ byæ równie¿ udostêpniane podmiotom, z którymi Administrator ma zawarte umowy powierzenia danych tj.:
-•    Zak³ad Informatyki Lasów Pañstwowych w zakresie utrzymania baz danych systemów informatycznych;
-•    Inne firmy informatyczne œwiadcz¹ce us³ugi oraz wsparcie techniczne;
-•    Radcy prawni œwiadcz¹cy obs³ugê prawn¹;
-•    Doradcy podatkowi;
-•    Firmy œwiadcz¹ce us³ugi ochrony osób i mienia;
-•    Firmy œwiadcz¹ce us³ugi zwi¹zane z prowadzeniem archiwum zak³adowego/sk³adnicy akt;
+W niektÃ³rych sytuacjach Twoje dane osobowe mogÄ… byÄ‡ udostÄ™pniane, jeÅ›li bÄ™dzie to konieczne do wykonywania ustawowych zadaÅ„ Administratora. Odbiorcami danych mogÄ… byÄ‡:
+â€¢Â Â Â  banki w celu obsÅ‚ugi dokonywanych transakcji;
+â€¢Â Â Â  ZakÅ‚ad UbezpieczeÅ„ SpoÅ‚ecznych;
+â€¢Â Â Â  UrzÄ™dy Skarbowe;
+â€¢Â Â Â  Podmioty Å›wiadczÄ…ce usÅ‚ugi pocztowe oraz kurierskie;
+â€¢Â Â Â  Jednostki organizacyjne PGL Lasy PaÅ„stwowe, uczestniczÄ…ce w procedurach internetowych, prowadzonych poprzez dedykowane do tego celu: portal â€e-drewno.plâ€ oraz Portal LeÅ›no-Drzewny, oraz jednostkom uczestniczÄ…cym w realizacji zakupÃ³w z wykorzystaniem â€Centralnej kartoteki kontrahentÃ³wâ€; 
+â€¢Â Â Â  Regionalna Dyrekcja LasÃ³w PaÅ„stwowych w zakresie czynnoÅ›ci kontroli i nadzoru oraz udzielenia zgody na zawarcie z PaÅ„stwem umowy najmu, dzierÅ¼awy oraz sprzedaÅ¼y;
+â€¢Â Â Â  Dyrekcja Generalna LasÃ³w PaÅ„stwowych w zakresie czynnoÅ›ci kontroli i nadzoru w oparciu o wewnÄ™trzne przepisy PGL LP;
+â€¢Â Â Â  Biegli rewidenci w ramach badania sprawozdania finansowego;
+â€¢Â  Osoby lub podmioty, ktÃ³rym udostÄ™pniona zostanie informacja publiczna, informacja o Å›rodowisku lub dokumentacja postÄ™powania przetargowego;
+Dane mogÄ… byÄ‡ rÃ³wnieÅ¼ udostÄ™pniane podmiotom, z ktÃ³rymi Administrator ma zawarte umowy powierzenia danych tj.:
+â€¢Â Â Â  ZakÅ‚ad Informatyki LasÃ³w PaÅ„stwowych w zakresie utrzymania baz danych systemÃ³w informatycznych;
+â€¢Â Â Â  Inne firmy informatyczne Å›wiadczÄ…ce usÅ‚ugi oraz wsparcie techniczne;
+â€¢Â Â Â  Radcy prawni Å›wiadczÄ…cy obsÅ‚ugÄ™ prawnÄ…;
+â€¢Â Â Â  Doradcy podatkowi;
+â€¢Â Â Â  Firmy Å›wiadczÄ…ce usÅ‚ugi ochrony osÃ³b i mienia;
+â€¢Â Â Â  Firmy Å›wiadczÄ…ce usÅ‚ugi zwiÄ…zane z prowadzeniem archiwum zakÅ‚adowego/skÅ‚adnicy akt;
 
-Pozyskiwanie danych z innych Ÿróde³:
-W niektórych sytuacjach, mo¿emy pozyskiwaæ Twoje dane z innych Ÿróde³ ni¿ bezpoœrednio od Ciebie:
-•    W ramach organizacji sta¿u leœnego dane s¹ pozyskiwane od Regionalnej Dyrekcji Lasów Pañstwowych, która deleguje osoby na sta¿e do Nadleœnictwa;
-•    W przypadku postêpowania windykacyjnego dane mo¿emy pozyskaæ od komornika;
-•    W ramach organizacji praktyk studenckich czy uczniowskich, dane pozyskujemy z uczelni lub szko³y, która deleguje na praktyki;
-•    W ramach organizacji zajêæ edukacyjnych mo¿emy pozyskaæ dane od szko³y lub instytucji zg³aszaj¹cej uczestnictwo w zajêciach i konkursie;
-•    W ramach prowadzenia nadzoru na lasami niepañstwowymi, dane pozyskujemy od Starosty Powiatu;
-•    W ramach realizacji zadañ zwi¹zanych z ³owiectwem dane mo¿emy pozyskaæ z ko³a ³owieckiego, którego cz³onkiem jest osoba;
-•    W ramach prawa pierwokupu przys³uguj¹cemu na mocy art. 37 a, ustawy z dnia 28 wrzeœnia 1991 r. o lasach, dane pozyskujemy od notariuszy, u których zawierana jest umowa przedwstêpna kupna sprzeda¿y gruntu.
+Pozyskiwanie danych z innych ÅºrÃ³deÅ‚:
+W niektÃ³rych sytuacjach, moÅ¼emy pozyskiwaÄ‡ Twoje dane z innych ÅºrÃ³deÅ‚ niÅ¼ bezpoÅ›rednio od Ciebie:
+â€¢Â Â Â  W ramach organizacji staÅ¼u leÅ›nego dane sÄ… pozyskiwane od Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych, ktÃ³ra deleguje osoby na staÅ¼e do NadleÅ›nictwa;
+â€¢Â Â Â  W przypadku postÄ™powania windykacyjnego dane moÅ¼emy pozyskaÄ‡ od komornika;
+â€¢Â Â Â  W ramach organizacji praktyk studenckich czy uczniowskich, dane pozyskujemy z uczelni lub szkoÅ‚y, ktÃ³ra deleguje na praktyki;
+â€¢Â Â Â  W ramach organizacji zajÄ™Ä‡ edukacyjnych moÅ¼emy pozyskaÄ‡ dane od szkoÅ‚y lub instytucji zgÅ‚aszajÄ…cej uczestnictwo w zajÄ™ciach i konkursie;
+â€¢Â Â Â  W ramach prowadzenia nadzoru na lasami niepaÅ„stwowymi, dane pozyskujemy od Starosty Powiatu;
+â€¢Â Â Â  W ramach realizacji zadaÅ„ zwiÄ…zanych z Å‚owiectwem dane moÅ¼emy pozyskaÄ‡ z koÅ‚a Å‚owieckiego, ktÃ³rego czÅ‚onkiem jest osoba;
+â€¢Â Â Â  W ramach prawa pierwokupu przysÅ‚ugujÄ…cemu na mocy art. 37 a, ustawy z dnia 28 wrzeÅ›nia 1991 r. o lasach, dane pozyskujemy od notariuszy, u ktÃ³rych zawierana jest umowa przedwstÄ™pna kupna sprzedaÅ¼y gruntu.
 
-Masz prawo wniesienia skargi do Prezesa Urzêdu Ochrony Danych Osobowych, gdy uznasz, ¿e przetwarzanie Twoich danych osobowych narusza przepisy prawa.
-Podanie przez Ciebie danych osobowych jest dobrowolne, ale konieczne dla celów przedstawionych w tabeli za wyj¹tkiem celów wynikaj¹cych z przepisów prawa gdzie podanie danych jest obowi¹zkowe. 
-Niepodanie danych osobowych bêdzie skutkowa³o niezrealizowaniem celu, dla którego mia³y byæ przetwarzane.
-Twoje dane nie bêd¹ podlegaæ zautomatyzowanemu podejmowaniu decyzji, w tym równie¿ w formie profilowania oraz nie bêd¹ przekazywane do pañstwa trzeciego lub organizacji miêdzynarodowej. 
-
-
+Masz prawo wniesienia skargi do Prezesa UrzÄ™du Ochrony Danych Osobowych, gdy uznasz, Å¼e przetwarzanie Twoich danych osobowych narusza przepisy prawa.
+Podanie przez Ciebie danych osobowych jest dobrowolne, ale konieczne dla celÃ³w przedstawionych w tabeli za wyjÄ…tkiem celÃ³w wynikajÄ…cych z przepisÃ³w prawa gdzie podanie danych jest obowiÄ…zkowe. 
+Niepodanie danych osobowych bÄ™dzie skutkowaÅ‚o niezrealizowaniem celu, dla ktÃ³rego miaÅ‚y byÄ‡ przetwarzane.
+Twoje dane nie bÄ™dÄ… podlegaÄ‡ zautomatyzowanemu podejmowaniu decyzji, w tym rÃ³wnieÅ¼ w formie profilowania oraz nie bÄ™dÄ… przekazywane do paÅ„stwa trzeciego lub organizacji miÄ™dzynarodowej. 
 
 
 
@@ -190,7 +184,9 @@ Twoje dane nie bêd¹ podlegaæ zautomatyzowanemu podejmowaniu decyzji, w tym równi
 
 
 
-Pliki do pobrania - lista za³¹czników
+
+
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -205,6 +201,9 @@ Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych (1.0MB)
 
 
 
+.PDF
+
+ogÅ‚oszenie o przetargu ustnym nieograniczonym na sprzedaÅ¼ Å›rodka trwaÅ‚ego stanowiÄ…cego wÅ‚asnoÅ›Ä‡ NadleÅ›nictwa Sucha (1.0MB)
 
 
 
@@ -217,13 +216,19 @@ Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
- mgr in¿. Tadeusz Kosman
 
-Data modyfikacji: 2019/09/27 14:14:51
-Redaktor zatwierdzaj¹cy: Ma³gorzata Murañska
-Wprowadzaj¹cy: Ma³gorzata Murañska
-Deklaracja Dostêpnoœci
+
+
+
+
+
+Osoba odpowiedzialna za treÅ›Ä‡:
+ mgr inÅ¼. Tadeusz Kosman
+
+Data modyfikacji: 2020/10/08 14:08:51
+Redaktor zatwierdzajÄ…cy: MaÅ‚gorzata MuraÅ„ska
+WprowadzajÄ…cy: MaÅ‚gorzata MuraÅ„ska
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

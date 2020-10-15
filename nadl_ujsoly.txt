@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
-wx_dg~rdlp_katowice~nadl_ujsoly
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Ujso³y
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ UjsoÅ‚y
 
 
 wyszukaj w BIP
@@ -108,30 +104,30 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Ujso³y
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ UjsoÅ‚y
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
- 
- 
- 
- Nadleœnictwo Ujso³y nie przechowuje danych osobowych zwi¹zanych z rekrutacj¹.
+Komunikaty i ogÅ‚oszenia
+
+
+
+
+Â 
+Â 
+Â 
+Â NadleÅ›nictwo UjsoÅ‚y nie przechowuje danych osobowych zwiÄ…zanych z rekrutacjÄ….
 
 
 
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -148,7 +144,7 @@ Informacja RODO (2.0MB)
 
 .OCX
 
-Cennik na drewno obowi¹zuj¹cy w roku 2019 (1.0MB)
+Cennik na drewno obowiÄ…zujÄ…cy w roku 2019 (1.0MB)
 
 
 
@@ -157,7 +153,7 @@ Cennik na drewno obowi¹zuj¹cy w roku 2019 (1.0MB)
 
 .PDF
 
-Og³oszenie o przetargu na sprzeda¿ samochodu Mitsubishi Pajero (1.0MB)
+OgÅ‚oszenie o przetargu na sprzedaÅ¼ samochodu Mitsubishi Pajero (1.0MB)
 
 
 
@@ -175,7 +171,43 @@ wycena samochodu Mitsubishi Pajero (1.0MB)
 
 .PDF
 
-Wynik przetargu na sprzeda¿ Mitsubishi Pajero (1.0MB)
+Wynik przetargu na sprzedaÅ¼ Mitsubishi Pajero (1.0MB)
+
+
+
+
+
+
+.PDF
+
+OgÅ‚oszenie o pisemnym przetargu na sprzedaÅ¼ samochodu Land Rover Defender (1.0MB)
+
+
+
+
+
+
+.PDF
+
+OgÅ‚oszenie o pisemnym przetargu na sprzedaÅ¼ samochodu Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Wycena samochodu Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Wycena samochodu Land Rover Defender (1.0MB)
 
 
 
@@ -194,13 +226,13 @@ Wynik przetargu na sprzeda¿ Mitsubishi Pajero (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-dr in¿. Piotr Olesiak - Nadleœniczy Nadleœnictwa Ujso³y
+Osoba odpowiedzialna za treÅ›Ä‡:
+dr inÅ¼. Piotr Olesiak - NadleÅ›niczy NadleÅ›nictwa UjsoÅ‚y
 
-Data modyfikacji: 2020/09/15 10:32:09
-Redaktor zatwierdzaj¹cy: Iwona Kocoñ
-Wprowadzaj¹cy: Iwona Kocoñ
-Deklaracja Dostêpnoœci
+Data modyfikacji: 2020/10/12 13:14:55
+Redaktor zatwierdzajÄ…cy: Iwona KocoÅ„
+WprowadzajÄ…cy: Iwona KocoÅ„
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

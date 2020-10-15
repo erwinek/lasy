@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_herby
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Herby
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Herby
 
 
 wyszukaj w BIP
@@ -108,43 +108,43 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Herby
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Herby
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
-Komunikaty i og³oszenia
+
+
+Komunikaty i ogÅ‚oszenia
 
 
 
 
 ----------------------------------------------------------------------------------------------------------
-Postêpowania o wartoœci do 30 000 euro. 
+PostÄ™powania o wartoÅ›ci do 30 000 euro. 
  
 
 
-Postêpowania o wartoœci podprogowej przeprowadzane s¹ na podstawie wewnêtrznego Regulaminu stanowi¹cego za³¹cznik do Zarz¹dzenia nr 17/2017 Nadleœniczego Nadleœnictwa Herby z dn. 28.12.2017.
+PostÄ™powania o wartoÅ›ci podprogowej przeprowadzane sÄ… na podstawie wewnÄ™trznego Regulaminu stanowiÄ…cego zaÅ‚Ä…cznik do ZarzÄ…dzenia nr 17/2017 NadleÅ›niczego NadleÅ›nictwa Herby z dn. 28.12.2017.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
- 
+Â 
+Â 
 -----------------------------------------------------------------------------------------------------------
- Informacja o terminach sprzeda¿y detalicznej w Nadleœnictwie Herby
- 
-1.      Sprzeda¿ drewna w biurze Nadleœnictwa Herby odbywa siê od poniedzia³ku do pi¹tku w godzinach 7:30 – 13:30.
-2.      Sprzeda¿ drewna w Leœnictwach odbywa siê zgodnie z poni¿szym harmonogramem:
- 
+Â Informacja o terminach sprzedaÅ¼y detalicznej w NadleÅ›nictwie Herby
+Â 
+1.Â Â Â Â Â  SprzedaÅ¼ drewna w biurze NadleÅ›nictwa Herby odbywa siÄ™ od poniedziaÅ‚ku do piÄ…tku w godzinach 7:30 â€“ 13:30.
+2.Â Â Â Â Â  SprzedaÅ¼ drewna w LeÅ›nictwach odbywa siÄ™ zgodnie z poniÅ¼szym harmonogramem:
+Â 
 
 
 
 
 
-Leœnictwo:
+LeÅ›nictwo:
 
 
-Sprzeda¿ drewna w leœnictwach
+SprzedaÅ¼ drewna w leÅ›nictwach
 
 
 Wydawanie drewna
@@ -155,12 +155,12 @@ Wydawanie drewna
 Blachownia
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
-Czynnoœci zwi¹zane
-z wydawaniem drewna odbywaj¹ siê od poniedzia³ku do pi¹tku 
-            w godzinach 7:30 – 14:00 po uprzednim uzgodnieniu z leœniczym.
+CzynnoÅ›ci zwiÄ…zane
+z wydawaniem drewna odbywajÄ… siÄ™ od poniedziaÅ‚ku do piÄ…tkuÂ 
+            w godzinach 7:30 â€“ 14:00 po uprzednim uzgodnieniu z leÅ›niczym.
 
 
 
@@ -168,7 +168,7 @@ z wydawaniem drewna odbywaj¹ siê od poniedzia³ku do pi¹tku 
 Trzepizury
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -176,7 +176,7 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Jezioro
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -184,7 +184,7 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Herby
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -192,7 +192,7 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Aleksandria
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -200,7 +200,7 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Hutki
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -208,31 +208,31 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Kuleje
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
 
-£ebki
+Åebki
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
-
-
-
-
-Po³amaniec
-
-
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
 
-Lisów
+PoÅ‚amaniec
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
+
+
+
+
+LisÃ³w
+
+
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -240,7 +240,7 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Lubockie
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
@@ -248,28 +248,22 @@ Poniedzia³ek w godz. 8:00 – 9:00
 Kochanowice
 
 
-Poniedzia³ek w godz. 8:00 – 9:00
+PoniedziaÅ‚ek w godz. 8:00 â€“ 9:00
 
 
 
 
 
- 
-Termin sprzeda¿y detalicznej mo¿na równie¿ uzgadniaæ telefonicznie z leœniczymi.
-W miesi¹cu grudniu leœnictwa prowadz¹ sprzeda¿ choinek œwierkowych.
- 
-Wiêcej informacji dotycz¹cych sprzeda¿y drewna oraz informacje o aktualnych cenach drewna mo¿na uzyskaæ u mgr in¿. Marka Kostempskiego – tel. 034-357-40-09, 357-40-49, wew. 331.
-Pod tym numerem telefonu mo¿na równie¿ uzyskaæ informacje na temat portalu leœno-drzewnego oraz serwisu e-drewno.
-  
- 
+Â 
+Termin sprzedaÅ¼y detalicznej moÅ¼na rÃ³wnieÅ¼ uzgadniaÄ‡ telefonicznie z leÅ›niczymi.
+W miesiÄ…cu grudniu leÅ›nictwa prowadzÄ… sprzedaÅ¼ choinek Å›wierkowych.
+Â 
+WiÄ™cej informacji dotyczÄ…cych sprzedaÅ¼y drewna oraz informacje o aktualnych cenach drewna moÅ¼na uzyskaÄ‡ u mgr inÅ¼.Â Marka KostempskiegoÂ â€“ tel. 034-357-40-09, 357-40-49, wew. 331.
+Pod tym numerem telefonu moÅ¼na rÃ³wnieÅ¼ uzyskaÄ‡ informacje na temat portalu leÅ›no-drzewnego oraz serwisu e-drewno.
+Â Â 
+Â 
 
- 
-
-
-
-
-
-
+Â 
 
 
 
@@ -285,14 +279,20 @@ Pod tym numerem telefonu mo¿na równie¿ uzyskaæ informacje na temat portalu leœno
 
 
 
-Deklaracja Dostêpnoœci Cyfrowej
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Robert Gorzelak
+
+
+
+
+
+
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Robert Gorzelak
 
 Data modyfikacji: 2020/07/02 12:53:15
-Redaktor zatwierdzaj¹cy: Amadeusz Szynka
-Wprowadzaj¹cy: kdaniel
+Redaktor zatwierdzajÄ…cy: Amadeusz Szynka
+WprowadzajÄ…cy: Krzysztof Daniel
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

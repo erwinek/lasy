@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_tulowice
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Tu³owice             
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ TuÅ‚owice             
 
 
 wyszukaj w BIP
@@ -108,110 +108,110 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Tu³owice             
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ TuÅ‚owice             
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
+Komunikaty i ogÅ‚oszenia
 
- 
- Sprzeda¿ drewna dla ludnoœci prowadzona jest w Biurze Nadleœnictwa
-oraz w siedzibach Leœnictw od dnia 6-go do koñca ka¿dego miesi¹ca.
-Szczegó³owe informacje mo¿na uzyskaæ po nr telefonu 0/77/4600109.
 
- Na dole strony do pobrania obowi¹zuj¹cy cennik detaliczny na drewno.
 
-Nadleœnictwo Tu³owice informuje, ¿e wprowadzi³o ograniczenie funkcjonowania biura Nadleœnictwa oraz kancelarii leœnictw zwi¹zanych z przeciwdzia³aniem rozprzestrzenianiu siê koronawirusa Zarz¹dzeniem nr 15/2020 Nadleœniczego Nadleœnictwa Tu³owice z dnia 16.03.2020 r.
- Pe³na treœæ zarz¹dzenia do pobrana na dole strony lub do przeczytania pod adresem:
+
+
+Â 
+Â SprzedaÅ¼ drewna dla ludnoÅ›ci prowadzona jest w Biurze NadleÅ›nictwa
+oraz w siedzibach LeÅ›nictw od dnia 6-go do koÅ„ca kaÅ¼dego miesiÄ…ca.
+SzczegÃ³Å‚owe informacje moÅ¼na uzyskaÄ‡ po nr telefonu 0/77/4600109.
+
+Â Na dole strony do pobrania obowiÄ…zujÄ…cy cennik detaliczny na drewno.
+
+NadleÅ›nictwo TuÅ‚owice informuje, Å¼e wprowadziÅ‚o ograniczenie funkcjonowania biura NadleÅ›nictwa oraz kancelarii leÅ›nictw zwiÄ…zanych z przeciwdziaÅ‚aniem rozprzestrzenianiu siÄ™ koronawirusa ZarzÄ…dzeniem nr 15/2020 NadleÅ›niczego NadleÅ›nictwa TuÅ‚owice z dnia 16.03.2020 r.
+Â PeÅ‚na treÅ›Ä‡ zarzÄ…dzenia do pobrana na dole strony lub do przeczytania pod adresem:
 https://tulowice.katowice.lasy.gov.pl/aktualnosci/-/asset_publisher/1M8a/content/wazna-informacja
- 
- 
+Â 
+Â 
 
-Nadleœnictwo Tu³owice informuje, ¿e wprowadzi³o zarz¹dzeniem nr 4/2020 "Regulamin korzystania z dróg leœnych na terenie Nadleœnictwa Tu³owice" oraz zarz¹dzeniem nr 5/2020 "Regulamin korzystania z leœnych dróg udostêpnionych do ruchu publicznego dla pojazdów silnikowych, zaprzêgowych i motorowerów na terenie Nadleœnictwa Tu³owice".
- 
-Pe³na treœæ zarz¹dzeñ do pobrania na dole strony.
-           
+NadleÅ›nictwo TuÅ‚owice informuje, Å¼e wprowadziÅ‚o zarzÄ…dzeniem nr 4/2020 "Regulamin korzystania z drÃ³g leÅ›nych na terenie NadleÅ›nictwa TuÅ‚owice" oraz zarzÄ…dzeniem nr 5/2020 "Regulamin korzystania z leÅ›nych drÃ³g udostÄ™pnionych do ruchu publicznego dla pojazdÃ³w silnikowych, zaprzÄ™gowych i motorowerÃ³w na terenie NadleÅ›nictwa TuÅ‚owice".
+Â 
+PeÅ‚na treÅ›Ä‡ zarzÄ…dzeÅ„ do pobrania na dole strony.
+Â Â Â Â Â Â Â Â Â Â Â 
 
- 
- 
-Tu³owice, dnia 10.06.2019 r.
+Â 
+Â 
+TuÅ‚owice, dnia 10.06.2019 r.
  
- 
+Â 
  
-OG£OSZENIE O ZAMIARZE PODDANIA BADANIU SPRAWOZDANIA FINANSOWEGO
+OGÅOSZENIE O ZAMIARZE PODDANIA BADANIU SPRAWOZDANIA FINANSOWEGO
  
 za 2019 rok
  
-(Nie jest dokonywane w trybie zamówieñ publicznych. Ustawa z dnia 29 stycznia 2004 r. Prawo zamówieñ publicznych nie ma zastosowania - vide art. 4 pkt 8)
+(Nie jest dokonywane w trybie zamÃ³wieÅ„ publicznych. Ustawa z dnia 29 stycznia 2004 r. Prawo zamÃ³wieÅ„ publicznych nie ma zastosowania - vide art. 4 pkt 8)
  
- 
+Â 
  
-Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Tu³owice ma zamiar poddaæ badaniu przez bieg³ego rewidenta sprawozdanie finansowe Nadleœnictwa Tu³owice za rok 2019. 
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo TuÅ‚owice ma zamiar poddaÄ‡ badaniu przez biegÅ‚ego rewidenta sprawozdanie finansowe NadleÅ›nictwa TuÅ‚owice za rok 2019. 
  
-Nadleœnictwo nie posiada samodzielnych zak³adów. 
+NadleÅ›nictwo nie posiada samodzielnych zakÅ‚adÃ³w. 
  
- 
+Â 
  
-Zainteresowanych uprzejmie prosimy o podanie ceny za przeprowadzenie badania sprawozdania finansowego, zakoñczonego opini¹ i raportem oraz danych o firmie wraz ze wskazaniem na doœwiadczenie w badaniu sprawozdañ finansowych, a w przypadku uprawnionych podmiotów, równie¿ wskazanie nazwisk bieg³ych rewidentów. 
+Zainteresowanych uprzejmie prosimy o podanie ceny za przeprowadzenie badania sprawozdania finansowego, zakoÅ„czonego opiniÄ… i raportem oraz danych o firmie wraz ze wskazaniem na doÅ›wiadczenie w badaniu sprawozdaÅ„ finansowych, a w przypadku uprawnionych podmiotÃ³w, rÃ³wnieÅ¼ wskazanie nazwisk biegÅ‚ych rewidentÃ³w. 
  
- 
+Â 
  
-Powy¿sze dane mo¿na przekazaæ na adres: 
+PowyÅ¼sze dane moÅ¼na przekazaÄ‡ na adres: 
  
-1) PGL LP Nadleœnictwo Tu³owice, ul. Parkowa 14/14a, 49-130 Tu³owice 
+1) PGL LP NadleÅ›nictwo TuÅ‚owice, ul. Parkowa 14/14a, 49-130 TuÅ‚owice 
  
-2) lub poczn¹ elektroniczn¹: agata.kubow@katowice.lasy.gov.pl, 
+2) lub pocznÄ… elektronicznÄ…: agata.kubow@katowice.lasy.gov.pl, 
  
- 
+Â 
  
-Jednostki PGL Lasy Pañstwowe dzia³aj¹ w oparciu o: 
+Jednostki PGL Lasy PaÅ„stwowe dziaÅ‚ajÄ… w oparciu o: 
  
-- ustawê z dnia 28 wrzeœnia 1991 r. o lasach (tekst jednolity Dz.U. z 2018 r., poz. 2129), 
+- ustawÄ™ z dnia 28 wrzeÅ›nia 1991 r. o lasach (tekst jednolity Dz.U. z 2018 r., poz. 2129), 
  
-- Rozporz¹dzenie Rady Ministrów z dnia 6 grudnia 1994 r. w sprawie szczegó³owych zasad gospodarki finansowej w Pañstwowych Gospodarstwie Leœnym Lasy Pañstwowe (Dz.U. Nr 134, poz. 692), 
+- RozporzÄ…dzenie Rady MinistrÃ³w z dnia 6 grudnia 1994 r. w sprawie szczegÃ³Å‚owych zasad gospodarki finansowej w PaÅ„stwowych Gospodarstwie LeÅ›nym Lasy PaÅ„stwowe (Dz.U. Nr 134, poz. 692), 
  
-- Statut Pañstwowego Gospodarstwa Leœnego Lasy Pañstwowe, nadany przez Ministra Ochrony Œrodowiska, Zasobów Naturalnych i Leœnictwa Zarz¹dzeniem Nr 50 z dnia 18 maja 1994 r. (dostêpny na stronie internetowej www.lp.gov.pl ). 
+- Statut PaÅ„stwowego Gospodarstwa LeÅ›nego Lasy PaÅ„stwowe, nadany przez Ministra Ochrony Åšrodowiska, ZasobÃ³w Naturalnych i LeÅ›nictwa ZarzÄ…dzeniem Nr 50 z dnia 18 maja 1994 r. (dostÄ™pny na stronie internetowej www.lp.gov.pl ). 
  
- 
+Â 
  
-Termin sk³adania ofert do 15.07.2019 r. 
+Termin skÅ‚adania ofert do 15.07.2019 r. 
  
-Podstawowe wymogi dotycz¹ce badania i zawartoœci raportu z badania sprawozdania finansowego: 
+Podstawowe wymogi dotyczÄ…ce badania i zawartoÅ›ci raportu z badania sprawozdania finansowego: 
  
-1. Jednoznaczna ocena dotycz¹ca poprawnoœci m.in.: 
+1. Jednoznaczna ocena dotyczÄ…ca poprawnoÅ›ci m.in.: 
  
 - systemu ewidencji, 
  
-- systemu kontroli wewnêtrznej, 
+- systemu kontroli wewnÄ™trznej, 
  
-- inwentaryzacji, w tym zw³aszcza spe³nienie wymogów ustawowych dotycz¹cych terminów, zakresu, metod inwentaryzacji, itp.; 
+- inwentaryzacji, w tym zwÅ‚aszcza speÅ‚nienie wymogÃ³w ustawowych dotyczÄ…cych terminÃ³w, zakresu, metod inwentaryzacji, itp.; 
  
-2. Analiza i ocena sytuacji maj¹tkowej, finansowej oraz wyniku finansowego (nie powinna zawieraæ nadmiaru danych liczbowych, które s¹ zawarte w sprawozdaniu finansowym, natomiast ocena powinna wyjaœniaæ wyniki, które wp³ynê³y na zmiany podstawowych wielkoœci finansowych, ich dynamiki, struktury, itp.); 
+2. Analiza i ocena sytuacji majÄ…tkowej, finansowej oraz wyniku finansowego (nie powinna zawieraÄ‡ nadmiaru danych liczbowych, ktÃ³re sÄ… zawarte w sprawozdaniu finansowym, natomiast ocena powinna wyjaÅ›niaÄ‡ wyniki, ktÃ³re wpÅ‚ynÄ™Å‚y na zmiany podstawowych wielkoÅ›ci finansowych, ich dynamiki, struktury, itp.); 
  
-3. Jednoznaczna ocena poszczególnych pozycji aktywów, pasywów oraz przychodów i kosztów co do ich poprawnoœci wynikaj¹cej z ewidencji potwierdzonej inwentaryzacj¹. 
+3. Jednoznaczna ocena poszczegÃ³lnych pozycji aktywÃ³w, pasywÃ³w oraz przychodÃ³w i kosztÃ³w co do ich poprawnoÅ›ci wynikajÄ…cej z ewidencji potwierdzonej inwentaryzacjÄ…. 
  
-4. Ocena dokumentacji ksiêgowej co do jej poprawnoœci i rzetelnoœci; 
+4. Ocena dokumentacji ksiÄ™gowej co do jej poprawnoÅ›ci i rzetelnoÅ›ci; 
  
-5. Analiza oraz ocena przep³ywów pieniê¿nych i zmian w kapita³ach (funduszach) w³asnych; 
+5. Analiza oraz ocena przepÅ‚ywÃ³w pieniÄ™Å¼nych i zmian w kapitaÅ‚ach (funduszach) wÅ‚asnych; 
  
-6. Ocena kompletnoœci informacji dodatkowej; 
+6. Ocena kompletnoÅ›ci informacji dodatkowej; 
  
- 
+Â 
  
-Badaniu poddane zostan¹ równie¿ dane dot. podatku dochodowego od osób prawnych. Informujemy, ¿e dzia³alnoœæ leœna (podstawowa dzia³alnoœæ nadleœnictw), rolna (wystêpuje w ograniczonym zakresie) i rybacka (podstawowa dzia³alnoœæ gospodarstw rybackich) wy³¹czone s¹ z opodatkowania na podstawie art. 2 ustawy o podatku dochodowym od osób prawnych. Ustalenia dotycz¹ce ww. podatku winny byæ równie¿ opisane w raporcie z badania sprawozdania finansowego. 
+Badaniu poddane zostanÄ… rÃ³wnieÅ¼ dane dot. podatku dochodowego od osÃ³b prawnych. Informujemy, Å¼e dziaÅ‚alnoÅ›Ä‡ leÅ›na (podstawowa dziaÅ‚alnoÅ›Ä‡ nadleÅ›nictw), rolna (wystÄ™puje w ograniczonym zakresie) i rybacka (podstawowa dziaÅ‚alnoÅ›Ä‡ gospodarstw rybackich) wyÅ‚Ä…czone sÄ… z opodatkowania na podstawie art. 2 ustawy o podatku dochodowym od osÃ³b prawnych. Ustalenia dotyczÄ…ce ww. podatku winny byÄ‡ rÃ³wnieÅ¼ opisane w raporcie z badania sprawozdania finansowego. 
  
-Badanie przeprowadzone zostanie w siedzibie jednostki i powinno byæ zakoñczone do dnia 20 lutego 2020 r. 
+Badanie przeprowadzone zostanie w siedzibie jednostki i powinno byÄ‡ zakoÅ„czone do dnia 20 lutego 2020 r. 
  
-Szczegó³owych informacji udziela– tel.: Ksiêgowa Agata Kubów – 77/460 01 09. 
- Niniejsze og³oszenie podaje siê do publicznej wiadomoœci na okres od 10.06.2019 r. do 15.07.2019 r.
+SzczegÃ³Å‚owych informacji udzielaâ€“ tel.: KsiÄ™gowa Agata KubÃ³w â€“ 77/460 01 09. 
+ Niniejsze ogÅ‚oszenie podaje siÄ™ do publicznej wiadomoÅ›ci na okres od 10.06.2019 r. do 15.07.2019 r.
 
 
 
@@ -219,7 +219,7 @@ Szczegó³owych informacji udziela– tel.: Ksiêgowa Agata Kubów – 77/460 01 09.
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -282,13 +282,13 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf (3.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-Wies³aw Skrzypek
+Osoba odpowiedzialna za treÅ›Ä‡:
+WiesÅ‚aw Skrzypek
 
 Data modyfikacji: 2020/07/22 15:09:57
-Redaktor zatwierdzaj¹cy: 
-Wprowadzaj¹cy: Grzegorz Mazurek
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: 
+WprowadzajÄ…cy: Grzegorz Mazurek
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

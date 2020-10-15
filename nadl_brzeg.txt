@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,24 +67,24 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
 0
 Logowanie
@@ -93,8 +93,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Brzeg
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Brzeg
 
 
 wyszukaj w BIP
@@ -104,38 +104,46 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Brzeg
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Brzeg
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
- 
-Godziny pracy Biura Nadleœnictwa Brzeg
-poniedzia³ek – pi¹tek
+Komunikaty i ogÅ‚oszenia
+
+
+
+
+Â 
+Godziny pracy Biura NadleÅ›nictwa Brzeg
+poniedziaÅ‚ek â€“ piÄ…tek
 od godziny 7:00 do 15:00
-Skargi i Wnioski przyjmuj¹:
-Nadleœniczy i Zastêpca Nadleœniczego
-w ka¿dy poniedzia³ek w godz. 12:00 – 15:30
+Skargi i Wnioski przyjmujÄ…:
+NadleÅ›niczy i ZastÄ™pca NadleÅ›niczego
+w kaÅ¼dy poniedziaÅ‚ek w godz. 12:00 â€“ 15:30
+Â 
 
-Nadleœnictwo Brzeg og³asza przetarg pisemny nieograniczony na sprzeda¿ samochodu TOYOTA RAV4.
-Treœæ og³oszenia wraz z za³¹cznikami do pobrania poni¿ej.
+NadleÅ›nictwo Brzeg ogÅ‚asza przetarg pisemny nieograniczony na sprzedaÅ¼ samochodu TOYOTA RAV4.
+Â 
+TreÅ›Ä‡ ogÅ‚oszenia wraz z zaÅ‚Ä…cznikami do pobrania poniÅ¼ej.
 
- 
+Â 
+
+NadleÅ›nictwo Brzeg ogÅ‚asza przetarg pisemny nieograniczony na sprzedaÅ¼ samochodu MITSUBISHI L200.
+Â 
+TreÅ›Ä‡ ogÅ‚oszenia wraz z zaÅ‚Ä…cznikami do pobrania poniÅ¼ej.
+
+Â 
 
 
 
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -143,7 +151,7 @@ Pliki do pobrania - lista za³¹czników
 
 .DOC
 
-Og³oszenie o przetargu Toyota RAV4 (1.0MB)
+OgÅ‚oszenie o przetargu Toyota RAV4 (1.0MB)
 
 
 
@@ -152,7 +160,7 @@ Og³oszenie o przetargu Toyota RAV4 (1.0MB)
 
 .PDF
 
-Og³oszenie o przetargu Toyota RAV4 (2.0MB)
+OgÅ‚oszenie o przetargu Toyota RAV4 (2.0MB)
 
 
 
@@ -161,7 +169,7 @@ Og³oszenie o przetargu Toyota RAV4 (2.0MB)
 
 .OCX
 
-Umowa o sprzeda¿y Toyota RAV4 wzór (1.0MB)
+Umowa o sprzedaÅ¼y Toyota RAV4 wzÃ³r (1.0MB)
 
 
 
@@ -170,7 +178,34 @@ Umowa o sprzeda¿y Toyota RAV4 wzór (1.0MB)
 
 .DOC
 
-Wzór oferty Toyota RAV4 (1.0MB)
+WzÃ³r oferty Toyota RAV4 (1.0MB)
+
+
+
+
+
+
+.DOC
+
+OgÅ‚oszenie o przetargu Mitsubishi L200 (1.0MB)
+
+
+
+
+
+
+.OCX
+
+Umowa o sprzedaÅ¼y Mitsubishi L200 wzÃ³r (1.0MB)
+
+
+
+
+
+
+.DOC
+
+WzÃ³r oferty Mitsubishi L200 (1.0MB)
 
 
 
@@ -189,13 +224,13 @@ Wzór oferty Toyota RAV4 (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Bart³omiej Kastelik
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. BartÅ‚omiej Kastelik
 
-Data modyfikacji: 2020/10/01 12:37:51
-Redaktor zatwierdzaj¹cy: Kamil Œledziona
-Wprowadzaj¹cy: Kamil Œledziona
-Deklaracja Dostêpnoœci
+Data modyfikacji: 2020/10/07 13:15:55
+Redaktor zatwierdzajÄ…cy: Kamil Åšledziona
+WprowadzajÄ…cy: Kamil Åšledziona
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

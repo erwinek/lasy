@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_wegierska
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Wêgierska Górka
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ WÄ™gierska GÃ³rka
 
 
 wyszukaj w BIP
@@ -108,28 +108,28 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Wêgierska Górka
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ WÄ™gierska GÃ³rka
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
-
- 
+Komunikaty i ogÅ‚oszenia
 
 
 
 
 
+Â 
 
-Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -201,13 +201,13 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruntach_do_wydzierzawienia1.pdf
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Marian Knapek
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Marian Knapek
 
 Data modyfikacji: 2020/09/01 15:01:51
-Redaktor zatwierdzaj¹cy: Pawe³ Griner
-Wprowadzaj¹cy: Pawe³ Griner
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: PaweÅ‚ Griner
+WprowadzajÄ…cy: PaweÅ‚ Griner
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

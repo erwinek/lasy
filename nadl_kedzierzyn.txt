@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_kedzierzyn
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Kêdzierzyn
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ KÄ™dzierzyn
 
 
 wyszukaj w BIP
@@ -108,26 +108,26 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Kêdzierzyn
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ KÄ™dzierzyn
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
- OG£OSZENIE
-o odst¹pieniu od przeprowadzenia strategicznej oceny oddzia³ywania na œrodowisko aneksu do Planu Urz¹dzenia Lasu dla Nadleœnictwa Kêdzierzyn
-Realizuj¹c postanowienia ustawy z dnia 3 paŸdziernika 2008 r. art. 48 pkt 4 o udostêpnianiu informacji o œrodowisku i jego ochronie, udziale spo³eczeñstwa w ochronie œrodowiska oraz ocenach oddzia³ywania na œrodowisko (Dz. U. z 2018 r. poz. 2081 z póŸn. zm.) – Dyrektor Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach zawiadamia, i¿ na bazie uzgodnieñ z Regionaln¹ Dyrekcj¹ Ochrony Œrodowiska w Opolu oraz Pañstwowym Wojewódzkim Inspektorem Sanitarnych w Opolu, odstêpuje od przeprowadzenia strategicznej oceny oddzia³ywania na œrodowisko do opracowywanego aneksu do Planu Urz¹dzenia Lasu obowi¹zuj¹cego na lata 2011-2020 dla Nadleœnictwa Kêdzierzyn.
- 
+Komunikaty i ogÅ‚oszenia
+
+
+
+
+Â OGÅOSZENIE
+o odstÄ…pieniu od przeprowadzenia strategicznej oceny oddziaÅ‚ywania na Å›rodowisko aneksu do Planu UrzÄ…dzenia Lasu dla NadleÅ›nictwa KÄ™dzierzyn
+RealizujÄ…c postanowienia ustawy z dnia 3 paÅºdziernika 2008 r. art. 48 pkt 4 o udostÄ™pnianiu informacji o Å›rodowisku i jego ochronie, udziale spoÅ‚eczeÅ„stwa w ochronie Å›rodowiska oraz ocenach oddziaÅ‚ywania na Å›rodowisko (Dz. U. z 2018 r. poz. 2081 z pÃ³Åºn. zm.) â€“ Dyrektor Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych w Katowicach zawiadamia, iÅ¼ na bazie uzgodnieÅ„ z RegionalnÄ… DyrekcjÄ… Ochrony Åšrodowiska w Opolu oraz PaÅ„stwowym WojewÃ³dzkim Inspektorem Sanitarnych w Opolu, odstÄ™puje od przeprowadzenia strategicznej oceny oddziaÅ‚ywania na Å›rodowisko do opracowywanego aneksu do Planu UrzÄ…dzenia Lasu obowiÄ…zujÄ…cego na lata 2011-2020 dla NadleÅ›nictwa KÄ™dzierzyn.
+Â 
 Dyrektor RDLP w Katowicach 
-Arkadiusz Wojciechowicz   
- 
+Arkadiusz WojciechowiczÂ Â Â 
+Â 
 
 
 
@@ -147,13 +147,13 @@ Arkadiusz Wojciechowicz   
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Marek K³os p.o. Nadleœniczego Nadleœnictwa Kêdzierzyn<br><br>
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Marek KÅ‚os p.o. NadleÅ›niczego NadleÅ›nictwa KÄ™dzierzyn<br><br>
 
 Data modyfikacji: 2020/07/08 09:12:59
-Redaktor zatwierdzaj¹cy: Adam Tomaszewski
-Wprowadzaj¹cy: Adam Tomaszewski
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Adam Tomaszewski
+WprowadzajÄ…cy: Adam Tomaszewski
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

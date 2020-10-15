@@ -6,7 +6,7 @@
 
 
 
-Wyst¹pienia, komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Wyst¹pienia, komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,25 +67,25 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacje o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~gr_krogulna
 Redakcja biuletynu
 Statystyki biuletynu
@@ -107,24 +107,24 @@ wyszukaj w BIP
 
 PGL LP Gospodarstwo Rybackie Krogulna
 
-Wyst¹pienia, komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
 
 
-Pliki do pobrania - lista za³¹czników
+
+
+
+
+
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -160,13 +160,13 @@ px_dg~rdlp_katowice~gr_krogulna~regulamin_sprzedazy_sprzetu__2020.doc (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
+Osoba odpowiedzialna za treÅ›Ä‡:
 Zbigniew Borek p.o.Dyrektor PGL LP GR Krogulna
 
 Data modyfikacji: 2020/03/05 11:37:01
-Redaktor zatwierdzaj¹cy: Wojciech Preuhs
-Wprowadzaj¹cy: Wojciech Preuhs
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Wojciech Preuhs
+WprowadzajÄ…cy: Wojciech Preuhs
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

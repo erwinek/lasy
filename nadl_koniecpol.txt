@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_koniecpol
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Koniecpol
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Koniecpol
 
 
 wyszukaj w BIP
@@ -108,47 +108,47 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Koniecpol
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Koniecpol
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
- 
+Komunikaty i ogÅ‚oszenia
 
 
- Administratorem danych osobowych przekazywanych przez osoby fizyczne podczas wszelkich kontaktów z Nadleœnictwem Koniecpol jest:
-Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Koniecpol
-adres: 42-230 Koniecpol, ul. Ró¿ana 11
+
+
+Â 
+
+
+Â Administratorem danych osobowych przekazywanych przez osoby fizyczne podczas wszelkich kontaktÃ³w z NadleÅ›nictwem Koniecpol jest:
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Koniecpol
+adres: 42-230 Koniecpol, ul. RÃ³Å¼ana 11
 REGON: 150027356
 strona internetowa: www.koniecpol.katowice.lasy.gov.pl
 poczta elektroniczna: koniecpol@katowice.lasy.gov.pl
 Inspektorem Ochrony Danych jest Sebastian Garus.
 Kontakt do Inspektora Ochrony Danych: koniecpol@katowice.lasy.gov.pl
-Dane osobowe przetwarzane s¹ w celach zwi¹zanych z dzia³alnoœci¹ Nadleœnictwa Koniecpol wynikaj¹c¹ z przepisów prawa na podstawie art. 6 ust 1 lit. c Rozporz¹dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w zwi¹zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep³ywu takich danych oraz uchylenia dyrektywy 95/46/WE (Ogólne rozporz¹dzenie o ochronie danych osobowych), dziennik Urzêdowy UE L119/1, 04/05/2016 [RODO].
-Dane mog¹ byæ ujawnione pracownikom lub wspó³pracownikom Nadleœnictwa Koniecpol, podmiotom udzielaj¹cym jej wsparcia na zasadzie zleconych us³ug i zgodnie z zawartymi umowami powierzenia oraz podmiotom uprawnionym na podstawie przepisów prawa.
-Dane osobowe przechowywane bêd¹ przez okres niezbêdny do wykonania obowi¹zuj¹cych przepisów prawa.
-Posiadaj¹ Pañstwo nastêpuj¹ce prawa co do swoich danych osobowych: prawo dostêpu do treœci swoich danych i ich sprostowania, usuniêcia, ograniczenia przetwarzania, prawo do przenoszenia danych oraz prawo do wniesienia sprzeciwu wobec przetwarzania, a tak¿e prawo wniesienia skargi do Prezesa Urzêdu Ochrony Danych Osobowych, gdy uznaj¹, i¿ przetwarzanie Pañstwa danych osobowych narusza przepisy RODO.
+Dane osobowe przetwarzane sÄ… w celach zwiÄ…zanych z dziaÅ‚alnoÅ›ciÄ… NadleÅ›nictwa Koniecpol wynikajÄ…cÄ… z przepisÃ³w prawa na podstawie art. 6 ust 1 lit. c RozporzÄ…dzenia Parlamentu Europejskiego iÂ Rady (UE) 2016/679 zÂ dnia 27 kwietnia 2016 r. wÂ sprawie ochrony osÃ³b fizycznych wÂ zwiÄ…zku zÂ przetwarzaniem danych osobowych iÂ wÂ sprawie swobodnego przepÅ‚ywu takich danych oraz uchylenia dyrektywy 95/46/WE (OgÃ³lne rozporzÄ…dzenie oÂ ochronie danych osobowych), dziennik UrzÄ™dowy UE L119/1, 04/05/2016 [RODO].
+Dane mogÄ… byÄ‡ ujawnione pracownikom lub wspÃ³Å‚pracownikom NadleÅ›nictwa Koniecpol, podmiotom udzielajÄ…cym jej wsparcia na zasadzie zleconych usÅ‚ug i zgodnie z zawartymi umowami powierzenia oraz podmiotom uprawnionym na podstawie przepisÃ³w prawa.
+Dane osobowe przechowywane bÄ™dÄ… przez okres niezbÄ™dny do wykonania obowiÄ…zujÄ…cych przepisÃ³w prawa.
+PosiadajÄ… PaÅ„stwo nastÄ™pujÄ…ce prawa co do swoich danych osobowych: prawo dostÄ™pu do treÅ›ci swoich danych i ich sprostowania, usuniÄ™cia, ograniczenia przetwarzania, prawo do przenoszenia danych oraz prawo do wniesienia sprzeciwu wobec przetwarzania, a takÅ¼e prawo wniesienia skargi do Prezesa UrzÄ™du Ochrony Danych Osobowych, gdy uznajÄ…, iÅ¼ przetwarzanie PaÅ„stwa danych osobowych narusza przepisy RODO.
 Podanie danych jest dobrowolne.
- 
- 
-OG£OSZENIE
-o   odst¹pieniu od przeprowadzenia strategicznej oceny oddzia³ywania na   œrodowisko aneksu do Planu Urz¹dzenia Lasu dla Nadleœnictwa Koniecpol
- 
- 
-Realizuj¹c   postanowienia ustawy z dnia 3 paŸdziernika 2008 r. art. 48 pkt 4   o udostêpnianiu informacji o œrodowisku i jego ochronie, udziale   spo³eczeñstwa w ochronie œrodowiska oraz ocenach oddzia³ywania na   œrodowisko (Dz. U. z 2018 r. poz. 2081 z póŸn. zm.) – Dyrektor   Regionalnej Dyrekcji Lasów Pañstwowych w Katowicach zawiadamia, i¿ na   bazie uzgodnieñ z Regionaln¹ Dyrekcj¹ Ochrony Œrodowiska w Katowicach   oraz Pañstwowym Wojewódzkim Inspektorem Sanitarnych w Katowicach,   odstêpuje od przeprowadzenia strategicznej oceny oddzia³ywania na   œrodowisko do opracowywanego aneksu do Planu Urz¹dzenia Lasu   obowi¹zuj¹cego na lata 2015-2024 dla Nadleœnictwa Koniecpol.
+Â 
+Â 
+OGÅOSZENIE
+o   odstÄ…pieniu od przeprowadzenia strategicznej oceny oddziaÅ‚ywania na   Å›rodowisko aneksu do Planu UrzÄ…dzenia Lasu dla NadleÅ›nictwa Koniecpol
+Â 
+Â 
+RealizujÄ…c   postanowienia ustawy z dnia 3 paÅºdziernika 2008 r. art. 48 pkt 4   oÂ udostÄ™pnianiu informacji o Å›rodowisku i jego ochronie, udziale   spoÅ‚eczeÅ„stwa wÂ ochronie Å›rodowiska oraz ocenach oddziaÅ‚ywania na   Å›rodowisko (Dz. U. z 2018 r. poz. 2081 z pÃ³Åºn. zm.) â€“ Dyrektor   Regionalnej Dyrekcji LasÃ³w PaÅ„stwowych wÂ Katowicach zawiadamia, iÅ¼ na   bazie uzgodnieÅ„ z RegionalnÄ… DyrekcjÄ… Ochrony Åšrodowiska w Katowicach   oraz PaÅ„stwowym WojewÃ³dzkim Inspektorem Sanitarnych wÂ Katowicach,   odstÄ™puje od przeprowadzenia strategicznej oceny oddziaÅ‚ywania na   Å›rodowisko do opracowywanego aneksu do Planu UrzÄ…dzenia Lasu   obowiÄ…zujÄ…cego na lata 2015-2024 dla NadleÅ›nictwa Koniecpol.
 
 
 Dyrektor RDLP w Katowicach 
-Arkadiusz Wojciechowicz      
- 
+Arkadiusz WojciechowiczÂ Â Â Â Â  
+Â 
 
 
 
@@ -169,13 +169,13 @@ Arkadiusz Wojciechowicz     
 
 
 
-Osoba odpowiedzialna za treœæ:
-mgr in¿. Zbigniew Matyœkiewicz p.o. Nadleœniczy Nadleœnictwa Koniecpol
+Osoba odpowiedzialna za treÅ›Ä‡:
+mgr inÅ¼. Zbigniew MatyÅ›kiewicz p.o. NadleÅ›niczy NadleÅ›nictwa Koniecpol
 
 Data modyfikacji: 2019/11/07 07:32:45
-Redaktor zatwierdzaj¹cy: Sebastian Garus
-Wprowadzaj¹cy: Urszula Góralczyk-Brysiak
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Sebastian Garus
+WprowadzajÄ…cy: Urszula GÃ³ralczyk-Brysiak
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

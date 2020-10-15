@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_prudnik
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Prudnik
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Prudnik
 
 
 wyszukaj w BIP
@@ -108,46 +108,46 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Prudnik
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Prudnik
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
-Komunikaty i og³oszenia
+
+
+Komunikaty i ogÅ‚oszenia
 
 
 
 
 
 Komunikat
-Klauzula informacyjna dotyczaca danych osobowych w plikach do pobrania poni¿ej.
- 
+Klauzula informacyjna dotyczaca danych osobowych w plikach do pobrania poniÅ¼ej.
+Â 
 Komunikat z dnia 03.07.2020 r.
  
-Nadleœnictwo Prudnik og³asza nabór na stanowisko ksiêgowej/go. Og³oszenie oraz regulamin naboru na wolne stanowiska pracy w Nadleœnictwie Prudnik w plikach do pobrania.
+NadleÅ›nictwo Prudnik ogÅ‚asza nabÃ³r na stanowisko ksiÄ™gowej/go. OgÅ‚oszenie oraz regulamin naboru na wolne stanowiska pracy w NadleÅ›nictwie Prudnik w plikach do pobrania.
  
 
  
- 
+Â 
  
 Komunikat z dnia 14.05.2020 r.
  
-Zgodnie z Decyzj¹ nr 7 Nadleœniczego Nadleœnictwa Prudnik z dnia 11.05.2020r. dniami wolnymi za œwiêta przypadaj¹ce w sobotê w Nadleœnictwie Prudnik ustalono: 
+Zgodnie z DecyzjÄ… nr 7 NadleÅ›niczego NadleÅ›nictwa Prudnik z dnia 11.05.2020r. dniami wolnymi za Å›wiÄ™ta przypadajÄ…ce w sobotÄ™ w NadleÅ›nictwie Prudnik ustalono: 
 
  
-1. Dzieñ 14 sierpnia 2020r. za œwiêto przypadaj¹ce w sobotê tj. w dniu 15 sierpnia 2020r.
+1. DzieÅ„ 14 sierpnia 2020r. za Å›wiÄ™to przypadajÄ…ce w sobotÄ™ tj. w dniu 15 sierpnia 2020r.
  
-2. Dzieñ 24 grudnia 2020r. za œwiêto przypadaj¹ce w sobotê tj. w dniu 26 grudnia 2020r.
+2. DzieÅ„ 24 grudnia 2020r. za Å›wiÄ™to przypadajÄ…ce w sobotÄ™ tj. w dniu 26 grudnia 2020r.
 
 
 
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -210,13 +210,13 @@ px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_2020_28.pdf (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-Jaros³aw Myœliñski- p.o. Nadleœniczego N-ctwa Prudnik
+Osoba odpowiedzialna za treÅ›Ä‡:
+JarosÅ‚aw MyÅ›liÅ„ski- p.o. NadleÅ›niczego N-ctwa Prudnik
 
 Data modyfikacji: 2020/08/04 12:33:46
-Redaktor zatwierdzaj¹cy: Rafa³ Kasza
-Wprowadzaj¹cy: Rafa³ Kasza
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: RafaÅ‚ Kasza
+WprowadzajÄ…cy: RafaÅ‚ Kasza
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

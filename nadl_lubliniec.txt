@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_lubliniec
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w KATOWICACH, 
-Nadleœnictwo Lubliniec
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ KATOWICACH, 
+NadleÅ›nictwoÂ Lubliniec
 
 
 wyszukaj w BIP
@@ -108,39 +108,39 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w KATOWICACH, 
-Nadleœnictwo Lubliniec
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ KATOWICACH, 
+NadleÅ›nictwoÂ Lubliniec
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-Komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
+Komunikaty i ogÅ‚oszenia
 
- 
 
-Zn. spr. SA.234.1.2020                                                                                                                                              Lubliniec, 2020.05.19
- 
-Og³oszenie o publicznym przetargu nieograniczonym
-na sprzeda¿ mebli i urz¹dzeñ stanowi¹cych wyposa¿enie 
-Kancelarii Leœnictwa Lubliniec 
-zbêdnych dla potrzeb Nadleœnictwa Lubliniec.
- 
-1.   Nazwa i siedziba sprzedaj¹cego: Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe     Nadleœnictwo Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec, tel. (34) 3513338;  
-      e-mail lubliniec@katowice.lasy.gov.pl, 
-2.  Tryb procedury przetargowej: publiczny przetarg nieograniczony pisemny na sprzeda¿ mebli i urz¹dzeñ stanowi¹cych wyposa¿enie: Kancelarii Leœnictwa Lubliniec zbêdnych dla potrzeb Nadleœnictwa Lubliniec
-3.  Ofertê prosimy sk³adaæ na piœmie w biurze Nadleœnictwa Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec - w sekretariacie – I piêtro) na druku oferty „ OFERTA ZAKUPU KOMPLETU MEBLI I URZ¥DZEÑ STANOWI¥CYCH WYPOSA¯ENIE KANCELARII LEŒNICTWA LUBLINIEC”, (druk w za³¹czeniu). 
-4.  Termin sk³adania ofert: 02.06.2020 r. godz. 10:00 ( liczy siê data i godzina wp³ywu   oferty w
-     sekretariacie Nadleœnictwa Lubliniec). 
-5.  Data, godzina i miejsce otwarcia ofert: 02.06.2020 r. godzina 10:05, œwietlica Nadleœnictwa  Lubliniec. 
-6.  Zestawienie przedmiotów sprzeda¿y wraz z podaniem ich numerów inwentarzowych i ceny wywo³awcze przedstawiono poni¿ej.
-    Sprzedawany jest komplet wyposa¿enia, a nie poszczególne elementy.
- 
+
+
+
+Â 
+
+Zn. spr. SA.234.1.2020Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  Â Â Â Â Â Â Â Â Â  Lubliniec, 2020.05.19
+Â 
+OgÅ‚oszenie o publicznym przetargu nieograniczonym
+na sprzedaÅ¼ mebli i urzÄ…dzeÅ„ stanowiÄ…cych wyposaÅ¼enie 
+Kancelarii LeÅ›nictwa Lubliniec 
+zbÄ™dnych dla potrzeb NadleÅ›nictwa Lubliniec.
+Â 
+1.Â Â  Nazwa i siedziba sprzedajÄ…cego: PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwoweÂ Â Â Â  NadleÅ›nictwo Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec, tel. (34) 3513338; Â 
+Â Â Â Â  Â e-mail lubliniec@katowice.lasy.gov.pl, 
+2.Â  Tryb procedury przetargowej: publicznyÂ przetarg nieograniczony pisemny na sprzedaÅ¼ mebli i urzÄ…dzeÅ„ stanowiÄ…cych wyposaÅ¼enie: Kancelarii LeÅ›nictwa Lubliniec zbÄ™dnych dla potrzeb NadleÅ›nictwa Lubliniec
+3.Â  OfertÄ™ prosimy skÅ‚adaÄ‡ na piÅ›mie w biurze NadleÅ›nictwa Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec - w sekretariacie â€“ I piÄ™tro) na druku oferty â€ OFERTA ZAKUPU KOMPLETU MEBLI I URZÄ„DZEÅƒ STANOWIÄ„CYCH WYPOSAÅ»ENIE KANCELARII LEÅšNICTWA LUBLINIECâ€, (druk w zaÅ‚Ä…czeniu). 
+4.Â  Termin skÅ‚adania ofert: 02.06.2020 r. godz. 10:00 ( liczy siÄ™ data i godzina wpÅ‚ywu Â Â oferty w
+Â Â Â Â  sekretariacie NadleÅ›nictwa Lubliniec). 
+5.Â  Data, godzina i miejsce otwarcia ofert: 02.06.2020 r. godzina 10:05, Å›wietlica NadleÅ›nictwa Â Lubliniec. 
+6. Â Zestawienie przedmiotÃ³w sprzedaÅ¼y wraz z podaniem ich numerÃ³w inwentarzowych i ceny wywoÅ‚awcze przedstawiono poniÅ¼ej.
+Â Â Â  Sprzedawany jest komplet wyposaÅ¼enia, a nie poszczegÃ³lne elementy.
+Â 
 
 
 
@@ -154,7 +154,7 @@ Numer inwentarzowy
 Opis mebli
 
 
-Cena wywo³awcza brutto
+Cena wywoÅ‚awcza brutto
 
 
 
@@ -165,7 +165,7 @@ Cena wywo³awcza brutto
 80802046
 
 
-Krzes³o ISO   BLACK
+KrzesÅ‚o ISO   BLACK
 
 
 16,26
@@ -179,7 +179,7 @@ Krzes³o ISO   BLACK
 80802047
 
 
-Krzes³o ISO   BLACK
+KrzesÅ‚o ISO   BLACK
 
 
 16,26
@@ -193,7 +193,7 @@ Krzes³o ISO   BLACK
 80802048
 
 
-Krzes³o ISO   BLACK
+KrzesÅ‚o ISO   BLACK
 
 
 16,26
@@ -235,7 +235,7 @@ Fotel LEVEL BS   BLACK
 B/LUB/40/10
 
 
-kontener z   piórnikiem KW 333
+kontener z   piÃ³rnikiem KW 333
 
 
 10,00
@@ -277,7 +277,7 @@ biurko 140-70
 B/LUB/40/15
 
 
-kontener z   piórnikiem KW 333
+kontener z   piÃ³rnikiem KW 333
 
 
 10,00
@@ -305,7 +305,7 @@ biurko BR14-7
 B/LUB/40/11
 
 
-szafa-naro¿nik
+szafa-naroÅ¼nik
 
 
 10,00
@@ -319,7 +319,7 @@ szafa-naro¿nik
 B/LUB/40/16
 
 
-Rega³ 80-70-42
+RegaÅ‚ 80-70-42
 
 
 22,50
@@ -333,7 +333,7 @@ Rega³ 80-70-42
 B/LUB/40/17
 
 
-Rega³ 120-70-42
+RegaÅ‚ 120-70-42
 
 
 22,50
@@ -347,7 +347,7 @@ Rega³ 120-70-42
 B/LUB/40/18
 
 
-Rega³ 120-70-42
+RegaÅ‚ 120-70-42
 
 
 22,50
@@ -361,7 +361,7 @@ Rega³ 120-70-42
 B/LUB/40/7
 
 
-szafa ma³a
+szafa maÅ‚a
 
 
 15,00
@@ -375,7 +375,7 @@ szafa ma³a
 B/LUB/40/8
 
 
-szafa ma³a
+szafa maÅ‚a
 
 
 15,00
@@ -389,7 +389,7 @@ szafa ma³a
 B/LUB/40/9
 
 
-rega³   biblioteczny RB09-16 SD
+regaÅ‚   biblioteczny RB09-16 SD
 
 
 22,50
@@ -431,7 +431,7 @@ fotel
 B/LUB/40/19
 
 
-krzes³a 1 szt
+krzesÅ‚a 1 szt
 
 
 3,00
@@ -445,7 +445,7 @@ krzes³a 1 szt
 B/LUB/40/191
 
 
-krzes³a 1 szt
+krzesÅ‚a 1 szt
 
 
 3,00
@@ -459,7 +459,7 @@ krzes³a 1 szt
 B/LUB/40/192
 
 
-krzes³a 1 szt
+krzesÅ‚a 1 szt
 
 
 3,00
@@ -473,7 +473,7 @@ krzes³a 1 szt
 B/LUB/40/6
 
 
-krzes³a 1 szt
+krzesÅ‚a 1 szt
 
 
 3,00
@@ -487,7 +487,7 @@ krzes³a 1 szt
 B/LUB/40/6/1
 
 
-krzes³a 1 szt
+krzesÅ‚a 1 szt
 
 
 3,00
@@ -495,13 +495,13 @@ krzes³a 1 szt
 
 
 
-Razem   komplet wyposa¿enia
+Razem   komplet wyposaÅ¼enia
 
 
- 
+Â 
 
 
- 
+Â 
 
 
 577,28
@@ -509,44 +509,44 @@ Razem   komplet wyposa¿enia
 
 
 
- 
-7.  W przypadku gdy przedmioty przeznaczone do sprzeda¿y nie zostan¹ sprzedane w drodze
-     przetargu nieograniczonego pisemnego, Nadleœnictwo Lubliniec przeprowadzi o godzinie 10:30 w
-     dniu 02.06.2020 r. drugi przetarg publiczny nieograniczony, prowadzony w formie ustnej licytacji, i w tym przypadku cena wywo³awcza wynosi 50% ceny wywo³awczej z pierwszego przetargu. 
-8. Nabywca, który z³o¿y³ najkorzystniejsz¹ ofertê i wygra³ przetarg jest obowi¹zany do zap³aty za zakupiony sprzêt w ci¹gu 7 dni od daty wystawienia faktury.
- Inne informacje
-1. Warunki i terminy uzyskania informacji i mo¿liwoœci obejrzenia sprzedawanych œrodków trwa³ych i przedmiotów w u¿ytkowaniu: Informacje dotycz¹ce sprzedawanych œrodków trwa³ych i przedmiotów w u¿ytkowani oraz mo¿liwoœæ jego  obejrzenia prosimy uzgadniaæ telefonicznie w godzinach od 7:00 do 15:00 z Pani¹ Marzen¹ W¹tor-Znojek kom. 660 409 801
-2.   Nadleœnictwo Lubliniec nie udziela gwarancji na sprzedawane wyposa¿enie. 
- 
-W za³¹czeniu na dole strony:
-1.       Druk oferty zakupu Lubliniec
+Â 
+7.Â  W przypadku gdy przedmioty przeznaczone do sprzedaÅ¼y nie zostanÄ… sprzedane w drodze
+Â Â Â Â  przetargu nieograniczonego pisemnego, NadleÅ›nictwo Lubliniec przeprowadzi o godzinie 10:30 w
+Â Â Â Â  dniu 02.06.2020 r. drugi przetarg publiczny nieograniczony, prowadzony w formie ustnej licytacji, i w tym przypadku cena wywoÅ‚awcza wynosi 50% ceny wywoÅ‚awczej z pierwszego przetargu. 
+8. Nabywca, ktÃ³ry zÅ‚oÅ¼yÅ‚ najkorzystniejszÄ… ofertÄ™ i wygraÅ‚ przetarg jest obowiÄ…zany do zapÅ‚aty za zakupiony sprzÄ™t w ciÄ…gu 7 dni od daty wystawienia faktury.
+Â Inne informacje
+1. Warunki i terminy uzyskania informacji i moÅ¼liwoÅ›ci obejrzenia sprzedawanych Å›rodkÃ³w trwaÅ‚ych i przedmiotÃ³w w uÅ¼ytkowaniu: Informacje dotyczÄ…ce sprzedawanych Å›rodkÃ³w trwaÅ‚ych i przedmiotÃ³w w uÅ¼ytkowani oraz moÅ¼liwoÅ›Ä‡ jegoÂ  obejrzenia prosimy uzgadniaÄ‡ telefonicznie w godzinach od 7:00 do 15:00 z PaniÄ… MarzenÄ… WÄ…tor-Znojek kom. 660Â 409 801
+2.Â  Â NadleÅ›nictwo Lubliniec nie udziela gwarancji na sprzedawane wyposaÅ¼enie. 
+Â 
+W zaÅ‚Ä…czeniu na dole strony:
+1.Â Â Â Â Â Â  Druk oferty zakupu Lubliniec
 
-2.       Zdjêcia mebli Lubliniec
+2.Â Â Â Â Â Â  ZdjÄ™cia mebli Lubliniec
 
-                                                           
-                                                                                              
-                                                                                                   
-                                                                                              Nadleœniczy Nadleœnictwa Lubliniec
-                                                                                                          Zbigniew Znojek
- 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  NadleÅ›niczy NadleÅ›nictwa Lubliniec
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Zbigniew Znojek
+Â 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-Zn. spr. SA.234.2.2020                                                                                                                                                               Lubliniec, 2020.05.19
- 
-Og³oszenie o publicznym przetargu nieograniczonym
-na sprzeda¿ mebli i urz¹dzeñ stanowi¹cych wyposa¿enie 
-Kancelarii Leœnictwa Solarnia
-zbêdnych dla potrzeb Nadleœnictwa Lubliniec.
- 
-1.   Nazwa i siedziba sprzedaj¹cego: Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe     Nadleœnictwo Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec, tel. (34) 3513338;        e-mail lubliniec@katowice.lasy.gov.pl, 
-2.  Tryb procedury przetargowej: publiczny przetarg nieograniczony pisemny na sprzeda¿ mebli i urz¹dzeñ stanowi¹cych wyposa¿enie: Kancelarii Leœnictwa Solarnia zbêdnych dla potrzeb Nadleœnictwa Lubliniec
-3.  Ofertê prosimy sk³adaæ na piœmie w biurze Nadleœnictwa Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec - w sekretariacie – I piêtro) na druku oferty „ OFERTA ZAKUPU KOMPLETU MEBLI I URZ¥DZEÑ STANOWI¥CYCH WYPOSA¯ENIE KANCELARII LEŒNICTWA SOLARNIA”, (druk w za³¹czeniu). 
-4.  Termin sk³adania ofert: 02.06.2020 r. godz. 11:00 ( liczy siê data i godzina wp³ywu   oferty w      sekretariacie Nadleœnictwa Lubliniec). 
-5.  Data, godzina i miejsce otwarcia ofert: 02.06.2020 r. godzina 11:05, œwietlica Nadleœnictwa  Lubliniec. 
-6.  Zestawienie przedmiotów sprzeda¿y wraz z podaniem ich numerów inwentarzowych i ceny wywo³awcze przedstawiono poni¿ej.
-    Sprzedawany jest komplet wyposa¿enia, a nie poszczególne elementy.
- 
- 
+Â 
+Zn. spr. SA.234.2.2020Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  Lubliniec, 2020.05.19
+Â 
+OgÅ‚oszenie o publicznym przetargu nieograniczonym
+na sprzedaÅ¼ mebli i urzÄ…dzeÅ„ stanowiÄ…cych wyposaÅ¼enie 
+Kancelarii LeÅ›nictwa Solarnia
+zbÄ™dnych dla potrzeb NadleÅ›nictwa Lubliniec.
+Â 
+1.Â Â  Nazwa i siedziba sprzedajÄ…cego: PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwoweÂ Â Â Â  NadleÅ›nictwo Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec, tel. (34) 3513338; Â Â Â Â Â Â Â e-mail lubliniec@katowice.lasy.gov.pl, 
+2.Â  Tryb procedury przetargowej: publicznyÂ przetarg nieograniczony pisemny na sprzedaÅ¼ mebli i urzÄ…dzeÅ„ stanowiÄ…cych wyposaÅ¼enie: Kancelarii LeÅ›nictwa Solarnia zbÄ™dnych dla potrzeb NadleÅ›nictwa Lubliniec
+3.Â  OfertÄ™ prosimy skÅ‚adaÄ‡ na piÅ›mie w biurze NadleÅ›nictwa Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec - w sekretariacie â€“ I piÄ™tro) na druku oferty â€ OFERTA ZAKUPU KOMPLETU MEBLI I URZÄ„DZEÅƒ STANOWIÄ„CYCH WYPOSAÅ»ENIE KANCELARII LEÅšNICTWA SOLARNIAâ€, (druk w zaÅ‚Ä…czeniu). 
+4.Â  Termin skÅ‚adania ofert: 02.06.2020 r. godz. 11:00 ( liczy siÄ™ data i godzina wpÅ‚ywu Â Â oferty w Â Â Â Â Â sekretariacie NadleÅ›nictwa Lubliniec). 
+5.Â  Data, godzina i miejsce otwarcia ofert: 02.06.2020 r. godzina 11:05, Å›wietlica NadleÅ›nictwa Â Lubliniec. 
+6. Â Zestawienie przedmiotÃ³w sprzedaÅ¼y wraz z podaniem ich numerÃ³w inwentarzowych i ceny wywoÅ‚awcze przedstawiono poniÅ¼ej.
+Â Â Â  Sprzedawany jest komplet wyposaÅ¼enia, a nie poszczegÃ³lne elementy.
+Â 
+Â 
 
 
 
@@ -560,7 +560,7 @@ Numer inwentarzowy
 Opis mebli
 
 
-Cena wywo³awcza
+Cena wywoÅ‚awcza
 
 
 
@@ -627,7 +627,7 @@ pulpit pod   klawiature
 B/SOL/40/13
 
 
-rega³ otwarty   dwu czêœciowy
+regaÅ‚ otwarty   dwu czÄ™Å›ciowy
 
 
 19,5
@@ -655,7 +655,7 @@ szafa aktowa
 B/SOL/40/15
 
 
-rega³ 1/4 ko³a
+regaÅ‚ 1/4 koÅ‚a
 
 
 18
@@ -725,7 +725,7 @@ nadstawka szafy
 B/SOL/40/20
 
 
-rega³ 1/4 ko³a
+regaÅ‚ 1/4 koÅ‚a
 
 
 13
@@ -781,7 +781,7 @@ biurko   krzywoliniowe lewe
 B/SOL/40/4
 
 
-krzes³o ISO-T
+krzesÅ‚o ISO-T
 
 
 5,5
@@ -795,7 +795,7 @@ krzes³o ISO-T
 B/SOL/40/5
 
 
-krzes³o ISO-T
+krzesÅ‚o ISO-T
 
 
 5,5
@@ -809,7 +809,7 @@ krzes³o ISO-T
 B/SOL/40/6
 
 
-krzes³o ISO-T
+krzesÅ‚o ISO-T
 
 
 5,5
@@ -823,7 +823,7 @@ krzes³o ISO-T
 B/SOL/40/7
 
 
-krzes³o ISO-T
+krzesÅ‚o ISO-T
 
 
 5,5
@@ -831,13 +831,13 @@ krzes³o ISO-T
 
 
 
-Razem   komplet wyposa¿enia
+Razem   komplet wyposaÅ¼enia
 
 
- 
+Â 
 
 
- 
+Â 
 
 
 418,75
@@ -845,210 +845,210 @@ Razem   komplet wyposa¿enia
 
 
 
- 
- 
- 
-7.  W przypadku gdy przedmioty przeznaczone do sprzeda¿y nie zostan¹ sprzedane w drodze      przetargu nieograniczonego pisemnego, Nadleœnictwo Lubliniec przeprowadzi o godzinie 11:30 w      dniu 02.06.2020 r. drugi przetarg publiczny nieograniczony, prowadzony w formie ustnej licytacji, i w tym przypadku cena wywo³awcza wynosi 50% ceny wywo³awczej z pierwszego przetargu. 
-8. Nabywca, który z³o¿y³ najkorzystniejsz¹ ofertê i wygra³ przetarg jest obowi¹zany do zap³aty za zakupiony sprzêt w ci¹gu 7 dni od daty wystawienia faktury.
- Inne informacje
-1. Warunki i terminy uzyskania informacji i mo¿liwoœci obejrzenia sprzedawanych œrodków trwa³ych i przedmiotów w u¿ytkowaniu: Informacje dotycz¹ce sprzedawanych œrodków trwa³ych i przedmiotów w u¿ytkowani oraz mo¿liwoœæ jego  obejrzenia prosimy uzgadniaæ telefonicznie w godzinach od 7:00 do 15:00 z Pani¹ Marzen¹ W¹tor-Znojek kom. 660 409 801
-2.   Nadleœnictwo Lubliniec nie udziela gwarancji na sprzedawane wyposa¿enie. 
- 
-W za³¹czeniu na dole strony:
+Â 
+Â 
+Â 
+7.Â  W przypadku gdy przedmioty przeznaczone do sprzedaÅ¼y nie zostanÄ… sprzedane w drodze Â Â Â Â Â przetargu nieograniczonego pisemnego, NadleÅ›nictwo Lubliniec przeprowadzi o godzinie 11:30 w Â Â Â Â Â dniu 02.06.2020 r. drugi przetarg publiczny nieograniczony, prowadzony w formie ustnej licytacji, i w tym przypadku cena wywoÅ‚awcza wynosi 50% ceny wywoÅ‚awczej z pierwszego przetargu. 
+8. Nabywca, ktÃ³ry zÅ‚oÅ¼yÅ‚ najkorzystniejszÄ… ofertÄ™ i wygraÅ‚ przetarg jest obowiÄ…zany do zapÅ‚aty za zakupiony sprzÄ™t w ciÄ…gu 7 dni od daty wystawienia faktury.
+Â Inne informacje
+1. Warunki i terminy uzyskania informacji i moÅ¼liwoÅ›ci obejrzenia sprzedawanych Å›rodkÃ³w trwaÅ‚ych i przedmiotÃ³w w uÅ¼ytkowaniu: Informacje dotyczÄ…ce sprzedawanych Å›rodkÃ³w trwaÅ‚ych i przedmiotÃ³w w uÅ¼ytkowani oraz moÅ¼liwoÅ›Ä‡ jegoÂ  obejrzenia prosimy uzgadniaÄ‡ telefonicznie w godzinach od 7:00 do 15:00 z PaniÄ… MarzenÄ… WÄ…tor-Znojek kom. 660Â 409 801
+2.Â  Â NadleÅ›nictwo Lubliniec nie udziela gwarancji na sprzedawane wyposaÅ¼enie. 
+Â 
+W zaÅ‚Ä…czeniu na dole strony:
 
 
 Druk      oferty zakupu Solarnia
 
-Zdjêcia      mebli Solarnia
+ZdjÄ™cia      mebli Solarnia
 
 
-                                                   
- 
-                                                                                                                                                      Nadleœniczy Nadleœnictwa Lubliniec
- 
-                                                                               Zbigniew Znojek
- 
- 
- 
- 
- 
- 
- 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  NadleÅ›niczy NadleÅ›nictwa Lubliniec
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Zbigniew Znojek
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Zn.spr.S.0290.14.2019                                                                                                                                    Lubliniec 10.10.2019
- 
- 
- 
-Zawiadomienie o uniewa¿nieniu postêpowania
- 
- 
-Dotyczy przetargu nieograniczonego na zadanie pod nazw¹ : Adaptacja lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia
- 
-Dzia³aj¹c zgodnie z Zarz¹dzeniem Nadleœniczego Nadleœnictwa Lubliniec nr 19/2018 z dnia 09.08.2018 r. zn.spr. S.0210.19.2018 w sprawie wprowadzenia w ¿ycie Regulaminu udzielania zamówieñ na us³ugi, dostawy, roboty budowlane o wartoœci nie przekraczaj¹cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia Prawo zamówieñ publicznych oraz powo³ania Komisji przetargowej w tym zakresie.
-Nadleœnictwo Lubliniec zawiadamia i¿ uniewa¿nia postêpowanie o udzielenie zamówienia na zadanie pod nazw¹ Adaptacja lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia
- 
-Uzasadnienie: w w/w postêpowaniu w wyznaczonym terminie do sk³adania ofert, tj do dnia 10.10.2019 r. do godz. 10:00 nie zosta³a z³o¿ona ¿adna oferta.
- 
- 
- 
-                                                                                                                                                                 Zastêpca Nadleœniczego
-                                                                                                                                                                  Nadleœnictwa Lubliniec
-                                                                                   
-                                                                                                                                                                   dr in¿. Krzysztof Lysik
- 
- 
- 
- 
------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                       
- 
-                                                                                                                                Lubliniec, 2019.10.03
+Zn.spr.S.0290.14.2019Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Lubliniec 10.10.2019
+Â 
+Â 
+Â 
+Zawiadomienie o uniewaÅ¼nieniu postÄ™powania
+Â 
+Â 
+Dotyczy przetargu nieograniczonego na zadanie pod nazwÄ… : Adaptacja lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarnia
+Â 
+DziaÅ‚ajÄ…c zgodnie z ZarzÄ…dzeniem NadleÅ›niczego NadleÅ›nictwa Lubliniec nr 19/2018 z dnia 09.08.2018 r. zn.spr. S.0210.19.2018 w sprawie wprowadzenia w Å¼ycie Regulaminu udzielania zamÃ³wieÅ„ na usÅ‚ugi, dostawy, roboty budowlane o wartoÅ›ci nie przekraczajÄ…cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia Prawo zamÃ³wieÅ„ publicznych oraz powoÅ‚ania Komisji przetargowej w tym zakresie.
+NadleÅ›nictwo Lubliniec zawiadamia iÅ¼ uniewaÅ¼nia postÄ™powanie o udzielenie zamÃ³wienia na zadanie pod nazwÄ… Adaptacja lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarnia
+Â 
+Uzasadnienie: w w/w postÄ™powaniu w wyznaczonym terminie do skÅ‚adania ofert, tj do dnia 10.10.2019 r. do godz. 10:00 nie zostaÅ‚a zÅ‚oÅ¼ona Å¼adna oferta.
+Â 
+Â 
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  ZastÄ™pca NadleÅ›niczego
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  NadleÅ›nictwa Lubliniec
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â Â  Â  Â  Â  Â Â  Â  dr inÅ¼. Krzysztof Lysik
+Â 
+Â 
+Â 
+Â 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------- Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â Â  Â Â Â Â  Lubliniec, 2019.10.03
 Zn.spr. S.0290.14.2019
- 
+Â 
 ZAPYTANIE OFERTOWE
-o szacunkowej wartoœci poni¿ej 30 000 euro
-na zadanie pod nazw¹: 
-„Adaptacja lokalu mieszkalnego na potrzeby 
-Kancelarii Leœnictwa Lubliniec i Solarnia”
- 
- 
-Zamawiaj¹cy: Skarb Pañstwa Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe   Nadleœnictwo Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec, NIP 575-000-88-82
+o szacunkowej wartoÅ›ci poniÅ¼ej 30 000 euro
+na zadanie pod nazwÄ…: 
+â€Adaptacja lokalu mieszkalnego na potrzeby 
+Kancelarii LeÅ›nictwa Lubliniec i Solarniaâ€
+Â 
+Â 
+ZamawiajÄ…cy: Skarb PaÅ„stwa PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwoweÂ Â  NadleÅ›nictwo Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec, NIP 575-000-88-82
 tel. (0-34) 351-33-38, fax (0-34) 351-33-38, e mail; lubliniec@katowice.lasy.gov.pl, www.lubliniec.katowice.lasy.gov.pl, https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_lubliniec/komunikaty_i_ogloszenia
- 
- 
-I.             OPIS PRZEDMIOTU ZAMÓWIENIA: 
- 
+Â 
+Â 
+I.Â Â Â Â Â Â Â Â Â Â Â Â  OPIS PRZEDMIOTU ZAMÃ“WIENIA: 
+Â 
 Kody CPV;
 45000000-7,- Roboty budowlane
-45210000-2-Roboty budowlane w zakresie budynków.
-45400000-1, -Roboty wykoñczeniowe w zakresie obiektów budowlanych
+45210000-2-Roboty budowlane w zakresie budynkÃ³w.
+45400000-1, -Roboty wykoÅ„czeniowe w zakresie obiektÃ³w budowlanych
 45251130-1- Instalacje wodne
-45332200-5 -Instalacja wodoci¹gowa
-45231300-8 -Instalacja wewnêtrzna kanalizacji sanitarnej i deszczowej grawitacyjnej z tworzyw sztucznych
+45332200-5 -Instalacja wodociÄ…gowa
+45231300-8 -Instalacja wewnÄ™trzna kanalizacji sanitarnej i deszczowej grawitacyjnej z tworzyw sztucznych
 45330000-9- Roboty instalacyjne wodno-kanalizacyjne i sanitarne.
-45331200-8- Instalacja  cieplna,
+45331200-8- InstalacjaÂ  cieplna,
 45321000-3 -Izolacja cieplna
 45310000-3, -Roboty w zakresie instalacji elektrycznych
 45315100-9,- Instalacyjne roboty elektrotechniczne
-32300000-6, - Odbiorniki telewizyjne i radiowe oraz aparatura nagrywaj¹ca dŸwiêk lub obraz
-45312200-9, - Instalowanie alarmów w³amaniowych
-45312100-8, -Instalowanie przeciwpo¿arowych systemów alarmowych
+32300000-6, - Odbiorniki telewizyjne i radiowe oraz aparatura nagrywajÄ…ca dÅºwiÄ™k lub obraz
+45312200-9, - Instalowanie alarmÃ³w wÅ‚amaniowych
+45312100-8, -Instalowanie przeciwpoÅ¼arowych systemÃ³w alarmowych
 32400000-7, -Kamery telewizyjne
-32000000-3,-Sprzêt i aparatura radiowa, telewizyjna, komunikacyjna, telekomunikacyjna i podobna
+32000000-3,-SprzÄ™t i aparatura radiowa, telewizyjna, komunikacyjna, telekomunikacyjna i podobna
 32240000-7,- Sieci
 45311200-2- Roboty w zakresie instalacji elektrycznych
 45311100-1- Roboty w zakresie okablowania elektrycznego
-45440000-3-  Roboty malarskie i szklarskie
- 
-Przedmiotem zamówienia jest robota budowlana polegaj¹ca na wykonaniu adaptacji lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia, znajduj¹cego siê w budynku administracyjnym Nadleœnictwa Lubliniec przy ul. Myœliwskiej 1, w tym: roboty budowlane oraz zwi¹zane z nimi dostawy i monta¿ gotowych urz¹dzeñ a tak¿e wykonanie us³ug i innych czynnoœci, niezbêdnych do wykonania przedmiotu zamówienia. Roboty budowlane nale¿y wykonaæ zgodnie z dokumentacj¹ projektow¹ sporz¹dzon¹ przez GRUPA VERSO DELTOID Sp. z o.o., ul. Wolnoœci 27, 42-200 Czêstochowa – za³¹cznik nr 2 do zapytania ofertowego.
- 
-Przedmiot zamówienia obejmuje nastêpuj¹cy zakres robót:
-- zmiana uk³adu funkcjonalnego pomieszczeñ z czêœciowym wyburzeniem œcian     
-  istniej¹cych i budowa nowych œcianek wewnêtrznych, wyburzenie komina, uzupe³nienie fragmentów œcian po otworach drzwiowych, wykonanie nadpro¿y dla nowych otworów drzwiowych
--nowe œciany dzia³owe projektuje siê w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie nale¿y wype³niæ we³n¹ mineraln¹
-- wymiana i monta¿ drzwi do pomieszczeñ biurowych i gospodarczych,
-- wymiana posadzek na p³ytki gresowe szare oraz drewnopodobne
--wymiana ok³adziny czêœci œcian na  p³ytki gresowe, drewnopodobne, ok³adzinê drewnian¹ – likwidacja boazerii
-- tynki wewnêtrzne z równaniem g³adzi¹ gipsow¹,
+45440000-3-Â  Roboty malarskie i szklarskie
+Â 
+Przedmiotem zamÃ³wienia jest robota budowlana polegajÄ…ca na wykonaniu adaptacji lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarnia, znajdujÄ…cego siÄ™ w budynku administracyjnym NadleÅ›nictwa Lubliniec przy ul. MyÅ›liwskiej 1, w tym: roboty budowlane oraz zwiÄ…zane z nimi dostawy i montaÅ¼ gotowych urzÄ…dzeÅ„ a takÅ¼e wykonanie usÅ‚ug i innych czynnoÅ›ci, niezbÄ™dnych do wykonania przedmiotu zamÃ³wienia. Roboty budowlane naleÅ¼y wykonaÄ‡ zgodnie z dokumentacjÄ… projektowÄ… sporzÄ…dzonÄ… przez GRUPA VERSO DELTOID Sp. z o.o., ul. WolnoÅ›ci 27, 42-200 CzÄ™stochowa â€“ zaÅ‚Ä…cznik nr 2 do zapytania ofertowego.
+Â 
+Przedmiot zamÃ³wienia obejmuje nastÄ™pujÄ…cy zakres robÃ³t:
+- zmiana ukÅ‚adu funkcjonalnego pomieszczeÅ„ z czÄ™Å›ciowym wyburzeniem Å›cianÂ Â Â Â  
+Â  istniejÄ…cych i budowa nowych Å›cianek wewnÄ™trznych, wyburzenie komina, uzupeÅ‚nienie fragmentÃ³w Å›cian po otworach drzwiowych, wykonanie nadproÅ¼y dla nowych otworÃ³w drzwiowych
+-nowe Å›ciany dziaÅ‚owe projektuje siÄ™ w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie naleÅ¼y wypeÅ‚niÄ‡ weÅ‚nÄ… mineralnÄ…
+- wymiana i montaÅ¼ drzwi do pomieszczeÅ„ biurowych i gospodarczych,
+- wymiana posadzek na pÅ‚ytki gresowe szare oraz drewnopodobne
+-wymiana okÅ‚adziny czÄ™Å›ci Å›cian naÂ  pÅ‚ytki gresowe, drewnopodobne, okÅ‚adzinÄ™ drewnianÄ… â€“ likwidacja boazerii
+- tynki wewnÄ™trzne z rÃ³wnaniem gÅ‚adziÄ… gipsowÄ…,
 - roboty malarskie
--sufity gipsowane, malowane, likwidacja drewnianych kasetonów 
-- wykucie bruzd w œcianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
-- wymiana instalacji c.o. i instalacji c.w.(rura¿ i grzejniki),
+-sufity gipsowane, malowane, likwidacja drewnianych kasetonÃ³w 
+- wykucie bruzd w Å›cianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
+- wymiana instalacji c.o. i instalacji c.w.(ruraÅ¼ i grzejniki),
 - modernizacja instalacji kanalizacyjnej,
 - modernizacja instalacji elektrycznej,
-- instalacja komputerowa wewnêtrzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
--roboty sprawdzaj¹ce sprawnoœæ instalacji oraz prace porz¹dkowe zwi¹zane z przygotowaniem pomieszczeñ biurowych do monta¿u nowych mebli i wyposa¿enia:
-- sprawdzenie sprawnoœci dzia³ania instalacji c.o., ciep³ej wody, zimnej wody,
-kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.po¿arowej, alarmowej, 
-- zainstalowanie rêkawa do usuwania gruzu i odpadów z piêtra budynku, wywiezienie z budynku materia³ów budowlanych oraz gruzu i odpadów do utylizacji, 
-- dok³adne posprz¹tanie wyremontowanych pomieszczeñ (w tym umycie i
-zakonserwowanie drzwi, okien i pod³óg) umo¿liwiaj¹ce wstawienie nowego
-umeblowania i wyposa¿enia biur, bezpoœrednio po zakoñczeniu prac  
+- instalacja komputerowa wewnÄ™trzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
+-roboty sprawdzajÄ…ce sprawnoÅ›Ä‡ instalacji oraz prace porzÄ…dkowe zwiÄ…zane z przygotowaniem pomieszczeÅ„ biurowych do montaÅ¼u nowych mebli i wyposaÅ¼enia:
+- sprawdzenie sprawnoÅ›ci dziaÅ‚ania instalacji c.o., ciepÅ‚ej wody, zimnej wody,
+kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.poÅ¼arowej, alarmowej, 
+- zainstalowanie rÄ™kawa do usuwania gruzu i odpadÃ³w z piÄ™tra budynku, wywiezienie z budynku materiaÅ‚Ã³w budowlanych oraz gruzu i odpadÃ³w do utylizacji, 
+- dokÅ‚adne posprzÄ…tanie wyremontowanych pomieszczeÅ„ (w tym umycie i
+zakonserwowanie drzwi, okien i podÅ‚Ã³g) umoÅ¼liwiajÄ…ce wstawienie nowego
+umeblowania i wyposaÅ¼enia biur, bezpoÅ›rednio po zakoÅ„czeniu pracÂ  
 budowlanych, 
-- naprawa uszkodzeñ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerów na gruz
--wyposa¿enie w nowe elementy sanitarne
-- wnêtrza zostan¹ wyposa¿one w nowe meble biurowe, kuchenne, rega³y, co bêdzie przedmiotem odrêbnego zamówienia – konieczna wspó³praca pomiêdzy firm¹ wykonuj¹c¹ us³ugê budowlan¹ i firm¹ realizuj¹c¹ dostawê meblow¹.
- 
- 
-Przed z³o¿eniem oferty niezbêdne jest przeprowadzenie wizji lokalnej. 
- 
-Szczegó³owy opis przedmiotu zamówienia  zawarty jest w  za³. nr 1 do zapytania   ofertowego, oraz w projekcie techniczno-budowlanym – za³ nr 2 do zapytania ofertowego.
- 
-Szczegó³owy zakres robót ujêty jest w zestawieniu robót – przedmiarze bêd¹cym integraln¹ czêœci¹ projektu techniczno-budowlanego – za³. nr 4 do zapytania ofertowego.
-W okresie realizacji przedmiotu zamówienia pracownicy Nadleœnictwa Lubliniec bêd¹ przebywali i pracowali w s¹siedztwie remontowanego lokalu, dlatego roboty budowlane (w szczególnoœci rozbiórkowe) winny byæ wykonywane w terminach uzgodnionych z Sekretarzem lub Specjalist¹ ds. budowlanych Nadleœnictwa Lubliniec w sposób nie koliduj¹cy z prac¹ biura oraz pracami budowlanymi. W tym celu mo¿liwa jest wykonywanie prac rozbiórkowych oraz dostawa i monta¿ po godz. 15.00 – 18.00 w dni robocze, oraz w soboty w godz. 8.00 do 18.00.
- 
- 
-II. TRYB ZAMÓWIENIA
-  Podstawa zapytania ofertowego; 
-1.Zarz¹dzenie Nadleœniczego Nadleœnictwa Lubliniec nr 19/2018 z dnia 09.08.2018 r. zn.spr. S.0210.19.2018 w sprawie wprowadzenia w ¿ycie Regulaminu udzielania zamówieñ na us³ugi, dostawy, roboty budowlane o wartoœci nie przekraczaj¹cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia Prawo zamówieñ publicznych oraz powo³ania Komisji przetargowej w tym zakresie.
-W sprawach nie uregulowanych Zarz¹dzeniem zastosowanie maj¹ przepisy ustawy z dnia 23.04.1964r. Kodeks cywilny (Dz.U.z 2019r, poz. 1145 z póŸn.zm.).  
-2.Wartoœæ ca³ego zamówienia nie przekracza kwoty wskazanej w art.4 ust.8 ustawy Pzp dla robót budowlanych tj. 30.000 euro.
- 
-III.TERMIN WYKONANIA ZAMÓWIENIA:
+- naprawa uszkodzeÅ„ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerÃ³w na gruz
+-wyposaÅ¼enie w nowe elementy sanitarne
+- wnÄ™trza zostanÄ… wyposaÅ¼one w nowe meble biurowe, kuchenne, regaÅ‚y, co bÄ™dzie przedmiotem odrÄ™bnego zamÃ³wienia â€“ konieczna wspÃ³Å‚praca pomiÄ™dzy firmÄ… wykonujÄ…cÄ… usÅ‚ugÄ™ budowlanÄ… i firmÄ… realizujÄ…cÄ… dostawÄ™ meblowÄ….
+Â 
+Â 
+Przed zÅ‚oÅ¼eniem oferty niezbÄ™dne jest przeprowadzenie wizji lokalnej. 
+Â 
+SzczegÃ³Å‚owy opis przedmiotu zamÃ³wieniaÂ  zawarty jest wÂ  zaÅ‚. nr 1 do zapytaniaÂ Â  ofertowego, oraz w projekcie techniczno-budowlanym â€“ zaÅ‚ nr 2 do zapytania ofertowego.
+Â 
+SzczegÃ³Å‚owy zakres robÃ³t ujÄ™ty jest w zestawieniu robÃ³t â€“ przedmiarze bÄ™dÄ…cym integralnÄ… czÄ™Å›ciÄ… projektu techniczno-budowlanego â€“ zaÅ‚. nr 4 do zapytania ofertowego.
+W okresie realizacji przedmiotu zamÃ³wienia pracownicy NadleÅ›nictwa Lubliniec bÄ™dÄ… przebywali i pracowali w sÄ…siedztwie remontowanego lokalu, dlatego roboty budowlane (w szczegÃ³lnoÅ›ci rozbiÃ³rkowe) winny byÄ‡ wykonywane w terminach uzgodnionych z Sekretarzem lub SpecjalistÄ… ds. budowlanych NadleÅ›nictwa Lubliniec w sposÃ³b nie kolidujÄ…cy z pracÄ… biura oraz pracami budowlanymi. W tym celu moÅ¼liwa jest wykonywanie prac rozbiÃ³rkowych oraz dostawa i montaÅ¼ po godz. 15.00 â€“ 18.00 w dni robocze, oraz w soboty w godz. 8.00 do 18.00.
+Â 
+Â 
+II. TRYB ZAMÃ“WIENIA
+Â  Podstawa zapytania ofertowego; 
+1.ZarzÄ…dzenie NadleÅ›niczego NadleÅ›nictwa Lubliniec nr 19/2018 z dnia 09.08.2018 r. zn.spr. S.0210.19.2018 w sprawie wprowadzenia w Å¼ycie Regulaminu udzielania zamÃ³wieÅ„ na usÅ‚ugi, dostawy, roboty budowlane o wartoÅ›ci nie przekraczajÄ…cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia Prawo zamÃ³wieÅ„ publicznych oraz powoÅ‚ania Komisji przetargowej w tym zakresie.
+W sprawach nie uregulowanych ZarzÄ…dzeniem zastosowanie majÄ… przepisy ustawy z dnia 23.04.1964r. Kodeks cywilny (Dz.U.z 2019r, poz. 1145 z pÃ³Åºn.zm.).Â  
+2.WartoÅ›Ä‡ caÅ‚ego zamÃ³wienia nie przekracza kwoty wskazanej w art.4 ust.8 ustawy Pzp dla robÃ³t budowlanych tj. 30.000 euro.
+Â 
+III.TERMIN WYKONANIA ZAMÃ“WIENIA:
 1.Od dnia podpisania umowy do dnia 16.12.2019 r.
-2. Przez termin realizacji zamówienia rozumie siê termin wykonania wszystkich robót ujêtych w projekcie techniczno-budowlanym i innych niezbêdnych do w³aœciwego wykonania przedmiotu zamówienia oraz wykonanie wszystkich ewentualnych poprawek i nieodci¹gniêæ,  wykonanie prac porz¹dkowych, sprawdzenie sprawnoœci i bezpieczeñstwa wszystkich instalacji oraz wykonanie innych czynnoœci umo¿liwiaj¹cych u¿ytkowanie obiektu.
-3.Tak okreœlony termin realizacji zamówienia jest terminem po¿¹danym, który mo¿e ulec zmianie na warunkach okreœlonych poni¿ej, tj. w przypadku ;
-a/. wyst¹pienia zmian bêd¹cych nastêpstwem okolicznoœci le¿¹cych po stronie zamawiaj¹cego , w szczególnoœci;
-- koniecznoœæ usuniêcia b³êdów lub wprowadzenia zmian w dokumentacji projektowej,
-- wstrzymanie robót przez zamawiaj¹cego na jego wyraŸny wniosek,
-b/. koniecznoœæ udzielenia zamówieñ dodatkowych 
-c/. przyczyny zewnêtrzne niezale¿ne od zamawiaj¹cego oraz wykonawcy skutkuj¹ce niemo¿noœci¹ prowadzenia prac,
-d/. inne okolicznoœci;
-- zwi¹zane z przed³u¿aj¹c¹ siê procedur¹ wybory wykonawcy maj¹c¹ wp³yw na termin podpisania umowy i przyst¹pienie do realizacji robót.
-4.Warunki dokonania zmian; W przypadku wyst¹pienia którejkolwiek okolicznoœci wymienionej powy¿ej  termin wykonania umowy mo¿e ulec odpowiedniemu przed³u¿eniu o czas niezbêdny do zakoñczenia jej wykonania jej przedmiotu w sposób nale¿yty, nie d³u¿ej jednak ni¿ o okres trwania tych okolicznoœci.
- 
-IV. MIEJSCE I SPOSÓB POBRANIA DOKUMENTÓW I PRZYGOTOWANIA OFERTY:
-Og³oszenie o przetargu wywieszone na tablicy og³oszeñ Zamawiaj¹cego  w   dniu 03.10.2019 r.
-Og³oszenie o przetargu opublikowano w internecie w dniu 03.10.2019 r. na stronie: www.lubliniec.katowice.lasy.gov.pl, https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_lubliniec/komunikaty_i_ogloszenia – miejsce i sposób pobrania dokumentów do przetargu
- 
- 
-V. MIEJSCE ORAZ TERMIN SK£ADANIA OFERT:
-Ofertê nale¿y z³o¿yæ na formularzu ofertowym sporz¹dzonym wed³ug wzoru stanowi¹cego za³¹cznik nr 3 wraz z wype³nionym za³¹cznikiem nr 4 – kosztorys sporz¹dzony na podstawie przedmiaru robót us³ugi budowlane i za³¹cznikiem nr 5 – wykaz wykonanych robót budowlanych za³¹czonymi do zapytania ofertowego.
-Oferty pisemne w zaklejonych kopertach z dopiskiem „Oferta na przeprowadzenie adaptacji lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia” nale¿y z³o¿yæ w siedzibie Nadleœnictwa Lubliniec w Lubliñcu przy ul. Myœliwskiej 1 do dnia 10.10.2019 r. do godz. 10. 00 (decyduje data wp³ywu oferty do zamawiaj¹cego).
- 
-VI. WARUNEK UDZIA£U W POSTÊPOWANIU:
-Zamawiaj¹cy winien  wykazaæ siê doœwiadczeniem w wykonaniu remontów, modernizacji, adaptacji lokali o podobnych parametrach – wykaz co najmniej 2 robót budowlanych wykonanych w okresie ostatnich  piêciu lat przed up³ywem terminu sk³adania ofert, a je¿eli okres prowadzenia dzia³alnoœci jest krótszy wykona³ co najmniej 2 roboty budowlane- odpowiadaj¹cych swoim rodzajem i  wartoœci¹ (ka¿da oddzielnie) robotom stanowi¹cym przedmiot zamówienia  (roboty zwi¹zane z budow¹, remontem i modernizacj¹, adaptacj¹ budynków na cele us³ugowe, lub pe³ni¹cych funkcjê budynków u¿ytecznoœci publicznej, z podaniem ich  wartoœci, zakresu, dat wykonania i zamawiaj¹cych oraz za³¹czenia  dokumentów potwierdzaj¹cych, ¿e te roboty zosta³y wykonane z nale¿yt¹  starannoœci¹ (referencje). Nale¿y ponadto do³¹czyæ zdjêcia zrealizowanych na podstawie wykonanych przez firmê dokumentacji inwestycji, remontów, adaptacji. 
-VII. POZOSTA£E INFORMACJE
-1.Zamawiaj¹cy dopuszcza mo¿liwoœæ;
-a/ negocjacji cen z ka¿dym z Wykonawców osobno,
-b/ uniewa¿nienia postêpowania dotycz¹cego zamówienia  w ka¿dym czasie bez podania przyczyny.
-2. Z wybranym wykonawc¹ zostanie podpisana umowa wed³ug wzoru stanowi¹cego za³¹cznik nr 6 do zapytania ofertowego, uwzglêdniaj¹c warunki zapytania ofertowego i treœæ z³o¿onej oferty. 
- 
-VIII. OSOBA DO KONTAKTÓW:
-Marzena W¹tor-Znojek, Nadleœnictwo Lubliniec, ul. Myœliwska 1, 42-700 Lubliniec
-tel.  34 /351 33 38 kom. 660 409 801, e-mail: marzena.wator@katowice.lasy.gov.pl
- 
- 
-W za³¹czeniu: 
-- za³¹cznik nr 1 – Opis przedmiotu zamówienia 
-- za³¹cznik nr 2 – Projekt techniczno-budowlany dotycz¹cy w/w zamówienia
-- za³¹cznik nr 3 – Oferta na „Adaptacjê lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec 
-                            i Solarnia”
-- za³¹cznik nr 4 – Kosztorys sporz¹dzony na podstawie Przedmiaru robót – prace budowlane
-- za³¹cznik nr 5 – Wykaz wykonanych robót budowlanych
-- za³¹cznik nr 6 – Wzór umowy
- 
- 
- 
-                                Nadleœniczy Nadleœnictwa Lubliniec
-                               Zbigniew Znojek                                                                        
- 
-Za³¹cznik nr 1 do zapytania ofertowego
- 
-Opis przedmiotu zamówienia:
- 
-Przedmiotem zamówienia jest robota budowlana polegaj¹ca na wykonaniu adaptacji lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia , znajduj¹cego siê w budynku administracyjnym Nadleœnictwa Lubliniec przy ul. Myœliwska 1, 42-700 Lubliniec. 
-Przed z³o¿eniem oferty niezbêdne jest przeprowadzenie wizji lokalnej w terenie.
-Przewidywane zadania zwi¹zane z dostosowaniem i adaptacj¹ lokalu mieszkalnego na potrzeby podwójnej kancelarii opisane s¹ szczegó³owo w za³¹czonym Projekcie i dotycz¹ zmiany uk³adu funkcjonalnego pomieszczeñ, w tym wyburzenie istniej¹cych œcian wewnêtrznych, wymiana instalacji grzewczej, elektrycznej, sanitarnej, instalacja klimatyzacji, alarmu, wymiana pod³óg, stolarki drzwiowej, malowanie.
-Planowane pomieszczenie kancelarii znajdowaæ siê bêdzie w budynku administracyjnym Nadleœnictwa Lubliniec z niezale¿nym wejœciem do kancelarii i spe³niaæ bêdzie wszelkie wymogi dotycz¹ce standardu dla kancelarii wynikaj¹ce z Zarz¹dzenia nr 79 Dyrektora Generalnego Lasów Pañstwowych z dnia  3 listopada 2015 r. w sprawie okreœlenia standardu pomieszczeñ biurowych leœnictwa, a tak¿e ich wyposa¿enia (Zn.spr. OF.770.8.2015).
- 
-Tabela przedstawiaj¹ca wykaz powierzchni pomieszczeñ adaptowanej kancelarii
- 
+2. Przez termin realizacji zamÃ³wienia rozumie siÄ™ termin wykonania wszystkich robÃ³t ujÄ™tych w projekcie techniczno-budowlanym i innych niezbÄ™dnych do wÅ‚aÅ›ciwego wykonania przedmiotu zamÃ³wienia oraz wykonanie wszystkich ewentualnych poprawek i nieodciÄ…gniÄ™Ä‡,Â  wykonanie prac porzÄ…dkowych, sprawdzenie sprawnoÅ›ci i bezpieczeÅ„stwa wszystkich instalacji oraz wykonanie innych czynnoÅ›ci umoÅ¼liwiajÄ…cych uÅ¼ytkowanie obiektu.
+3.Tak okreÅ›lony termin realizacji zamÃ³wienia jest terminem poÅ¼Ä…danym, ktÃ³ry moÅ¼e ulec zmianie na warunkach okreÅ›lonych poniÅ¼ej, tj. w przypadku ;
+a/. wystÄ…pienia zmian bÄ™dÄ…cych nastÄ™pstwem okolicznoÅ›ci leÅ¼Ä…cych po stronie zamawiajÄ…cego , w szczegÃ³lnoÅ›ci;
+- koniecznoÅ›Ä‡ usuniÄ™cia bÅ‚Ä™dÃ³w lub wprowadzenia zmian w dokumentacji projektowej,
+- wstrzymanie robÃ³t przez zamawiajÄ…cego na jego wyraÅºny wniosek,
+b/. koniecznoÅ›Ä‡ udzielenia zamÃ³wieÅ„ dodatkowych 
+c/. przyczyny zewnÄ™trzne niezaleÅ¼ne od zamawiajÄ…cego oraz wykonawcy skutkujÄ…ce niemoÅ¼noÅ›ciÄ… prowadzenia prac,
+d/. inne okolicznoÅ›ci;
+- zwiÄ…zane z przedÅ‚uÅ¼ajÄ…cÄ… siÄ™ procedurÄ… wybory wykonawcy majÄ…cÄ… wpÅ‚yw na termin podpisania umowy i przystÄ…pienie do realizacji robÃ³t.
+4.Warunki dokonania zmian; W przypadku wystÄ…pienia ktÃ³rejkolwiek okolicznoÅ›ci wymienionej powyÅ¼ejÂ  termin wykonania umowy moÅ¼e ulec odpowiedniemu przedÅ‚uÅ¼eniu o czas niezbÄ™dny do zakoÅ„czenia jej wykonania jej przedmiotu w sposÃ³b naleÅ¼yty, nie dÅ‚uÅ¼ej jednak niÅ¼ o okres trwania tych okolicznoÅ›ci.
+Â 
+IV. MIEJSCE I SPOSÃ“B POBRANIA DOKUMENTÃ“W I PRZYGOTOWANIA OFERTY:
+OgÅ‚oszenie o przetargu wywieszone na tablicy ogÅ‚oszeÅ„ ZamawiajÄ…cegoÂ  wÂ Â  dniu 03.10.2019 r.
+OgÅ‚oszenie o przetargu opublikowano w internecie w dniu 03.10.2019 r. na stronie: www.lubliniec.katowice.lasy.gov.pl, https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_lubliniec/komunikaty_i_ogloszenia â€“ miejsce i sposÃ³b pobrania dokumentÃ³w do przetargu
+Â 
+Â 
+V. MIEJSCE ORAZ TERMIN SKÅADANIA OFERT:
+OfertÄ™ naleÅ¼y zÅ‚oÅ¼yÄ‡ na formularzu ofertowym sporzÄ…dzonym wedÅ‚ug wzoru stanowiÄ…cego zaÅ‚Ä…cznik nr 3 wraz z wypeÅ‚nionym zaÅ‚Ä…cznikiem nr 4 â€“ kosztorys sporzÄ…dzony na podstawie przedmiaru robÃ³t usÅ‚ugi budowlane i zaÅ‚Ä…cznikiem nr 5 â€“ wykaz wykonanych robÃ³t budowlanych zaÅ‚Ä…czonymi do zapytania ofertowego.
+Oferty pisemne w zaklejonych kopertach z dopiskiem â€Oferta na przeprowadzenie adaptacji lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarniaâ€ naleÅ¼y zÅ‚oÅ¼yÄ‡ w siedzibie NadleÅ›nictwa Lubliniec w LubliÅ„cu przy ul. MyÅ›liwskiej 1 do dnia 10.10.2019 r. do godz. 10. 00 (decyduje data wpÅ‚ywu oferty do zamawiajÄ…cego).
+Â 
+VI. WARUNEK UDZIAÅU W POSTÄ˜POWANIU:
+ZamawiajÄ…cy winienÂ  wykazaÄ‡ siÄ™ doÅ›wiadczeniem w wykonaniu remontÃ³w, modernizacji, adaptacji lokali o podobnych parametrach â€“ wykaz co najmniej 2 robÃ³t budowlanych wykonanych w okresie ostatnichÂ  piÄ™ciu lat przed upÅ‚ywem terminu skÅ‚adania ofert, a jeÅ¼eli okres prowadzenia dziaÅ‚alnoÅ›ci jest krÃ³tszy wykonaÅ‚ co najmniej 2 roboty budowlane- odpowiadajÄ…cych swoim rodzajem iÂ  wartoÅ›ciÄ… (kaÅ¼da oddzielnie) robotom stanowiÄ…cym przedmiot zamÃ³wieniaÂ  (roboty zwiÄ…zane z budowÄ…, remontem i modernizacjÄ…, adaptacjÄ… budynkÃ³w na cele usÅ‚ugowe, lub peÅ‚niÄ…cych funkcjÄ™ budynkÃ³w uÅ¼ytecznoÅ›ci publicznej, z podaniem ichÂ  wartoÅ›ci, zakresu, dat wykonania i zamawiajÄ…cych oraz zaÅ‚Ä…czeniaÂ  dokumentÃ³w potwierdzajÄ…cych, Å¼e te roboty zostaÅ‚y wykonane z naleÅ¼ytÄ…Â  starannoÅ›ciÄ… (referencje). NaleÅ¼y ponadto doÅ‚Ä…czyÄ‡ zdjÄ™cia zrealizowanych na podstawie wykonanych przez firmÄ™ dokumentacji inwestycji, remontÃ³w, adaptacji. 
+VII. POZOSTAÅE INFORMACJE
+1.ZamawiajÄ…cy dopuszcza moÅ¼liwoÅ›Ä‡;
+a/ negocjacji cen z kaÅ¼dym z WykonawcÃ³w osobno,
+b/ uniewaÅ¼nienia postÄ™powania dotyczÄ…cego zamÃ³wieniaÂ  w kaÅ¼dym czasie bez podania przyczyny.
+2. Z wybranym wykonawcÄ… zostanie podpisana umowa wedÅ‚ug wzoru stanowiÄ…cego zaÅ‚Ä…cznik nr 6 do zapytania ofertowego, uwzglÄ™dniajÄ…c warunki zapytania ofertowego i treÅ›Ä‡ zÅ‚oÅ¼onej oferty. 
+Â 
+VIII. OSOBA DO KONTAKTÃ“W:
+Marzena WÄ…tor-Znojek, NadleÅ›nictwo Lubliniec, ul. MyÅ›liwska 1, 42-700 Lubliniec
+tel.Â  34 /351 33 38 kom. 660Â 409 801, e-mail: marzena.wator@katowice.lasy.gov.pl
+Â 
+Â 
+W zaÅ‚Ä…czeniu: 
+- zaÅ‚Ä…cznik nr 1 â€“ Opis przedmiotu zamÃ³wienia 
+- zaÅ‚Ä…cznik nr 2 â€“ Projekt techniczno-budowlany dotyczÄ…cy w/w zamÃ³wienia
+- zaÅ‚Ä…cznik nr 3 â€“ Oferta na â€AdaptacjÄ™ lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  i Solarniaâ€
+- zaÅ‚Ä…cznik nr 4 â€“ Kosztorys sporzÄ…dzony na podstawie Przedmiaru robÃ³t â€“ prace budowlane
+- zaÅ‚Ä…cznik nr 5 â€“ Wykaz wykonanych robÃ³t budowlanych
+- zaÅ‚Ä…cznik nr 6 â€“ WzÃ³r umowy
+Â 
+Â 
+Â 
+Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â NadleÅ›niczy NadleÅ›nictwa Lubliniec
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Zbigniew ZnojekÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Â 
+ZaÅ‚Ä…cznik nr 1 do zapytania ofertowego
+Â 
+Opis przedmiotu zamÃ³wienia:
+Â 
+Przedmiotem zamÃ³wienia jest robota budowlana polegajÄ…ca na wykonaniu adaptacji lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarnia , znajdujÄ…cego siÄ™ w budynku administracyjnym NadleÅ›nictwa Lubliniec przy ul. MyÅ›liwska 1, 42-700 Lubliniec. 
+Przed zÅ‚oÅ¼eniem oferty niezbÄ™dne jest przeprowadzenie wizji lokalnej w terenie.
+Przewidywane zadania zwiÄ…zane z dostosowaniem i adaptacjÄ… lokalu mieszkalnego na potrzeby podwÃ³jnej kancelarii opisane sÄ… szczegÃ³Å‚owo w zaÅ‚Ä…czonym Projekcie i dotyczÄ… zmiany ukÅ‚adu funkcjonalnego pomieszczeÅ„, w tym wyburzenie istniejÄ…cych Å›cian wewnÄ™trznych, wymiana instalacji grzewczej, elektrycznej, sanitarnej, instalacja klimatyzacji, alarmu, wymiana podÅ‚Ã³g, stolarki drzwiowej, malowanie.
+Planowane pomieszczenie kancelarii znajdowaÄ‡ siÄ™ bÄ™dzie w budynku administracyjnym NadleÅ›nictwa Lubliniec z niezaleÅ¼nym wejÅ›ciem do kancelarii i speÅ‚niaÄ‡ bÄ™dzie wszelkie wymogi dotyczÄ…ce standardu dla kancelarii wynikajÄ…ce z ZarzÄ…dzenia nr 79 Dyrektora Generalnego LasÃ³w PaÅ„stwowych z dniaÂ  3 listopada 2015 r. w sprawie okreÅ›lenia standardu pomieszczeÅ„ biurowych leÅ›nictwa, a takÅ¼e ich wyposaÅ¼enia (Zn.spr. OF.770.8.2015).
+Â 
+Tabela przedstawiajÄ…ca wykaz powierzchni pomieszczeÅ„ adaptowanej kancelarii
+Â 
 
 
 
 
-WYKAZ POMIESZCZEÑ
+WYKAZ POMIESZCZEÅƒ
 
 
 
@@ -1059,12 +1059,12 @@ Lp
 Pomieszczenie
 
 
-Powierzchnia wymagana wynikaj¹ca   z Zarz¹dzenia nr 79 /m2/
+Powierzchnia wymagana wynikajÄ…ca   z ZarzÄ…dzenia nr 79 /m2/
 
 
 Powierzchnia projektowanej   kancelarii 
 /m2/
- 
+Â 
 
 
 
@@ -1072,7 +1072,7 @@ Powierzchnia projektowanej   kancelarii
 1
 
 
-Wiatro³ap/komunikacja
+WiatroÅ‚ap/komunikacja
 
 
 3-4
@@ -1097,14 +1097,14 @@ Poczekalnia
 3
 
 
-Pomieszczenia   biurowe – kancelaria (2 szt)
+Pomieszczenia   biurowe â€“ kancelaria (2 szt)
 
 
 12-20
 
 
-16,01 –   Kancelaria nr 1
-16,08 -  Kancelaria nr 2 
+16,01 â€“   Kancelaria nr 1
+16,08 -Â  Kancelaria nr 2 
 
 
 
@@ -1126,7 +1126,7 @@ Kuchnia/pom.soc.
 5
 
 
-£azienka   z WC
+Åazienka   z WC
 
 
 4-6
@@ -1146,70 +1146,70 @@ Pomieszczenia   gospodarcze (2 szt)
 4-6
 
 
-16,83 m2 – pomieszczenie nr 1
-21,88 m2 – pomieszczenie nr 2
- 
+16,83 m2 â€“ pomieszczenie nr 1
+21,88 m2 â€“ pomieszczenie nr 2
+Â 
 
 
 
 
- 
-Wykonawca powinien zastosowaæ takie parametry techniczne i funkcjonalnoœci, takie rozwi¹zania techniczne, budowlano-monta¿owe, technologiczne oraz takie wyposa¿enie, aby stworzyæ optymalne warunki dla realizacji podstawowych funkcji dla lokalu biurowego, stanowi¹cego budynek us³ugowy – samodzieln¹ podwójn¹ kancelariê dla Leœnictw Lubliniec, Solarnia.
- 
- 
- 
- 
-Szczegó³owy opis przedmiotu zamówienia:
-- zmiana uk³adu funkcjonalnego pomieszczeñ z czêœciowym wyburzeniem œcian     
-  istniej¹cych i budowa nowych œcianek wewnêtrznych, wyburzenie komina, uzupe³nienie fragmentów œcian po otworach drzwiowych, wykonanie nadpro¿y dla nowych otworów drzwiowych
--nowe œciany dzia³owe projektuje siê w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie nale¿y wype³niæ we³n¹ mineraln¹
-- wymiana i monta¿ drzwi do pomieszczeñ biurowych i gospodarczych,
-- wymiana posadzek na p³ytki gresowe szare oraz drewnopodobne
--wymiana ok³adziny czêœci œcian na  p³ytki gresowe, drewnopodobne, ok³adzinê drewnian¹ – likwidacja boazerii
-- tynki wewnêtrzne z równaniem g³adzi¹ gipsow¹,
+Â 
+Wykonawca powinien zastosowaÄ‡ takie parametry techniczne i funkcjonalnoÅ›ci, takie rozwiÄ…zania techniczne, budowlano-montaÅ¼owe, technologiczne oraz takie wyposaÅ¼enie, aby stworzyÄ‡ optymalne warunki dla realizacji podstawowych funkcji dla lokalu biurowego, stanowiÄ…cego budynek usÅ‚ugowy â€“ samodzielnÄ… podwÃ³jnÄ… kancelariÄ™ dla LeÅ›nictw Lubliniec, Solarnia.
+Â 
+Â 
+Â 
+Â 
+SzczegÃ³Å‚owy opis przedmiotu zamÃ³wienia:
+- zmiana ukÅ‚adu funkcjonalnego pomieszczeÅ„ z czÄ™Å›ciowym wyburzeniem Å›cianÂ Â Â Â  
+Â  istniejÄ…cych i budowa nowych Å›cianek wewnÄ™trznych, wyburzenie komina, uzupeÅ‚nienie fragmentÃ³w Å›cian po otworach drzwiowych, wykonanie nadproÅ¼y dla nowych otworÃ³w drzwiowych
+-nowe Å›ciany dziaÅ‚owe projektuje siÄ™ w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie naleÅ¼y wypeÅ‚niÄ‡ weÅ‚nÄ… mineralnÄ…
+- wymiana i montaÅ¼ drzwi do pomieszczeÅ„ biurowych i gospodarczych,
+- wymiana posadzek na pÅ‚ytki gresowe szare oraz drewnopodobne
+-wymiana okÅ‚adziny czÄ™Å›ci Å›cian naÂ  pÅ‚ytki gresowe, drewnopodobne, okÅ‚adzinÄ™ drewnianÄ… â€“ likwidacja boazerii
+- tynki wewnÄ™trzne z rÃ³wnaniem gÅ‚adziÄ… gipsowÄ…,
 - roboty malarskie
--sufity gipsowane, malowane, likwidacja drewnianych kasetonów 
-- wykucie bruzd w œcianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
-- wymiana instalacji c.o. i instalacji c.w.(rura¿ i grzejniki),
+-sufity gipsowane, malowane, likwidacja drewnianych kasetonÃ³w 
+- wykucie bruzd w Å›cianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
+- wymiana instalacji c.o. i instalacji c.w.(ruraÅ¼ i grzejniki),
 - modernizacja instalacji kanalizacyjnej,
 - modernizacja instalacji elektrycznej,
-- instalacja komputerowa wewnêtrzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
--roboty sprawdzaj¹ce sprawnoœæ instalacji oraz prace porz¹dkowe zwi¹zane z przygotowaniem pomieszczeñ biurowych do monta¿u nowych mebli i wyposa¿enia:
-- sprawdzenie sprawnoœci dzia³ania instalacji c.o., ciep³ej wody, zimnej wody,
-kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.po¿arowej, alarmowej, 
-- zainstalowanie rêkawa do usuwania gruzu i odpadów z piêtra budynku, wywiezienie z budynku materia³ów budowlanych oraz gruzu i odpadów do utylizacji, 
-- dok³adne posprz¹tanie wyremontowanych pomieszczeñ (w tym umycie i
-zakonserwowanie drzwi, okien i pod³óg) umo¿liwiaj¹ce wstawienie nowego
-umeblowania i wyposa¿enia biur, bezpoœrednio po zakoñczeniu prac  
+- instalacja komputerowa wewnÄ™trzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
+-roboty sprawdzajÄ…ce sprawnoÅ›Ä‡ instalacji oraz prace porzÄ…dkowe zwiÄ…zane z przygotowaniem pomieszczeÅ„ biurowych do montaÅ¼u nowych mebli i wyposaÅ¼enia:
+- sprawdzenie sprawnoÅ›ci dziaÅ‚ania instalacji c.o., ciepÅ‚ej wody, zimnej wody,
+kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.poÅ¼arowej, alarmowej, 
+- zainstalowanie rÄ™kawa do usuwania gruzu i odpadÃ³w z piÄ™tra budynku, wywiezienie z budynku materiaÅ‚Ã³w budowlanych oraz gruzu i odpadÃ³w do utylizacji, 
+- dokÅ‚adne posprzÄ…tanie wyremontowanych pomieszczeÅ„ (w tym umycie i
+zakonserwowanie drzwi, okien i podÅ‚Ã³g) umoÅ¼liwiajÄ…ce wstawienie nowego
+umeblowania i wyposaÅ¼enia biur, bezpoÅ›rednio po zakoÅ„czeniu pracÂ  
 budowlanych, 
-- naprawa uszkodzeñ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerów na gruz
--wyposa¿enie w nowe elementy sanitarne
-- wnêtrza zostan¹ wyposa¿one w nowe meble biurowe, kuchenne, rega³y, co bêdzie przedmiotem odrêbnego zamówienia – konieczna wspó³praca pomiêdzy firm¹ wykonuj¹c¹ us³ugê budowlan¹ i firm¹ realizuj¹c¹ dostawê meblow¹ w zakresie instalacji elektrycznych, teletechnicznych, wod-kan.
- 
- 
-Za³¹cznik nr 3 do zapytania ofertowego 
-………………………………….
-(piecz¹tka firmowa wykonawcy)
+- naprawa uszkodzeÅ„ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerÃ³w na gruz
+-wyposaÅ¼enie w nowe elementy sanitarne
+- wnÄ™trza zostanÄ… wyposaÅ¼one w nowe meble biurowe, kuchenne, regaÅ‚y, co bÄ™dzie przedmiotem odrÄ™bnego zamÃ³wienia â€“ konieczna wspÃ³Å‚praca pomiÄ™dzy firmÄ… wykonujÄ…cÄ… usÅ‚ugÄ™ budowlanÄ… i firmÄ… realizujÄ…cÄ… dostawÄ™ meblowÄ… w zakresie instalacji elektrycznych, teletechnicznych, wod-kan.
+Â 
+Â 
+ZaÅ‚Ä…cznik nr 3 do zapytania ofertowego 
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+(pieczÄ…tka firmowa wykonawcy)
 OFERTA
- 
-Niniejszym sk³adam/y ofertê na: 
- „Adaptacjê lokalu mieszkalnego na potrzeby 
-Kancelarii Leœnictwa Lubliniec i Solarnia”
- 
-1.Oferujê/my wykonanie przedmiotu Zamówienia za cenê:
-Cena netto ........................................................................................................z³ 
-(s³ownie:.....................................................................................................................……)
-Stawka pod. VAT…......%, wartoœæ pod. VAT....................................................................z³
-Cena brutto .......................................................................................................z³
-(s³ownie:............................................................................................................................)
-2.  Proponujê/my nastêpuj¹ce warunki p³atnoœci:
-a)    …………dni licz¹c od daty dorêczenia faktury Zamawiaj¹cemu.
-3.Oœwiadczam/y ¿e:
-a/. zapozna³em/liœmy siê z zapytaniem ofertowym i nie wnoszê/imy do niej zastrze¿eñ oraz zdoby³em/liœmy wszelkie konieczne informacje potrzebne do w³aœciwego wykonania zamówienia, 
-      b/ za³¹czony do zapytania ofertowego projekt umowy zosta³ zaakceptowany i zobowi¹zujê/my siê, w przypadku wybrania oferty, do zawarcia umowy na wy¿ej wymienionych warunkach w miejscu i  terminie wyznaczonym przez Zamawiaj¹cego.
-4. Nastêpuj¹ce zakresy rzeczowe wchodz¹ce w przedmiot zamówienia zamierzamy zleciæ
-     poni¿szym podwykonawcom*: 
- 
+Â 
+Niniejszym skÅ‚adam/y ofertÄ™ na: 
+Â â€AdaptacjÄ™ lokalu mieszkalnego na potrzeby 
+Kancelarii LeÅ›nictwa Lubliniec i Solarniaâ€
+Â 
+1.OferujÄ™/my wykonanie przedmiotu ZamÃ³wienia za cenÄ™:
+Cena netto ........................................................................................................zÅ‚ 
+(sÅ‚ownie:.....................................................................................................................â€¦â€¦)
+Stawka pod. VATâ€¦......%, wartoÅ›Ä‡ pod. VAT....................................................................zÅ‚
+Cena brutto .......................................................................................................zÅ‚
+(sÅ‚ownie:............................................................................................................................)
+2.Â  ProponujÄ™/my nastÄ™pujÄ…ce warunki pÅ‚atnoÅ›ci:
+a)Â Â Â  â€¦â€¦â€¦â€¦dni liczÄ…c od daty dorÄ™czenia faktury ZamawiajÄ…cemu.
+3.OÅ›wiadczam/y Å¼e:
+a/. zapoznaÅ‚em/liÅ›my siÄ™ z zapytaniem ofertowym i nie wnoszÄ™/imy do niej zastrzeÅ¼eÅ„ oraz zdobyÅ‚em/liÅ›my wszelkie konieczne informacje potrzebne do wÅ‚aÅ›ciwego wykonania zamÃ³wienia, 
+Â Â Â Â Â  b/ zaÅ‚Ä…czony do zapytania ofertowego projekt umowy zostaÅ‚ zaakceptowany i zobowiÄ…zujÄ™/my siÄ™, w przypadku wybrania oferty, do zawarcia umowy na wyÅ¼ej wymienionych warunkach w miejscu iÂ  terminieÂ wyznaczonym przez ZamawiajÄ…cego.
+4. NastÄ™pujÄ…ce zakresy rzeczowe wchodzÄ…ce w przedmiot zamÃ³wienia zamierzamy zleciÄ‡
+Â Â Â Â  poniÅ¼szym podwykonawcom*: 
+Â 
 
 
 
@@ -1222,314 +1222,314 @@ Zakres rzeczowy
 
 
 
- 
+Â 
 
 
- 
-
-
-
-
- 
-
-
- 
+Â 
 
 
 
 
- 
+Â 
 
 
- 
-
-
-
-
- 
-
-
- 
+Â 
 
 
 
 
-5.Wszelk¹ korespondencjê w sprawie niniejszego postêpowania nale¿y kierowaæ na adres:
-e-mail;…………………………..……….…… lub pocztowy ………………….……………
-tel.: …………………………..………
-6.Oœwiadczam, ¿e wype³ni³em obowi¹zki informacyjne przewidziane w art. 13 lub art. 14 RODO1) wobec osób fizycznych, od których dane osobowe bezpoœrednio lub poœrednio pozyska³em w celu ubiegania siê o udzielenie zamówienia publicznego w niniejszym postêpowaniu.2)
- 
- 
- 
- 
- 
-                                                          .......................................................................
-                                                                  /Podpis wykonawcy / 
-                                                           
-Integraln¹ czêœæ oferty stanowi¹ nastêpuj¹ce za³¹czniki:
- 
-1.    Kosztorys wykonany na podstawie Przedmiaru robót – prace budowlane – wg wzoru – za³. nr 4
- 
-2.    Wykaz wykonanych robót budowlanych– wg wzoru – za³. nr 5
- 
-3.    ……………………………………….
- 
-4.    ……………………………………….
- 
-5.    ……………………………………….
- 
-6.    ………………………………………..
-*-niepotrzebne  skreœliæ, 
- 
-1) rozporz¹dzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w zwi¹zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep³ywu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporz¹dzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1). 
-2) W przypadku gdy wykonawca nie przekazuje danych osobowych innych ni¿ bezpoœrednio jego dotycz¹cych lub zachodzi wy³¹czenie stosowania obowi¹zku informacyjnego, stosownie do art. 13 ust. 4 lub art. 14 ust. 5 RODO treœci oœwiadczenia wykonawca nie sk³ada (usuniêcie treœci oœwiadczenia np. przez jego wykreœlenie).
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Za³¹cznik nr 5 do zapytania ofertowego 
-WYKAZ WYKONANYCH ROBÓT BUDOWLANYCH 
- 
-Wykaz wymagany jest w celu potwierdzenia warunku udzia³u w postêpowaniu
- 
- 
+Â 
+
+
+Â 
 
 
 
 
- 
+Â 
+
+
+Â 
+
+
+
+
+5.WszelkÄ… korespondencjÄ™ w sprawie niniejszego postÄ™powania naleÅ¼y kierowaÄ‡ na adres:
+e-mail;â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..â€¦â€¦â€¦.â€¦â€¦ lub pocztowy â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦â€¦â€¦
+tel.: â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..â€¦â€¦â€¦
+6.OÅ›wiadczam, Å¼e wypeÅ‚niÅ‚em obowiÄ…zki informacyjne przewidziane w art. 13 lub art. 14 RODO1) wobec osÃ³b fizycznych, od ktÃ³rych dane osobowe bezpoÅ›rednio lub poÅ›rednio pozyskaÅ‚em w celu ubiegania siÄ™ o udzielenie zamÃ³wienia publicznego w niniejszym postÄ™powaniu.2)
+Â 
+Â 
+Â 
+Â 
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â .......................................................................
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â /Podpis wykonawcy / 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+IntegralnÄ… czÄ™Å›Ä‡ oferty stanowiÄ… nastÄ™pujÄ…ce zaÅ‚Ä…czniki:
+Â 
+1.Â Â Â  Kosztorys wykonany na podstawie Przedmiaru robÃ³t â€“ prace budowlane â€“ wg wzoru â€“ zaÅ‚. nr 4
+Â 
+2.Â Â Â  Wykaz wykonanych robÃ³t budowlanychâ€“ wg wzoru â€“ zaÅ‚. nr 5
+Â 
+3.Â Â Â  â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+Â 
+4.Â Â Â  â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+Â 
+5.Â Â Â  â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.
+Â 
+6.Â Â Â  â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..
+*-niepotrzebneÂ  skreÅ›liÄ‡, 
+Â 
+1) rozporzÄ…dzenie Parlamentu Europejskiego i Rady (UE) 2016/679 zÂ dnia 27 kwietnia 2016 r. w sprawie ochrony osÃ³b fizycznych w zwiÄ…zku z przetwarzaniem danych osobowych i w sprawie swobodnego przepÅ‚ywu takich danych oraz uchylenia dyrektywy 95/46/WE (ogÃ³lne rozporzÄ…dzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1). 
+2) W przypadku gdy wykonawca nie przekazuje danych osobowych innych niÅ¼ bezpoÅ›rednio jego dotyczÄ…cych lub zachodzi wyÅ‚Ä…czenie stosowania obowiÄ…zku informacyjnego, stosownie do art. 13 ust. 4 lub art. 14 ust. 5 RODO treÅ›ci oÅ›wiadczenia wykonawca nie skÅ‚ada (usuniÄ™cie treÅ›ci oÅ›wiadczenia np. przez jego wykreÅ›lenie).
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+ZaÅ‚Ä…cznik nr 5 do zapytania ofertowego 
+WYKAZ WYKONANYCH ROBÃ“T BUDOWLANYCH 
+Â 
+Wykaz wymagany jest w celu potwierdzenia warunku udziaÅ‚u w postÄ™powaniu
+Â 
+Â 
+
+
+
+
+Â 
 L. p.
 
 
- 
-Zakres przedmiotowy us³ugi
+Â 
+Zakres przedmiotowy usÅ‚ugi
 
 
-Wartoœæ zamówienia netto    w z³
+WartoÅ›Ä‡ zamÃ³wienia nettoÂ    w zÅ‚
 
 
- 
+Â 
 Data wykonania
 
 
- 
+Â 
 Zleceniodawca, miejsce wykonania
 
 
 
 
 1
- 
- 
- 
- 
- 
+Â 
+Â 
+Â 
+Â 
+Â 
 2
- 
- 
- 
- 
- 
-….
+Â 
+Â 
+Â 
+Â 
+Â 
+â€¦.
 
 
- 
+Â 
 
 
- 
+Â 
 
 
- 
+Â 
 
 
- 
+Â 
 
 
 
 
- 
-Do wykazu nale¿y za³¹czyæ dowody, ¿e roboty budowlane zosta³ wykonane nale¿ycie – referencje, oraz zdjêcia zrealizowanych na podstawie wykonanej przez firmê dokumentacji inwestycji. 
- 
- 
- 
- 
- 
-                                                                .......................................................................
-                                                                    /Piecz¹tka i podpis wykonawcy / 
- 
- 
- 
- 
-Za³¹cznik nr 6 do zapytania ofertowego 
- 
-UMOWA nr  ……………..
- 
-zawarta w dniu …………………r. w Lubliñcu pomiêdzy: 
-Skarbem Pañstwa Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Lubliniec ul. Myœliwska 1, 42-700 Lubliniec, NIP 575-000-88-82 w imieniu którego dzia³a;
-Zbigniew Znojek – Nadleœniczy Nadleœnictwa Lubliniec
-zwanym w dalszej treœci umowy „ZAMAWIAJ¥CYM”
+Â 
+Do wykazu naleÅ¼y zaÅ‚Ä…czyÄ‡ dowody, Å¼e roboty budowlane zostaÅ‚ wykonane naleÅ¼ycie â€“ referencje, oraz zdjÄ™cia zrealizowanych na podstawie wykonanej przez firmÄ™ dokumentacji inwestycji. 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â .......................................................................
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  /PieczÄ…tka i podpis wykonawcy / 
+Â 
+Â 
+Â 
+Â 
+ZaÅ‚Ä…cznik nr 6 do zapytania ofertowego 
+Â 
+UMOWA nrÂ  â€¦â€¦â€¦â€¦â€¦..
+Â 
+zawarta w dniu â€¦â€¦â€¦â€¦â€¦â€¦â€¦r. w LubliÅ„cu pomiÄ™dzy: 
+Skarbem PaÅ„stwa PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Lubliniec ul. MyÅ›liwska 1, 42-700 Lubliniec, NIP 575-000-88-82 w imieniu ktÃ³rego dziaÅ‚a;
+Zbigniew Znojek â€“ NadleÅ›niczy NadleÅ›nictwa Lubliniec
+zwanym w dalszej treÅ›ci umowy â€ZAMAWIAJÄ„CYMâ€
 a
-……………………………………………………………………………………………… 
-NIP ……………………………………………………………………………..………………………… 
-zwanym w dalszej treœci umowy „WYKONAWC¥”
-                  
- 
-§ 1
-Umowa zostaje zawarta stosownie do rozstrzygniêtego w dniu ……….. r. wyboru ofert o wartoœci nie przekraczaj¹cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia 2004r. Prawo zamówieñ publicznych og³oszonego na podstawie Zarz¹dzenia Nadleœniczego Nadleœnictwa Lubliniec nr 19/2018r. 09.08.2018r. w sprawie wprowadzenia w ¿ycie Regulaminu udzielania zamówieñ na us³ugi, dostawy, roboty budowlane o wartoœci nie przekraczaj¹cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia 2004r. Prawo zamówieñ publicznych (Dz.U z 2018, poz. 1986) oraz powo³ania Komisji Przetargowej w tym zakresie.
- 
-§ 2
-1.Przedmiotem niniejszej umowy jest wykonanie adaptacji lokalu mieszkalnego na potrzeby Kancelarii Leœnictwa Lubliniec i Solarnia, znajduj¹cego siê w budynku administracyjnym Nadleœnictwa Lubliniec przy ul. Myœliwskiej 1, a tak¿e innych czynnoœci, niezbêdnych do wykonania przedmiotu zamówienia Roboty budowlane nale¿y wykonaæ zgodnie z dokumentacj¹ projektow¹ sporz¹dzon¹ przez GRUPA VERSO DELTOID Sp. z o.o., ul. Wolnoœci 27, 42-200 Czêstochowa .
-Przedmiot zamówienia obejmuje nastêpuj¹cy zakres robót:
-- zmiana uk³adu funkcjonalnego pomieszczeñ z czêœciowym wyburzeniem œcian     
-  istniej¹cych i budowa nowych œcianek wewnêtrznych, wyburzenie komina, uzupe³nienie fragmentów œcian po otworach drzwiowych, wykonanie nadpro¿y dla nowych otworów drzwiowych
--nowe œciany dzia³owe projektuje siê w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie nale¿y wype³niæ we³n¹ mineraln¹
-- wymiana i monta¿ drzwi do pomieszczeñ biurowych i gospodarczych,
-- wymiana posadzek na p³ytki gresowe szare oraz drewnopodobne
--wymiana ok³adziny czêœci œcian na  p³ytki gresowe, drewnopodobne, ok³adzinê drewnian¹ – likwidacja boazerii
-- tynki wewnêtrzne z równaniem g³adzi¹ gipsow¹,
+â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ 
+NIP â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦..â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦ 
+zwanym w dalszej treÅ›ci umowy â€WYKONAWCÄ„â€
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â 
+Â 
+Â§ 1
+Umowa zostaje zawarta stosownie do rozstrzygniÄ™tego w dniu â€¦â€¦â€¦.. r. wyboru ofert o wartoÅ›ci nie przekraczajÄ…cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia 2004r. Prawo zamÃ³wieÅ„ publicznych ogÅ‚oszonego na podstawie ZarzÄ…dzenia NadleÅ›niczego NadleÅ›nictwa Lubliniec nr 19/2018r. 09.08.2018r. w sprawie wprowadzenia w Å¼ycie Regulaminu udzielania zamÃ³wieÅ„ na usÅ‚ugi, dostawy, roboty budowlane o wartoÅ›ci nie przekraczajÄ…cej kwoty przewidzianej w art. 4 pkt. 8 ustawy z dnia 29 stycznia 2004r. Prawo zamÃ³wieÅ„ publicznych (Dz.U z 2018, poz. 1986) oraz powoÅ‚ania Komisji Przetargowej w tym zakresie.
+Â 
+Â§ 2
+1.Przedmiotem niniejszej umowy jest wykonanie adaptacji lokalu mieszkalnego na potrzeby Kancelarii LeÅ›nictwa Lubliniec i Solarnia, znajdujÄ…cego siÄ™ w budynku administracyjnym NadleÅ›nictwa Lubliniec przy ul. MyÅ›liwskiej 1, a takÅ¼e innych czynnoÅ›ci, niezbÄ™dnych do wykonania przedmiotu zamÃ³wienia Roboty budowlane naleÅ¼y wykonaÄ‡ zgodnie z dokumentacjÄ… projektowÄ… sporzÄ…dzonÄ… przez GRUPA VERSO DELTOID Sp. z o.o., ul. WolnoÅ›ci 27, 42-200 CzÄ™stochowa .
+Przedmiot zamÃ³wienia obejmuje nastÄ™pujÄ…cy zakres robÃ³t:
+- zmiana ukÅ‚adu funkcjonalnego pomieszczeÅ„ z czÄ™Å›ciowym wyburzeniem Å›cianÂ Â Â Â  
+Â  istniejÄ…cych i budowa nowych Å›cianek wewnÄ™trznych, wyburzenie komina, uzupeÅ‚nienie fragmentÃ³w Å›cian po otworach drzwiowych, wykonanie nadproÅ¼y dla nowych otworÃ³w drzwiowych
+-nowe Å›ciany dziaÅ‚owe projektuje siÄ™ w systemie GK, zgodnie z wytycznymi dostawcy systemu, puste przestrzenie naleÅ¼y wypeÅ‚niÄ‡ weÅ‚nÄ… mineralnÄ…
+- wymiana i montaÅ¼ drzwi do pomieszczeÅ„ biurowych i gospodarczych,
+- wymiana posadzek na pÅ‚ytki gresowe szare oraz drewnopodobne
+-wymiana okÅ‚adziny czÄ™Å›ci Å›cian naÂ  pÅ‚ytki gresowe, drewnopodobne, okÅ‚adzinÄ™ drewnianÄ… â€“ likwidacja boazerii
+- tynki wewnÄ™trzne z rÃ³wnaniem gÅ‚adziÄ… gipsowÄ…,
 - roboty malarskie
--sufity gipsowane, malowane, likwidacja drewnianych kasetonów 
-- wykucie bruzd w œcianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
-- wymiana instalacji c.o. i instalacji c.w.(rura¿ i grzejniki),
+-sufity gipsowane, malowane, likwidacja drewnianych kasetonÃ³w 
+- wykucie bruzd w Å›cianach w celu ukrycia instalacji CO, elektrycznej, telefonicznej, klimatyzacyjnej, alarmowej, wod.kan., oraz 
+- wymiana instalacji c.o. i instalacji c.w.(ruraÅ¼ i grzejniki),
 - modernizacja instalacji kanalizacyjnej,
 - modernizacja instalacji elektrycznej,
-- instalacja komputerowa wewnêtrzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
--roboty sprawdzaj¹ce sprawnoœæ instalacji oraz prace porz¹dkowe zwi¹zane z przygotowaniem pomieszczeñ biurowych do monta¿u nowych mebli i wyposa¿enia:
-- sprawdzenie sprawnoœci dzia³ania instalacji c.o., ciep³ej wody, zimnej wody,
-kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.po¿arowej, alarmowej, 
-- zainstalowanie rêkawa do usuwania gruzu i odpadów z piêtra budynku, wywiezienie z budynku materia³ów budowlanych oraz gruzu i odpadów do utylizacji, 
-- dok³adne posprz¹tanie wyremontowanych pomieszczeñ (w tym umycie i
-zakonserwowanie drzwi, okien i pod³óg) umo¿liwiaj¹ce wstawienie nowego
-umeblowania i wyposa¿enia biur, bezpoœrednio po zakoñczeniu prac  
+- instalacja komputerowa wewnÄ™trzna oraz roboty instalacji telefonicznej, alarmowej, klimatyzacyjnej
+-roboty sprawdzajÄ…ce sprawnoÅ›Ä‡ instalacji oraz prace porzÄ…dkowe zwiÄ…zane z przygotowaniem pomieszczeÅ„ biurowych do montaÅ¼u nowych mebli i wyposaÅ¼enia:
+- sprawdzenie sprawnoÅ›ci dziaÅ‚ania instalacji c.o., ciepÅ‚ej wody, zimnej wody,
+kanalizacyjnej, klimatyzacyjnej, elektrycznej, komputerowej, p.poÅ¼arowej, alarmowej, 
+- zainstalowanie rÄ™kawa do usuwania gruzu i odpadÃ³w z piÄ™tra budynku, wywiezienie z budynku materiaÅ‚Ã³w budowlanych oraz gruzu i odpadÃ³w do utylizacji, 
+- dokÅ‚adne posprzÄ…tanie wyremontowanych pomieszczeÅ„ (w tym umycie i
+zakonserwowanie drzwi, okien i podÅ‚Ã³g) umoÅ¼liwiajÄ…ce wstawienie nowego
+umeblowania i wyposaÅ¼enia biur, bezpoÅ›rednio po zakoÅ„czeniu pracÂ  
 budowlanych, 
-- naprawa uszkodzeñ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerów na gruz
--wyposa¿enie w nowe elementy sanitarne
-- wnêtrza zostan¹ wyposa¿one w nowe meble biurowe, kuchenne, rega³y, co bêdzie przedmiotem odrêbnego zamówienia – konieczna wspó³praca pomiêdzy firm¹ wykonuj¹c¹ us³ugê budowlan¹ i firm¹ realizuj¹c¹ dostawê meblow¹.
- 
-§3
-1.Umowa zostaje zawarta na czas oznaczony od dnia …………… r. do dnia 16.12.2019 r. 
-2.Termin okreœlony w ust.1  mo¿e ulec zmianie na warunkach okreœlonych poni¿ej, tj. w przypadku ;
-a/. wyst¹pienia zmian bêd¹cych nastêpstwem okolicznoœci le¿¹cych po stronie Zamawiaj¹cego , w szczególnoœci;
-- koniecznoœæ usuniêcia b³êdów lub wprowadzenia zmian w dokumentacji projektowej,
-- wstrzymanie robót przez zamawiaj¹cego na jego wyraŸny wniosek,
-b/.koniecznoœæ udzielenia zamówieñ dodatkowych,
-c/.przyczyny zewnêtrzne niezale¿ne od zamawiaj¹cego oraz wykonawcy skutkuj¹ce niemo¿noœci¹ prowadzenia prac,
-d/. inne okolicznoœci;
-- zwi¹zane z przed³u¿aj¹c¹ siê procedur¹ wybory wykonawcy maj¹c¹ wp³yw na termin podpisania umowy i przyst¹pienie do realizacji robót.
-3.Warunki dokonania zmian; W przypadku wyst¹pienia którejkolwiek okolicznoœci wymienionej powy¿ej  termin wykonania umowy mo¿e ulec odpowiedniemu przed³u¿eniu o czas niezbêdny do zakoñczenia jej wykonania w sposób nale¿yty, nie d³u¿ej jednak ni¿ o okres trwania tych okolicznoœci.
-4.Strony dopuszczaj¹ mo¿liwoœæ rozwi¹zania umowy w ka¿dym czasie na zasadzie porozumienia stron.
- 
-§ 4
-1.Wykonawca stwierdza, ¿e posiada wszelkie uprawnienia w zakresie gwarantuj¹cym  wykonywanie obowi¹zków objêtych umow¹. 
-2. Wykonawca zobowi¹zany jest wykonywaæ przedmiot umowy zgodnie z posiadan¹ wiedz¹, obowi¹zuj¹cymi w tej mierze przepisami prawa, standardami oraz z³o¿on¹ ofert¹. 
-3.Wykonawca podpisuj¹c umowê potwierdza, ¿e posiada niezbêdny sprzêt i uprawnienia do nale¿ytego i terminowego wykonywania przedmiotu umowy. 
-4. W przypadku realizacji przedmiotu umowy przy udziale podwykonawców Wykonawca odpowiada za dzia³ania lub zaniechania podwykonawców w pe³nym zakresie. 
-5. Wykonawca informuje Zamawiaj¹cego o koniecznoœci wykonania robót dodatkowych i zamiennych w terminie 3 dni od daty stwierdzenia koniecznoœci ich wykonania,
-6. W przypadku uszkodzenia lub zniszczenia maj¹tku Zamawiaj¹cego w toku realizacji zadania z winy Wykonawcy, Wykonawca zobowi¹zany jest do ich naprawienia i doprowadzenia do stanu poprzedniego na w³asny koszt.
-§ 5
-1.Do obowi¹zków Zamawiaj¹cego nale¿y;
-a) protokolarne przekazanie Wykonawcy miejsca prowadzenia robót,
-b) odbiór przedmiotu niniejszej umowy  zgodnie  z  jej  postanowieniami,  
-c) terminowa zap³ata wynagrodzenia okreœlonego w § 7 niniejszej Umowy.
-2. Do obowi¹zków Wykonawcy nale¿y:
-a/.wykonanie przedmiotu umowy zgodnie ze sztuk¹ budowlan¹, obowi¹zuj¹cymi przepisami i normami oraz przy zachowaniu przepisów BHP, przy maksymalnym ograniczeniu uci¹¿liwoœci prowadzenia robót Wykonawca gwarantuje tak¿e wykonanie przedmiotu zamówienia pod kierownictwem osób posiadaj¹cych wymagane przygotowanie zawodowe oraz niezbêdne uprawnienia. 
+- naprawa uszkodzeÅ„ na trawnikach i nasadzeniach, powierzchniach utwardzonych przy budynku spowodowanych prowadzeniem prac budowlanych i posadowieniem na nich kontenerÃ³w na gruz
+-wyposaÅ¼enie w nowe elementy sanitarne
+- wnÄ™trza zostanÄ… wyposaÅ¼one w nowe meble biurowe, kuchenne, regaÅ‚y, co bÄ™dzie przedmiotem odrÄ™bnego zamÃ³wienia â€“ konieczna wspÃ³Å‚praca pomiÄ™dzy firmÄ… wykonujÄ…cÄ… usÅ‚ugÄ™ budowlanÄ… i firmÄ… realizujÄ…cÄ… dostawÄ™ meblowÄ….
+Â 
+Â§3
+1.Umowa zostaje zawarta na czas oznaczony od dnia â€¦â€¦â€¦â€¦â€¦ r. do dnia 16.12.2019 r. 
+2.Termin okreÅ›lony w ust.1 Â moÅ¼e ulec zmianie na warunkach okreÅ›lonych poniÅ¼ej, tj. w przypadku ;
+a/. wystÄ…pienia zmian bÄ™dÄ…cych nastÄ™pstwem okolicznoÅ›ci leÅ¼Ä…cych po stronie ZamawiajÄ…cego , w szczegÃ³lnoÅ›ci;
+- koniecznoÅ›Ä‡ usuniÄ™cia bÅ‚Ä™dÃ³w lub wprowadzenia zmian w dokumentacji projektowej,
+- wstrzymanie robÃ³t przez zamawiajÄ…cego na jego wyraÅºny wniosek,
+b/.koniecznoÅ›Ä‡ udzielenia zamÃ³wieÅ„ dodatkowych,
+c/.przyczyny zewnÄ™trzne niezaleÅ¼ne od zamawiajÄ…cego oraz wykonawcy skutkujÄ…ce niemoÅ¼noÅ›ciÄ… prowadzenia prac,
+d/. inne okolicznoÅ›ci;
+- zwiÄ…zane z przedÅ‚uÅ¼ajÄ…cÄ… siÄ™ procedurÄ… wybory wykonawcy majÄ…cÄ… wpÅ‚yw na termin podpisania umowy i przystÄ…pienie do realizacji robÃ³t.
+3.Warunki dokonania zmian; W przypadku wystÄ…pienia ktÃ³rejkolwiek okolicznoÅ›ci wymienionej powyÅ¼ejÂ  termin wykonania umowy moÅ¼e ulec odpowiedniemu przedÅ‚uÅ¼eniu o czas niezbÄ™dny do zakoÅ„czenia jej wykonania w sposÃ³b naleÅ¼yty, nie dÅ‚uÅ¼ej jednak niÅ¼ o okres trwania tych okolicznoÅ›ci.
+4.Strony dopuszczajÄ… moÅ¼liwoÅ›Ä‡ rozwiÄ…zania umowy w kaÅ¼dym czasie na zasadzie porozumienia stron.
+Â 
+Â§ 4
+1.Wykonawca stwierdza, Å¼e posiada wszelkie uprawnienia w zakresie gwarantujÄ…cymÂ  wykonywanie obowiÄ…zkÃ³w objÄ™tych umowÄ…. 
+2. Wykonawca zobowiÄ…zany jest wykonywaÄ‡ przedmiot umowy zgodnie z posiadanÄ… wiedzÄ…, obowiÄ…zujÄ…cymi w tej mierze przepisami prawa, standardami oraz zÅ‚oÅ¼onÄ… ofertÄ…. 
+3.Wykonawca podpisujÄ…c umowÄ™ potwierdza, Å¼e posiada niezbÄ™dny sprzÄ™t i uprawnienia do naleÅ¼ytego i terminowego wykonywania przedmiotu umowy. 
+4. W przypadku realizacji przedmiotu umowy przy udziale podwykonawcÃ³w Wykonawca odpowiada za dziaÅ‚ania lub zaniechania podwykonawcÃ³w w peÅ‚nym zakresie. 
+5. Wykonawca informuje ZamawiajÄ…cego o koniecznoÅ›ci wykonania robÃ³t dodatkowych i zamiennych w terminie 3 dni od daty stwierdzenia koniecznoÅ›ci ich wykonania,
+6. W przypadku uszkodzenia lub zniszczenia majÄ…tku ZamawiajÄ…cego w toku realizacji zadania z winy Wykonawcy, Wykonawca zobowiÄ…zany jest do ich naprawienia i doprowadzenia do stanu poprzedniego na wÅ‚asny koszt.
+Â§ 5
+1.Do obowiÄ…zkÃ³w ZamawiajÄ…cego naleÅ¼y;
+a) protokolarne przekazanie Wykonawcy miejsca prowadzenia robÃ³t,
+b) odbiÃ³r przedmiotu niniejszej umowyÂ  zgodnieÂ  zÂ  jejÂ  postanowieniami,Â  
+c) terminowa zapÅ‚ata wynagrodzenia okreÅ›lonego w Â§ 7 niniejszej Umowy.
+2. Do obowiÄ…zkÃ³w Wykonawcy naleÅ¼y:
+a/.wykonanie przedmiotu umowy zgodnie ze sztukÄ… budowlanÄ…, obowiÄ…zujÄ…cymi przepisami i normami oraz przy zachowaniu przepisÃ³w BHP, przy maksymalnym ograniczeniu uciÄ…Å¼liwoÅ›ci prowadzenia robÃ³t Wykonawca gwarantuje takÅ¼e wykonanie przedmiotu zamÃ³wienia pod kierownictwem osÃ³b posiadajÄ…cych wymagane przygotowanie zawodowe oraz niezbÄ™dne uprawnienia. 
 b/ wygrodzenie stref komunikacyjnych.
-c/.zapewnienie sprzêtu niezbêdnego do wykonania przedmiotu umowy, w tym farb posiadaj¹cych aktualne atesty i certyfikaty pozwalaj¹ce na ich stosowanie.
-d/ transport i eksploatacja sprzêtu. 
-e/.zabezpieczenie terenu robót maj¹c w szczególnoœci na wzglêdzie mienie Zamawiaj¹cego i w³asne.
-f/. odsuniêcie od wykonywania pracy ka¿dej osoby, która przez swój brak kwalifikacji lub z innego powodu zagra¿a w jakikolwiek sposób nale¿ytemu  wykonaniu umowy
-Wykonawca w trakcie wykonywania robót ponosi odpowiedzialnoœæ za bezpieczeñstwo swoich pracowników oraz innych osób znajduj¹cych siê w obrêbie miejsca prowadzenia prac. 
-g/.po zakoñczeniu robót, ale przed ostatecznym odbiorem przez Zamawiaj¹cego 
-Wykonawca zobowi¹zany jest do uporz¹dkowania miejsca prowadzenia prac wraz z 
-terenem przyleg³ym.
-h/. Wykonawca zobowi¹zuje siê do zapewnienia wspó³pracy z wykonawc¹ projektu budowlanego realizuj¹cym nadzór autorski nad realizacj¹ za³o¿eñ projektowych – tj.  GRUPA VERSO DELTOID Sp. z o.o., ul. Wolnoœci 27, 42-200 Czêstochowa, oraz z firm¹ œwiadcz¹c¹ us³ugê nadzoru inwestorskiego nad realizacj¹ zadania – tj. PRO-BUD Wies³aw Kowalski, ul. Bia³a Kolonia 163, 42-700 Lubliniec.
-§6
-Strony ustalaj¹ nastêpuj¹ce kary umowne:
-1.Wykonawca zap³aci na rzecz Zamawiaj¹cego karê umown¹;
-a/.w wysokoœci 10 % wynagrodzenia umownego  netto , gdy Zamawiaj¹cy odst¹pi od umowy z powodu okolicznoœci, za które odpowiada Wykonawca.
-b/. w wysokoœci 0,3% wynagrodzenia umownego netto za  zw³okê w wykonaniu przedmiotu umowy za ka¿dy dzieñ zw³oki.
-2.W przypadku zw³oki w zap³acie faktury Zamawiaj¹cy zap³aci Wykonawcy odsetki ustawowe. 
-3.Zap³ata kar o których mowa w  ust.1 lit.b/. nast¹pi poprzez potr¹cenie z faktury Wykonawcy, na co ten ostatni wyra¿a zgodê podpisuj¹c umowê. 
- 
-§ 7
-Dokumenty i oœwiadczenia przedstawione przez Wykonawcê w ramach oferty stanowi¹ integralne czêœci niniejszej umowy.
- 
-§ 8
-1.  Strony ustalaj¹ wynagrodzenie z tytu³u realizacji przedmiotu umowy na kwotê;
-Cena netto ........................................................................................................z³ 
-(s³ownie:.....................................................................................................................……)
-Stawka pod. VAT......%, wartoœæ pod. VAT....................................................................z³
-Cena brutto .......................................................................................................z³
-(s³ownie:............................................................................................................................)
-zgodnie z ofert¹ Wykonawcy. 
-2.Zmiana wynagrodzenia mo¿liwa jest jedynie na zasadach wskazanych w umowie. 
-3.Roboty rozliczone bêd¹ kosztorysem powykonawczym sporz¹dzonymi na podstawie obmiarów prowadzonych przez Wykonawcê i sprawdzonym przez Zamawiaj¹cego, wed³ug stawek z kosztorysu ofertowego.
-4.Wszystkie roboty, które by³y do przewidzenia na etapie przygotowania oferty, a nie zosta³y zg³oszone Zamawiaj¹cemu (mimo braku ich w przedmiarach robót otrzymanych od Zamawiaj¹cego, a wynikaj¹ce z Prawa budowlanego, Polskich Norm, sztuki budowlanej i dokumentacji projektowej) nie bêd¹ wchodzi³y w zakres robót dodatkowych i bêd¹ musia³y byæ wykonane na koszt w³asny Wykonawcy. Iloœci robót w poszczególnych pozycjach przedmiaru nie s¹ ostateczne i zosta³y podane po to aby daæ wykonawcom wspóln¹ podstawê dla sporz¹dzenia ofert. Podstaw¹ p³atnoœci bêd¹ rzeczywiste iloœci zamówionych i wykonanych robót, obmierzone przez Wykonawcê i sprawdzone przez nadzór nad robotami, ustanowiony przez Zamawiaj¹cego Nadleœnictwa Lubliniec oraz ceny jednostkowe podane w kosztorysie. Obmierzone i op³acone bêd¹ te pozycje wymienione w przedmiarze robót, dla których Wykonawca poda³ ceny jednostkowe.
-§ 9
-1. Zap³ata za wykonany przedmiot umowy nast¹pi po zakoñczeniu i bezusterkowym odbiorze robót poszczególnych czêœci zamówienia (protoko³y odbioru czêœciowego lub koñcowego).
-2. Strony przewiduj¹ wyp³acanie wynagrodzenia, na podstawie wystawionych przez Wykonawcê faktur VAT z za³¹czonymi protoko³ami odbioru robót. 
-3. Termin zap³aty za wystawione faktury - do 14 dni licz¹c od dnia z³o¿enia u Zamawiaj¹cego faktury wraz z podpisanym przez inspektora nadzoru bezusterkowym protoko³em czêœciowego lub koñcowego odbioru.
-4. P³atnoœæ zostanie przekazana na konto Wykonawcy podane na fakturze. 
-5. W przypadku wykonywania przedmiotu umowy przez Podwykonawców, Wykonawca  zobowi¹zuje siê do sk³adania Zamawiaj¹cemu w terminie 14 dni od wystawienia faktury, pisemnego oœwiadczenia Podwykonawcy, którego wierzytelnoœæ jest czêœci¹ sk³adow¹ wystawionej faktury VAT, o otrzymaniu przez tego Podwykonawcê zap³aty. 
-§ 10
-1.Ka¿dej ze stron przys³uguje prawo rozwi¹zania umowy z zachowaniem 1 miesiêcznego okresu wypowiedzenia  liczonego na koniec ka¿dego miesi¹ca kalendarzowego.
-2.Zamawiaj¹cemu przys³uguje prawo rozwi¹zania umowy ze skutkiem natychmiastowym bez zachowania okresu wypowiedzenia w przypadku;
-a)    Je¿eli Wykonawca nie podj¹³ siê wykonania obowi¹zków wynikaj¹cych z niniejszej umowy w terminie 5 dni roboczych od podpisania umowy lub przerwa³ ich wykonywanie na okres powy¿ej 5 dni roboczych.
-b)    Je¿eli Wykonawca wykonuje swoje obowi¹zki w sposób nienale¿yty i pomimo pisemnego wezwania przez Zamawiaj¹cego nie nast¹pi³a poprawa w wykonywaniu tych obowi¹zków,
-c)    W sytuacji gdy Wykonawca zosta³ postawiony w stan likwidacji lub upad³oœci,
-d)    W przypadku stwierdzenia ra¿¹cego naruszenia postanowieñ umowy przez Wykonawcê.
-            § 11
-Wszelkie zmiany niniejszej umowy bêd¹ odbywa³y siê w formie aneksów, sporz¹dzanych na piœmie, pod rygorem niewa¿noœci.
-§ 12
-Wykonawca udziela Zamawiaj¹cemu gwarancji jakoœci na zrealizowany przedmiot umowy na okres 2 lat od dnia podpisania przez Zamawiaj¹cego protoko³u odbioru przedmiotu umowy be uwag i zastrze¿eñ. Niezale¿nie od gwarancji Zamawiaj¹cemu przys³uguj¹ uprawnienia z tytu³u rêkojmi w czasie objêtym gwarancj¹. 
- 
-§ 13
-Zgodnie z art. 13 ust. 1 i ust. 2 Rozporz¹dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych w zwi¹zku z przetwarzaniem danych osobowych i w sprawie swobodnego przep³ywu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporz¹dzenie o ochronie danych osobowych) Dz.Urz. UE L 119/1, 04/05/2016 zwanego dalej „RODO” informujemy, i¿ administratorem danych osobowych jest  Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Lubliniec z siedzib¹ w Lubliñcu przy ul. Myœliwskiej 1, 42-700 Lubliniec, REGON 150527030, tel.34 3513338, e-mail; lubliniec@katowice.lasy.gov.pl zwane dalej „nadleœnictwem”. Administrator maj¹c na uwadze za³o¿enia art.5 RODO stosuje przy przetwarzaniu danych zasady; zgodnoœci z prawem, rzetelnoœci i przejrzystoœci, ograniczenia celu, minimalizacji danych, prawid³owoœci, ograniczenia przetwarzania oraz integralnoœci i poufnoœci.   
-Dane osobowe przetwarzane bêd¹ w celu;
+c/.zapewnienie sprzÄ™tu niezbÄ™dnego do wykonania przedmiotu umowy, w tym farb posiadajÄ…cych aktualne atesty i certyfikaty pozwalajÄ…ce na ich stosowanie.
+d/ transport i eksploatacja sprzÄ™tu. 
+e/.zabezpieczenie terenu robÃ³t majÄ…c w szczegÃ³lnoÅ›ci na wzglÄ™dzie mienie ZamawiajÄ…cego i wÅ‚asne.
+f/. odsuniÄ™cie od wykonywania pracy kaÅ¼dej osoby, ktÃ³ra przez swÃ³j brak kwalifikacji lub z innego powodu zagraÅ¼a w jakikolwiek sposÃ³b naleÅ¼ytemuÂ  wykonaniu umowy
+Wykonawca w trakcie wykonywania robÃ³t ponosi odpowiedzialnoÅ›Ä‡ za bezpieczeÅ„stwo swoich pracownikÃ³w oraz innych osÃ³b znajdujÄ…cych siÄ™ w obrÄ™bie miejsca prowadzenia prac. 
+g/.po zakoÅ„czeniu robÃ³t, ale przed ostatecznym odbiorem przez ZamawiajÄ…cego 
+Wykonawca zobowiÄ…zany jest do uporzÄ…dkowania miejsca prowadzenia prac wraz z 
+terenem przylegÅ‚ym.
+h/. Wykonawca zobowiÄ…zuje siÄ™ do zapewnienia wspÃ³Å‚pracy z wykonawcÄ… projektu budowlanego realizujÄ…cym nadzÃ³r autorski nad realizacjÄ… zaÅ‚oÅ¼eÅ„ projektowych â€“ tj.Â  GRUPA VERSO DELTOID Sp. z o.o., ul. WolnoÅ›ci 27, 42-200 CzÄ™stochowa, oraz z firmÄ… Å›wiadczÄ…cÄ… usÅ‚ugÄ™ nadzoru inwestorskiego nad realizacjÄ… zadania â€“ tj. PRO-BUD WiesÅ‚aw Kowalski, ul. BiaÅ‚a Kolonia 163, 42-700 Lubliniec.
+Â§6
+Strony ustalajÄ… nastÄ™pujÄ…ce kary umowne:
+1.Wykonawca zapÅ‚aci na rzecz ZamawiajÄ…cego karÄ™ umownÄ…;
+a/.w wysokoÅ›ci 10 % wynagrodzenia umownegoÂ  netto , gdy ZamawiajÄ…cy odstÄ…pi od umowy z powodu okolicznoÅ›ci, za ktÃ³re odpowiada Wykonawca.
+b/. w wysokoÅ›ci 0,3% wynagrodzenia umownego netto zaÂ  zwÅ‚okÄ™ w wykonaniu przedmiotu umowy za kaÅ¼dy dzieÅ„ zwÅ‚oki.
+2.W przypadku zwÅ‚oki w zapÅ‚acie faktury ZamawiajÄ…cy zapÅ‚aci Wykonawcy odsetki ustawowe. 
+3.ZapÅ‚ata kar o ktÃ³rych mowa wÂ  ust.1 lit.b/. nastÄ…pi poprzez potrÄ…cenie z faktury Wykonawcy, na co ten ostatni wyraÅ¼a zgodÄ™ podpisujÄ…c umowÄ™. 
+Â 
+Â§ 7
+Dokumenty i oÅ›wiadczenia przedstawione przez WykonawcÄ™ w ramach oferty stanowiÄ… integralne czÄ™Å›ci niniejszej umowy.
+Â 
+Â§ 8
+1.Â  Strony ustalajÄ… wynagrodzenie z tytuÅ‚u realizacji przedmiotu umowy na kwotÄ™;
+Cena netto ........................................................................................................zÅ‚ 
+(sÅ‚ownie:.....................................................................................................................â€¦â€¦)
+Stawka pod. VAT......%, wartoÅ›Ä‡ pod. VAT....................................................................zÅ‚
+Cena brutto .......................................................................................................zÅ‚
+(sÅ‚ownie:............................................................................................................................)
+zgodnie z ofertÄ… Wykonawcy. 
+2.Zmiana wynagrodzenia moÅ¼liwa jest jedynie na zasadach wskazanych w umowie. 
+3.Roboty rozliczone bÄ™dÄ… kosztorysem powykonawczym sporzÄ…dzonymi na podstawie obmiarÃ³w prowadzonych przez WykonawcÄ™ i sprawdzonym przez ZamawiajÄ…cego, wedÅ‚ug stawek z kosztorysu ofertowego.
+4.Wszystkie roboty, ktÃ³re byÅ‚y do przewidzenia na etapie przygotowania oferty, a nie zostaÅ‚y zgÅ‚oszone ZamawiajÄ…cemu (mimo braku ich w przedmiarach robÃ³t otrzymanych od ZamawiajÄ…cego, a wynikajÄ…ce z Prawa budowlanego, Polskich Norm, sztuki budowlanej i dokumentacji projektowej) nie bÄ™dÄ… wchodziÅ‚y w zakres robÃ³t dodatkowych i bÄ™dÄ… musiaÅ‚y byÄ‡ wykonane na koszt wÅ‚asny Wykonawcy. IloÅ›ci robÃ³t w poszczegÃ³lnych pozycjach przedmiaru nie sÄ… ostateczne i zostaÅ‚y podane po to aby daÄ‡ wykonawcom wspÃ³lnÄ… podstawÄ™ dla sporzÄ…dzenia ofert. PodstawÄ… pÅ‚atnoÅ›ci bÄ™dÄ… rzeczywiste iloÅ›ci zamÃ³wionych i wykonanych robÃ³t, obmierzone przez WykonawcÄ™ i sprawdzone przez nadzÃ³r nad robotami, ustanowiony przez ZamawiajÄ…cego NadleÅ›nictwa Lubliniec oraz ceny jednostkowe podane w kosztorysie. Obmierzone i opÅ‚acone bÄ™dÄ… te pozycje wymienione w przedmiarze robÃ³t, dla ktÃ³rych Wykonawca podaÅ‚ ceny jednostkowe.
+Â§ 9
+1. ZapÅ‚ata za wykonany przedmiot umowy nastÄ…pi po zakoÅ„czeniu i bezusterkowym odbiorze robÃ³t poszczegÃ³lnych czÄ™Å›ci zamÃ³wienia (protokoÅ‚y odbioru czÄ™Å›ciowego lub koÅ„cowego).
+2. Strony przewidujÄ… wypÅ‚acanie wynagrodzenia, na podstawie wystawionych przez WykonawcÄ™ faktur VAT z zaÅ‚Ä…czonymi protokoÅ‚ami odbioru robÃ³t. 
+3. Termin zapÅ‚aty za wystawione faktury - do 14 dni liczÄ…c od dnia zÅ‚oÅ¼enia u ZamawiajÄ…cego faktury wraz z podpisanym przez inspektora nadzoru bezusterkowym protokoÅ‚em czÄ™Å›ciowego lub koÅ„cowego odbioru.
+4. PÅ‚atnoÅ›Ä‡ zostanie przekazana na konto Wykonawcy podane na fakturze. 
+5. W przypadku wykonywania przedmiotu umowy przez PodwykonawcÃ³w, WykonawcaÂ  zobowiÄ…zuje siÄ™ do skÅ‚adania ZamawiajÄ…cemu w terminie 14 dni od wystawienia faktury, pisemnego oÅ›wiadczenia Podwykonawcy, ktÃ³rego wierzytelnoÅ›Ä‡ jest czÄ™Å›ciÄ… skÅ‚adowÄ… wystawionej faktury VAT, o otrzymaniu przez tego PodwykonawcÄ™ zapÅ‚aty. 
+Â§ 10
+1.KaÅ¼dej ze stron przysÅ‚uguje prawo rozwiÄ…zania umowy z zachowaniem 1 miesiÄ™cznego okresu wypowiedzeniaÂ  liczonego na koniec kaÅ¼dego miesiÄ…ca kalendarzowego.
+2.ZamawiajÄ…cemu przysÅ‚uguje prawo rozwiÄ…zania umowy ze skutkiem natychmiastowym bez zachowania okresu wypowiedzenia w przypadku;
+a)Â Â Â  JeÅ¼eli Wykonawca nie podjÄ…Å‚ siÄ™ wykonania obowiÄ…zkÃ³w wynikajÄ…cych z niniejszej umowy w terminie 5 dni roboczych od podpisania umowy lub przerwaÅ‚ ich wykonywanie na okres powyÅ¼ej 5 dni roboczych.
+b)Â Â Â  JeÅ¼eli Wykonawca wykonuje swoje obowiÄ…zki w sposÃ³b nienaleÅ¼yty i pomimo pisemnego wezwania przez ZamawiajÄ…cego nie nastÄ…piÅ‚a poprawa w wykonywaniu tych obowiÄ…zkÃ³w,
+c)Â Â Â  W sytuacji gdy Wykonawca zostaÅ‚ postawiony w stan likwidacji lub upadÅ‚oÅ›ci,
+d)Â Â Â  W przypadku stwierdzenia raÅ¼Ä…cego naruszenia postanowieÅ„ umowy przez WykonawcÄ™.
+Â Â Â Â Â Â Â Â Â Â Â  Â§ 11
+Wszelkie zmiany niniejszej umowy bÄ™dÄ… odbywaÅ‚y siÄ™ w formie aneksÃ³w, sporzÄ…dzanych na piÅ›mie, pod rygorem niewaÅ¼noÅ›ci.
+Â§ 12
+Wykonawca udziela ZamawiajÄ…cemu gwarancji jakoÅ›ci na zrealizowany przedmiot umowy na okres 2 lat od dnia podpisania przez ZamawiajÄ…cego protokoÅ‚u odbioru przedmiotu umowy be uwag i zastrzeÅ¼eÅ„. NiezaleÅ¼nie od gwarancji ZamawiajÄ…cemu przysÅ‚ugujÄ… uprawnienia z tytuÅ‚u rÄ™kojmi w czasie objÄ™tym gwarancjÄ…. 
+Â 
+Â§ 13
+Zgodnie z art. 13 ust. 1 i ust. 2 RozporzÄ…dzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 roku w sprawie ochrony osÃ³b fizycznych w zwiÄ…zku z przetwarzaniem danych osobowych i w sprawie swobodnego przepÅ‚ywu takich danych oraz uchylenia dyrektywy 95/46/WE (ogÃ³lne rozporzÄ…dzenie o ochronie danych osobowych) Dz.Urz. UE L 119/1, 04/05/2016 zwanego dalej â€RODOâ€ informujemy, iÅ¼ administratorem danych osobowych jest Â PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Lubliniec z siedzibÄ… w LubliÅ„cu przy ul. MyÅ›liwskiej 1, 42-700 Lubliniec, REGON 150527030, tel.34 3513338, e-mail; lubliniec@katowice.lasy.gov.pl zwane dalej â€nadleÅ›nictwemâ€. Administrator majÄ…c na uwadze zaÅ‚oÅ¼enia art.5 RODO stosuje przy przetwarzaniu danych zasady; zgodnoÅ›ci z prawem, rzetelnoÅ›ci i przejrzystoÅ›ci, ograniczenia celu, minimalizacji danych, prawidÅ‚owoÅ›ci, ograniczenia przetwarzania oraz integralnoÅ›ci i poufnoÅ›ci.Â Â  
+Dane osobowe przetwarzane bÄ™dÄ… w celu;
 1.zawarcia i realizacji umowy,
-2.wykonywania obowi¹zków wynikaj¹cych z przepisów prawa, w tym w szczególnoœci rachunkowych i podatkowych,
+2.wykonywania obowiÄ…zkÃ³w wynikajÄ…cych z przepisÃ³w prawa, w tym w szczegÃ³lnoÅ›ci rachunkowych i podatkowych,
 3.ewentualnego ustalenia, dochodzenia lub obrony przed roszczeniami,
-4.zapobiegania nadu¿yciom i oszustwom statystycznym i archiwizacyjnym,
-5.wykonania przestrzegania przepisów dotycz¹cych przetwarzania danych  osobowych przez okres, w którym nadleœnictwo, zobowi¹zane jest do zachowania danych lub dokumentów je zawieraj¹cych dla udokumentowania spe³nienia wymagañ prawnych i umo¿liwienia kontroli ich przez organy publiczne,
+4.zapobiegania naduÅ¼yciom i oszustwom statystycznym i archiwizacyjnym,
+5.wykonania przestrzegania przepisÃ³w dotyczÄ…cych przetwarzania danychÂ  osobowych przez okres, w ktÃ³rym nadleÅ›nictwo, zobowiÄ…zane jest do zachowania danych lub dokumentÃ³w je zawierajÄ…cych dla udokumentowania speÅ‚nienia wymagaÅ„ prawnych i umoÅ¼liwienia kontroli ich przez organy publiczne,
 oraz na podstawie;
-a/. art.6 ust.1 lit.b. RODO, zgodnie z którym przetwarzanie danych osobowych jest zgodne z prawem, je¿eli jest niezbêdne do wykonania umowy, której stron¹ jest osoba, której dane dotycz¹ lub do podjêcia dzia³añ na ¿¹danie osoby, której dane dotycz¹, przed zawarciem umowy,
-b/.art.6 ust.1 lit.c. RODO, zgodnie z którym przetwarzanie danych osobowych jest zgodne z prawem, je¿eli jest niezbêdne do wype³nienia obowi¹zku prawnego ci¹¿¹cego na administratorze,
-c/.art.6 ust.1 lit.f. RODO, zgodnie z którym przetwarzanie danych osobowych jest zgodne z prawem, je¿eli jest niezbêdnoœci do celów wynikaj¹cych z prawnie uzasadnionych interesów realizowanych przez administratora.
-Odbiorc¹ danych osobowych bêdzie nadleœnictwo, podmioty udzielaj¹ce wsparcia nadleœnictwu na zasadzie zleconych us³ug i zgodnie z zawartymi umowami powierzenia oraz podmioty uprawnione na podstawie przepisów prawa. Dane osobowe bêd¹ przechowywane przez okres niezbêdny do wykonania obowi¹zuj¹cych przepisów prawa, zgodnie z instrukcj¹ kancelaryjn¹ dotycz¹c¹ okresów przechowywania dokumentów obowi¹zuj¹c¹ w Pañstwowym Gospodarstwie Leœnym Lasy Pañstwowe. Posiadaj¹ Pañstwo prawo dostêpu do treœci swoich danych oraz ich sprostowania, usuniêcia, ograniczenia przetwarzania, prawo do wniesienia sprzeciwu wobec przetwarzania, prawo do przenoszenia danych, a tak¿e  prawo do cofniêcia zgody w dowolnym momencie bez wp³ywu na zgodnoœæ z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofniêciem oraz prawo wniesienia skargi do Prezesa Urzêdu Ochrony Danych Osobowych, gdy uznaj¹ Pañstwo, ¿e przetwarzanie Pañstwa danych osobowych narusza przepisy RODO. Dane nie bêd¹ przetwarzane w sposób zautomatyzowany, w tym nie bêd¹ podlega³y profilowaniu. Podanie danych jest dobrowolne, jednak niezbêdne do realizacji powy¿szego celu.
- 
-§14
-1.  Strony zobowi¹zuj¹ siê w czasie obowi¹zywania niniejszej umowy, a tak¿e po jej wygaœniêciu lub rozwi¹zaniu, do traktowania jako poufnych wszelkich informacji, które zostan¹ im przekazane lub udostêpnione przez drug¹ stronê w zwi¹zku z wykonaniem niniejszej umowy.
-2.  Obowi¹zek zachowania poufnoœci, o którym mowa w ust. 1 nie dotyczy informacji:
--      które w czasie ich ujawnienia by³y publicznie znane,
--      których obowi¹zek ujawnienia wynika z bezwzglêdnie obowi¹zuj¹cego przepisu prawa, orzeczenia s¹du lub decyzji innego uprawnionego organu w³adzy, z zastrze¿eniem niezw³ocznego powiadomienia drugiej Strony o takim obowi¹zku.
- 
-           § 15
-Strony ustalaj¹, ¿e w sprawach nieuregulowanych w niniejszej umowie bêd¹ mia³y  zastosowanie przepisy powszechnie obowi¹zuj¹ce w tym przepisy Kodeksu cywilnego, ustawy Prawo budowlane, przepisy wykonawcze 
- 
-           § 16
-Spory mog¹ce wynikaæ podczas realizacji Umowy bêd¹ rozstrzygane przez w³aœciwy rzeczowo s¹d siedziby Zamawiaj¹cego.
-          
- 
-§ 17       
-Wszystkie za³¹czniki do niniejszej umowy stanowi¹ jej  integraln¹ czêœæ.
-§ 18       
-Umowê sporz¹dzono w dwóch jednobrzmi¹cych egzemplarzach,  po jednym dla ka¿dej ze Stron.    
- 
- 
- 
-        WYKONAWCA                                                                ZAMAWIAJ¥CY
- 
- 
- 
- 
+a/. art.6 ust.1 lit.b. RODO, zgodnie z ktÃ³rym przetwarzanie danych osobowych jest zgodne z prawem, jeÅ¼eli jest niezbÄ™dne do wykonania umowy, ktÃ³rej stronÄ… jest osoba, ktÃ³rej dane dotyczÄ… lub do podjÄ™cia dziaÅ‚aÅ„ na Å¼Ä…danie osoby, ktÃ³rej dane dotyczÄ…, przed zawarciem umowy,
+b/.art.6 ust.1 lit.c. RODO, zgodnie z ktÃ³rym przetwarzanie danych osobowych jest zgodne z prawem, jeÅ¼eli jest niezbÄ™dne do wypeÅ‚nienia obowiÄ…zku prawnego ciÄ…Å¼Ä…cego na administratorze,
+c/.art.6 ust.1 lit.f. RODO, zgodnie z ktÃ³rym przetwarzanie danych osobowych jest zgodne z prawem, jeÅ¼eli jest niezbÄ™dnoÅ›ci do celÃ³w wynikajÄ…cych z prawnie uzasadnionych interesÃ³w realizowanych przez administratora.
+OdbiorcÄ… danych osobowych bÄ™dzie nadleÅ›nictwo, podmioty udzielajÄ…ce wsparcia nadleÅ›nictwu na zasadzie zleconych usÅ‚ug i zgodnie z zawartymi umowami powierzenia oraz podmioty uprawnione na podstawie przepisÃ³w prawa. Dane osobowe bÄ™dÄ… przechowywane przez okres niezbÄ™dny do wykonania obowiÄ…zujÄ…cych przepisÃ³w prawa, zgodnie z instrukcjÄ… kancelaryjnÄ… dotyczÄ…cÄ… okresÃ³w przechowywania dokumentÃ³w obowiÄ…zujÄ…cÄ… w PaÅ„stwowym Gospodarstwie LeÅ›nym Lasy PaÅ„stwowe. PosiadajÄ… PaÅ„stwo prawo dostÄ™pu do treÅ›ci swoich danych oraz ich sprostowania, usuniÄ™cia, ograniczenia przetwarzania, prawo do wniesienia sprzeciwu wobec przetwarzania, prawo do przenoszenia danych, a takÅ¼eÂ  prawo do cofniÄ™cia zgody w dowolnym momencie bez wpÅ‚ywu na zgodnoÅ›Ä‡ z prawem przetwarzania, ktÃ³rego dokonano na podstawie zgody przed jej cofniÄ™ciem oraz prawo wniesienia skargi do Prezesa UrzÄ™du Ochrony Danych Osobowych, gdy uznajÄ… PaÅ„stwo, Å¼e przetwarzanie PaÅ„stwa danych osobowych narusza przepisy RODO. Dane nie bÄ™dÄ… przetwarzane w sposÃ³b zautomatyzowany, w tym nie bÄ™dÄ… podlegaÅ‚y profilowaniu. Podanie danych jest dobrowolne, jednak niezbÄ™dne do realizacji powyÅ¼szego celu.
+Â 
+Â§14
+1.Â  Strony zobowiÄ…zujÄ… siÄ™ w czasie obowiÄ…zywania niniejszej umowy, a takÅ¼e po jej wygaÅ›niÄ™ciu lub rozwiÄ…zaniu, do traktowania jako poufnych wszelkich informacji, ktÃ³re zostanÄ… im przekazane lub udostÄ™pnione przez drugÄ… stronÄ™ w zwiÄ…zku z wykonaniem niniejszej umowy.
+2.Â  ObowiÄ…zek zachowania poufnoÅ›ci, o ktÃ³rym mowa w ust. 1 nie dotyczy informacji:
+-Â Â Â Â Â  ktÃ³re w czasie ich ujawnienia byÅ‚y publicznie znane,
+-Â Â Â Â Â  ktÃ³rych obowiÄ…zek ujawnienia wynika z bezwzglÄ™dnie obowiÄ…zujÄ…cego przepisu prawa, orzeczenia sÄ…du lub decyzji innego uprawnionego organu wÅ‚adzy, z zastrzeÅ¼eniem niezwÅ‚ocznego powiadomienia drugiej Strony o takim obowiÄ…zku.
+Â 
+Â  Â Â Â Â Â Â Â Â Â Â§ 15
+Strony ustalajÄ…, Å¼e w sprawach nieuregulowanych w niniejszej umowie bÄ™dÄ… miaÅ‚yÂ  zastosowanie przepisy powszechnie obowiÄ…zujÄ…ce w tym przepisy Kodeksu cywilnego, ustawy Prawo budowlane, przepisy wykonawcze 
+Â 
+Â Â Â Â Â Â Â Â Â Â  Â§ 16
+Spory mogÄ…ce wynikaÄ‡ podczas realizacji Umowy bÄ™dÄ… rozstrzygane przez wÅ‚aÅ›ciwy rzeczowo sÄ…d siedziby ZamawiajÄ…cego.
+Â Â Â Â Â Â Â Â Â  
+Â 
+Â§ 17Â Â Â Â Â Â  
+Wszystkie zaÅ‚Ä…czniki do niniejszej umowy stanowiÄ… jejÂ  integralnÄ… czÄ™Å›Ä‡.
+Â§ 18Â Â Â Â Â Â  
+UmowÄ™ sporzÄ…dzono w dwÃ³ch jednobrzmiÄ…cych egzemplarzach,Â  po jednym dla kaÅ¼dej ze Stron.Â Â Â  
+Â 
+Â 
+Â 
+Â Â Â Â Â Â Â  WYKONAWCA Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ZAMAWIAJÄ„CY
+Â 
+Â 
+Â 
+Â 
 
 
 
@@ -1537,7 +1537,7 @@ Umowê sporz¹dzono w dwóch jednobrzmi¹cych egzemplarzach,  po jednym dla ka¿dej z
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -1618,13 +1618,13 @@ px_dg~rdlp_katowice~nadl_lubliniec~zalacznik_nr_4_przedmiar_robot___prace_budowl
 
 
 
-Osoba odpowiedzialna za treœæ:
+Osoba odpowiedzialna za treÅ›Ä‡:
 Krzysztof Lysik
 
 Data modyfikacji: 2020/05/19 14:23:02
-Redaktor zatwierdzaj¹cy: Andrzej Gajda
-Wprowadzaj¹cy: a.gajda
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Andrzej Gajda
+WprowadzajÄ…cy: a.gajda
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

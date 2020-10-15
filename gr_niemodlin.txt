@@ -6,7 +6,7 @@
 
 
 
-Wyst¹pienia, komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Wyst¹pienia, komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,25 +67,25 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacje o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~gr_niemodlin
 Redakcja biuletynu
 Statystyki biuletynu
@@ -107,17 +107,12 @@ wyszukaj w BIP
 
 PGL LP Gospodarstwo Rybackie Niemodlin
 
-Wyst¹pienia, komunikaty i og³oszenia
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
-
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
 
@@ -137,13 +132,18 @@ Wyst¹pienia, komunikaty i og³oszenia
 
 
 
-Osoba odpowiedzialna za treœæ:
-Przemys³aw Kubów p.o. Dyrektora PGL LP GR Niemodlin
+
+
+
+
+
+Osoba odpowiedzialna za treÅ›Ä‡:
+PrzemysÅ‚aw KubÃ³w p.o. Dyrektora PGL LP GR Niemodlin
 
 Data modyfikacji: 2010/03/22 10:05:35
-Redaktor zatwierdzaj¹cy: Ornak Administrator
-Wprowadzaj¹cy: Ornak Administrator
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Ornak Administrator
+WprowadzajÄ…cy: Ornak Administrator
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

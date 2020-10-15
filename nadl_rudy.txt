@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og≥oszenia
+Komunikaty i og≈Çoszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og≥oszenia
 
 
 
-Biuletyn Informacji PublicznejLasÛw PaÒstwowych
+Biuletyn Informacji PublicznejLas√≥w Pa≈Ñstwowych
 
 
 
@@ -67,38 +67,34 @@ lasy.gov.pl
 
 
 
-Strona g≥Ûwna
-Strona g≥Ûwna jednostki macierzystej
+Strona g≈Ç√≥wna
+Strona g≈Ç√≥wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urzπdzenia lasu
+Plan urzƒÖdzenia lasu
 Ochrona przyrody
-Wykaz dokumentÛw zawierajπcych informacjÍ o úrodowisku
-Zarzπdzenia i decyzje
+Wykaz dokument√≥w zawierajƒÖcych informacjƒô o ≈õrodowisku
+ZarzƒÖdzenia i decyzje
 Rozpatrywanie spraw
-Finanse i majπtek
+Finanse i majƒÖtek
 Archiwa
 Informacja o kontrolach
-Wystπpienia, komunikaty i og≥oszenia
-ZamÛwienia publiczne
+WystƒÖpienia, komunikaty i og≈Çoszenia
+Zam√≥wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorÛw danych osobowych
+Rejestr zbior√≥w danych osobowych
 Redakcja BIP
-Obs≥uga biuletynu
-Instrukcja obs≥ugi
-wx_dg~rdlp_katowice~nadl_rudy
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
 
 
 
-Regionalna Dyrekcja LasÛw PaÒstwowych w†Katowicach, 
-Nadleúnictwo†Rudy Raciborskie
+Regionalna Dyrekcja Las√≥w Pa≈Ñstwowych w¬†Katowicach, 
+Nadle≈õnictwo¬†Rudy Raciborskie
 
 
 wyszukaj w BIP
@@ -108,38 +104,29 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja LasÛw PaÒstwowych w†Katowicach, 
-Nadleúnictwo†Rudy Raciborskie
+Regionalna Dyrekcja Las√≥w Pa≈Ñstwowych w¬†Katowicach, 
+Nadle≈õnictwo¬†Rudy Raciborskie
 
-Wystπpienia, komunikaty i og≥oszenia
-
-
-
-
-Komunikaty i og≥oszenia
+WystƒÖpienia, komunikaty i og≈Çoszenia
 
 
 
 
-OG£OSZENIA
-
-PGL LP Nadleúnictwo Rudy Raciborskie og≥asza: 
+Komunikaty i og≈Çoszenia
 
 
 
 
+OG≈ÅOSZENIA
 
-
-Pliki do pobrania - lista za≥πcznikÛw
+PGL LP Nadle≈õnictwo Rudy Raciborskie og≈Çasza: 
 
 
 
 
 
-.PDF
 
-OG£OSZENIE O NEGOCJACJACH HANDLOWYCH (1.0MB)
-
+Pliki do pobrania - lista za≈ÇƒÖcznik√≥w
 
 
 
@@ -147,7 +134,7 @@ OG£OSZENIE O NEGOCJACJACH HANDLOWYCH (1.0MB)
 
 .PDF
 
-ZA£ 1 DRUK OFERTY WST PNEJ (1.0MB)
+OG≈ÅOSZENIE O NEGOCJACJACH HANDLOWYCH (1.0MB)
 
 
 
@@ -156,7 +143,7 @@ ZA£ 1 DRUK OFERTY WST PNEJ (1.0MB)
 
 .PDF
 
-ZA£ 2 REGULAMIN NEGOCJACJI (1.0MB)
+ZA≈Å 1 DRUK OFERTY WSTƒòPNEJ (1.0MB)
 
 
 
@@ -165,7 +152,7 @@ ZA£ 2 REGULAMIN NEGOCJACJI (1.0MB)
 
 .PDF
 
-ZA£ 3 PROJEKT UMOWY (1.0MB)
+ZA≈Å 2 REGULAMIN NEGOCJACJI (1.0MB)
 
 
 
@@ -174,7 +161,7 @@ ZA£ 3 PROJEKT UMOWY (1.0MB)
 
 .PDF
 
-Og≥oszenie o wyborze podmiotÛw do badania bilansu za 2019 r. (1.0MB)
+ZA≈Å 3 PROJEKT UMOWY (1.0MB)
 
 
 
@@ -183,7 +170,7 @@ Og≥oszenie o wyborze podmiotÛw do badania bilansu za 2019 r. (1.0MB)
 
 .PDF
 
-Og≥oszenie o II przetargu na sprzedaø samochodu Nissan Pickup (1.0MB)
+Og≈Çoszenie o wyborze podmiot√≥w do badania bilansu za 2019 r. (1.0MB)
 
 
 
@@ -192,7 +179,7 @@ Og≥oszenie o II przetargu na sprzedaø samochodu Nissan Pickup (1.0MB)
 
 .PDF
 
-Og≥oszenie o rozstrzygniÍciu przetargu na dzia≥ki (1.0MB)
+Og≈Çoszenie o II przetargu na sprzeda≈º samochodu Nissan Pickup (1.0MB)
 
 
 
@@ -201,7 +188,7 @@ Og≥oszenie o rozstrzygniÍciu przetargu na dzia≥ki (1.0MB)
 
 .PDF
 
-Og≥oszenie o zamiarze poddania badaniu sprawozdania finansowego za 2016 rok (1.0MB)
+Og≈Çoszenie o rozstrzygniƒôciu przetargu na dzia≈Çki (1.0MB)
 
 
 
@@ -210,7 +197,7 @@ Og≥oszenie o zamiarze poddania badaniu sprawozdania finansowego za 2016 rok (1.0
 
 .PDF
 
-Formularz zg≥oszenia i oúwiadczenia do negocjacji cenowej (1.0MB)
+Og≈Çoszenie o zamiarze poddania badaniu sprawozdania finansowego za 2016 rok (1.0MB)
 
 
 
@@ -219,7 +206,7 @@ Formularz zg≥oszenia i oúwiadczenia do negocjacji cenowej (1.0MB)
 
 .PDF
 
-Og≥oszenie o sprzedaøy samochodu (1.0MB)
+Formularz zg≈Çoszenia i o≈õwiadczenia do negocjacji cenowej (1.0MB)
 
 
 
@@ -228,7 +215,7 @@ Og≥oszenie o sprzedaøy samochodu (1.0MB)
 
 .PDF
 
-Og≥oszenie o negocjacji cenowej (1.0MB)
+Og≈Çoszenie o sprzeda≈ºy samochodu (1.0MB)
 
 
 
@@ -237,7 +224,7 @@ Og≥oszenie o negocjacji cenowej (1.0MB)
 
 .PDF
 
-Og≥oszenie o rozstrzygniÍciu negocjacji cenowej (1.0MB)
+Og≈Çoszenie o negocjacji cenowej (1.0MB)
 
 
 
@@ -246,7 +233,7 @@ Og≥oszenie o rozstrzygniÍciu negocjacji cenowej (1.0MB)
 
 .PDF
 
-Og≥oszenie II przetarg sprzedaø samochodu SUZUKI SX4 (1.0MB)
+Og≈Çoszenie o rozstrzygniƒôciu negocjacji cenowej (1.0MB)
 
 
 
@@ -255,7 +242,7 @@ Og≥oszenie II przetarg sprzedaø samochodu SUZUKI SX4 (1.0MB)
 
 .PDF
 
-Og≥oszenie o sprzedaøy nieruchomoúci niezabudowanych (1.0MB)
+Og≈Çoszenie II przetarg sprzeda≈º samochodu SUZUKI SX4 (1.0MB)
 
 
 
@@ -264,7 +251,7 @@ Og≥oszenie o sprzedaøy nieruchomoúci niezabudowanych (1.0MB)
 
 .PDF
 
-Og≥oszenie o sprzedaøy lasu-Stodo≥y (1.0MB)
+Og≈Çoszenie o sprzeda≈ºy nieruchomo≈õci niezabudowanych (1.0MB)
 
 
 
@@ -273,7 +260,7 @@ Og≥oszenie o sprzedaøy lasu-Stodo≥y (1.0MB)
 
 .PDF
 
-Og≥oszenie o rozstrzygniÍciu przetargu na sprzedaø dzia≥ek: 191/48, 148/11, 160/3. (1.0MB)
+Og≈Çoszenie o sprzeda≈ºy lasu-Stodo≈Çy (1.0MB)
 
 
 
@@ -282,7 +269,7 @@ Og≥oszenie o rozstrzygniÍciu przetargu na sprzedaø dzia≥ek: 191/48, 148/11, 160/
 
 .PDF
 
- Og≥oszenie o rozstrzygniÍciu przetargu na sprzedaø dzia≥ek: 274/6, 274/8 (1.0MB)
+Og≈Çoszenie o rozstrzygniƒôciu przetargu na sprzeda≈º dzia≈Çek: 191/48, 148/11, 160/3. (1.0MB)
 
 
 
@@ -291,7 +278,7 @@ Og≥oszenie o rozstrzygniÍciu przetargu na sprzedaø dzia≥ek: 191/48, 148/11, 160/
 
 .PDF
 
-Og≥oszenie o sprzedaøy nieruchomoúci w Rudach dzia≥ki nr 223/12, 223/13, 223/14, 191/48. (3.0MB)
+ Og≈Çoszenie o rozstrzygniƒôciu przetargu na sprzeda≈º dzia≈Çek: 274/6, 274/8 (1.0MB)
 
 
 
@@ -300,7 +287,7 @@ Og≥oszenie o sprzedaøy nieruchomoúci w Rudach dzia≥ki nr 223/12, 223/13, 223/14,
 
 .PDF
 
-Og≥oszenie o sprzedaøy nieruchomoúci w Rudach dzia≥ki nr 223/13, 223/14 - drugi przetarg (1.0MB)
+Og≈Çoszenie o sprzeda≈ºy nieruchomo≈õci w Rudach dzia≈Çki nr 223/12, 223/13, 223/14, 191/48. (3.0MB)
 
 
 
@@ -309,7 +296,7 @@ Og≥oszenie o sprzedaøy nieruchomoúci w Rudach dzia≥ki nr 223/13, 223/14 - drugi 
 
 .PDF
 
-Og≥oszenie o wynikach drugiego przetargu na sprzedaø nieruchomoúci w Rudach dzia≥ki nr 223/13, 223/14 (1.0MB)
+Og≈Çoszenie o sprzeda≈ºy nieruchomo≈õci w Rudach dzia≈Çki nr 223/13, 223/14 - drugi przetarg (1.0MB)
 
 
 
@@ -318,19 +305,7 @@ Og≥oszenie o wynikach drugiego przetargu na sprzedaø nieruchomoúci w Rudach dzia
 
 .PDF
 
-Og≥oszeniu o przetargu na sprzedaø dzia≥ki nr 248/3 w GÛrkach ålaskich (1.0MB)
-
-
-
-B£•D sx_lista_plikow/szablon_html dla fileMeta = x_ogloszenie_przetarg_nissan_navara.pdf/Og≥oszenie o przetargu na sprzedaø samochodu NISSAN Navara
-
-
-
-
-
-.PDF
-
-Og≥oszenie o wynikach przetargu na sprzedaø nieruchomoúci po≥oøonej w GÛrkach ålπskich nr 248/3 (1.0MB)
+Og≈Çoszenie o wynikach drugiego przetargu na sprzeda≈º nieruchomo≈õci w Rudach dzia≈Çki nr 223/13, 223/14 (1.0MB)
 
 
 
@@ -339,11 +314,11 @@ Og≥oszenie o wynikach przetargu na sprzedaø nieruchomoúci po≥oøonej w GÛrkach ål
 
 .PDF
 
-Og≥oszenie drugi przetarg na sprzedaø nieruchomoúci w (1.0MB)
+Og≈Çoszeniu o przetargu na sprzeda≈º dzia≈Çki nr 248/3 w G√≥rkach ≈ölaskich (1.0MB)
 
 
 
-B£•D sx_lista_plikow/szablon_html dla fileMeta = GÛrkach ålπskich nr 248/3
+B≈ÅƒÑD sx_lista_plikow/szablon_html dla fileMeta = x_ogloszenie_przetarg_nissan_navara.pdf/Og≈Çoszenie o przetargu na sprzeda≈º samochodu NISSAN Navara
 
 
 
@@ -351,7 +326,28 @@ B£•D sx_lista_plikow/szablon_html dla fileMeta = GÛrkach ålπskich nr 248/3
 
 .PDF
 
-Og≥oszenie o rozstrzygniÍciu drugiego przetargu na sprzedaø nieruchomoúci po≥oøonej w GÛrkach ålaskich dzia≥ka nr 248/3 (1.0MB)
+Og≈Çoszenie o wynikach przetargu na sprzeda≈º nieruchomo≈õci po≈Ço≈ºonej w G√≥rkach ≈ölƒÖskich nr 248/3 (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Og≈Çoszenie drugi przetarg na sprzeda≈º nieruchomo≈õci w (1.0MB)
+
+
+
+B≈ÅƒÑD sx_lista_plikow/szablon_html dla fileMeta = G√≥rkach ≈ölƒÖskich nr 248/3
+
+
+
+
+
+.PDF
+
+Og≈Çoszenie o rozstrzygniƒôciu drugiego przetargu na sprzeda≈º nieruchomo≈õci po≈Ço≈ºonej w G√≥rkach ≈ölaskich dzia≈Çka nr 248/3 (1.0MB)
 
 
 
@@ -370,13 +366,13 @@ Og≥oszenie o rozstrzygniÍciu drugiego przetargu na sprzedaø nieruchomoúci po≥oøo
 
 
 
-Osoba odpowiedzialna za treúÊ:
-Tomasz Pacia
+Osoba odpowiedzialna za tre≈õƒá:
+Witold Witosza
 
 Data modyfikacji: 2020/04/20 15:26:22
-Redaktor zatwierdzajπcy: Tomasz Pacia
-Wprowadzajπcy: Jaros≥aw Kusber
-Deklaracja DostÍpnoúci
+Redaktor zatwierdzajƒÖcy: Tomasz Pacia
+WprowadzajƒÖcy: Jaros≈Çaw Kusber
+Deklaracja Dostƒôpno≈õci
 
 
  

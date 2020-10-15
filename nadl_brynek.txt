@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_brynek
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Brynek
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Brynek
 
 
 wyszukaj w BIP
@@ -108,15 +108,15 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Brynek
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Brynek
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
-Komunikaty i og³oszenia
+
+
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -125,40 +125,38 @@ Komunikaty i og³oszenia
 
  
 Brynek, 21.08.2020r.
-Procedury bezpieczeñstwa w Nadleœnictwie Brynek w okresie pandemii COVID-19
+Procedury bezpieczeÅ„stwa w NadleÅ›nictwie Brynek w okresie pandemii COVID-19
 
 
-Za³atwianie spraw osobiœcie w biurze      Nadleœnictwa Brynek, nastêpuje po telefonicznym umówieniu spotkania w      sekretariacie Nadleœnictwa pod numerem tel. 32 285- 74-63.
-Petent oczekuje na spotkanie z osob¹ prowadz¹c¹      sprawê z ramienia Nadleœnictwa przed wejœciem g³ównym.
-Osoby nie bêd¹ce zatrudnione w Nadleœnictwie      Brynek wchodz¹ na teren biura w maseczce i po zmierzeniu      temperatury przez osobê wpuszczaj¹c¹. W trakcie wejœcia nale¿y      zdezynfekowaæ rêce.
-W trakcie przemieszczania siê obowi¹zuje      zachowanie dystansu pomiêdzy osobami, co najmniej 1,5 metra. 
-Umówione spotkania odbywaj¹ siê w holu g³ównym      na parterze, w wyznaczonym do tego miejscu, po poinformowaniu przez      sekretarkê osoby prowadz¹cej merytorycznie sprawê.  
-Toaleta dla osób za³atwiaj¹cych sprawy znajduje      siê na parterze budynku, w holu g³ównym.
-Za osobê postronn¹ wpuszczon¹ do budynku biura      Nadleœnictwa, odpowiada osoba przyjmuj¹ca petenta i prowadz¹ca sprawê      merytorycznie.
-Zabrania siê korzystania osobom postronnym z      urz¹dzeñ biurowych Nadleœnictwa (ksero, bindownice, niszczarki itp).
-Zabrania siê osobom postronnym poruszania po      budynku biura, poza wyznaczon¹ stref¹.
+ZaÅ‚atwianie spraw osobiÅ›cie w biurze      NadleÅ›nictwa Brynek, nastÄ™puje po telefonicznym umÃ³wieniu spotkania w      sekretariacie NadleÅ›nictwa pod numerem tel. 32Â 285- 74-63.
+Petent oczekuje na spotkanie z osobÄ… prowadzÄ…cÄ…      sprawÄ™ z ramienia NadleÅ›nictwa przed wejÅ›ciem gÅ‚Ã³wnym.
+Osoby nie bÄ™dÄ…ce zatrudnione w NadleÅ›nictwie      Brynek wchodzÄ… naÂ teren biura wÂ maseczce i po zmierzeniu      temperatury przez osobÄ™ wpuszczajÄ…cÄ…. W trakcie wejÅ›cia naleÅ¼y      zdezynfekowaÄ‡ rÄ™ce.
+W trakcie przemieszczania siÄ™ obowiÄ…zuje      zachowanie dystansu pomiÄ™dzy osobami, co najmniej 1,5 metra. 
+UmÃ³wione spotkania odbywajÄ… siÄ™ w holu gÅ‚Ã³wnym      na parterze, wÂ wyznaczonym do tego miejscu, po poinformowaniu przez      sekretarkÄ™ osoby prowadzÄ…cej merytorycznie sprawÄ™.Â  
+Toaleta dla osÃ³b zaÅ‚atwiajÄ…cych sprawy znajduje      siÄ™ na parterze budynku, w holu gÅ‚Ã³wnym.
+Za osobÄ™ postronnÄ… wpuszczonÄ… do budynku biura      NadleÅ›nictwa, odpowiada osoba przyjmujÄ…ca petenta i prowadzÄ…ca sprawÄ™      merytorycznie.
+Zabrania siÄ™ korzystania osobom postronnym z      urzÄ…dzeÅ„ biurowych NadleÅ›nictwa (ksero, bindownice, niszczarki itp).
+Zabrania siÄ™ osobom postronnym poruszania po      budynku biura, poza wyznaczonÄ… strefÄ….
 
- 
- 
-Podpisa³:
+Â 
+Â 
+PodpisaÅ‚:
 Adam Mazur
-Zastêpca nadleœniczego
+ZastÄ™pca nadleÅ›niczego
 
 _______________________________________________________________________________________________________________________
 13-03-2020
-W zwi¹zku z decyzjami organów  pañstwa i zaleceniami s³u¿b sanitarnych odnoœnie epidemii koronawirusa,  Nadleœnictwo Brynek zawiadamia, ¿e odwo³uje wszystkie zajêcia edukacyjne  i spotkania.
-Powy¿sze obwi¹zuje do odwo³ania.
+W zwiÄ…zku z decyzjami organÃ³w  paÅ„stwa i zaleceniami sÅ‚uÅ¼b sanitarnych odnoÅ›nie epidemii koronawirusa,  NadleÅ›nictwo Brynek zawiadamia, Å¼e odwoÅ‚uje wszystkie zajÄ™cia edukacyjne  i spotkania.
+PowyÅ¼sze obwiÄ…zuje do odwoÅ‚ania.
 16-03-2020
-W  zwi¹zku z sytuacj¹ epidemiologiczn¹ spowodowan¹ przez wirus COVID – 19  pocz¹wszy od 16 marca 2020 r. do odwo³ania, wstrzymuje siê przyjmowanie  petentów w poszczególnych komórkach organizacyjnych biura nadleœnictwa. 
-Za zaistnia³e, z przyczyn obiektywnych utrudnienia serdecznie przepraszamy. 
-Zapraszamy do kontaktu telefonicznego - 32 285 74 63
-i za poœrednictwem poczty elektronicznej  - brynek@katowice.lasy.gov.pl
+W  zwiÄ…zku z sytuacjÄ… epidemiologicznÄ… spowodowanÄ… przez wirus COVID â€“ 19  poczÄ…wszy od 16 marca 2020 r. do odwoÅ‚ania, wstrzymuje siÄ™ przyjmowanie  petentÃ³w w poszczegÃ³lnych komÃ³rkach organizacyjnych biura nadleÅ›nictwa. 
+Za zaistniaÅ‚e, z przyczyn obiektywnych utrudnienia serdecznie przepraszamy. 
+Zapraszamy do kontaktu telefonicznego - 32Â 285 74 63
+i za poÅ›rednictwem poczty elektronicznejÂ  - brynek@katowice.lasy.gov.pl
 ______________________________________________________________________________________________________________________________________
-                       
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
 
-                        
-
-
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
 
 
 
@@ -166,7 +164,9 @@ ________________________________________________________________________________
 
 
 
-Pliki do pobrania - lista za³¹czników
+
+
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -201,14 +201,14 @@ px_dg~rdlp_katowice~nadl_brynek~rdlp_katowice_pefc_issue2__2_.pdf (1.0MB)
 
 
 
-Deklaracja Dostêpnoœci Cyfrowej
 
-Osoba odpowiedzialna za treœæ:
-Nadleœniczy Janusz Wojciechowski
+Osoba odpowiedzialna za treÅ›Ä‡:
+NadleÅ›niczy Janusz Wojciechowski
 
 Data modyfikacji: 2020/08/24 13:38:01
-Redaktor zatwierdzaj¹cy: Agnieszka Ciê¿arek
-Wprowadzaj¹cy: TheAgaZil
+Redaktor zatwierdzajÄ…cy: Agnieszka CiÄ™Å¼arek
+WprowadzajÄ…cy: Agnieszka CiÄ™Å¼arek
+Deklaracja DostÄ™pnoÅ›ci
 
 
  

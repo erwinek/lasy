@@ -6,7 +6,7 @@
 
 
 
-Komunikaty i og³oszenia
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -32,7 +32,7 @@ Komunikaty i og³oszenia
 
 
 
-Biuletyn Informacji PublicznejLasów Pañstwowych
+Biuletyn Informacji PublicznejLasÃ³w PaÅ„stwowych
 
 
 
@@ -67,27 +67,27 @@ lasy.gov.pl
 
 
 
-Strona g³ówna
-Strona g³ówna jednostki macierzystej
+Strona gÅ‚Ã³wna
+Strona gÅ‚Ã³wna jednostki macierzystej
 Prawo i organizacja
 Dane teleadresowe
-Plan urz¹dzenia lasu
+Plan urzÄ…dzenia lasu
 Ochrona przyrody
-Wykaz dokumentów zawieraj¹cych informacjê o œrodowisku
-Zarz¹dzenia i decyzje
+Wykaz dokumentÃ³w zawierajÄ…cych informacjÄ™ o Å›rodowisku
+ZarzÄ…dzenia i decyzje
 Rozpatrywanie spraw
-Finanse i maj¹tek
+Finanse i majÄ…tek
 Archiwa
 Informacja o kontrolach
-Wyst¹pienia, komunikaty i og³oszenia
-Zamówienia publiczne
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
+ZamÃ³wienia publiczne
 Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
-Rejestr zbiorów danych osobowych
+Rejestr zbiorÃ³w danych osobowych
 Redakcja BIP
-Obs³uga biuletynu
-Instrukcja obs³ugi
+ObsÅ‚uga biuletynu
+Instrukcja obsÅ‚ugi
 wx_dg~rdlp_katowice~nadl_strzelce
 Redakcja biuletynu
 Statystyki biuletynu
@@ -97,8 +97,8 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Strzelce Opolskie
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Strzelce Opolskie
 
 
 wyszukaj w BIP
@@ -108,17 +108,15 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Pañstwowych w Katowicach, 
-Nadleœnictwo Strzelce Opolskie
+Regionalna Dyrekcja LasÃ³w PaÅ„stwowych wÂ Katowicach, 
+NadleÅ›nictwoÂ Strzelce Opolskie
 
-Wyst¹pienia, komunikaty i og³oszenia
-
-
+WystÄ…pienia, komunikaty i ogÅ‚oszenia
 
 
-Komunikaty i og³oszenia
 
 
+Komunikaty i ogÅ‚oszenia
 
 
 
@@ -127,12 +125,14 @@ Komunikaty i og³oszenia
 
 
 
-  
+
+
+Â  
  
 Strzelce Op. 21.09.2020
 Zn. Spr. S.234.6.2020
-Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Strzelce Opolskie             z siedzib¹ przy ul. Moniuszki 7, 47-100 Strzelce Opolskie, tel. 77 461 34 85, fax 77 461 36 42      e-mail strzelce@katowice.lasy.gov.pl, 
-og³asza II przetarg pisemny (ofertowy) na sprzeda¿ maszyn wymienionych w poni¿szym wykazie.
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Strzelce Opolskie Â Â Â Â Â Â Â Â Â Â Â Â z siedzibÄ… przy ul. Moniuszki 7, 47-100 Strzelce Opolskie, tel. 77 461 34 85, fax 77 461 36 42Â Â Â Â  Â e-mail strzelce@katowice.lasy.gov.pl, 
+ogÅ‚asza II przetarg pisemny (ofertowy) na sprzedaÅ¼ maszyn wymienionych w poniÅ¼szym wykazie.
 
 
 
@@ -143,16 +143,16 @@ Lp
 Nr etykiety
 
 
-Nazwa urz¹dzenia/maszyny
+Nazwa urzÄ…dzenia/maszyny
 
 
 Numer inwentarzowy
 
 
-Cena wywo³awcza brutto w   PLN
+Cena wywoÅ‚awcza brutto w   PLN
 
 
-Wysokoœæ wadium
+WysokoÅ›Ä‡ wadium
 
 
 
@@ -203,7 +203,7 @@ Glebofrezarka   TPF-1N prod. czeskiej, 390 kg
 7
 
 
-Brona   talerzowa Niziñskiego
+Brona   talerzowa NiziÅ„skiego
 
 
 590/40
@@ -223,7 +223,7 @@ Brona   talerzowa Niziñskiego
 8
 
 
-P³ug   leœny LPz-75
+PÅ‚ug   leÅ›ny LPz-75
 
 
 590/471
@@ -243,13 +243,13 @@ P³ug   leœny LPz-75
 11
 
 
-P³ug   leœny LPz-75
+PÅ‚ug   leÅ›ny LPz-75
 
 
 590/468
 
 
-1 635,90
+1Â 635,90
 
 
 163,59
@@ -263,13 +263,13 @@ P³ug   leœny LPz-75
 12
 
 
-Brona   talerzowa Niziñskiego
+Brona   talerzowa NiziÅ„skiego
 
 
 590/41
 
 
-6 027,00
+6Â 027,00
 
 
 602,70
@@ -283,7 +283,7 @@ Brona   talerzowa Niziñskiego
 14
 
 
-G³êbosz   GJ
+GÅ‚Ä™bosz   GJ
 
 
 590/50
@@ -303,13 +303,13 @@ G³êbosz   GJ
 15
 
 
-Wa³   WPK Krokowskiego
+WaÅ‚   WPK Krokowskiego
 
 
 590/10848
 
 
-5 596,50
+5Â 596,50
 
 
 559,65
@@ -323,13 +323,13 @@ Wa³   WPK Krokowskiego
 16
 
 
-P³ug   leœny LPz-75
+PÅ‚ug   leÅ›ny LPz-75
 
 
 590/472
 
 
-1 635,90
+1Â 635,90
 
 
 163,59
@@ -343,13 +343,13 @@ P³ug   leœny LPz-75
 17
 
 
-G³êbosz   GJ, U470, nr 46
+GÅ‚Ä™bosz   GJ, U470, nr 46
 
 
 590/10581
 
 
-2 066,40
+2Â 066,40
 
 
 206,64
@@ -363,13 +363,13 @@ G³êbosz   GJ, U470, nr 46
 18
 
 
-P³ug   dwuodk³adnicowy LP¯ 
+PÅ‚ug   dwuodkÅ‚adnicowy LPÅ» 
 
 
 590/39
 
 
-3 444,00
+3Â 444,00
 
 
 344,40
@@ -377,94 +377,94 @@ P³ug   dwuodk³adnicowy LP¯
 
 
 
- 
-1.    Miejsce otwarcia ofert pisemnych: siedziba Nadleœnictwa Strzelce Opolskie ul. Moniuszki 7  47-100 Strzelce Opolskie – Izba edukacyjna. 
-2.    Termin otwarcia ofert : 07.10.2020 r. godz. 10:30 
-3.    Ofertê nale¿y dostarczyæ lub przes³aæ poczt¹ w zamkniêtej kopercie, na adres  zamawiaj¹cego: Nadleœnictwo Strzelce Opolskie ul. Moniuszki 7, 47-100 Strzelce Opolskie, 
-Termin sk³adania ofert mija o godz. 1000 dnia 07.10.2020 r.
-Kopertê z wpisan¹ nazw¹ oferenta oraz jego dok³adnym adresem nale¿y zaadresowaæ :
-Nadleœnictwo Strzelce Opolskie ul. Moniuszki 7 ; 47-100 Strzelce Opolskie  i zaopatrzyæ napisem: 
-“Oferta zakupu maszyn . Nie otwieraæ przed terminem otwarcia ofert".  
-Oferta podpisana przez oferenta lub osobê upowa¿nion¹ do jego reprezentowania winna zawieraæ :
-- nazwê oferenta (imiê i nazwisko PESEL w przypadku osoby fizycznej  / nazwa podmiotu gospodarczego, NIP, REGON w przypadku podmiotu gospodarczego)
-- dok³adny adres, adres e-mail, nr telefonu, nr konta do zwrotu wadium.
-- Nazwê i numer inwentarzowy wybranej do zakupu maszyny (lub maszyn) z cen¹ brutto oferowan¹ za przedmiot sprzeda¿y – poprzez wpisanie jej przy wybranej maszynie w tabeli formularza ofertowego. 
-4.    Miejsce i termin, w którym mo¿na obejrzeæ sprzedawane maszyny – Szkó³ka Leœna Kalinów po uprzednim umówieniu telefonicznym pod numerem 606 448 712, w godz. od 8.00 do 14.00 od poniedzia³ku do pi¹tku. Informacja telefoniczna pod nr 0 77/ 461 34 85 wewn. * 671 od poniedzia³ku do pi¹tku w godz. 7.00 - 15.00 
-5.    Wysokoœæ cen wywo³awczych oraz kwot wadium przedstawiono w tabeli powy¿ej. Wadium nale¿y wp³aciæ  przelewem na konto Zamawiaj¹cego - Bank Zachodni WBK  o/Strzelce Op. nr: 18 1090 2239 0000 0005 7600 4331, z zapisem w tytule:  „Wadium przetargowe – zakup maszyn". Kasa w siedzibie Zamawiaj¹cego nie przyjmuje wp³at wadium w gotówce.
-Nale¿y pamiêtaæ, by przelew wykonaæ z w³aœciwym wyprzedzeniem, gdy¿ bêdzie on wniesiony skutecznie jedynie w przypadku uznania wp³ywu na koncie Zamawiaj¹cego przed up³ywem terminu sk³adania ofert. 
-6.    W razie ustalenia, ¿e kilku oferentów zaoferowa³o tê sam¹ cenê, Sprzedaj¹cemu przys³uguje prawo swobodnego wyboru oferty.
-7.    Wadium przepada na rzecz sprzedawcy, je¿eli ¿aden z uczestników przetargu nie zaoferuje ceny nabycia równej co najmniej cenie wywo³awczej.
-8.    Wadium z³o¿one przez uczestnika przetargu, który zosta³ nabywc¹ ulega zaliczeniu na poczet ceny nabycia. Wadium z³o¿one przez pozosta³ych uczestników podlega zwrotowi bezpoœrednio po zakoñczeniu przetargu. 
-9.    Nabywca wy³oniony w drodze przetargu zap³aci cenê nabycia nie póŸniej ni¿ w szóstym dniu po przetargu.
-10. Przedmiot nabycia zostanie wydany niezw³ocznie po uiszczeniu ceny nabycia.
-11. Nabywca, który w terminie okreœlonym w pkt 10 nie uiœci ceny nabycia, traci prawo nabycia wynikaj¹ce z wygranego przetargu , a z³o¿one przez niego wadium przepada na rzecz Sprzedaj¹cego.
-    Niniejsze og³oszenie wraz z formularzem oferty znajduje siê na stronie BIP Nadleœnictwa Strzelce Opolskie, pod adresem: https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_strzelce/komunikaty_i_ogloszenia
- 
-                                                                                
- 
+Â 
+1.Â Â Â  Miejsce otwarcia ofert pisemnych: siedziba NadleÅ›nictwa Strzelce Opolskie ul. Moniuszki 7Â  47-100 Strzelce Opolskie â€“ Izba edukacyjna. 
+2.Â Â Â  Termin otwarcia ofert : 07.10.2020 r. godz. 10:30 
+3.Â Â Â  OfertÄ™ naleÅ¼y dostarczyÄ‡ lub przesÅ‚aÄ‡ pocztÄ… w zamkniÄ™tej kopercie, na adresÂ  zamawiajÄ…cego: NadleÅ›nictwo Strzelce Opolskie ul. Moniuszki 7, 47-100 Strzelce Opolskie, 
+Termin skÅ‚adania ofert mija o godz. 1000 dnia 07.10.2020 r.
+KopertÄ™ z wpisanÄ… nazwÄ… oferenta oraz jego dokÅ‚adnym adresem naleÅ¼y zaadresowaÄ‡ :
+NadleÅ›nictwo Strzelce Opolskie ul. Moniuszki 7 ; 47-100 Strzelce OpolskieÂ  i zaopatrzyÄ‡ napisem: 
+â€œOferta zakupu maszyn . Nie otwieraÄ‡ przed terminem otwarcia ofert".Â  
+Oferta podpisana przez oferenta lub osobÄ™ upowaÅ¼nionÄ… do jego reprezentowania winna zawieraÄ‡ :
+- nazwÄ™ oferenta (imiÄ™ i nazwisko PESEL w przypadku osoby fizycznejÂ  / nazwa podmiotu gospodarczego, NIP, REGON w przypadku podmiotu gospodarczego)
+- dokÅ‚adny adres, adres e-mail, nr telefonu, nr konta do zwrotu wadium.
+- NazwÄ™ i numer inwentarzowy wybranej do zakupu maszyny (lub maszyn) z cenÄ… brutto oferowanÄ… za przedmiot sprzedaÅ¼y â€“ poprzez wpisanie jej przy wybranej maszynie w tabeli formularza ofertowego. 
+4.Â Â Â  Miejsce i termin, w ktÃ³rym moÅ¼na obejrzeÄ‡ sprzedawane maszyny â€“ SzkÃ³Å‚ka LeÅ›na KalinÃ³w po uprzednim umÃ³wieniu telefonicznym pod numerem 606Â 448Â 712, w godz. od 8.00 do 14.00 od poniedziaÅ‚ku do piÄ…tku. Informacja telefoniczna pod nr 0 77/ 461 34 85 wewn. * 671 od poniedziaÅ‚ku do piÄ…tku w godz. 7.00 - 15.00 
+5.Â Â Â  WysokoÅ›Ä‡ cen wywoÅ‚awczych oraz kwot wadium przedstawiono w tabeli powyÅ¼ej. Wadium naleÅ¼y wpÅ‚aciÄ‡Â  przelewem na konto ZamawiajÄ…cego - Bank Zachodni WBKÂ  o/Strzelce Op. nr: 18 1090 2239 0000 0005 7600 4331, z zapisem w tytule:Â  â€Wadium przetargowe â€“ zakup maszyn". Kasa w siedzibie ZamawiajÄ…cego nie przyjmuje wpÅ‚at wadium w gotÃ³wce.
+NaleÅ¼y pamiÄ™taÄ‡, by przelew wykonaÄ‡ z wÅ‚aÅ›ciwym wyprzedzeniem, gdyÅ¼ bÄ™dzie on wniesiony skutecznie jedynie w przypadku uznania wpÅ‚ywu na koncie ZamawiajÄ…cego przed upÅ‚ywem terminu skÅ‚adania ofert. 
+6.Â Â Â  W razie ustalenia, Å¼e kilku oferentÃ³w zaoferowaÅ‚o tÄ™ samÄ… cenÄ™, SprzedajÄ…cemu przysÅ‚uguje prawo swobodnego wyboru oferty.
+7.Â Â Â  Wadium przepada na rzecz sprzedawcy, jeÅ¼eli Å¼aden z uczestnikÃ³w przetargu nie zaoferuje ceny nabycia rÃ³wnej co najmniej cenie wywoÅ‚awczej.
+8.Â Â Â  Wadium zÅ‚oÅ¼one przez uczestnika przetargu, ktÃ³ry zostaÅ‚ nabywcÄ… ulega zaliczeniu na poczet ceny nabycia. Wadium zÅ‚oÅ¼one przez pozostaÅ‚ych uczestnikÃ³w podlega zwrotowi bezpoÅ›rednio po zakoÅ„czeniu przetargu. 
+9.Â Â Â  Nabywca wyÅ‚oniony w drodze przetargu zapÅ‚aci cenÄ™ nabycia nie pÃ³Åºniej niÅ¼ w szÃ³stym dniu po przetargu.
+10. Przedmiot nabycia zostanie wydany niezwÅ‚ocznie po uiszczeniu ceny nabycia.
+11. Nabywca, ktÃ³ry w terminie okreÅ›lonym w pkt 10 nie uiÅ›ci ceny nabycia, traci prawo nabycia wynikajÄ…ce z wygranego przetargu , a zÅ‚oÅ¼one przez niego wadium przepada na rzecz SprzedajÄ…cego.
+ Â Â  Niniejsze ogÅ‚oszenie wraz z formularzem oferty znajduje siÄ™ na stronie BIP NadleÅ›nictwa Strzelce Opolskie, pod adresem: https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_strzelce/komunikaty_i_ogloszenia
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+Â 
 
-OG£OSZENIE O PRZETARGU
- 
-Pañstwowe Gospodarstwo Leœne Lasy Pañstwowe Nadleœnictwo Strzelce Opolskie  og³asza drugi publiczny przetarg ustny nieograniczony na sprzeda¿ nieruchomoœci niezabudowanej po³o¿onej w Szymiszowie Osiedlu, przy ul Spokojnej 
-(dawniej 22 Lipca) , stanowi¹cej w³asnoœæ Skarbu Pañstwa w zarz¹dzie Pañstwowego Gospodarstwa Leœnego Lasy Pañstwowe, Nadleœnictwa Strzelce Opolskie.
-Sprzeda¿ prowadzona jest na podstawie art. 38, ust. 1, pkt 3 oraz ust. 2 ustawy 
-z dnia 28 wrzeœnia 1991 roku o lasach (tj. z dnia 22 listopada 2019 r. Dz.U. z 2020 r. poz. 6), oraz Rozporz¹dzenia Ministra Œrodowiska z dnia 20 kwietnia 2007 r. (Dz.U.2007 nr 78 poz. 532 z dnia 2007.05.04).
-1. Przedmiotem sprzeda¿y jest  nieruchomoœæ, sk³adaj¹ca siê z dzia³ki gruntu oznaczonej w ewidencji gruntów nr ewid. 1010/1 obrêb ewidencyjny Szymiszów,  jednostka ewidencyjna Strzelce Opolskie–Obszar Wiejski ark. mapy 5 W ewidencji gruntów nieruchomoœæ posiada symbol klasou¿ytku dr. 
-2. Nieruchomoœæ posiada za³o¿on¹ w S¹dzie Rejonowym w Strzelcach Opolskich Ksiêgê Wieczyst¹ nr OP1S/00044298/3
-3. powierzchnia. nieruchomoœci wynosi 0,0392 ha
-4. Opis nieruchomoœci
-   Przedmiotem sprzeda¿y jest nieruchomoœæ gruntowa nieuzbrojona, niezagospodarowana po dawnej bazie sprzêtowo-magazynowej. Na przedmiotowym gruncie znajduj¹ siê budowle w postaci:
-1.    szamba 4 komorowego z krêgów betonowych, budowla podziemna
-2.    podjazdu na samochody – murowany, przykryty p³ytami ¿elbetowymi, z kana³em rewizyjnym. Powierzchnia zabudowy 33 m2.
-3.    zbiornika odprowadzenia wody z podjazdu na samochody i kot³owni znajduj¹cej siê na s¹siedniej dzia³ce. Budowla murowana, z drabink¹ stalow¹, przykryta p³yt¹ ¿elbetow¹. Powierzchnia zabudowy 12 m2.
-Stan powy¿szych budowli z³y, zu¿ycie funkcjonalne 100 %
- 
-5. W miejscowym  planie zagospodarowania przestrzennego  zatwierdzonym uchwa³¹ z dn. 28 stycznia 2009 r. nr XXXI/257/2009  Rady Miejskiej w Strzelcach Opolskich, opublikowan¹ w Dzienniku Urzêdowym Woj. Opolskiego z 2009 r.,nr.18, poz.286 , nieruchomoœæ bêd¹ca przedmiotem sprzeda¿y przeznaczona jest na tereny zabudowy mieszkaniowej wielorodzinnej MW1.
-6. Sposób zagospodarowania nieruchomoœci niezagospodarowana baza sprzêtowo-magazynowa
-7. Obci¹¿enia nieruchomoœci - brak obci¹¿eñ nieruchomoœci.
-8. Zobowi¹zania których przedmiotem jest nieruchomoœæ - brak zobowi¹zañ, których przedmiotem jest nieruchomoœæ.
-9. Nieruchomoœæ nie jest  wpisana do rejestru zabytków. 
-10. Cena wywo³awcza nieruchomoœci: 19 600,00 PLN (s³ownie: dziewiêtnaœcie tysiêcy szeœæset , 00/100 PLN). Do ostatecznej ceny sprzeda¿y nieruchomoœci doliczony zostanie podatek VAT, jeœli w momencie sprzeda¿y obowi¹zuj¹ce przepisy bêd¹ tak stanowiæ. 
-11.Termin i miejsce przetargu: 20.10.2020 r. godz. 0900 – siedziba Nadleœnictwa Strzelce Opolskie ul. Moniuszki 7 – Izba edukacyjna.
-12. Warunki uczestnictwa w przetargu  :
- a) wp³acenie wadium  w wysokoœci 1 500, 00 PLN. Wadium mo¿e byæ wnoszone w pieni¹dzu lub w formie gwarancji bankowej. Wadium wnoszone w pieni¹dzu nale¿y wp³aciæ  na rachunek bankowy Nadleœnictwa w Santander  o/Strzelce Op.  konto nr 18-10902239-0000000576004331 z adnotacj¹ "Wadium przetargowe – dzia³ka 1010/1" w takim terminie aby znajdowa³o siê na rachunku bankowym nadleœnictwa na 1 dzieñ  przed terminem przetargu, t.j. dn. 19.10.2020 r.
-Wadium w pieni¹dzu  uwa¿a siê za wniesione, je¿eli w podanym wy¿ej terminie znajdzie siê na rachunku bankowym sprzedaj¹cego. Wadium w formie gwarancji bankowej nale¿y z³o¿yæ w kasie Nadleœnictwa do dnia 19.10.2020 r. do godz. 1100. Wadium zwraca siê w terminie trzech dni od dnia odwo³ania lub zamkniêcia przetargu. Wadium wniesione w pieni¹dzu przez uczestnika, który wygra³ przetarg, zalicza siê na  poczet ceny nabycia nieruchomoœci, przez któr¹ rozumie siê cenê nieruchomoœci ustalon¹ w wyniku przetargu, któr¹ obowi¹zany jest on zap³aciæ. Wadium wniesione w formie gwarancji bankowej przez uczestnika przetargu, który   przetarg wygra³, podlega zwrotowi niezw³ocznie po wp³aceniu kwoty równej cenie nabycia nieruchomoœci.
-b) z³o¿enie do dnia 19.10.2020 r. do godz. 1100 w sekretariacie Nadleœnictwa, 
-w zamkniêtej kopercie z oznaczeniem „Przetarg Szymiszów dzia³ka 1010/1.” :  
--  pisemnego oœwiadczenia o zapoznaniu  siê z warunkami przetargu i przyjêciu ich bez zastrze¿eñ, z podaniem nr NIP oraz nr konta, na które nale¿y zwróciæ wp³acone wadium. 
-- w przypadku uczestnictwa w przetargu osoby prawnej – z³o¿enia aktualnego wypisu z w³aœciwego dla danego podmiotu rejestru. 
-- w przypadku reprezentowania osoby prawnej przez pe³nomocnika, oprócz aktualnego wypisu, przed³o¿enie notarialnie potwierdzonego pe³nomocnictwa upowa¿niaj¹cego do dzia³ania na ka¿dym etapie postêpowania  przetargowego.
--  w przypadku uczestnictwa w przetargu, pe³nomocnika reprezentuj¹cego osobê fizyczn¹, okazanie notarialnie potwierdzonego pe³nomocnictwa upowa¿niaj¹cego do dzia³ania na ka¿dym etapie postêpowania przetargowego.
-- w przypadku cudzoziemców - osób prawnych (w rozumieniu ustawy z 24.03.1920 r. o nabywaniu nieruchomoœci przez cudzoziemców) - odpis z w³aœciwego rejestru 
-     uwierzytelniony przez t³umacza przysiêg³ego. 
-c) okazanie komisji przetargowej  dowodu to¿samoœci przed rozpoczêciem licytacji.
-13. Je¿eli osoba ustalona jako nabywca nieruchomoœci nie zawrze bez usprawiedliwionej przyczyny umowy sprzeda¿y nieruchomoœci w miejscu i terminie podanym w zawiadomieniu, Nadleœnictwo mo¿e odst¹piæ od zawarcia umowy, 
+OGÅOSZENIE O PRZETARGU
+Â 
+PaÅ„stwowe Gospodarstwo LeÅ›ne Lasy PaÅ„stwowe NadleÅ›nictwo Strzelce OpolskieÂ  ogÅ‚asza drugi publiczny przetarg ustny nieograniczony na sprzedaÅ¼ nieruchomoÅ›ci niezabudowanej poÅ‚oÅ¼onej w Szymiszowie Osiedlu, przy ul Spokojnej 
+(dawniej 22 Lipca) , stanowiÄ…cej wÅ‚asnoÅ›Ä‡ Skarbu PaÅ„stwa w zarzÄ…dzie PaÅ„stwowego Gospodarstwa LeÅ›nego Lasy PaÅ„stwowe, NadleÅ›nictwa Strzelce Opolskie.
+SprzedaÅ¼ prowadzona jest na podstawie art. 38, ust. 1, pkt 3 oraz ust. 2 ustawy 
+z dnia 28 wrzeÅ›nia 1991 roku o lasach (tj. z dnia 22 listopada 2019 r. Dz.U. z 2020 r. poz. 6), oraz RozporzÄ…dzenia Ministra Åšrodowiska z dnia 20 kwietnia 2007 r. (Dz.U.2007 nr 78 poz. 532 z dnia 2007.05.04).
+1. Przedmiotem sprzedaÅ¼y jestÂ  nieruchomoÅ›Ä‡, skÅ‚adajÄ…ca siÄ™ z dziaÅ‚ki gruntu oznaczonej w ewidencji gruntÃ³w nr ewid. 1010/1 obrÄ™b ewidencyjny SzymiszÃ³w,Â  jednostka ewidencyjna Strzelce Opolskieâ€“Obszar Wiejski ark. mapy 5 W ewidencji gruntÃ³w nieruchomoÅ›Ä‡ posiada symbol klasouÅ¼ytku dr. 
+2. NieruchomoÅ›Ä‡ posiada zaÅ‚oÅ¼onÄ… w SÄ…dzie Rejonowym w Strzelcach Opolskich KsiÄ™gÄ™ WieczystÄ… nr OP1S/00044298/3
+3. powierzchnia. nieruchomoÅ›ci wynosi 0,0392 ha
+4. Opis nieruchomoÅ›ci
+Â Â  Przedmiotem sprzedaÅ¼y jest nieruchomoÅ›Ä‡ gruntowa nieuzbrojona, niezagospodarowana po dawnej bazie sprzÄ™towo-magazynowej. Na przedmiotowym gruncie znajdujÄ… siÄ™ budowle w postaci:
+1.Â Â Â  szamba 4 komorowego z krÄ™gÃ³w betonowych, budowla podziemna
+2.Â Â Â  podjazdu na samochody â€“ murowany, przykryty pÅ‚ytami Å¼elbetowymi, z kanaÅ‚em rewizyjnym. Powierzchnia zabudowy 33 m2.
+3.Â Â Â  zbiornika odprowadzenia wody z podjazdu na samochody i kotÅ‚owni znajdujÄ…cej siÄ™ na sÄ…siedniej dziaÅ‚ce. Budowla murowana, z drabinkÄ… stalowÄ…, przykryta pÅ‚ytÄ… Å¼elbetowÄ…. Powierzchnia zabudowy 12 m2.
+Stan powyÅ¼szych budowli zÅ‚y, zuÅ¼ycie funkcjonalne 100 %
+Â 
+5. W miejscowymÂ  planie zagospodarowania przestrzennegoÂ  zatwierdzonym uchwaÅ‚Ä… z dn. 28 stycznia 2009 r. nr XXXI/257/2009Â  Rady Miejskiej w Strzelcach Opolskich, opublikowanÄ… w Dzienniku UrzÄ™dowym Woj. Opolskiego z 2009 r.,nr.18, poz.286 , nieruchomoÅ›Ä‡ bÄ™dÄ…ca przedmiotem sprzedaÅ¼y przeznaczona jest na tereny zabudowy mieszkaniowej wielorodzinnej MW1.
+6. SposÃ³b zagospodarowania nieruchomoÅ›ci niezagospodarowana baza sprzÄ™towo-magazynowa
+7. ObciÄ…Å¼enia nieruchomoÅ›ci - brak obciÄ…Å¼eÅ„ nieruchomoÅ›ci.
+8. ZobowiÄ…zania ktÃ³rych przedmiotem jest nieruchomoÅ›Ä‡ - brak zobowiÄ…zaÅ„, ktÃ³rych przedmiotem jest nieruchomoÅ›Ä‡.
+9. NieruchomoÅ›Ä‡ nie jest Â wpisana do rejestru zabytkÃ³w. 
+10. Cena wywoÅ‚awcza nieruchomoÅ›ci: 19 600,00 PLN (sÅ‚ownie: dziewiÄ™tnaÅ›cie tysiÄ™cy szeÅ›Ä‡set , 00/100 PLN). Do ostatecznej ceny sprzedaÅ¼y nieruchomoÅ›ci doliczony zostanie podatek VAT, jeÅ›li w momencie sprzedaÅ¼y obowiÄ…zujÄ…ce przepisy bÄ™dÄ… tak stanowiÄ‡. 
+11.Termin i miejsce przetargu: 20.10.2020 r. godz. 0900 â€“ siedziba NadleÅ›nictwa Strzelce Opolskie ul. Moniuszki 7 â€“ Izba edukacyjna.
+12. Warunki uczestnictwa w przetargu Â :
+Â a) wpÅ‚acenie wadiumÂ  w wysokoÅ›ci 1 500, 00 PLN. Wadium moÅ¼e byÄ‡ wnoszone w pieniÄ…dzu lub w formie gwarancji bankowej. Wadium wnoszone w pieniÄ…dzu naleÅ¼y wpÅ‚aciÄ‡ Â na rachunek bankowy NadleÅ›nictwa w Santander Â o/Strzelce Op.Â  konto nr 18-10902239-0000000576004331 z adnotacjÄ… "Wadium przetargowe â€“ dziaÅ‚ka 1010/1" w takim terminie aby znajdowaÅ‚o siÄ™ na rachunku bankowym nadleÅ›nictwa na 1 dzieÅ„ Â przed terminem przetargu, t.j. dn. 19.10.2020 r.
+Wadium w pieniÄ…dzuÂ  uwaÅ¼a siÄ™ za wniesione, jeÅ¼eli w podanym wyÅ¼ej terminie znajdzie siÄ™ na rachunku bankowym sprzedajÄ…cego. Wadium w formie gwarancji bankowej naleÅ¼y zÅ‚oÅ¼yÄ‡ w kasie NadleÅ›nictwa do dnia 19.10.2020 r. do godz. 1100. Wadium zwraca siÄ™ w terminie trzech dni od dnia odwoÅ‚ania lub zamkniÄ™cia przetargu. Wadium wniesione w pieniÄ…dzu przez uczestnika, ktÃ³ry wygraÅ‚ przetarg, zalicza siÄ™ na Â poczet ceny nabycia nieruchomoÅ›ci, przez ktÃ³rÄ… rozumie siÄ™ cenÄ™ nieruchomoÅ›ci ustalonÄ… w wyniku przetargu, ktÃ³rÄ… obowiÄ…zany jest on zapÅ‚aciÄ‡. Wadium wniesione w formie gwarancji bankowej przez uczestnika przetargu, ktÃ³ry Â Â przetarg wygraÅ‚, podlega zwrotowi niezwÅ‚ocznie po wpÅ‚aceniu kwoty rÃ³wnej cenie nabycia nieruchomoÅ›ci.
+b) zÅ‚oÅ¼enie do dnia 19.10.2020 r. do godz. 1100 w sekretariacie NadleÅ›nictwa, 
+w zamkniÄ™tej kopercie z oznaczeniem â€Przetarg SzymiszÃ³w dziaÅ‚ka 1010/1.â€ : Â 
+-Â  pisemnego oÅ›wiadczenia o zapoznaniuÂ  siÄ™ z warunkami przetargu i przyjÄ™ciu ich bez zastrzeÅ¼eÅ„, z podaniem nr NIP oraz nr konta, na ktÃ³re naleÅ¼y zwrÃ³ciÄ‡ wpÅ‚acone wadium. 
+- w przypadku uczestnictwa w przetargu osoby prawnej â€“ zÅ‚oÅ¼enia aktualnego wypisu z wÅ‚aÅ›ciwego dla danego podmiotu rejestru. 
+- w przypadku reprezentowania osoby prawnej przez peÅ‚nomocnika, oprÃ³cz aktualnego wypisu, przedÅ‚oÅ¼enie notarialnie potwierdzonego peÅ‚nomocnictwa upowaÅ¼niajÄ…cego do dziaÅ‚ania na kaÅ¼dym etapie postÄ™powania Â przetargowego.
+- Â w przypadku uczestnictwa w przetargu, peÅ‚nomocnika reprezentujÄ…cego osobÄ™ fizycznÄ…, okazanie notarialnie potwierdzonego peÅ‚nomocnictwa upowaÅ¼niajÄ…cego do dziaÅ‚ania na kaÅ¼dym etapie postÄ™powania przetargowego.
+- w przypadku cudzoziemcÃ³w - osÃ³b prawnych (w rozumieniu ustawy z 24.03.1920 r. o nabywaniu nieruchomoÅ›ci przez cudzoziemcÃ³w) - odpis z wÅ‚aÅ›ciwego rejestru 
+Â Â Â Â  uwierzytelniony przez tÅ‚umacza przysiÄ™gÅ‚ego. 
+c) okazanie komisji przetargowejÂ  dowodu toÅ¼samoÅ›ci przed rozpoczÄ™ciem licytacji.
+13. JeÅ¼eli osoba ustalona jako nabywca nieruchomoÅ›ci nie zawrze bez usprawiedliwionej przyczyny umowy sprzedaÅ¼y nieruchomoÅ›ci w miejscu i terminie podanym w zawiadomieniu, NadleÅ›nictwo moÅ¼e odstÄ…piÄ‡ od zawarcia umowy, 
 a wniesione wadium nie podlega zwrotowi.
-14. Nadleœnictwo w terminie 14 dni od dnia podania do publicznej wiadomoœci informacji o wyniku przetargu, zawiadomi osobê wygrywaj¹c¹ przetarg o miejscu 
-i terminie sporz¹dzenia aktu notarialnego na sprzeda¿ nieruchomoœci.
-15. Kupuj¹cy ponosi wszelkie koszty zwi¹zane z zawarciem aktu notarialnego umowy kupna - sprzeda¿y nieruchomoœci, op³at s¹dowych, skarbowych oraz podatków. 
-16. Kupuj¹cy zobowi¹zany jest pokryæ koszty zwi¹zane z podzia³em geodezyjnym 
-i wycen¹ nieruchomoœci, og³oszeñ prasowych o przetargach oraz pozyskania aktualnych materia³ów geodezyjnych i s¹dowych w kwocie: ok.7000 z³.
-17. Czynnoœci zwi¹zane z przeprowadzeniem przetargu mog¹ byæ zaskar¿one przez uczestnika przetargu. Skargê na czynnoœci zwi¹zane z przeprowadzeniem przetargu wnosi siê na piœmie bezpoœrednio do Nadleœnictwa, w terminie 7 dni od dnia  przetargu.
-18. Kupuj¹cy zobowi¹zany jest do zap³aty przelewem ceny nabycia nieruchomoœci 
-w takim terminie, aby  przed podpisaniem  umowy sprzeda¿y, nale¿noœæ ta  znajdowa³a siê na rachunku bankowym Nadleœnictwa Strzelce Opolskie.
-19. Przetarg jest wa¿ny bez wzglêdu na liczbê uczestników, je¿eli chocia¿ jeden uczestnik przetargu zaoferowa³ co najmniej jedno post¹pienie powy¿ej ceny wywo³awczej nieruchomoœci.
-20. Sprzedaj¹cy mo¿e odwo³aæ przetarg z wa¿nych powodów, informuj¹c o tym niezw³ocznie w formach w³aœciwych dla og³oszenia o przetargu.
-21. Przy zakupie nieruchomoœci przez osobê bêd¹ca cudzoziemcem  w rozumieniu ustawy  z dnia 24 marca 1920 r. o nabywaniu nieruchomoœci przez cudzoziemców (t.j. z dnia 22 listopada 2017 r. Dz.U. z 2017 r. poz. 2278).  wymagane jest stosowne zezwolenie wynikaj¹ce z przepisów tej ustawy, chyba ¿e przepisy tej ustawy zwalniaj¹ z obowi¹zku jego uzyskania.
-22. Wszelkie informacje dotycz¹ce przedmiotu przetargu mo¿na uzyskaæ pod numerem telefonu (77) 461 34 85 w. *335.  Osob¹ upowa¿nion¹ do kontaktów jest 
-p. Adam Grzesiñski 
-Og³oszenie niniejsze opublikowane jest w  Biuletynie Informacji Publicznej   Nadleœnictwa Strzelce Opolskie: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_strzelce/komunikaty_i_ogloszenia oraz na tablicy og³oszeñ  w siedzibie Nadleœnictwa przy ul. Moniuszki 7 w Strzelcach Opolskich.
- 
- 
-                                                                                                          Podpisa³ Nadleœniczy
-            
-                                                                                                                      Jan Spa³ek 
- 
- 
- 
- 
- 
- 
+14. NadleÅ›nictwo w terminie 14 dni od dnia podania do publicznej wiadomoÅ›ci informacji o wyniku przetargu, zawiadomi osobÄ™ wygrywajÄ…cÄ… przetarg o miejscu 
+i terminie sporzÄ…dzenia aktu notarialnego na sprzedaÅ¼ nieruchomoÅ›ci.
+15. KupujÄ…cy ponosi wszelkie koszty zwiÄ…zane z zawarciem aktu notarialnego umowy kupna - sprzedaÅ¼y nieruchomoÅ›ci, opÅ‚at sÄ…dowych, skarbowych oraz podatkÃ³w. 
+16. KupujÄ…cy zobowiÄ…zany jest pokryÄ‡ koszty zwiÄ…zane z podziaÅ‚em geodezyjnym 
+i wycenÄ… nieruchomoÅ›ci, ogÅ‚oszeÅ„ prasowych o przetargach oraz pozyskania aktualnych materiaÅ‚Ã³w geodezyjnych i sÄ…dowych w kwocie: ok.7000 zÅ‚.
+17. CzynnoÅ›ci zwiÄ…zane z przeprowadzeniem przetargu mogÄ… byÄ‡ zaskarÅ¼one przez uczestnika przetargu. SkargÄ™ na czynnoÅ›ci zwiÄ…zane z przeprowadzeniem przetargu wnosi siÄ™ na piÅ›mie bezpoÅ›rednio do NadleÅ›nictwa, w terminie 7 dni od dniaÂ  przetargu.
+18. KupujÄ…cy zobowiÄ…zany jest do zapÅ‚aty przelewem ceny nabycia nieruchomoÅ›ci 
+w takim terminie, abyÂ  przed podpisaniem Â umowy sprzedaÅ¼y, naleÅ¼noÅ›Ä‡ taÂ  znajdowaÅ‚a siÄ™ na rachunku bankowym NadleÅ›nictwa Strzelce Opolskie.
+19. Przetarg jest waÅ¼ny bez wzglÄ™du na liczbÄ™ uczestnikÃ³w, jeÅ¼eli chociaÅ¼ jeden uczestnik przetargu zaoferowaÅ‚ co najmniej jedno postÄ…pienie powyÅ¼ej ceny wywoÅ‚awczej nieruchomoÅ›ci.
+20. SprzedajÄ…cy moÅ¼e odwoÅ‚aÄ‡ przetarg z waÅ¼nych powodÃ³w, informujÄ…c o tym niezwÅ‚ocznie w formach wÅ‚aÅ›ciwych dla ogÅ‚oszenia o przetargu.
+21. Przy zakupie nieruchomoÅ›ci przez osobÄ™ bÄ™dÄ…ca cudzoziemcemÂ  w rozumieniu ustawyÂ  z dnia 24 marca 1920 r. o nabywaniu nieruchomoÅ›ci przez cudzoziemcÃ³w (t.j. z dnia 22 listopada 2017 r. Dz.U. z 2017 r. poz. 2278).Â  wymagane jest stosowne zezwolenie wynikajÄ…ce z przepisÃ³w tej ustawy, chyba Å¼e przepisy tej ustawy zwalniajÄ… z obowiÄ…zku jego uzyskania.
+22. Wszelkie informacje dotyczÄ…ce przedmiotu przetargu moÅ¼na uzyskaÄ‡ pod numerem telefonu (77) 461 34 85 w. *335. Â OsobÄ… upowaÅ¼nionÄ… do kontaktÃ³w jest 
+p. Adam GrzesiÅ„ski 
+OgÅ‚oszenie niniejsze opublikowane jest wÂ  Biuletynie Informacji PublicznejÂ Â  NadleÅ›nictwa Strzelce Opolskie: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_strzelce/komunikaty_i_ogloszenia oraz na tablicy ogÅ‚oszeÅ„Â  w siedzibie NadleÅ›nictwa przy ul. Moniuszki 7 w Strzelcach Opolskich.
+Â 
+Â 
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  PodpisaÅ‚ NadleÅ›niczy
+Â Â Â Â Â Â Â Â Â Â Â  
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Jan SpaÅ‚ek 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
 
 
 
@@ -483,7 +483,7 @@ Og³oszenie niniejsze opublikowane jest w  Biuletynie Informacji Publicznej   Nad
 
 
 
-Pliki do pobrania - lista za³¹czników
+Pliki do pobrania - lista zaÅ‚Ä…cznikÃ³w
 
 
 
@@ -510,13 +510,13 @@ px_dg~rdlp_katowice~nadl_strzelce~formularz_oferty.doc (1.0MB)
 
 
 
-Osoba odpowiedzialna za treœæ:
-Nadleœniczy mgr in¿. Jan Spa³ek
+Osoba odpowiedzialna za treÅ›Ä‡:
+NadleÅ›niczy mgr inÅ¼. Jan SpaÅ‚ek
 
 Data modyfikacji: 2020/09/22 09:56:05
-Redaktor zatwierdzaj¹cy: Andrzej Bubula
-Wprowadzaj¹cy: Leszek Bakalarczyk
-Deklaracja Dostêpnoœci
+Redaktor zatwierdzajÄ…cy: Andrzej Bubula
+WprowadzajÄ…cy: Leszek Bakalarczyk
+Deklaracja DostÄ™pnoÅ›ci
 
 
  
