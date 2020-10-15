@@ -64,6 +64,23 @@ for index in range(len(listaKato)):
         message["Subject"] = listaKato[index]
         message["From"] = sender_email
         message["To"] = receiver_email
+		
+        # Create the plain-text and HTML version of your message
+        text = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/" + listaKato[index] + "/komunikaty_i_ogloszenia" + webText
+
+        # Turn these into plain/html MIMEText objects
+        part1 = MIMEText(text, "plain")
+
+        message.attach(part1)
+
+        # Create secure connection with server and send email
+        context = ssl.create_default_context()
+        with smtplib.SMTP_SSL("smtp.wp.pl", 465, context=context) as server:
+            server.login(sender_email, password)
+            server.sendmail(
+                sender_email, receiver_email, message.as_string()
+            )
+
     else:
         print("brak zmian")
 
