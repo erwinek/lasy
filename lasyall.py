@@ -129,6 +129,24 @@ for index in range(len(rdlpKrakow)):
         message["Subject"] = rdlpKrakow[index]
         message["From"] = sender_email
         message["To"] = receiver_email
+
+        # Create the plain-text and HTML version of your message
+        text = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/" + listaKato[index] + "/komunikaty_i_ogloszenia" + webText
+
+        # Turn these into plain/html MIMEText objects
+        part1 = MIMEText(text, "plain")
+
+        message.attach(part1)
+
+        msg = MIMEText("WARNING, FILE DOES NOT EXISTS, THAT MEANS UPDATES MAY DID NOT HAVE BEEN RUN")
+
+        msg['Subject'] = "WARNING WARNING ON FIRE FIRE FIRE!"
+
+     
+        s = smtplib.SMTP_SSL('smtp.wp.pl:465')
+        s.login(senderEmail,password)
+        s.sendmail(senderEmail,receiverEmail, message.as_string())
+        s.quit()
     else:
         print("brak zmian")
 

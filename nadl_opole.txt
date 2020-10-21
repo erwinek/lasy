@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_opole
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -128,11 +124,11 @@ Komunikaty i ogłoszenia
 
  
 
-Nadleśniczy Nadleśnictwa Opole ogłasza wewnętrzny wśród pracowników Lasów Państwowych nabór na stanowiska: 
-księgowej ds. płac  
-specjalisty ds. informatyki, administracyjnych oraz bhp. 
-Szczegóły dotyczące naboru i wymagań w załącznikach do pobrania niżej.
- 
+Nadleśniczy Nadleśnictwa Opole ogłasza przetarg na sprzedaż samochodów Toyota RAV4 i Citroen Berlingo
+Szczegóły dotyczące przetargu w załącznikach: Patrz niżej
+
+ 
+ 
  
 Nadleśniczy Nadleśnictwa Opole podaje do publicznej wiadomości ogłoszenie wykonaniu przez Lasy Państwowe prawa pierwokupu.
 Szczegóły informacji w pliku : "Informacja o wykonaniu przez Lasy Państwowe prawa pierwokupu"
@@ -313,7 +309,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_opole~2020_ksiegowa_ds.plac.pdf (3.0MB)
+px_dg~rdlp_katowice~nadl_opole~ogloszenie_citroen.pdf (1.0MB)
 
 
 
@@ -322,7 +318,43 @@ px_dg~rdlp_katowice~nadl_opole~2020_ksiegowa_ds.plac.pdf (3.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_opole~2020_specjalista_ds.infor.adm.tech._i_bhp.pdf (4.0MB)
+px_dg~rdlp_katowice~nadl_opole~ogloszenie_toyota.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~oferta_na_zakup_samochodu_citroen.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~oferta_na_zakup_samochodu_toyota.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~umowa_kupna_samochodu_citroen.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~umowa_kupna_samochodu_toyota.pdf (1.0MB)
 
 
 
@@ -398,7 +430,7 @@ px_dg~rdlp_katowice~nadl_opole~2019_zalacznik_nr_2_do_decyzji_nr_2.pdf (2.0MB)
 Osoba odpowiedzialna za treść:
 Marek Cholewa
 
-Data modyfikacji: 2020/06/03 12:52:36
+Data modyfikacji: 2020/10/21 15:13:38
 Redaktor zatwierdzający: Tomasz Rojek
 Wprowadzający: Tomasz Rojek
 Deklaracja Dostępności

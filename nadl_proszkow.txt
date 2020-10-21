@@ -293,11 +293,6 @@ Dlatego 1mp = 0,65m³ (drewna)
 
 
 
-
-
-
-
-
 Pliki do pobrania - lista załączników
 
 
@@ -418,9 +413,9 @@ px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargo
 Osoba odpowiedzialna za treść:
 mgr inż. Marek Bocianowski
 
-Data modyfikacji: 2020/10/13 12:08:05
-Redaktor zatwierdzający: Piotr Goździewicz
-Wprowadzający: Piotr Goździewicz
+Data modyfikacji: 2020/10/19 09:21:13
+Redaktor zatwierdzający: Leszek Szawala
+Wprowadzający: Leszek Szawala
 Deklaracja Dostępności
 
 
