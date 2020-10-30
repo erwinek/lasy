@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_herby
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,6 +117,13 @@ Komunikaty i ogłoszenia
 
 
 
+Informacja o sprzedaży samochodów Toyota RAV4 oraz Citroen Berlingo - ogłoszenie w plikach do pobrania.
+ 
+ 
+ 
+ 
+ 
+ 
 ----------------------------------------------------------------------------------------------------------
 Postępowania o wartości do 30 000 euro. 
  
@@ -273,6 +276,20 @@ Pod tym numerem telefonu można również uzyskać informacje na temat portalu l
 
 
 
+Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_herby~ogloszenie_o_sprzedazy_samochodow.pdf (1.0MB)
+
+
+
+
+
 
 
 
@@ -289,9 +306,9 @@ Pod tym numerem telefonu można również uzyskać informacje na temat portalu l
 Osoba odpowiedzialna za treść:
 mgr inż. Robert Gorzelak
 
-Data modyfikacji: 2020/07/02 12:53:15
+Data modyfikacji: 2020/10/30 15:00:55
 Redaktor zatwierdzający: Amadeusz Szynka
-Wprowadzający: Krzysztof Daniel
+Wprowadzający: Amadeusz Szynka
 Deklaracja Dostępności
 
 

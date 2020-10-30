@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_strzelce
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -127,8 +123,52 @@ Komunikaty i ogłoszenia
 
 
 
-  
+  Strzelce Opolskie 2020-10-28
+Zn. Spr. ZG.2281.2.2018
+WYNIKI
+ PUBLICZNEGO USTNEGO PRZETARGU NIEOGRANICZONEGO
+na sprzedaż działki gruntu nr ew. 1010/1 obręb Szymiszów, stanowiącej własność Skarbu Państwa w zarządzie Nadleśnictwa Strzelce Opolskie.
+ 1) Oznaczenie nieruchomości według księgi wieczystej;
+    Nieruchomość posiada  założoną w Sądzie Rejonowym w Strzelcach Opolskich Księgę Wieczystą nr OP1S/00044298/3
+ 2) Oznaczenie nieruchomości według danych z ewidencji gruntów i budynków;
+    Nieruchomość, składająca się z działki gruntu oznaczonej w ewidencji gruntów nr ewid.    1010/1 obręb ewidencyjny Szymiszów,  jednostka ewidencyjna Strzelce Op. Obszar wiejski  ark. mapy 5. W ewidencji gruntów nieruchomość posiada symbol klasoużytku dr.
+ 3) Powierzchnia nieruchomości;
+    Pow. nieruchomości wynosi 0,0392 ha
+ 4) Opis nieruchomości;
+    Nieruchomość gruntowa nieuzbrojona, niezagospodarowana, po dawnej bazie sprzętowo-magazynowej. Na przedmiotowym gruncie znajdują się budowle w postaci:
+1.         szamba 4 komorowego z kręgów betonowych, budowla podziemna
+2.         podjazdu na samochody – murowany, przykryty płytami żelbetowymi, z kanałem rewizyjnym. Powierzchnia zabudowy 33 m2.
+3.         zbiornika odprowadzenia wody z podjazdu na samochody i kotłowni znajdującej się na sąsiedniej działce. Budowla murowana, z drabinką stalową, przykryta płytą żelbetową. Powierzchnia zabudowy 12 m2.
+Stan powyższych budowli zły, zużycie funkcjonalne 100 %
+ 5) Przeznaczenie nieruchomości w miejscowym planie zagospodarowania przestrzennego;
+    W miejscowym  planie zagospodarowania przestrzennego  zatwierdzonym uchwałą z dn. 28 stycznia 2009 r. nr XXXI/257/2009  Rady Miejskiej w Strzelcach Opolskich, opublikowaną w Dzienniku Urzędowym Woj. Opolskiego z 2009 r.,nr.18, poz.286 , nieruchomość będąca przedmiotem sprzedaży przeznaczona jest na tereny zabudowy mieszkaniowej wielorodzinnej MW1.
+ 6) Sposób zagospodarowania nieruchomości;
+      niezagospodarowana baza sprzętowo-magazynowa
+ 7) Obciążenia nieruchomości;
+     brak obciążeń nieruchomości
+ 8) Zobowiązania, których przedmiotem jest nieruchomość;
+     brak zobowiązań, których przedmiotem jest nieruchomość.
+9) Informacja o wpisie nieruchomości do rejestru zabytków;
+     Nieruchomość nie jest  wpisana do rejestru zabytków. 
+ 10) Termin i miejsce przetargu; 
+       20.10.2020 r. godz. 09.00 – siedziba Nadleśnictwa Strzelce Opolskie ul. Moniuszki 7 – Izba edukacyjna
+ 11) Imiona i nazwiska członków komisji przetargowej;
+            1. Dariusz Rieger – przewodniczący komisji przetargowej
+            2. Aleksandra Kowalkowska
+            3. Adam Grzesiński
+ 12) Dane uczestników przetargu i osób niedopuszczonych do przetargu, wraz z informacją o przyczynie niedopuszczenia do przetargu;
+      Do przetargu zgłosił się jeden uczestnik, który został dopuszczony do przetargu      
+  13) Cena wywoławcza nieruchomości;
+        19 600,00 PLN (słownie: dziewiętnaście tysięcy sześćset , 00/100 PLN) 
+        cena nabycia nieruchomości: 
+        19 800, 00 zł. (słownie: dziewiętnaście tysięcy osiemset , 00/100 PLN).
+ 14) Imię i nazwisko osoby ustalonej jako nabywca nieruchomości:
+            Mariusz Bujniak     
+Podpisał Nadleśniczy
+Jan Spałek
  
+ 
+
 Strzelce Op. 21.09.2020
 Zn. Spr. S.234.6.2020
 Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Strzelce Opolskie             z siedzibą przy ul. Moniuszki 7, 47-100 Strzelce Opolskie, tel. 77 461 34 85, fax 77 461 36 42      e-mail strzelce@katowice.lasy.gov.pl, 
@@ -454,17 +494,10 @@ w takim terminie, aby  przed podpisaniem  umowy sprzedaży, należność ta  
 22. Wszelkie informacje dotyczące przedmiotu przetargu można uzyskać pod numerem telefonu (77) 461 34 85 w. *335.  Osobą upoważnioną do kontaktów jest 
 p. Adam Grzesiński 
 Ogłoszenie niniejsze opublikowane jest w  Biuletynie Informacji Publicznej   Nadleśnictwa Strzelce Opolskie: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/nadl_strzelce/komunikaty_i_ogloszenia oraz na tablicy ogłoszeń  w siedzibie Nadleśnictwa przy ul. Moniuszki 7 w Strzelcach Opolskich.
+                                                                                                                       Podpisał Nadleśniczy
+                                                                                                                                 Jan Spałek 
  
- 
-                                                                                                          Podpisał Nadleśniczy
-            
-                                                                                                                      Jan Spałek 
- 
- 
- 
- 
- 
- 
+
 
 
 
@@ -498,6 +531,15 @@ px_dg~rdlp_katowice~nadl_strzelce~formularz_oferty.doc (1.0MB)
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_strzelce~wyniki_szymiszow.pdf (2.0MB)
+
+
+
+
+
+
 
 
 
@@ -513,7 +555,7 @@ px_dg~rdlp_katowice~nadl_strzelce~formularz_oferty.doc (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy mgr inż. Jan Spałek
 
-Data modyfikacji: 2020/09/22 09:56:05
+Data modyfikacji: 2020/10/28 13:09:26
 Redaktor zatwierdzający: Andrzej Bubula
 Wprowadzający: Leszek Bakalarczyk
 Deklaracja Dostępności

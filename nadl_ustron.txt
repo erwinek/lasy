@@ -131,10 +131,6 @@ Skarb Państwa – Państwowe Gospodarstwo Leśne Lasy Państwowe – Nadleśnic
  
 
  ****************************************************************************************************************************************************
-Ustroń 16.10.20200 r.
-                                                                                                                          OGŁOSZENIE O SPRZEDAŻY SAMOCHODU.
-W związku z brakiem ofert w dniu 15.10.2020 r. dot. przetargu na sprzedaż samochodu, ogłoszonym w dniu 29.09.2020 r.,  Nadleśnictwo Ustroń ponownie zaprasza do złożenia ofert kupna samochodu marki Subaru Forester. Szczegóły  dotyczące przedmiotu ogłoszenia oraz wyboru ofert opisano w zamieszczonych poniżej plikach.
- ****************************************************************************************************************************************************
  
 
 
@@ -306,20 +302,6 @@ mgr inż. Mirosław Kulis
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Pliki do pobrania - lista załączników
 
 
@@ -353,42 +335,6 @@ px_dg~rdlp_katowice~nadl_ustron~ii_bip_ogloszenie_cisowa.pdf (3.0MB)
 
 
 
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~2020_10_16_ogloszenie_o_sprzedazy_subaru.pdf (2.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~2020_10_16_zal_1_do_ogloszen_formularz_ofertowy_subaru.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~2020_10_16_zal_2_do_oglosz_projekt_umowy_subaru.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~2020_10_16_zal_3_do_oglosz_klauzula_informacyjna_rodo.pdf (1.0MB)
-
-
-
-
-
-
 
 
 
@@ -404,7 +350,7 @@ px_dg~rdlp_katowice~nadl_ustron~2020_10_16_zal_3_do_oglosz_klauzula_informacyjna
 Osoba odpowiedzialna za treść:
 inż Sławomir Kohut - p.o. Nadleśniczy 
 
-Data modyfikacji: 2020/10/16 11:53:54
+Data modyfikacji: 2020/10/27 09:06:50
 Redaktor zatwierdzający: Jarosław Gabryś
 Wprowadzający: Jarosław Gabryś
 Deklaracja Dostępności

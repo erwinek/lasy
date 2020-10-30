@@ -283,17 +283,16 @@ Dlatego 1mp = 0,65m³ (drewna)
 
 
 
-
-
-
-
-
-
-
-
-
-
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.DOC
+
+informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa (1.0MB)
+
 
 
 
@@ -302,15 +301,6 @@ Pliki do pobrania - lista załączników
 .OCX
 
 ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa (1.0MB)
-
-
-
-
-
-
-.DOC
-
-ogłoszenie o sprzedaży samochodu Toyota RAV4-wersja tekstowa (1.0MB)
 
 
 
@@ -413,9 +403,9 @@ px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargo
 Osoba odpowiedzialna za treść:
 mgr inż. Marek Bocianowski
 
-Data modyfikacji: 2020/10/19 09:21:13
-Redaktor zatwierdzający: Leszek Szawala
-Wprowadzający: Leszek Szawala
+Data modyfikacji: 2020/10/28 13:26:51
+Redaktor zatwierdzający: Piotr Goździewicz
+Wprowadzający: Piotr Goździewicz
 Deklaracja Dostępności
 
 

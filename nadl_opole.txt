@@ -120,7 +120,9 @@ Komunikaty i ogłoszenia
 
 
 
- 
+ Ogłoszenie Nadleśniczego Nadleśnictwa Opole w sprawie naboru na stanowisku: Specjalisty ds pracowniczych.
+Szczegóły dotyczące naboru znajdują się w załączniku: "Ogłoszenie o naborze na stanowisko Specjalisty ds. pracowniczych"
+
 
  
 
@@ -309,6 +311,15 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_katowice~nadl_opole~ogloszenie_o_naborze_na_stanowisko_specjalisty_ds._pracowniczych.pdf (4.0MB)
+
+
+
+
+
+
+.PDF
+
 px_dg~rdlp_katowice~nadl_opole~ogloszenie_citroen.pdf (1.0MB)
 
 
@@ -355,6 +366,24 @@ px_dg~rdlp_katowice~nadl_opole~umowa_kupna_samochodu_citroen.pdf (1.0MB)
 .PDF
 
 px_dg~rdlp_katowice~nadl_opole~umowa_kupna_samochodu_toyota.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~szczegolowy_opis_samochodu_toyota.pdf (2.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~szczegolowy_opis_samochodu_citroen.pdf (2.0MB)
 
 
 
@@ -430,7 +459,7 @@ px_dg~rdlp_katowice~nadl_opole~2019_zalacznik_nr_2_do_decyzji_nr_2.pdf (2.0MB)
 Osoba odpowiedzialna za treść:
 Marek Cholewa
 
-Data modyfikacji: 2020/10/21 15:13:38
+Data modyfikacji: 2020/10/23 13:16:35
 Redaktor zatwierdzający: Tomasz Rojek
 Wprowadzający: Tomasz Rojek
 Deklaracja Dostępności

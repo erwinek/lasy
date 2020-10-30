@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_kedzierzyn
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -148,7 +144,7 @@ Arkadiusz Wojciechowicz   
 
 
 Osoba odpowiedzialna za treść:
-mgr inż. Marek Kłos p.o. Nadleśniczego Nadleśnictwa Kędzierzyn<br><br>
+mgr inż. Paweł Hajduk Nadleśniczy Nadleśnictwa Kędzierzyn<br><br>
 
 Data modyfikacji: 2020/07/08 09:12:59
 Redaktor zatwierdzający: Adam Tomaszewski

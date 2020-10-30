@@ -86,11 +86,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_tulowice
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -236,7 +232,7 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_15_2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~cennik_detaliczny_na_drewno_iii_kwartal_2020.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~cennik_detaliczny_na_drewno_iv_kwartal_2020.pdf (1.0MB)
 
 
 
@@ -285,8 +281,8 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf (3.0MB)
 Osoba odpowiedzialna za treść:
 Wiesław Skrzypek
 
-Data modyfikacji: 2020/07/22 15:09:57
-Redaktor zatwierdzający: 
+Data modyfikacji: 2020/10/28 12:12:39
+Redaktor zatwierdzający: Paweł Zmorawski
 Wprowadzający: Grzegorz Mazurek
 Deklaracja Dostępności
 
