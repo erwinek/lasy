@@ -150,6 +150,76 @@ for index in range(len(rdlpKrakow)):
     else:
         print("brak zmian")
 
+#GDANSK
+
+#https://bip.lasy.gov.pl/pl/bip/dg/rdlp_gdansk/nadl_cewice/komunikaty_i_ogloszenia
+rdlpGdansk =["nadl_cewice", "nadl_choczewo", "nadl_elblag", "nadl_gdansk", "nadl_kaliska", "nadl_kartuzy", "nadl_kolbudy", "nadl_koscierzyna", "nadl_kwidzyn", "nadl_lebork", "nadl_lipusz", "nadl_lubichowo", "nadl_starogard", "nadl_strzebielino", "nadl_wejherowo" ] 
+                                                      
+print("---=== GDANSK ===---")
+
+for index in range(len(rdlpGdansk)):
+    url = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_gdansk/" + rdlpGdansk[index] + "/komunikaty_i_ogloszenia"
+    #page = urlopen(url)
+
+    headers = { 'User-Agent' : 'Mozilla/5.0' }
+    req = urllib2.Request(url, None, headers)
+    html = urllib2.urlopen(req).read()
+
+    #page = urllib.request.urlopen(req)    
+    #html = page.read().decode("utf-8")
+    soup = BeautifulSoup(html, "html.parser")
+    
+    webText = str(soup.get_text().encode('utf-8', errors='ignore'))
+    
+    fileName = rdlpGdansk[index] + ".txt"    
+    
+    try:
+        prev_file = open(fileName, "r")
+        prev_text = prev_file.read()
+        prev_file.close()
+    except: 
+        text_file = open(fileName, "w")
+        text_file.write(webText)
+        text_file.close()
+    
+    print(rdlpGdansk[index])
+    
+    if len(prev_text) != len(webText):
+        text_file = open(fileName, "w")
+        text_file.write(webText)
+        text_file.close()
+        print(" !!!!!! NOWY TEXT !!!!!!!!")
+        
+        sender_email = "erwinek@wp.pl"
+        senderEmail = "erwinek@wp.pl"
+        receiver_email = "leszek.kula@gmail.com"
+        receiverEmail = "leszek.kula@gmail.com"
+        password = "EZ9w-8vpX.G@5Gf"
+
+        message = MIMEMultipart("alternative")
+        message["Subject"] = rdlpGdansk[index]
+        message["From"] = sender_email
+        message["To"] = receiver_email
+
+        # Create the plain-text and HTML version of your message
+        text = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_Gdansk/" + listaKato[index] + "/komunikaty_i_ogloszenia" + webText
+
+        # Turn these into plain/html MIMEText objects
+        part1 = MIMEText(text, "plain")
+
+        message.attach(part1)
+
+        msg = MIMEText("WARNING, FILE DOES NOT EXISTS, THAT MEANS UPDATES MAY DID NOT HAVE BEEN RUN")
+
+        msg['Subject'] = "WARNING WARNING ON FIRE FIRE FIRE!"
+
+     
+        s = smtplib.SMTP_SSL('smtp.wp.pl:465')
+        s.login(senderEmail,password)
+        s.sendmail(senderEmail,receiverEmail, message.as_string())
+        s.quit()
+    else:
+        print("brak zmian")
 
 '''
 
