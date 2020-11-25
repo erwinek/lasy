@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -134,7 +159,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Postępowanie II. Ogłoszenie o sprzedaży Suzuki GV (1.0MB)
+Ogłoszenie o sprzedaży (1.0MB)
 
 
 
@@ -143,7 +168,25 @@ Postępowanie II. Ogłoszenie o sprzedaży Suzuki GV (1.0MB)
 
 .PDF
 
-Informacja o wyborze najkorzystniejszej oferty Suzuki GV (1.0MB)
+Zał. 1. Wykaz przedmiotów do sprzedaży (1.0MB)
+
+
+
+
+
+
+.DOC
+
+Zał. 2. Formularz ofertowy (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Zał. 3. Dokumentacja fotograficzna (2.0MB)
 
 
 
@@ -165,7 +208,7 @@ Informacja o wyborze najkorzystniejszej oferty Suzuki GV (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy: Mariusz Suma
 
-Data modyfikacji: 2020/10/23 15:00:30
+Data modyfikacji: 2020/11/16 13:53:34
 Redaktor zatwierdzający: Jarosław Bielan
 Wprowadzający: Jarosław Bielan
 Deklaracja Dostępności

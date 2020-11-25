@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -117,20 +142,20 @@ Komunikaty i ogłoszenia
 
 
 
- ***********************************************************************************************************************************************************
  
+ ***********************************************************************************************************************************************************************************************************************************************************
+Ustroń, 06.11.2020 r. 
+Zn. spr. ZG.2281.01.2019.ZP
+INFORMACJA O WYNIKU PRZETARGU PISEMNEGO NIEOGRANICZONEGO NA SPRZEDAŻ DZIAŁEK 10/2, 10/3 i 10/4 POŁOŻONYCH W CIESZYNIE  PRZY ULICY GAJOWEJ
+1.   Data, miejsce oraz rodzaj przeprowadzonego przetargu: 13.10.2020 r. o godz. 11.00;  siedziba Nadleśnictwa Ustroń przy ulicy 3 Maja 108 43-450 Ustroń; przetarg pisemny nieograniczony na podstawie Rozporządzenia Ministra Środowiska z dnia 20 kwietnia 2007 r. w sprawie szczegółowych warunków i trybu przeprowadzania przetargu publicznego oraz sposobu i warunków przeprowadzania negocjacji cenowej w przypadku sprzedaży lasów, gruntów i innych nieruchomości znajdujących się w zarządzie Lasów Państwowych (Dz.U. z 2007 r. Nr 78 poz. 532).
+2.   Oznaczenie nieruchomości wg księgi wieczystej: dla działek 10/2, 10/3 i 10/4 Sąd Rejonowy w Cieszynie V Wydział Ksiąg Wieczystych prowadzi księgę wieczystą KW BB1C/00062259/0.
+3.   Oznaczenie nieruchomości wg danych z ewidencji gruntów i budynków: działki 10/2, 10/3 i 10/4 o sumarycznej pow. 0,2078 ha i użytku Ba (tereny przemysłowe) położone są na terenie województwa śląskiego, powiatu cieszyńskiego, gminy Cieszyn, obrębu ewidencyjnego 0065.
+4.   Liczba otrzymanych ofert: 1. Liczba odrzuconych ofert: 0.
+5.   Cena wywoławcza nieruchomości: 115 000,00 zł netto i 141 450,00 zł brutto. Cena nabycia nieruchomości: 115 001,00 zł netto i 141 451,23 zł brutto.
+6.   Imię i nazwisko albo nazwa osoby ustalonej jako nabywca nieruchomości: Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A.
+Podpisał: p.o. Nadleśniczy Nadleśnictwa Ustroń inż. Sławomir Kohut
  
-Ustroń, dnia 09.10.2020 r. 
- 
-                                                         Ogłoszenie o sprzedaży nieruchomości
- 
-Skarb Państwa – Państwowe Gospodarstwo Leśne Lasy Państwowe – Nadleśnictwo Ustroń ogłasza II przetarg pisemny nieograniczony na sprzedaż nieruchomości gruntowej – działki 4476/6 o powierzchni 0,0205 ha, położonej na terenie gminy Brenna, w obrębie ewidencyjnym Brenna (Leśnictwo Cisowa), dla której Sąd Rejonowy w Cieszynie V Wydział Ksiąg Wieczystych prowadzi księgę wieczystą KW BB1C/00062251/4. Szczegóły w załącznikach do pobrania poniżej.
- 
- 
- 
- 
-
- ****************************************************************************************************************************************************
+ *************************************************************************************************************************************************************************************************************************************************************
  
 
 
@@ -290,45 +315,13 @@ Zastępca Nadleśniczego Nadleśnictwa Ustroń
  
 mgr inż. Mirosław Kulis
  
- 
- 
- 
-
+ ***********************************************************************************************************************************************************************************************************************************************************
  
  
 
+ 
+ 
 
-
-
-
-
-Pliki do pobrania - lista załączników
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~ii_bip_formularz_oferta_cisowa.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~ii_bip_klauzula_rodo.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_ustron~ii_bip_ogloszenie_cisowa.pdf (3.0MB)
 
 
 
@@ -350,7 +343,7 @@ px_dg~rdlp_katowice~nadl_ustron~ii_bip_ogloszenie_cisowa.pdf (3.0MB)
 Osoba odpowiedzialna za treść:
 inż Sławomir Kohut - p.o. Nadleśniczy 
 
-Data modyfikacji: 2020/10/27 09:06:50
+Data modyfikacji: 2020/11/18 12:00:45
 Redaktor zatwierdzający: Jarosław Gabryś
 Wprowadzający: Jarosław Gabryś
 Deklaracja Dostępności

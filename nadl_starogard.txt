@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -126,6 +151,7 @@ Nieograniczony przetarg ofert pisemnych na sprzedaż materiałów z demontażu o
  zał. nr 1
  zał. nr 2
  zał. nr 3
+ Powiadomienie o wyborze najkorzystniejszej oferty
 
 Ogłoszenie
 
@@ -1082,6 +1108,15 @@ Wyniki przetargu (1.0MB)
 
 
 
+.PDF
+
+Powiadomienie o wyborze najkorzystniejszej oferty (1.0MB)
+
+
+
+
+
+
 
 
 
@@ -1097,7 +1132,7 @@ Wyniki przetargu (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Maciej Robert
 
-Data modyfikacji: 2020/10/27 14:15:47
+Data modyfikacji: 2020/11/12 14:18:11
 Redaktor zatwierdzający: Łukasz Kujawski
 Wprowadzający: Artur Radzikowski
 Deklaracja Dostępności

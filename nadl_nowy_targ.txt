@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_krakow~nadl_nowy_targ
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,20 +142,14 @@ Komunikaty i ogłoszenia
 
 
 
-Nadleśnictwo Nowy Targ posiada dwa certyfikaty gospodarki leśnej: FSC i PEFC.
+Nadleśnictwo Nowy Targ posiada certyfikat gospodarki leśnej: FSC.
 
 Regionalna Dyrekcja Lasów Państwowych w Krakowie Nadleśnictwo Nowy Targ otrzymało certyfikat:
 SGS-FM/COC-010065         
 Certyfikat ten potwierdza, że gospodarka leśna jest prowadzona w sposób odpowiedzialny oraz zgodnie z zasadami Forest Stewardship Council.
 ----------------------------
-Z dniem 13 listopada 2017 roku Regionalna Dyrekcja Lasów Państwowych w Krakowie Nadleśnictwo Nowy Targ otrzymało:
 
-CERTYFIKAT GOSPODARKI LEŚNEJ PEFC          
-BVCPL/PEFCFM/04      
-
-Certyfikat potwierdza wdrożenie oraz stosowanie kryteriów określonych w dok. nr 4 Rady PEFC Polska "Polskie kryteria i wskaźniki trwałego i zrównoważonego zagospodarowania lasów dla potrzeb certyfikacji lasów".
-
-   Certyfikaty można oglądać na stronie nadleśnictwa: nowytarg.krakow.lasy.gov.pl
+   Certyfikat można oglądać na stronie nadleśnictwa: nowytarg.krakow.lasy.gov.pl
  
 
  
@@ -190,7 +205,7 @@ Klauzula informacyjna/ (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy mgr inż. Roman Latoń
 
-Data modyfikacji: 2020/06/22 15:49:59
+Data modyfikacji: 2020/11/06 08:30:12
 Redaktor zatwierdzający: Bożena Cherchel
 Wprowadzający: Bożena Cherchel
 Deklaracja Dostępności

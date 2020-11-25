@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -118,28 +143,114 @@ Komunikaty i ogłoszenia
 
 
  
-Zaproszenie do składania ofert 
-Siewierz dn.09.10.2020r
  
-Zamawiający:
-Państwowe Gospodarstwo Leśne
-Lasy Państwowe
-Nadleśnictwo Siewierz
+INFORMACJA O WYNIKACH NABORU
+na stanowisko: Referent ds. obsługi sekretariatu 
+w PGL LP Nadleśnictwie Siewierz
  
-ul. Łysa Góra 6
-42-470 Siewierz
-tel. 32 674 29 57 do 58
-siewierz@katowice.lasy.gov.pl
+ Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Siewierz  informuje, że w wyniku zakończenia procedury naboru do zatrudnienia na stanowisku referenta ds. obsługi sekretariatu została wybrana Pani 
  
-NIP 649-000-56-79, Regon 272535931
+
+  Monika Węglarz
+
  
-zaprasza do złożenia oferty w postępowaniu
+Szczegółowe informacje wraz z uzasadnieniem znajduja sie w załaczniku zamieszczonym u dołu strony
+
  
-„Dostawę bonów towarowych- żywieniowych”
+Zn. spr. NK.1101.12.2020
+
+
+
+                                       LISTA KANDYDATÓW ZAKWALIFIKOWANYCH
+                                                            DO II ETAPU REKRUTACJI
+                            NA STANOWISKO REFERENT DS. OBSŁUGI SEKRETARIATU
+                    PGL LP Nadleśnictwo Siewierz informuje, że w wyniku wstępnej selekcji na w/w stanowisko pracy, do następnego II etapu rekrutacji zakwalifikowali się następujący kandydaci:
  
-Termin składania ofert: 16.10.2020r. do godz. 09:00
+
+
+
+
+
+Lp
+
+
+Imię 
+
+
+Nazwisko
+
+
+
+
+1
+
+
+Justyna
+
+
+Depczyńska
+
+
+
+
+2
+
+
+Jacek 
+
+
+Frysztak
+
+
+
+
+3
+
+
+Aleksandra   
+
+
+Hętkowska
+
+
+
+
+4
+
+
+Iwona
+
+
+Kleszcz
+
+
+
+
+5
+
+
+Monika
+
+
+Węglarz
+
+
+
+
+6
+
+
+Bożena 
+
+
+Wróbel
+
+
+
+
+
  
-Pliki do pobrania znajdują się u dołu strony
+Ww. osoby zostaną zaproszone do siedziby Nadleśnictwa na rozmowę kwalifikacyjną. O terminie rozmowy kandydaci zostaną poinformowani pocztą elektroniczną i telefonicznie.
  
 
  
@@ -341,6 +452,15 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_katowice~nadl_siewierz~ogloszenie_wynikow_nabor_zewn_.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
 px_dg~rdlp_katowice~nadl_siewierz~rekrutacja_referent_ds_obslugi_sekretariatu.pdf (3.0MB)
 
 
@@ -348,7 +468,7 @@ px_dg~rdlp_katowice~nadl_siewierz~rekrutacja_referent_ds_obslugi_sekretariatu.pd
 
 
 
-.OCX
+.DOCX
 
 px_dg~rdlp_katowice~nadl_siewierz~01_zapytanie_ofertowe_bony_2020.docx (1.0MB)
 
@@ -357,7 +477,7 @@ px_dg~rdlp_katowice~nadl_siewierz~01_zapytanie_ofertowe_bony_2020.docx (1.0MB)
 
 
 
-.OCX
+.DOCX
 
 px_dg~rdlp_katowice~nadl_siewierz~przedmiot_zamow_bony_2020.docx (1.0MB)
 
@@ -381,7 +501,7 @@ px_dg~rdlp_katowice~nadl_siewierz~przedmiot_zamow_bony_2020.docx (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy - Grzegorz Cekus
 
-Data modyfikacji: 2020/10/09 14:57:09
+Data modyfikacji: 2020/11/19 11:05:18
 Redaktor zatwierdzający: Maciej Wolski
 Wprowadzający: Maciej Wolski
 Deklaracja Dostępności

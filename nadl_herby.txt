@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -117,14 +142,13 @@ Komunikaty i ogłoszenia
 
 
 
-Informacja o sprzedaży samochodów Toyota RAV4 oraz Citroen Berlingo - ogłoszenie w plikach do pobrania.
+Herby, 10.11.2020.
+Informacja o sprzedaży samochodów Toyota RAV4 oraz Citroen Berlingo - ogłoszenie poniżej w pliku do pobrania 
+
  
- 
- 
- 
- 
- 
-----------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------
 Postępowania o wartości do 30 000 euro. 
  
 
@@ -284,7 +308,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_herby~ogloszenie_o_sprzedazy_samochodow.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_herby~ogloszenie_o_sprzedazy_samochodow_podpisane_2.pdf (1.0MB)
 
 
 
@@ -306,9 +330,9 @@ px_dg~rdlp_katowice~nadl_herby~ogloszenie_o_sprzedazy_samochodow.pdf (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Robert Gorzelak
 
-Data modyfikacji: 2020/10/30 15:00:55
+Data modyfikacji: 2020/11/10 15:09:59
 Redaktor zatwierdzający: Amadeusz Szynka
-Wprowadzający: Amadeusz Szynka
+Wprowadzający: Krzysztof Daniel
 Deklaracja Dostępności
 
 

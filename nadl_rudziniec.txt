@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -117,6 +142,14 @@ Komunikaty i ogłoszenia
 
 
 
+Rudziniec, 25.11.2020 r.
+ 
+INFORMACJA Z SESJI OTWARCIA OFERT
+
+  dot. postępowania przetargowego pn. "Wykonanie usług z zakresu gospodarki leśnej na terenie Nadleśnictw Rudziniec w roku 2021"
+Protokół POBIERZ
+ 
+________________________________________________________________________________________________________________
  
 Ogłoszenie wyników przetargu pisemnego na sprzedaż samochodu MITSUBISHI L-200
 Protokół POBIERZ
@@ -147,9 +180,11 @@ Rudziniec, 07.10.2020 
 OGŁOSZENIE
  
 o pisemnym przetargu nieograniczonym
-
+ 
  na sprzedaż samochodu MITSUBISHI L-200
+ 
 będącego własnością PGL LP Nadleśnictwa Rudziniec
+
 ul. Leśna 7, 44-160 Rudziniec
  
  
@@ -169,6 +204,8 @@ Rodzaj nadwozia: pick-up , 4 drzwiowe, 5 osobowe
 Cena wywoławcza 30 996,00 zł brutto (słownie trzydzieści tysięcy dziewięćset dziewięćdziesiąt sześć złotych 00/100).
 
 
+ 
+ 
  
  
  
@@ -421,6 +458,15 @@ px_dg~rdlp_katowice~nadl_rudziniec~protokol__sprzedazy_mitsubishi_l_200.pdf (1.0
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_rudziniec~informacja_z_sesji_otwarcia_ofert_na_ul_2021.pdf (2.0MB)
+
+
+
+
+
+
 
 
 
@@ -436,7 +482,7 @@ px_dg~rdlp_katowice~nadl_rudziniec~protokol__sprzedazy_mitsubishi_l_200.pdf (1.0
 Osoba odpowiedzialna za treść:
 mgr inż. Wiesław Kucharski -  Nadleśniczy Nadleśnictwa Rudziniec
 
-Data modyfikacji: 2020/10/28 08:16:40
+Data modyfikacji: 2020/11/25 15:45:46
 Redaktor zatwierdzający: Piotr Rożniewski
 Wprowadzający: Piotr Rożniewski
 Deklaracja Dostępności

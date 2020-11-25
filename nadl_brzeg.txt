@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -143,16 +168,9 @@ Nadleśnictwo Brzeg zamieszcza informacje z otwarcia ofert w drugim nieograniczo
 Treść informacji do pobrania poniżej.
  
 
+Nadleśnictwo Brzeg  zamieszcza informacje z otwarcia ofert w drugim nieograniczonym  przetargu pisemnym na sprzedaż samochodu MITSUBISHI L200.
  
-Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Brzeg (Sprzedawca) z siedzibą w Brzegu przy ul. Kilińskiego 1 informuje, że w nieograniczonym ofertowym przetargu pisemnym na sprzedaż samochodu MITSUBISHI L200 OB 67423, prowadzonym na podstawie Rozporządzenia Rady Ministrów w sprawie zasad organizowania przetargu na sprzedaż środków trwałych przez przedsiębiorstwa państwowe oraz warunków odstąpienia od przetargu z dnia 5 października 1993 r. (Dz. U. Nr 97, poz. 443), nie wpłynęła żadna oferta.
-
-Brzeg, 22.10.2020 r.
- 
-
-Nadleśnictwo Brzeg ogłasza drugi przetarg pisemny nieograniczony na sprzedaż samochodu MITSUBISHI L200.
- 
-Treść ogłoszenia wraz z załącznikami do pobrania poniżej.
-
+Treść informacji do pobrania poniżej.
  
 
 
@@ -177,25 +195,7 @@ Informacja z otwarcia ofert Toyota RAV4 (1.0MB)
 
 .DOC
 
-Ogłoszenie o przetargu Mitsubishi L200 (1.0MB)
-
-
-
-
-
-
-.OCX
-
-Umowa o sprzedaży Mitsubishi L200 wzór (1.0MB)
-
-
-
-
-
-
-.DOC
-
-Wzór oferty Mitsubishi L200 (1.0MB)
+Informacja z otwarcia ofert Mitsubishi L200 (1.0MB)
 
 
 
@@ -217,7 +217,7 @@ Wzór oferty Mitsubishi L200 (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Bartłomiej Kastelik
 
-Data modyfikacji: 2020/10/30 14:05:17
+Data modyfikacji: 2020/11/05 12:44:55
 Redaktor zatwierdzający: Kamil Śledziona
 Wprowadzający: Kamil Śledziona
 Deklaracja Dostępności

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -124,13 +149,16 @@ Komunikaty i ogłoszenia
 Szczegóły dotyczące naboru znajdują się w załączniku: "Ogłoszenie o naborze na stanowisko Specjalisty ds. pracowniczych"
 
 
- 
+
+Informacja dotycząca naboru na stanowisko: Specjalisty ds pracowniczych została zamieszczona w załączniku:"Informacja o wyniku naboru na stanowisko Specjalisty ds. pracowniczych"
+
+
 
 Nadleśniczy Nadleśnictwa Opole ogłasza przetarg na sprzedaż samochodów Toyota RAV4 i Citroen Berlingo
 Szczegóły dotyczące przetargu w załącznikach: Patrz niżej
-
  
- 
+Informacja z otwarcia ofert i ogłoszenie o wyniku przetargu TOYOTY RAV 4 znajduje się w załączniku:"Informacja z otwarcia ofert i ogłoszenie o wyniku przetargu TOYOTY RAV 4"
+ Informacja z otwarcia ofert i ogłoszenie o wyniku przetargu CITROENA BERLINGO znajduje się w załączniku:"Informacja z otwarcia ofert i ogłoszenie o wyniku przetargu CITROENA BERLINGO"
  
 Nadleśniczy Nadleśnictwa Opole podaje do publicznej wiadomości ogłoszenie wykonaniu przez Lasy Państwowe prawa pierwokupu.
 Szczegóły informacji w pliku : "Informacja o wykonaniu przez Lasy Państwowe prawa pierwokupu"
@@ -311,6 +339,33 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_katowice~nadl_opole~informacja_z_otwarcia_ofert_i_ogloszenie_o_wyniku_przetargu_toyota_rav_4.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~informacja_z_otwarcia_ofert_i_ogloszenie_o_wyniku_przetargu_na_citroena_berlingo.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_opole~informacja_o_wyniku_naboru_na_stanowisko_specjalisty_ds._pracowniczych.pdf (1.0MB)
+
+
+
+
+
+
+.PDF
+
 px_dg~rdlp_katowice~nadl_opole~ogloszenie_o_naborze_na_stanowisko_specjalisty_ds._pracowniczych.pdf (4.0MB)
 
 
@@ -459,9 +514,9 @@ px_dg~rdlp_katowice~nadl_opole~2019_zalacznik_nr_2_do_decyzji_nr_2.pdf (2.0MB)
 Osoba odpowiedzialna za treść:
 Marek Cholewa
 
-Data modyfikacji: 2020/10/23 13:16:35
+Data modyfikacji: 2020/11/06 14:33:44
 Redaktor zatwierdzający: Tomasz Rojek
-Wprowadzający: Tomasz Rojek
+Wprowadzający: Mariusz Kurek
 Deklaracja Dostępności
 
 

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -142,7 +167,7 @@ Informacja RODO (2.0MB)
 
 
 
-.OCX
+.DOCX
 
 Cennik na drewno obowiązujący w roku 2019 (1.0MB)
 
@@ -169,6 +194,24 @@ Wynik przetargu na sprzedaż samochodu Subaru Forester (1.0MB)
 
 
 
+.PDF
+
+Ogłoszenie o przetargu na sprzedaż Mitsubishi L-200 (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Wycena Mitsubishi L-200 (2.0MB)
+
+
+
+
+
+
 
 
 
@@ -184,7 +227,7 @@ Wynik przetargu na sprzedaż samochodu Subaru Forester (1.0MB)
 Osoba odpowiedzialna za treść:
 dr inż. Piotr Olesiak - Nadleśniczy Nadleśnictwa Ujsoły
 
-Data modyfikacji: 2020/10/23 13:24:21
+Data modyfikacji: 2020/11/20 09:08:57
 Redaktor zatwierdzający: Iwona Kocoń
 Wprowadzający: Iwona Kocoń
 Deklaracja Dostępności

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -119,9 +144,9 @@ Komunikaty i ogłoszenia
 
 Komunikaty i ogłoszenia
  
- Wyniki
- przetargu na dzierżawę gruntów rolnych z budynkiem gospodarczym 
- Nadleśnictwa Strzebielino
+ Ogłoszenie
+o wyniku przetargu nieograniczonego pisemnego ofertowego na sprzedaż środka trwałego - samochodu ciężarowego marki NISSAN Pickup z modułem gaśniczym.  
+ 
 /pliki do pobrania/
 =========================================================================
 Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych 
@@ -329,7 +354,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Wyniki przetargu na dzierżawę gruntów rolnych i budynku gospodarczego z dnia 23.10.2020 (1.0MB)
+Ogłoszenie o wyniku przetargu na sprzedaż samochodu NISSAN (1.0MB)
 
 
 
@@ -338,7 +363,7 @@ Wyniki przetargu na dzierżawę gruntów rolnych i budynku gospodarczego z dnia 
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę gruntów rolnych z budynkiem gospodarczym 2020 (5.0MB)
+Ogłoszenie o przetargu na sprzedaż samochodu NISSAN Pickup (1.0MB)
 
 
 
@@ -347,7 +372,7 @@ Ogłoszenie o przetargu na dzierżawę gruntów rolnych z budynkiem gospodarczym
 
 .PDF
 
-Wzór oferty na dzierżawę gruntów rolnych z budynkiem gospodarczym 2020 (1.0MB)
+Formularz ofertowy  sprzedaż samochodu NISSAN (1.0MB)
 
 
 
@@ -468,7 +493,7 @@ projekt umowy umieszczenie urządzeń na nieruchomości art 33 (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Mariusz Kaliszewski - Nadleśniczy Nadleśnictwa Strzebielino
 
-Data modyfikacji: 2020/10/27 10:08:55
+Data modyfikacji: 2020/11/25 11:23:33
 Redaktor zatwierdzający: Grażyna Dampc
 Wprowadzający: Grażyna Dampc
 Deklaracja Dostępności
