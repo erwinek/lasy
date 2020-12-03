@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -118,11 +143,10 @@ Komunikaty i ogłoszenia
 
 
 
-Przetarg na dzierżawę gruntu rolnego w Sasinie (3 place jednocześnie)
+Przetarg na dzierżawę gruntu leśnego w Lubiatowie - działalność handlowa (sklepy)
 
-Nadleśnictwo Choczewo zaprasza do uczestnictwa w przetargu na dzierżawę gruntu rolnego w miejscowości Sasino na cel wypoczynkowo-rekreacyjny, z możliwością posadowienia budynku rekreacji indywidualnej (szt. 1 na każdym z placów) bez prawa do prowadzenia działalności gospodarczej.
-Przedmiot postępowania został podzielony na 3 place.
-Oferty składać można w terminie do dnia 20.11.2020r. do godziny 11:30 w sekretariacie nadleśnictwa.
+Nadleśnictwo Choczewo zaprasza do uczestnictwa w przetargu na dzierżawę gruntu leśnego w miejscowości Lubiatowo na działalność handlową - handel art. spożywczo-przemysłowymi, pamiątkami i art. plażowymi (sklep).
+Oferty składać można w terminie do dnia 17.12.2020r. do godziny 14:00 w sekretariacie nadleśnictwa.
 Pozostałe informacje oraz dokumenty do pobrania znajdują się poniżej w Plikach do pobrania.
  
 Wielkoobszarowa Inwentaryzacja Stanu Lasu 
@@ -167,7 +191,7 @@ Pliki do pobrania - lista załączników
 
 .ZIP
 
-Przetarg na dzierżawę gruntu rolnego w Sasinie - cel wypoczynkowo-rekreacyjny (3 place jednocześnie) (10.0MB)
+Przetarg na dzierżawę gruntu leśnego w Lubiatowie - działalność handlowa (sklep) (4.0MB)
 
 
 
@@ -315,9 +339,9 @@ Cenniki na sadzonki drzew i krzewów leśnych oraz nasion w Nadleśnictwie Chocz
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Choczewo<br>Sebastian Wejer
 
-Data modyfikacji: 2020/10/30 15:02:04
+Data modyfikacji: 2020/12/03 08:44:34
 Redaktor zatwierdzający: Ewa Mrulewicz
-Wprowadzający: Ewa Borowska
+Wprowadzający: Ewa Mrulewicz
 Deklaracja Dostępności
 
 

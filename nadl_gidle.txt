@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_gidle
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -158,16 +179,6 @@ Komunikaty i ogłoszenia
 
 
 
-
-
-
-
-
-
-
-
-
-
 Pliki do pobrania - lista załączników
 
 
@@ -176,7 +187,16 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_gidle~formularz_oferta_08.06.2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_gidle~zapytanie_o_cene_27.11.2020.pdf (1.0MB)
+
+
+
+
+
+
+.ZIP
+
+px_dg~rdlp_katowice~nadl_gidle~zalaczniki_do_zapytania_o_cene_27.11.2020.zip (1.0MB)
 
 
 
@@ -198,7 +218,7 @@ px_dg~rdlp_katowice~nadl_gidle~formularz_oferta_08.06.2020.pdf (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Gidle mgr inż. Jan Wiśniewski
 
-Data modyfikacji: 2020/06/08 11:58:29
+Data modyfikacji: 2020/11/27 11:51:45
 Redaktor zatwierdzający: Karol Cudak
 Wprowadzający: Karol Cudak
 Deklaracja Dostępności

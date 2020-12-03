@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_gdansk~nadl_wejherowo
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -145,6 +166,15 @@ Dzień 14 sierpnia 2020 roku oraz 24 grudnia 2020 roku są w Nadleśnictwie Wejh
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Ogłoszenie - przetarg sprzedaż komputerów (1.0MB)
+
 
 
 
@@ -327,9 +357,9 @@ Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych
 Osoba odpowiedzialna za treść:
 Jacek Szulc
 
-Data modyfikacji: 2020/07/03 14:49:20
+Data modyfikacji: 2020/11/30 13:17:35
 Redaktor zatwierdzający: Gabriela Gaffke
-Wprowadzający: Gabriela Gaffke
+Wprowadzający: Grazyna Bekisch - Buja
 Deklaracja Dostępności
 
 

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -291,6 +316,24 @@ Pliki do pobrania - lista załączników
 
 .DOC
 
+cennik na choinki-2020_wersja edytowalna (1.0MB)
+
+
+
+
+
+
+.PDF
+
+cennik na choinki-2020 (1.0MB)
+
+
+
+
+
+
+.DOC
+
 informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa (1.0MB)
 
 
@@ -298,7 +341,7 @@ informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa (1.0MB)
 
 
 
-.OCX
+.DOCX
 
 ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa (1.0MB)
 
@@ -319,15 +362,6 @@ cennik na drewno - 2020 (1.0MB)
 .PDF
 
 cennik na sadzonki-2020 (1.0MB)
-
-
-
-
-
-
-.PDF
-
-cennik na choinki-2019 (1.0MB)
 
 
 
@@ -403,7 +437,7 @@ px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargo
 Osoba odpowiedzialna za treść:
 mgr inż. Marek Bocianowski
 
-Data modyfikacji: 2020/10/28 13:26:51
+Data modyfikacji: 2020/12/01 14:09:20
 Redaktor zatwierdzający: Piotr Goździewicz
 Wprowadzający: Piotr Goździewicz
 Deklaracja Dostępności

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_krakow~nadl_gromnik
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -278,7 +299,7 @@ Ogłoszenie Zn. spr.ZG.804.9.2020 z dnia 11.08.2020 r. o sprzedaży używanych �
 
 
 
-.OCX
+.DOCX
 
 Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
 
@@ -314,7 +335,7 @@ Ogłoszenie Zn.spr.804.9.2020 z dnia 02.09.2020 r. o sprzedaży używanych środ
 
 
 
-.OCX
+.DOCX
 
 Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
 
@@ -341,6 +362,33 @@ Informacja z otwarcia ofert złożonych w drugim postępowaniu na sprzedaż uży
 
 
 
+.PDF
+
+Ogłoszenie Zn.spr.ZG.804.10.2020 z dnia 30.11.2020 r. o sprzedaży składników majątku (dachówka z rozbiórki) (1.0MB)
+
+
+
+
+
+
+.DOCX
+
+Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.10.2020 - Formularz oferty (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.10.2020 - Realizacja obowiązku informacyjnego o ochronie danych osobowych (1.0MB)
+
+
+
+
+
+
 
 
 
@@ -356,7 +404,7 @@ Informacja z otwarcia ofert złożonych w drugim postępowaniu na sprzedaż uży
 Osoba odpowiedzialna za treść:
 Nadleśniczy <br>mgr inż. Eugeniusz Piech
 
-Data modyfikacji: 2020/09/22 13:26:16
+Data modyfikacji: 2020/11/30 12:15:58
 Redaktor zatwierdzający: Katarzyna Szczecina
 Wprowadzający: Piotr Pogoda
 Deklaracja Dostępności

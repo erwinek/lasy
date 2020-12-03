@@ -202,7 +202,7 @@ for index in range(len(rdlpGdansk)):
         message["To"] = receiver_email
 
         # Create the plain-text and HTML version of your message
-        text = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_Gdansk/" + listaKato[index] + "/komunikaty_i_ogloszenia" + webText
+        text = "https://bip.lasy.gov.pl/pl/bip/dg/rdlp_gdansk/" + rdlpGdansk[index] + "/komunikaty_i_ogloszenia" + webText
 
         # Turn these into plain/html MIMEText objects
         part1 = MIMEText(text, "plain")
