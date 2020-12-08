@@ -153,7 +153,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~gr_krogulna~ogloszenie_o_sprzedazy_samochodow.pdf (1.0MB)
+px_dg~rdlp_katowice~gr_krogulna~ogloszenie_o_sprzedazy_samochodow_2020.pdf (1.0MB)
 
 
 
@@ -184,7 +184,7 @@ px_dg~rdlp_katowice~gr_krogulna~regulamin_sprzedazy_sprzetu__2020.doc (1.0MB)
 Osoba odpowiedzialna za treść:
 Renata Olszewska p.o.Dyrektora PGL LP GR Krogulna
 
-Data modyfikacji: 2020/11/30 14:15:08
+Data modyfikacji: 2020/12/04 12:56:07
 Redaktor zatwierdzający: Wojciech Preuhs
 Wprowadzający: Wojciech Preuhs
 Deklaracja Dostępności
