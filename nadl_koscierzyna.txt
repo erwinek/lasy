@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -194,7 +193,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Przetarg-ogłoszenie. (2.0MB)
+Przetarg-ogłoszenie.
 
 
 
@@ -203,7 +202,7 @@ Przetarg-ogłoszenie. (2.0MB)
 
 .PDF
 
-Przetarg-formularz ofertowy. (1.0MB)
+Przetarg-formularz ofertowy.
 
 
 
@@ -212,7 +211,7 @@ Przetarg-formularz ofertowy. (1.0MB)
 
 .PDF
 
-Przetarg-wzór umowy. (1.0MB)
+Przetarg-wzór umowy.
 
 
 
@@ -221,7 +220,7 @@ Przetarg-wzór umowy. (1.0MB)
 
 .PDF
 
-Przetarg-klauzula RODO (1.0MB)
+Przetarg-klauzula RODO
 
 
 
@@ -230,7 +229,7 @@ Przetarg-klauzula RODO (1.0MB)
 
 .PDF
 
- Mapa Nadleśnictwa Kościerzyna z podziałem na obwody łowieckie. (6.0MB)
+ Mapa Nadleśnictwa Kościerzyna z podziałem na obwody łowieckie.
 
 
 
@@ -239,7 +238,7 @@ Przetarg-klauzula RODO (1.0MB)
 
 .PDF
 
-Jak zorganizować obóz harcerski na terenie LP od momentu rezerwacji do opuszczenia miejsca obozowego. (1.0MB)
+Jak zorganizować obóz harcerski na terenie LP od momentu rezerwacji do opuszczenia miejsca obozowego.
 
 
 
@@ -248,7 +247,7 @@ Jak zorganizować obóz harcerski na terenie LP od momentu rezerwacji do opuszcz
 
 .PDF
 
-Wykaz miejsc obozowych: lokalizacja, powierzchnia, stawki za dzierżawę. (1.0MB)
+Wykaz miejsc obozowych: lokalizacja, powierzchnia, stawki za dzierżawę.
 
 
 
@@ -257,7 +256,7 @@ Wykaz miejsc obozowych: lokalizacja, powierzchnia, stawki za dzierżawę. (1.0MB
 
 .PDF
 
-Warunki posługiwania się otwartym ogniem. (1.0MB)
+Warunki posługiwania się otwartym ogniem.
 
 
 
@@ -266,7 +265,7 @@ Warunki posługiwania się otwartym ogniem. (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Długim (1.0MB)
+Szkic miejsca obozowego nad jez. Długim
 
 
 
@@ -275,7 +274,7 @@ Szkic miejsca obozowego nad jez. Długim (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Jeleń (1.0MB)
+Szkic miejsca obozowego nad jez. Jeleń
 
 
 
@@ -284,7 +283,7 @@ Szkic miejsca obozowego nad jez. Jeleń (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Wdzydze. (1.0MB)
+Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Wdzydze.
 
 
 
@@ -293,7 +292,7 @@ Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Wdzydze. (1.0M
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Gołuń (1.0MB)
+Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Gołuń
 
 
 
@@ -302,7 +301,7 @@ Szkic miejsca obozowego nad jez. Gołuń w pobliżu miejscowości Gołuń (1.0MB
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Gatno (1.0MB)
+Szkic miejsca obozowego nad jez. Gatno
 
 
 
@@ -311,7 +310,7 @@ Szkic miejsca obozowego nad jez. Gatno (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Przewłoczno (1.0MB)
+Szkic miejsca obozowego nad jez. Przewłoczno
 
 
 
@@ -320,7 +319,7 @@ Szkic miejsca obozowego nad jez. Przewłoczno (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Czerwonek (1.0MB)
+Szkic miejsca obozowego nad jez. Czerwonek
 
 
 
@@ -329,7 +328,7 @@ Szkic miejsca obozowego nad jez. Czerwonek (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Czyste (1.0MB)
+Szkic miejsca obozowego nad jez. Czyste
 
 
 
@@ -338,7 +337,7 @@ Szkic miejsca obozowego nad jez. Czyste (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Strupino, wschód. (1.0MB)
+Szkic miejsca obozowego nad jez. Strupino, wschód.
 
 
 
@@ -347,7 +346,7 @@ Szkic miejsca obozowego nad jez. Strupino, wschód. (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Strupino, zachód. (1.0MB)
+Szkic miejsca obozowego nad jez. Strupino, zachód.
 
 
 
@@ -356,7 +355,7 @@ Szkic miejsca obozowego nad jez. Strupino, zachód. (1.0MB)
 
 .PDF
 
-Szkic miejsca obozowego nad jez. Chądzie (1.0MB)
+Szkic miejsca obozowego nad jez. Chądzie
 
 
 
@@ -365,7 +364,7 @@ Szkic miejsca obozowego nad jez. Chądzie (1.0MB)
 
 .PDF
 
-Ramowe zasady reklamacji na surowiec drzewny. (1.0MB)
+Ramowe zasady reklamacji na surowiec drzewny.
 
 
 
@@ -374,7 +373,7 @@ Ramowe zasady reklamacji na surowiec drzewny. (1.0MB)
 
 .PDF
 
-Cennik detaliczny na drewno obowiązujący w 2020 roku. (2.0MB)
+Cennik detaliczny na drewno obowiązujący w 2021 roku.
 
 
 
@@ -383,7 +382,7 @@ Cennik detaliczny na drewno obowiązujący w 2020 roku. (2.0MB)
 
 .PDF
 
-Cennik na sadzonki obowiązujący w 2020 roku. (1.0MB)
+Regulamin sprzedaży detalicznej obowiązujący w 2021 roku.
 
 
 
@@ -392,16 +391,7 @@ Cennik na sadzonki obowiązujący w 2020 roku. (1.0MB)
 
 .PDF
 
-Regulamin sprzedaży detalicznej obowiązujący w 2020 roku. (5.0MB)
-
-
-
-
-
-
-.PDF
-
-Wniosek o udostępnienie informacji publicznej/o środowisku. (1.0MB)
+Wniosek o udostępnienie informacji publicznej/o środowisku.
 
 
 
@@ -423,7 +413,7 @@ Wniosek o udostępnienie informacji publicznej/o środowisku. (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Kościerzyna - Michał Jaworski<br>
 
-Data modyfikacji: 2020/12/08 14:58:12
+Data modyfikacji: 2021/01/22 13:45:01
 Redaktor zatwierdzający: Maciej Piankowski
 Wprowadzający: Maciej Piankowski
 Deklaracja Dostępności

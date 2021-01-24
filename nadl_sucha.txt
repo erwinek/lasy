@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -142,6 +141,15 @@ Komunikaty i ogłoszenia
 
 
 
+Informacja
+Nadleśnictwo Sucha informuje, iż w wyniku procedury rekrutacji na stanowisko Referenta, wpłynęły cztery oferty. Jedna z nich spełniła niezbędne wymagania wymienione w ogłoszeniu z dnia 04.01.2021.
+W związku z powyższym informujemy, iż na w/w stanowisko zostanie zatrudniony Pan Ludwik Maśnica na zastępstwo zgodnie z procedurą.
+ 
+                                                                                                                                                                                                                                                                  Nadleśniczy Nadleśnictwa Sucha
+                                                                                                                                                                                                                                                                               Tadeusz Kosman
+ 
+ 
+ 
 
 Realizacja obowiązku informacyjnego o ochronie danych osobowych
 
@@ -219,7 +227,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych (1.0MB)
+Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych
 
 
 
@@ -228,7 +236,7 @@ Tabela. Klauzula informacyjna o przetwarzaniu danych osobowych (1.0MB)
 
 .PDF
 
-ogłoszenie o przetargu ustnym nieograniczonym na sprzedaż środka trwałego stanowiącego własność Nadleśnictwa Sucha (1.0MB)
+ogłoszenie o przetargu ustnym nieograniczonym na sprzedaż środka trwałego stanowiącego własność Nadleśnictwa Sucha
 
 
 
@@ -250,7 +258,7 @@ ogłoszenie o przetargu ustnym nieograniczonym na sprzedaż środka trwałego st
 Osoba odpowiedzialna za treść:
  mgr inż. Tadeusz Kosman
 
-Data modyfikacji: 2020/10/08 14:08:51
+Data modyfikacji: 2021/01/20 15:00:33
 Redaktor zatwierdzający: Małgorzata Murańska
 Wprowadzający: Małgorzata Murańska
 Deklaracja Dostępności

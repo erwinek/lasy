@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -163,6 +162,13 @@ Więcej informacji pod adresem: https://brzeg.katowice.lasy.gov.pl/aktualnosci/-
  
 
 
+ 
+Nadleśnictwo Brzeg  zamieszcza ogłoszenie o udzieleniu zamówienia publicznego pn. "Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa  Brzeg w latach 2021-2022".
+ 
+Treść ogłoszenia do pobrania poniżej.
+ 
+ 
+
 Nadleśnictwo Brzeg zamieszcza informacje z otwarcia ofert w drugim nieograniczonym przetargu pisemnym na sprzedaż samochodu TOYOTA RAV4.
  
 Treść informacji do pobrania poniżej.
@@ -184,9 +190,18 @@ Pliki do pobrania - lista załączników
 
 
 
+.ZIP
+
+Ogłoszenie o udzieleniu zamówienia
+
+
+
+
+
+
 .DOC
 
-Informacja z otwarcia ofert Toyota RAV4 (1.0MB)
+Informacja z otwarcia ofert Toyota RAV4
 
 
 
@@ -195,7 +210,7 @@ Informacja z otwarcia ofert Toyota RAV4 (1.0MB)
 
 .DOC
 
-Informacja z otwarcia ofert Mitsubishi L200 (1.0MB)
+Informacja z otwarcia ofert Mitsubishi L200
 
 
 
@@ -217,7 +232,7 @@ Informacja z otwarcia ofert Mitsubishi L200 (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Bartłomiej Kastelik
 
-Data modyfikacji: 2020/11/05 12:44:55
+Data modyfikacji: 2021/01/22 11:15:50
 Redaktor zatwierdzający: Kamil Śledziona
 Wprowadzający: Kamil Śledziona
 Deklaracja Dostępności

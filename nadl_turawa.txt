@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -145,6 +144,93 @@ Komunikaty i ogłoszenia
 
  
 
+ 
+ 
+                                                                                             Turawa, 21.01.2021 
+ 
+NK.1101.13.2020                
+NK.1101.14.2020 
+                                                                      
+ 
+ 
+ 
+                                                           Informacja 
+ o wynikach naboru na wolne stanowiska  pracy 
+ 
+                                                 2 x  Podleśniczy
+ 
+ 
+            PGL LP Nadleśnictwo Turawa informuje, że  w wyniku  zakończenia procedury naboru do zatrudnienia na dwa  stanowiska  Podleśniczego zostali wybrani:
+ 
+ 
+ 
+                                   1.STANOWISKO  PODLEŚNICZEGO
+                                                NK.1101.13.2020
+ 
+                                               Tomasz Hamielec 
+                                               ul. Staropolska 11a
+                                               Jełowa
+                                               46-024 Łubniany
+ 
+ 
+ 
+                                   2.STANOWISKO  PODLEŚNICZEGO
+                                               NK.1101.14.2020
+ 
+Agnieszka Żółtkowska – Hink
+                                               ul. Grabicka 6
+                                               Stare Budkowice
+                                               46-030 Murów
+ 
+ 
+ 
+ 
+                                                                                              Zatwierdził
+ Nadleśniczy Nadleśnictwa Turawa
+            Jarosław Żaba
+ 
+ 
+ 
+Do wiadomości:
+
+BIP, tablica ogłoszeń
+a/a
+
+ 
+ 
+ 
+ 
+ 
+Zapytanie – zaproszenie do składania ofert
+            Nadleśnictwo Turawa zaprasza do współpracy i złożenia oferty cenowej na dzierżawę nieruchomości gruntowych Ps III, działki nr 516 oraz 517, KW OP1O/00093470/8 położonych w miejscowości Jełowa przy ul. Nadleśnej 16. Można składać ofertę na część oferowanej powierzchni.
+Przedmiot zapytania:
+Przedmiotem zapytania jest dzierżawa nieruchomości gruntowej:
+·         o pow. 2859 m2, działka Ps III nr ew. 516, położonej w Jełowej, w obrębie ewidencyjnym Jełowa, Gmina Łubniany, adres leśny 02-33-1-06-420-k-00.
+·         o pow. 1179 m2, działka Ps III nr ew. 517, położonej w Jełowej, w obrębie ewidencyjnym Jełowa, Gmina Łubniany, adres leśny 02-33-1-06-420-i-00.
+Okres dzierżawy
+Nieruchomość gruntową przeznacza się do dzierżawy na czas nieokreślony z trzymiesięcznym okresem wypowiedzenia przez strony umowy.
+ Oferta powinna zawierać 
+
+Imię, nazwisko – nazwa, adres      oraz numer kontaktowy oferenta.
+Powierzchnię gruntu w ha, którą      miałaby podlegać dzierżawie.
+Oferowaną      cenę czynszu za dzierżawę wybranej powierzchni w jednostce zł netto/rok. 
+Przeznaczenie przedmiotu najmu.
+
+Termin składania ofert 
+Pisemne oferty w zaklejonej kopercie z dopiskiem „Przetarg na dzierżawę gruntu rolnego” należy złożyć w siedzibie Nadleśnictwa Turawa w Turawie 46-045 Turawa ul. Opolska 35 osobiście lub za pośrednictwem poczty, w terminie do 5.02.2021 r., 
+godz. 14:00.
+Termin otwarcia ofert 
+Otwarcie ofert nastąpi w dniu 8.02.2021 r. g. 9:00 w Sali nr. 1.23 w siedzibie Nadleśnictwa Turawa.
+Pozostałe warunki: 
+-         w zapytaniu mogą uczestniczyć osoby fizyczne i prawne,
+-         minimalna stawka czynszu nie może być niższa niż 0,03 zł za 1m2, w oparciu o treść Zarządzenia Nadleśniczego Nadleśnictwa Turawa nr.50/2018 z dnia 2018-10-31.
+-         roczny czynsz z tytułu dzierżawy płatny będzie z góry w terminie określonym na fakturze wystawionej przez wydzierżawiającego,
+-         szczegółowe informacje dotyczące w/w nieruchomości gruntowej można uzyskać   w siedzibie Nadleśnictwa Turawa w Turawie ul. Opolska 35 lub telefoniczne +48 668115163 (osoba uprawniona do porozumiewania z oferentami – Barbara Kręcisz)
+-        Nadleśnictwo Turawa zastrzega możliwość unieważnienia postępowania bez podania przyczyny oraz negocjacji ceny,
+ 
+ Nadleśniczy Nadleśnictwa Turawa
+mgr inż. Jarosław Żaba
+ 
  
  
  
@@ -481,7 +567,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_turawa~mapa__dz._398_76.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_turawa~mapa__dz._398_76.pdf
 
 
 
@@ -490,7 +576,7 @@ px_dg~rdlp_katowice~nadl_turawa~mapa__dz._398_76.pdf (1.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_turawa~zala.do_zapyt.___nr_inw.182_188_.zip (4.0MB)
+px_dg~rdlp_katowice~nadl_turawa~zala.do_zapyt.___nr_inw.182_188_.zip
 
 
 
@@ -512,9 +598,9 @@ px_dg~rdlp_katowice~nadl_turawa~zala.do_zapyt.___nr_inw.182_188_.zip (4.0MB)
 Osoba odpowiedzialna za treść:
 kierownik właściwej komórki organizacyjnej
 
-Data modyfikacji: 2020/12/15 09:37:59
-Redaktor zatwierdzający: Lidia, Kubiciel
-Wprowadzający: Lidia, Kubiciel
+Data modyfikacji: 2021/01/22 11:17:35
+Redaktor zatwierdzający: Joanna Kotuła
+Wprowadzający: Joanna Kotuła
 Deklaracja Dostępności
 
 

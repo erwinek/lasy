@@ -143,9 +143,8 @@ Komunikaty i ogłoszenia
 
 Komunikaty i ogłoszenia
  
- Ogłoszenie
-o naborze na stanowisko podleśniczego w Nadleśnictwie Strzebielino
-
+ 
+ 
 =========================================================================
 Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych 
 i rekreacyjnych Nadleśnictwa Strzebielino
@@ -359,33 +358,6 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o naborze na stanowisko podleśniczego w Nadleśnictwie Strzebielino
-
-
-
-
-
-
-.DOCX
-
-Kwestionariusz osobowy kandydata na pracownika LP
-
-
-
-
-
-
-.DOCX
-
-Klauzula informacyjna dla kandydatów do pracy w Nadleśnictwie Strzebielino
-
-
-
-
-
-
-.PDF
-
 Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych i rekreacyjnych Nadleśnictwa Strzebielino
 
 
@@ -498,7 +470,7 @@ projekt umowy umieszczenie urządzeń na nieruchomości art 33
 Osoba odpowiedzialna za treść:
 mgr inż. Mariusz Kaliszewski - Nadleśniczy Nadleśnictwa Strzebielino
 
-Data modyfikacji: 2021/01/15 17:14:30
+Data modyfikacji: 2021/01/22 11:20:33
 Redaktor zatwierdzający: Grażyna Dampc
 Wprowadzający: Grażyna Dampc
 Deklaracja Dostępności
