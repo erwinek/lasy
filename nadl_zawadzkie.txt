@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_katowice~nadl_zawadzkie
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -128,57 +149,20 @@ Komunikaty i ogłoszenia
 
 AKTUALNE CENNIKI NA DREWNO ZNAJDUJĄ SIĘ NA DOLE STRONY 
 
- 
+ Zn.spr. S.235.1.2020
+Zawadzkie, 18.12.2020r.
 
-Zaproszenie do składania ofert
- 
-Na realizację zamówienia: „Usługi w zakresie prac porządkowych i utrzymania czystości w siedzibie Nadleśnictwa Zawadzkie i terenie przyległym oraz 
-w obiektach edukacyjnych.”
- 
-Zaproszenie dotyczy zamówienia do kwoty o której mowa w art. 4 pkt. 8 Ustawy Prawo Zamówień Publicznych (Dz.U. z 2019r., poz. 1843)
-Zamawiający:
-Skarb Państwa – Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Zawadzkie z siedzibą w Zawadzkiem, ul. Strzelecka 6, NIP 756-000-44-39, 
-tel. 774049655, email: zawadzkie@katowice.lasy.gov.pl
-Zaprasza do złożenia oferty na:
-1. Przedmiot zamówienia:
-Przedmiotem zamówienia jest wykonywanie usług w zakresie sprzątania pomieszczeń biurowych w siedzibie Nadleśnictwa Zawadzkie, sprzątanie obiektów edukacyjnych, utrzymanie terenów zielonych oraz parkingu i ciągów komunikacyjnych przy siedzibie Nadleśnictwa zgodnie z załącznikiem 1 do niniejszego zaproszenia. Usługa sprzątania siedziby Nadleśnictwa wykonywana będzie we wszystkie dni robocze po godzinie 14:00. CPV-90910000-9 – usługi sprzątania
-90919200-4 usługi sprzątania biur,
-77300000-3 usługi ogrodnicze,
-90620000-9 usługi odśnieżania
-90630000-2 usługi usuwania oblodzeń
-90914000-7 usługi sprzątania parkingów
-Zamawiający wymaga realizacji zamówienia własnymi siłami (pracownikami) przez wykonawcę składającego ofertę. Zamawiający nie wyraża zgody na realizację zamówienia przy pomocy podwykonawców.
- 
-2. Termin realizacji zamówienia:
-od 02.01.2020r. do 31.12.2020r.
- 
-3. Kryteria oceny i wyboru ofert - cena– 100%
- 
-4. Warunki jakie powinny spełniać Wykonawcy ubiegający się o udzielenie zamówienia.
-O udzielenie zamówienia mogą ubiegać się Wykonawcy, którzy:
-spełniają warunki udziału w postępowaniu dotyczące:
-a) kompetencji lub uprawnień do prowadzenia określonej działalności zawodowej - Wykonawca spełni warunek, jeżeli prowadzi działalność obejmującą swym zakresem przedmiot zamówienia – odpowiednie dokumenty należy załączyć do oferty.
-b) zdolności technicznej lub zawodowej:
-Wykonawca spełni warunek jeżeli wykaże, że:
-- posiada odpowiednie doświadczenie gwarantujące należyte wykonanie zamówienia
-   tj. w okresie ostatnich 3 lat przed upływem terminu składania ofert, a jeżeli okres
-   prowadzenia działalności jest krótszy – w tym okresie, zrealizował co najmniej
-   dwa zamówienie polegające na usługach odpowiadających przedmiotowi zamówienia, o wartości nie niższej niż 30 000,00 zł brutto, wraz z podaniem ich wartości, przedmiotu, dat wykonania i podmiotów, na rzecz których zamówienia zostały wykonane, są wykonywane oraz załączy dowody, że zamówienia te zostały wykonane/ są wykonywane należycie.
- 
-5. Tryb postępowania:
-Zapytanie ofertowe – zaproszenie do składania ofert
- 
-6. Miejsce i termin złożenia ofert:
-Ofertę należy złożyć do dnia 16.12.2019r. godz. 10.00 w siedzibie Zamawiającego, 
-ul. Strzelecka 6,47-120 Zawadzkie. Oferty mnożna złożyć osobiście w sekretariacie lub przesłać pocztą. Otwarcie ofert nastąpi 16.12.2019r. o godzinie 10:15 w siedzibie zamawiającego.
- 
-7. Zamawiający przewiduje możliwość negocjacji cen z każdym z wykonawców osobno.
- 
-8. Załączniki do zaproszenia: Formularz ofertowy, wzór umowy, zakres prac, wykaz zrealizowanych zamówień - wzór
-9. Zaproszenie podlega publikacji w Biuletynie Informacji Publicznej Zamawiającego
 
+INFORMACJA O WYBORZE  OFERT
+  
+Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Zawadzkie ul. Strzelecka 6, 47-120 Zawadzkie jako zamawiający w postępowaniu na: „Usługi w zakresie prac porządkowych i utrzymania czystości w siedzibie Nadleśnictwa Zawadzkie i terenie przyległym oraz w obiektach edukacyjnych” informuje, co następuje:
+Do realizacji  zamówienia wybrano ofertę złożoną przez:
+IZMAR Marek Mrohs, ul. Kościuszki 1, Żędowice, 47-120 Zawadzkie. 
+Uzasadnienie wyboru: oferta ważna i spełniająca wymagania, wybrana jako najkorzystniejsza na podstawie określonych kryteriów - cena - 104.796,00 zł brutto.
  
-Pliki do pobrania znajdują się na dole strony.
+Streszczenie pozostałych ofert:
+1. Firma Sprzątająca KAJA, Klaudyna Kamiński, ul. Poprzeczna 3, 42-714 Lisów, cena oferty: 271.332,00 zł brutto;
+2. GWARANT Agencja Ochrony Sp. z o.o., ul. Cygana 2, 45-131 Opole - cena oferty 151.144,48 zł brutto;
  
 
  
@@ -2644,6 +2628,15 @@ Pliki do pobrania - lista załączników
 
 
 
+.ZIP
+
+px_dg~rdlp_katowice~nadl_zawadzkie~sprzatanie_2021.zip (1.0MB)
+
+
+
+
+
+
 .PDF
 
 px_dg~rdlp_katowice~nadl_zawadzkie~cennik2020.pdf (2.0MB)
@@ -2713,7 +2706,7 @@ px_dg~rdlp_katowice~nadl_zawadzkie~projekt_umowy_na_dzierzwe_zbiornika_wodnego.d
 Osoba odpowiedzialna za treść:
 mgr inż. Grzegorz Furmański
 
-Data modyfikacji: 2020/07/15 10:02:56
+Data modyfikacji: 2020/12/18 14:49:27
 Redaktor zatwierdzający: Tomasz Konfederak
 Wprowadzający: Tomasz Konfederak
 Deklaracja Dostępności

@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -81,16 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_krakow~nadl_limanowa
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -121,7 +141,9 @@ Komunikaty i ogłoszenia
 
 
 
-
+Nadleśnictwo Limanowa informuje o zamiarze przeprowadzenia transakcji zamiany gruntów pomiędzy Nadleśnictwem Limanowa a jednostkąsamorządową - Urzędem Gminy Kamienica.
+Ogłoszenie w linku poniżej:
+limanowa.krakow.lasy.gov.pl/documents/17275392/37378942/Og%C5%82oszenie+o+zamianie+gruntu.pdf/0bf3f71a-a811-1e79-4c48-0f7618648266
 
 
 
@@ -144,9 +166,9 @@ Komunikaty i ogłoszenia
 Osoba odpowiedzialna za treść:
 mgr inż. Wojciech Łukacz
 
-Data modyfikacji: 2007/03/08 10:44:33
-Redaktor zatwierdzający: Rafał Śniegocki
-Wprowadzający: Rafał Śniegocki
+Data modyfikacji: 2020/12/23 11:53:07
+Redaktor zatwierdzający: Miłosz Mucha
+Wprowadzający: Miłosz Mucha
 Deklaracja Dostępności
 
 

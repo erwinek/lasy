@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -258,7 +283,7 @@ Ogłoszenie o wynikach przetargu (1.0MB)
 
 
 
-.OCX
+.DOCX
 
  Obowiązkowa informacja RODO (1.0MB)
 

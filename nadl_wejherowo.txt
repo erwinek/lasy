@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -157,7 +156,7 @@ Plik ogłoszenia  do pobrania poniżej.
  
 Sprzedaż drewna w biurze nadleśnictwa prowadzona jest codziennie od poniedziałku do piątku w godz. 800 – 1300  za wyjątkiem czterech pierwszych i ostatniego dnia roboczego miesiąca.
 Sprzedaż sadzonek prowadzona jest w Gospodarstwie Szkółkarskim Domatowo codziennie od poniedziałku do piątku w godz. 800 – 1400 . Zalecany wcześniejszy kontakt z leśniczym. Numer telefonu 692 406 471.
-Dzień 14 sierpnia 2020 roku oraz 24 grudnia 2020 roku są w Nadleśnictwie Wejherowo dodatkowymi dniami wolnymi od pracy.
+Dzień 04 czerwca 2021 roku oraz 24 grudnia 2021 roku są w Nadleśnictwie Wejherowo dodatkowymi dniami wolnymi od pracy.
  
 
 
@@ -173,7 +172,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie - przetarg sprzedaż komputerów (1.0MB)
+Ogłoszenie - przetarg sprzedaż komputerów
 
 
 
@@ -182,7 +181,7 @@ Ogłoszenie - przetarg sprzedaż komputerów (1.0MB)
 
 .PDF
 
-Ogłoszenie - nabór na stanowisko informatyka. (2.0MB)
+Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr III
 
 
 
@@ -191,7 +190,7 @@ Ogłoszenie - nabór na stanowisko informatyka. (2.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr III (8.0MB)
+Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr II
 
 
 
@@ -200,7 +199,7 @@ Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr III
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr II (7.0MB)
+Protokół z rozstrzygnięcia przetargu na dzierżawę nieruchomości
 
 
 
@@ -209,7 +208,7 @@ Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr II 
 
 .PDF
 
-Protokół z rozstrzygnięcia przetargu na dzierżawę nieruchomości (1.0MB)
+Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020 r.
 
 
 
@@ -218,7 +217,7 @@ Protokół z rozstrzygnięcia przetargu na dzierżawę nieruchomości (1.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020 r. (9.0MB)
+Ogłoszenie o przetargu na dzierżawę gruntów rolnych 2020 r.
 
 
 
@@ -227,7 +226,7 @@ Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020 r. (9.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę gruntów rolnych 2020 r. (3.0MB)
+Ogłoszenie o przetargu na dzierżawę gruntów rolnych
 
 
 
@@ -236,7 +235,7 @@ Ogłoszenie o przetargu na dzierżawę gruntów rolnych 2020 r. (3.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę gruntów rolnych (5.0MB)
+Ogłoszenie o sprzedaży siatki ogrodzeniowej
 
 
 
@@ -245,7 +244,7 @@ Ogłoszenie o przetargu na dzierżawę gruntów rolnych (5.0MB)
 
 .PDF
 
-Ogłoszenie o sprzedaży siatki ogrodzeniowej (1.0MB)
+Przetarg dzierżawa nieruchomości gruntowych
 
 
 
@@ -254,7 +253,7 @@ Ogłoszenie o sprzedaży siatki ogrodzeniowej (1.0MB)
 
 .PDF
 
-Przetarg dzierżawa nieruchomości gruntowych (7.0MB)
+Cennik detaliczny 2020 r.
 
 
 
@@ -263,7 +262,7 @@ Przetarg dzierżawa nieruchomości gruntowych (7.0MB)
 
 .PDF
 
-Cennik detaliczny 2020 r. (1.0MB)
+Regulamin sprzedaży drewna.
 
 
 
@@ -272,16 +271,7 @@ Cennik detaliczny 2020 r. (1.0MB)
 
 .PDF
 
-Regulamin sprzedaży drewna. (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Wniosek o udostępnienie informacji publicznej / o środowisku. (1.0MB)
+Wniosek o udostępnienie informacji publicznej / o środowisku.
 
 
 
@@ -290,7 +280,7 @@ Wniosek o udostępnienie informacji publicznej / o środowisku. (1.0MB)
 
 .DOC
 
-Wniosek o udostępnienie informacji publicznej / o środowisku. (1.0MB)
+Wniosek o udostępnienie informacji publicznej / o środowisku.
 
 
 
@@ -299,7 +289,7 @@ Wniosek o udostępnienie informacji publicznej / o środowisku. (1.0MB)
 
 .PDF
 
-Inwentaryzacja stanu lasu. (1.0MB)
+Inwentaryzacja stanu lasu.
 
 
 
@@ -308,7 +298,7 @@ Inwentaryzacja stanu lasu. (1.0MB)
 
 .PDF
 
-Ogłoszenie-Rzetelne Przedsiębiorstwo Leśne. (1.0MB)
+Ogłoszenie-Rzetelne Przedsiębiorstwo Leśne.
 
 
 
@@ -317,7 +307,7 @@ Ogłoszenie-Rzetelne Przedsiębiorstwo Leśne. (1.0MB)
 
 .PDF
 
-Przetarg na dzierżawę gruntów z przeznaczeniem na obsługę ruchu turystycznego. (8.0MB)
+Przetarg na dzierżawę gruntów z przeznaczeniem na obsługę ruchu turystycznego.
 
 
 
@@ -326,7 +316,7 @@ Przetarg na dzierżawę gruntów z przeznaczeniem na obsługę ruchu turystyczne
 
 .PDF
 
-Plan postępowań o udzielenie zamówień zgodnie z art. 13a na rok 2018. (1.0MB)
+Plan postępowań o udzielenie zamówień zgodnie z art. 13a na rok 2018.
 
 
 
@@ -335,7 +325,7 @@ Plan postępowań o udzielenie zamówień zgodnie z art. 13a na rok 2018. (1.0MB
 
 .PDF
 
-Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych (1.0MB)
+Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych
 
 
 
@@ -357,9 +347,9 @@ Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych
 Osoba odpowiedzialna za treść:
 Jacek Szulc
 
-Data modyfikacji: 2020/11/30 13:17:35
+Data modyfikacji: 2021/01/14 09:03:48
 Redaktor zatwierdzający: Gabriela Gaffke
-Wprowadzający: Grazyna Bekisch - Buja
+Wprowadzający: Gabriela Gaffke
 Deklaracja Dostępności
 
 

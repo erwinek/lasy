@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -145,9 +144,8 @@ Komunikaty i ogłoszenia
 Komunikaty i ogłoszenia
  
  Ogłoszenie
-o wyniku przetargu nieograniczonego pisemnego ofertowego na sprzedaż środka trwałego - samochodu ciężarowego marki NISSAN Pickup z modułem gaśniczym.  
- 
-/pliki do pobrania/
+o naborze na stanowisko podleśniczego w Nadleśnictwie Strzebielino
+
 =========================================================================
 Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych 
 i rekreacyjnych Nadleśnictwa Strzebielino
@@ -179,7 +177,8 @@ Góra
 Nr telefonu
 
 
-(58) 678 20 76
+   694 485 861
+
 
 
 
@@ -190,7 +189,8 @@ Luzino
 Nr telefonu
 
 
-(58) 678 20 79
+   694 462 717
+
 
 
 
@@ -211,7 +211,9 @@ Barłomino
 
 Nr telefonu
 
-(58) 678 25 29
+
+   694 485 851
+
  
  
 
@@ -248,7 +250,8 @@ Chmieleniec
 Nr telefonu
 
 
-(58) 678 97 23
+    662 030 242
+
 
 
 
@@ -259,7 +262,8 @@ Nr telefonu
 Nr telefonu
 
 
-(58) 678 97 13
+    500 028 320
+
 
 
 
@@ -270,7 +274,8 @@ Paraszynek
 Nr telefonu
 
 
-(58) 678 97 15
+    500 181 512
+
 
 
 
@@ -354,7 +359,25 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o wyniku przetargu na sprzedaż samochodu NISSAN (1.0MB)
+Ogłoszenie o naborze na stanowisko podleśniczego w Nadleśnictwie Strzebielino
+
+
+
+
+
+
+.DOCX
+
+Kwestionariusz osobowy kandydata na pracownika LP
+
+
+
+
+
+
+.DOCX
+
+Klauzula informacyjna dla kandydatów do pracy w Nadleśnictwie Strzebielino
 
 
 
@@ -363,7 +386,7 @@ Ogłoszenie o wyniku przetargu na sprzedaż samochodu NISSAN (1.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na sprzedaż samochodu NISSAN Pickup (1.0MB)
+Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych i rekreacyjnych Nadleśnictwa Strzebielino
 
 
 
@@ -372,7 +395,7 @@ Ogłoszenie o przetargu na sprzedaż samochodu NISSAN Pickup (1.0MB)
 
 .PDF
 
-Formularz ofertowy  sprzedaż samochodu NISSAN (1.0MB)
+Cennik detalicznej sprzedaży drewna w roku 2020
 
 
 
@@ -381,7 +404,7 @@ Formularz ofertowy  sprzedaż samochodu NISSAN (1.0MB)
 
 .PDF
 
-Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych i rekreacyjnych Nadleśnictwa Strzebielino (1.0MB)
+Cennik detaliczny na materiał sadzeniowy 2020
 
 
 
@@ -390,7 +413,7 @@ Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych i re
 
 .PDF
 
-Cennik detalicznej sprzedaży drewna w roku 2020 (4.0MB)
+Cennik podstawowy na materiał sadzeniowy 2020
 
 
 
@@ -399,7 +422,7 @@ Cennik detalicznej sprzedaży drewna w roku 2020 (4.0MB)
 
 .PDF
 
-Cennik detaliczny na materiał sadzeniowy 2020 (1.0MB)
+Program monitoringu  lasów
 
 
 
@@ -408,7 +431,7 @@ Cennik detaliczny na materiał sadzeniowy 2020 (1.0MB)
 
 .PDF
 
-Cennik podstawowy na materiał sadzeniowy 2020 (1.0MB)
+Ogłoszenie o ilości drewna przeznaczonego do sprzedaży detalicznej w roku 2020
 
 
 
@@ -417,7 +440,7 @@ Cennik podstawowy na materiał sadzeniowy 2020 (1.0MB)
 
 .PDF
 
-Program monitoringu  lasów (1.0MB)
+Cennik na choinki 2020
 
 
 
@@ -426,7 +449,7 @@ Program monitoringu  lasów (1.0MB)
 
 .PDF
 
-Ogłoszenie o ilości drewna przeznaczonego do sprzedaży detalicznej w roku 2020 (4.0MB)
+warunki zapewnienia dostępu do telekomunikacji w budynku z art 30
 
 
 
@@ -435,7 +458,7 @@ Ogłoszenie o ilości drewna przeznaczonego do sprzedaży detalicznej w roku 202
 
 .PDF
 
-Cennik na choinki 2019/ (6.0MB)
+projekt umowy zapewnienia dostępu do telekomunikacji w budynku art 30
 
 
 
@@ -444,7 +467,7 @@ Cennik na choinki 2019/ (6.0MB)
 
 .PDF
 
-warunki zapewnienia dostępu do telekomunikacji w budynku z art 30 (1.0MB)
+warunki ramowe umieszczania urządzeń na nieruchomości art 33
 
 
 
@@ -453,25 +476,7 @@ warunki zapewnienia dostępu do telekomunikacji w budynku z art 30 (1.0MB)
 
 .PDF
 
-projekt umowy zapewnienia dostępu do telekomunikacji w budynku art 30 (1.0MB)
-
-
-
-
-
-
-.PDF
-
-warunki ramowe umieszczania urządzeń na nieruchomości art 33 (1.0MB)
-
-
-
-
-
-
-.PDF
-
-projekt umowy umieszczenie urządzeń na nieruchomości art 33 (1.0MB)
+projekt umowy umieszczenie urządzeń na nieruchomości art 33
 
 
 
@@ -493,7 +498,7 @@ projekt umowy umieszczenie urządzeń na nieruchomości art 33 (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Mariusz Kaliszewski - Nadleśniczy Nadleśnictwa Strzebielino
 
-Data modyfikacji: 2020/11/25 11:23:33
+Data modyfikacji: 2021/01/15 17:14:30
 Redaktor zatwierdzający: Grażyna Dampc
 Wprowadzający: Grażyna Dampc
 Deklaracja Dostępności

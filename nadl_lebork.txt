@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -136,18 +161,9 @@ Pliki do pobrania - lista załączników
 
 
 
-.PDF
+.ZIP
 
-Przetarg na dzierżawę gruntu przy cmentarzu w celu handlu zniczy i kwiatów (1.0MB)
-
-
-
-
-
-
-.PDF
-
-OGŁOSZENIE-nieograniczony przetarg ofertowy na dzierżawę gruntu, działka nr 331/5-L, oddział 331-k w miejscowości Czarnówko. (6.0MB)
+Ogłoszenie na dzierżawę gruntu rolnego dz. 202/12L obr. ew. Osowo (1.0MB)
 
 
 
@@ -259,9 +275,9 @@ Ramowe zasady rozpatrywania reklamacji na surowiec drzewny na terenie RDLP w Gda
 Osoba odpowiedzialna za treść:
 mgr inż. Jan Dominiecki - Nadleśniczy
 
-Data modyfikacji: 2020/10/21 10:52:20
+Data modyfikacji: 2020/12/10 14:48:44
 Redaktor zatwierdzający: Jolanta Noryśkiewicz
-Wprowadzający: Jolanta Noryśkiewicz
+Wprowadzający: Anetta Jereczek
 Deklaracja Dostępności
 
 

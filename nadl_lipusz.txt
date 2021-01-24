@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_gdansk~nadl_lipusz
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -126,6 +147,20 @@ Komunikaty i ogłoszenia
 
 
 
+
+ 
+Sprzedaż samochodu Subaru Forester
+ 
+ 
+Nadleśnictwo Lipusz ogłasza publiczny przetarg ofertowy na sprzedaż samochodu marki Subaru Forester - wszelkie załączniki poniżej. Dodatkowe informacje można uzyskać pod numerem telefonu 601 630 545.
+ 
+ 
+
+
+ 
+ 
+ 
+ 
 KOMUNIKAT NADLEŚNICZEGO NADEŚNICTWA LIPUSZ
 W SPRAWIE ZAKAZU WSTĘPU DO LASU
  
@@ -149,7 +184,7 @@ NADLEŚNICZEGO
  
 W związku z rozprzestrzenianiem się wirusa typu COVID-19 na terenie Polski, Nadleśniczy Nadleśnictwa Lipusz do odwołania ogranicza obsługę interesantów do spraw pilnych.
  
- Interesanci w sprawach pilnych mogą zgłaszać się do biura podawczego na parterze budynku. 
+Interesanci w sprawach pilnych mogą zgłaszać się do biura podawczego na parterze budynku. 
  
 Osoby kupujące drewno oraz sadzonki w biurze Nadleśnictwa Lipusz proszone są w miarę możliwości o wpłacanie pieniędzy na konto bankowe BGŻ  Paribas: 14 2030 0045 1110 0000 0040 3470 po uprzednim kontakcie z upoważnionym pracownikiem nadleśnictwa.
  
@@ -190,6 +225,60 @@ www.gios.gov.pl/pl/stan-srodowiska/pms 
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Ogłoszenie o przetargu nieograniczonym ofertowym na sprzedaż samochodu marki Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Opis stanu technicznego pojazdu Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Dokumentacja fotograficzna pojazdu Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Formularz ofertowy zakupu pojazdu Subaru Forester (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Klauzula informacyjna dot. przetwarzania danych osobowych (1.0MB)
+
+
+
+
+
+
+.PDF
+
+Cennik sprzedaży detalicznej choinek świerka pospolitego wprowadzony Decyzją  nr 39/20 Nadleśniczego Nadleśnictwa Lipusz z dnia 07.12.2020r. (1.0MB)
+
 
 
 
@@ -240,7 +329,7 @@ Zarządzenie nr 12/20 z dnia 11.02.2020r.w sprawie sprzedaży detalicznej (5.0MB
 
 
 
-.OCX
+.DOCX
 
 Wniosek o przydział drewna opałowego (1.0MB)
 
@@ -249,7 +338,7 @@ Wniosek o przydział drewna opałowego (1.0MB)
 
 
 
-.OCX
+.DOCX
 
 Upoważnienie na zakup drewna (1.0MB)
 
@@ -327,7 +416,7 @@ Wykaz zagrożeń występujących w lesie (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Maciej Kostka - Nadleśniczy Nadleśnictwa Lipusz
 
-Data modyfikacji: 2020/07/20 11:13:59
+Data modyfikacji: 2020/12/11 11:47:26
 Redaktor zatwierdzający: Bożena Suchy Lipińska
 Wprowadzający: Bożena Suchy Lipińska
 Deklaracja Dostępności

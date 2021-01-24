@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -121,16 +146,7 @@ Komunikaty i ogłoszenia
 
 
 
-Nadleśnictwo Kościerzyna informuje,
- 
-że zgodnie z   zarządzeniem 1/2020 Nadleśniczego Nadleśnictwa Kościerzyna z dnia 03 stycznia 2020r., w sprawie ustalenia dodatkowych dni wolnych od pracy, dzień 2 listopada 2020 r. jest dniem ustawowo wolnym od pracy, przypadającym za święto wypadające w sobotę tj. 26 grudnia 2020 r. W związku z powyższym urząd Nadleśnictwa Kościerzyna w dniu 2 listopada 2020 r. będzie nieczynny.
- 
-
- 
-Nadleśnictwo Kościerzyna ogłasza III przetarg nieograniczony  na dzierżawę zbiorników wodnych będących w zarządzie Nadleśnictwa Kościerzyna , na cel chowu ryb.
-Wszelkie informacje dotyczące przetargu dostępne w plikach poniżej do pobrania.
- 
-Nadleśnictwo Kościerzyna ogłasza II przetarg nieograniczony (pisemny) na sprzedaż zbędnych środków trwałych stanowiących własność Skarbu Państwa w zarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe Nadleśnictwa Kościerzyna (sprzęt komputerowy).
+Nadleśnictwo Kościerzyna ogłasza pisemny przetarg nieograniczony na dzierżawę gruntów rolnych będących w zarządzie Nadleśnictwa, na cel prowadzenia gospodarki rolnej.
 Wszelkie informacje dotyczące przetargu dostępne w plikach poniżej do pobrania.
  
 
@@ -178,16 +194,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Przetarg III, zbiorniki wodne (ogłoszenie) (2.0MB)
-
-
-
-
-
-
-.JPG
-
-Przetarg III, zbiorniki wodne (lokalizacja) (1.0MB)
+Przetarg-ogłoszenie. (2.0MB)
 
 
 
@@ -196,7 +203,7 @@ Przetarg III, zbiorniki wodne (lokalizacja) (1.0MB)
 
 .PDF
 
-Przetarg III, zbiorniki wodne (wzór umowy) (1.0MB)
+Przetarg-formularz ofertowy. (1.0MB)
 
 
 
@@ -205,7 +212,7 @@ Przetarg III, zbiorniki wodne (wzór umowy) (1.0MB)
 
 .PDF
 
-Przetarg III, zbiorniki wodne (formularz ofertowy) (1.0MB)
+Przetarg-wzór umowy. (1.0MB)
 
 
 
@@ -214,34 +221,7 @@ Przetarg III, zbiorniki wodne (formularz ofertowy) (1.0MB)
 
 .PDF
 
-Przetarg III, zbiorniki wodne (RODO) (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Przetarg na sprzęt komputerowy (ogłoszenie) (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Przetarg na sprzęt komputerowy  (załącznik nr 1) (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Przetarg na sprzęt komputerowy  (załącznik nr 2) (1.0MB)
+Przetarg-klauzula RODO (1.0MB)
 
 
 
@@ -443,7 +423,7 @@ Wniosek o udostępnienie informacji publicznej/o środowisku. (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Kościerzyna - Michał Jaworski<br>
 
-Data modyfikacji: 2020/10/30 10:39:08
+Data modyfikacji: 2020/12/08 14:58:12
 Redaktor zatwierdzający: Maciej Piankowski
 Wprowadzający: Maciej Piankowski
 Deklaracja Dostępności

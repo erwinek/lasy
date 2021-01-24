@@ -159,34 +159,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o sprzedaży (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Zał. 1. Wykaz przedmiotów do sprzedaży (1.0MB)
-
-
-
-
-
-
-.DOC
-
-Zał. 2. Formularz ofertowy (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Zał. 3. Dokumentacja fotograficzna (2.0MB)
+Informacja z rozstrzygnięcia procedury naboru na stanowisko Referenta ds. administracyjnych (1.0MB)
 
 
 
@@ -208,7 +181,7 @@ Zał. 3. Dokumentacja fotograficzna (2.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy: Mariusz Suma
 
-Data modyfikacji: 2020/11/16 13:53:34
+Data modyfikacji: 2020/12/10 14:18:24
 Redaktor zatwierdzający: Jarosław Bielan
 Wprowadzający: Jarosław Bielan
 Deklaracja Dostępności

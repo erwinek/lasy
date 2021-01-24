@@ -298,6 +298,15 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+Informacja o wyborze najkorzystniejszej oferty w przetargu na grunty rolne (4.0MB)
+
+
+
+
+
+
+.PDF
+
 Komunikat do przetargu na dzierżawę gruntów rolnych z dnia 19.11.2020 r. (1.0MB)
 
 
@@ -428,7 +437,7 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf (3.0MB)
 Osoba odpowiedzialna za treść:
 Wiesław Skrzypek
 
-Data modyfikacji: 2020/11/26 13:29:39
+Data modyfikacji: 2020/12/14 14:56:33
 Redaktor zatwierdzający: Paweł Zmorawski
 Wprowadzający: Adam Pienio
 Deklaracja Dostępności

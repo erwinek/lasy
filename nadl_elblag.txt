@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -221,7 +246,7 @@ NABÓR NA STANOWISKO KSIĘGOWEJ/EGO (2.0MB)
 
 
 
-.OCX
+.DOCX
 
  Klauzula informacyjna dla kandydata do pracy (1.0MB)
 
@@ -230,7 +255,7 @@ NABÓR NA STANOWISKO KSIĘGOWEJ/EGO (2.0MB)
 
 
 
-.OCX
+.DOCX
 
  Kwestionariusz osobowy dla kandydata do pracy (1.0MB)
 

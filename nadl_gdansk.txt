@@ -6,11 +6,36 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Komunikaty i ogłoszenia
-
-
-
-
 
 
 
@@ -86,11 +111,7 @@ Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
 Redakcja BIP
-Obsługa biuletynu
-Instrukcja obsługi
-wx_dg~rdlp_gdansk~nadl_gdansk
-Redakcja biuletynu
-Statystyki biuletynu
+0
 Logowanie
 
 
@@ -220,7 +241,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2018___aktualizacja.pdf (1.0MB)
 
 
 
-.OCX
+.DOCX
 
 px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx (1.0MB)
 
@@ -229,7 +250,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx (1.0MB)
 
 
 
-.OCX
+.DOCX
 
 px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx (1.0MB)
 
@@ -301,7 +322,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_d
 
 
 
-.OCX
+.DOCX
 
 px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.docx (1.0MB)
 
