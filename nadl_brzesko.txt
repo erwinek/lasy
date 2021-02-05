@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -159,7 +158,34 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Informacja z rozstrzygnięcia procedury naboru na stanowisko Referenta ds. administracyjnych (1.0MB)
+Ogłoszenie o sprzedaży używanych składników majątkowych
+
+
+
+
+
+
+.PDF
+
+Zał. 1. Wykaz przedmiotów sprzedaży
+
+
+
+
+
+
+.DOC
+
+Zał. 2. Formularz ofertowy
+
+
+
+
+
+
+.PDF
+
+Zał. 3. Dokumentacja fotograficzna
 
 
 
@@ -181,7 +207,7 @@ Informacja z rozstrzygnięcia procedury naboru na stanowisko Referenta ds. admin
 Osoba odpowiedzialna za treść:
 Nadleśniczy: Mariusz Suma
 
-Data modyfikacji: 2020/12/10 14:18:24
+Data modyfikacji: 2021/02/04 12:37:41
 Redaktor zatwierdzający: Jarosław Bielan
 Wprowadzający: Jarosław Bielan
 Deklaracja Dostępności

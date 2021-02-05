@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -154,8 +153,6 @@ Inne ogłoszenia i komunikaty umieszczone są w module aktualności,  na stroni
  
 
  
-Nadleśnictwo Łosie ogłasza II nieograniczony przetarg (zbieranie ofert) na sprzedaż używanych środków trwałych. Ogłoszenie oraz szczegółowy wykaz oferowanego sprzętu znajduje się w załączniku "Ogłoszenie sprzedaż używanych środków trwałych".
-  
 
 
 
@@ -172,34 +169,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie sprzedaż używanych środków trwałych (2.0MB)
-
-
-
-
-
-
-.DOC
-
-Formularz ofertowy (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_krakow~nadl_losie~zal_2___wzor___klauzula_informacyjna.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
- w sprawie wprowadzenia regulaminu korzystania z dróg leśnych udostępnionych do ruchu publicznego dla pojazdów silnikowych, zaprzęgowych i motorowerów na terenie Nadleśnictwa Łosie (3.0MB)
+INFORMACJA RODO
 
 
 
@@ -221,9 +191,9 @@ px_dg~rdlp_krakow~nadl_losie~zal_2___wzor___klauzula_informacyjna.pdf (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy <br>Nadleśnictwa Łosie <br>Bartłomiej Sołtys
 
-Data modyfikacji: 2020/06/30 13:58:32
-Redaktor zatwierdzający: Jan Szot
-Wprowadzający: Bożena Załęska
+Data modyfikacji: 2021/01/29 15:02:07
+Redaktor zatwierdzający: Marcin Walczyk
+Wprowadzający: Marcin Walczyk
 Deklaracja Dostępności
 
 

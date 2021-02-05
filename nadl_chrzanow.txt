@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -1049,7 +1048,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_chrzanow~20191018_143932_n_chrzanow_000129.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_chrzanow~20191018_143932_n_chrzanow_000129.pdf
 
 
 

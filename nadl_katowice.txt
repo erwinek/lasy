@@ -150,7 +150,7 @@ Inspektorem Ochrony Danych w Nadleśnictwie Katowice od dnia 1 czerwca 2020 r. j
 Z Inspektorem Ochrony Danych we wszystkich sprawach związanych z przetwarzaniem danych osobowych przez Nadleśnictwo Katowice można kontaktować się kierując korespondencję na adres siedziby administratora, telefonicznie – 32 2525141 lub za pośrednictwem poczty elektronicznej na adres: katowice@katowice.lasy.gov.pl. 
 Klauzule informacyjne w zakresie ochrony danych osobowych do pobrania poniżej.
  
-2. Informacja o planowanym wprowadzaniu okresowego zakazu wstępu do lasu w roku 2020 na terenie Nadleśnictwa Katowice w związku z  wykonywanymi zabiegami gospodarczymi w tym pozyskaniem drewna.
+2. Informacja o planowanym wprowadzaniu okresowego zakazu wstępu do lasu w roku 2021 na terenie Nadleśnictwa Katowice w związku z  wykonywanymi zabiegami gospodarczymi w tym pozyskaniem drewna.
 Okresowy zakaz wstępu do lasu na administrowanym przez nas terenie wprowadzany jest dla zapewnienia bezpieczeństwa osób korzystających z terenów leśnych. Lasy objęte zakazem wejścia oznaczane są tablicami z napisem „ZAKAZ WSTĘPU” oraz wskazaniem przyczyny i terminu ustanowienia zakazu.
 Poniżej do pobrania załącznik - lista oddziałów leśnych dla których wystąpią czasowe ograniczenia wstępu do lasu.
 Równocześnie informujemy. że poza wymienionymi w załączniku powierzchniami mogą pojawić się dodatkowe np. w związku z anomaliami przyrodniczymi takimi jak wichury, trąby powietrzne, śniegołomy, pożary.
@@ -170,7 +170,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_katowice~lista_oddzialow_lesnych_informacja_2020_pozyskanie_drewna_gs.pdf
+px_dg~rdlp_katowice~nadl_katowice~2021r._powierzchnie_z_pozyskaniem_drewna.pdf
 
 
 
@@ -188,7 +188,7 @@ px_dg~rdlp_katowice~nadl_katowice~cennik_drewno_1_07_2020.pdf
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_katowice~px_cennik_choinek_2018_2019.pdf
+px_dg~rdlp_katowice~nadl_katowice~cennik_choinek_2020.pdf
 
 
 
@@ -228,9 +228,9 @@ px_dg~rdlp_katowice~nadl_katowice~klauzula_informacyjna_nadlesnictwo_katowice__r
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Katowice mgr inż. Stanisław Jeziorański
 
-Data modyfikacji: 2020/07/03 09:33:38
-Redaktor zatwierdzający: Bolesław Bobrzyk 
-Wprowadzający: Bolesław Bobrzyk 
+Data modyfikacji: 2021/01/25 11:57:10
+Redaktor zatwierdzający: Grzegorz Skurczak
+Wprowadzający: Grzegorz Skurczak
 Deklaracja Dostępności
 
 

@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -157,7 +156,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o zamianie gruntów (1.0MB)
+Ogłoszenie o zamianie gruntów
 
 
 
@@ -166,7 +165,7 @@ Ogłoszenie o zamianie gruntów (1.0MB)
 
 .DOC
 
-Ogłoszenie o zamianie gruntów (1.0MB)
+Ogłoszenie o zamianie gruntów
 
 
 

@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -175,7 +174,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ramowe wytyczne w sprawie warunków dostępu do sieci telekomunikacyjnych (3.0MB)
+Ramowe wytyczne w sprawie warunków dostępu do sieci telekomunikacyjnych
 
 
 
@@ -184,7 +183,7 @@ Ramowe wytyczne w sprawie warunków dostępu do sieci telekomunikacyjnych (3.0MB
 
 .PDF
 
-decyzja 11/2018 stawki przy inwestycjach liniowych (1.0MB)
+decyzja 11/2018 stawki przy inwestycjach liniowych
 
 
 
@@ -193,7 +192,7 @@ decyzja 11/2018 stawki przy inwestycjach liniowych (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_cewice~decyzja_1_2019.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_cewice~decyzja_1_2019.pdf
 
 
 
@@ -202,7 +201,7 @@ px_dg~rdlp_gdansk~nadl_cewice~decyzja_1_2019.pdf (1.0MB)
 
 .PDF
 
-Dzierżawa Jeziora oddz.290m Leśnictwo Rokitki (1.0MB)
+Dzierżawa Jeziora oddz.290m Leśnictwo Rokitki
 
 
 
@@ -211,7 +210,7 @@ Dzierżawa Jeziora oddz.290m Leśnictwo Rokitki (1.0MB)
 
 .PDF
 
-ogłoszenie do przetargu telefony (1.0MB)
+ogłoszenie do przetargu telefony
 
 
 
@@ -220,7 +219,7 @@ ogłoszenie do przetargu telefony (1.0MB)
 
 .PDF
 
-Zarządzenie nr 44 -cennik na choinki świerkowe (1.0MB)
+Zarządzenie nr 44 -cennik na choinki świerkowe
 
 
 
@@ -229,7 +228,7 @@ Zarządzenie nr 44 -cennik na choinki świerkowe (1.0MB)
 
 .PDF
 
-Zarządzenie nr 31 sprzedaż choinek z plantacji Leśnictwa Okalice (1.0MB)
+Zarządzenie nr 31 sprzedaż choinek z plantacji Leśnictwa Okalice
 
 
 
@@ -238,7 +237,7 @@ Zarządzenie nr 31 sprzedaż choinek z plantacji Leśnictwa Okalice (1.0MB)
 
 .PDF
 
-Decyzja nr 2 sprzedaż detaliczna w 2020roku (1.0MB)
+Decyzja nr 2 sprzedaż detaliczna w 2020roku
 
 
 
@@ -247,7 +246,7 @@ Decyzja nr 2 sprzedaż detaliczna w 2020roku (1.0MB)
 
 .PDF
 
-Cennik sprzedaży detalicznej drewna i użytków ubocznych w 2020roku (1.0MB)
+Cennik sprzedaży detalicznej drewna i użytków ubocznych w 2020roku
 
 
 
@@ -256,7 +255,7 @@ Cennik sprzedaży detalicznej drewna i użytków ubocznych w 2020roku (1.0MB)
 
 .PDF
 
-Cennik na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku (1.0MB)
+Cennik na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku
 
 
 
@@ -265,7 +264,7 @@ Cennik na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku (1.0MB
 
 .PDF
 
-Decyzja nr 3/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku. (1.0MB)
+Decyzja nr 3/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku.
 
 
 
@@ -274,7 +273,7 @@ Decyzja nr 3/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów le
 
 .PDF
 
-Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku (1.0MB)
+Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku
 
 
 
@@ -283,7 +282,7 @@ Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020
 
 .PDF
 
-Decyzja nr 4/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku. (1.0MB)
+Decyzja nr 4/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku.
 
 
 
@@ -292,7 +291,7 @@ Decyzja nr 4/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów le
 
 .ZIP
 
-Ogłoszenie komórki przetarg (4.0MB)
+Ogłoszenie komórki przetarg
 
 
 
@@ -301,7 +300,7 @@ Ogłoszenie komórki przetarg (4.0MB)
 
 .PDF
 
-Decyzja w sprawie zmiany stawki podatku VAT na drewno opałowe od 1.07.2020 (1.0MB)
+Decyzja w sprawie zmiany stawki podatku VAT na drewno opałowe od 1.07.2020
 
 
 
@@ -310,7 +309,7 @@ Decyzja w sprawie zmiany stawki podatku VAT na drewno opałowe od 1.07.2020 (1.0
 
 .ZIP
 
-Grunty rolne dzierżawa przetarg (2.0MB)
+Grunty rolne dzierżawa przetarg
 
 
 
@@ -319,7 +318,7 @@ Grunty rolne dzierżawa przetarg (2.0MB)
 
 .PDF
 
-informacja grunty (1.0MB)
+informacja grunty
 
 
 

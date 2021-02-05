@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -168,7 +167,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przetarg_grudzien_2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_udzielonym_zamowieniu_02.02.2021.pdf
 
 
 
@@ -177,7 +176,7 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przetarg_grudzien_2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~bip_wyposazenie_sali_konferencyjnej___projektor___zapytanie_17.12.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przetarg_grudzien_2020.pdf
 
 
 
@@ -186,7 +185,7 @@ px_dg~rdlp_katowice~nadl_olesno~bip_wyposazenie_sali_konferencyjnej___projektor_
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego_16.12.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~bip_wyposazenie_sali_konferencyjnej___projektor___zapytanie_17.12.pdf
 
 
 
@@ -195,7 +194,7 @@ px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego_16.1
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego_16.12.pdf
 
 
 
@@ -204,7 +203,7 @@ px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego.pdf 
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_sprzedazy_pustostanu___stare_olesno.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~bip_zapytanie_o_zakup_sprzetu_komputerowego.pdf
 
 
 
@@ -213,7 +212,7 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_sprzedazy_pustostanu___stare_olesno
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie_mat._biurowe_z_28.10.2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_sprzedazy_pustostanu___stare_olesno.pdf
 
 
 
@@ -222,7 +221,16 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_mat._biurowe_z_28.10.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przylacz_28.10.2020..pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_mat._biurowe_z_28.10.2020.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przylacz_28.10.2020..pdf
 
 
 
@@ -231,7 +239,7 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_przylacz_28.10.2020..pdf (1.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_olesno~nabor_na_stanowisko_administratora_silp.zip (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~nabor_na_stanowisko_administratora_silp.zip
 
 
 
@@ -240,7 +248,7 @@ px_dg~rdlp_katowice~nadl_olesno~nabor_na_stanowisko_administratora_silp.zip (1.0
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_rez._kamieniec.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_rez._kamieniec.pdf
 
 
 
@@ -249,7 +257,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_rez._kamieniec.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_13.08.2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_13.08.2020.pdf
 
 
 
@@ -258,7 +266,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_13.08.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200512.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200512.pdf
 
 
 
@@ -267,7 +275,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200512.
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200422.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200422.pdf
 
 
 
@@ -276,7 +284,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200422.
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~info.o_wyborze_najkorzst.oferty_na_sprzatanie_17.03.20.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~info.o_wyborze_najkorzst.oferty_na_sprzatanie_17.03.20.pdf
 
 
 
@@ -285,7 +293,7 @@ px_dg~rdlp_katowice~nadl_olesno~info.o_wyborze_najkorzst.oferty_na_sprzatanie_17
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_usluge_sprzatania_03.2020.zip (3.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_usluge_sprzatania_03.2020.zip
 
 
 
@@ -294,7 +302,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_usluge_sprzatania_03.
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_u_zamowieniu___punkt_alarmowo_dyspozycyjny.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_u_zamowieniu___punkt_alarmowo_dyspozycyjny.pdf
 
 
 
@@ -303,7 +311,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_u_zamowieniu___punkt_alarmowo_dyspozy
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200225.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200225.pdf
 
 
 
@@ -312,7 +320,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_zakup_sprzetu_komputerowego_20200225.
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_23.12.2019_r..pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_23.12.2019_r..pdf
 
 
 
@@ -321,7 +329,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_23.12.2019_r..pdf (1.0MB
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~przyczepa.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~przyczepa.pdf
 
 
 
@@ -330,7 +338,7 @@ px_dg~rdlp_katowice~nadl_olesno~przyczepa.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_26.11.2019.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_26.11.2019.pdf
 
 
 
@@ -339,7 +347,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_26.11.2019.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___11.09.2019.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___11.09.2019.pdf
 
 
 
@@ -348,7 +356,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___11.09.2019.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~zapytanie_ofertowe_04.09.2019_r..pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~zapytanie_ofertowe_04.09.2019_r..pdf
 
 
 
@@ -357,7 +365,7 @@ px_dg~rdlp_katowice~nadl_olesno~zapytanie_ofertowe_04.09.2019_r..pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_ogloszeniu_na_dostawy_materialow_biurowych_28.06.2019..pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_ogloszeniu_na_dostawy_materialow_biurowych_28.06.2019..pdf
 
 
 
@@ -366,7 +374,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_ogloszeniu_na_dostawy_materialow_bi
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~wyniki_zapytania_ofertowego_na_uslugi_sprzatania.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~wyniki_zapytania_ofertowego_na_uslugi_sprzatania.pdf
 
 
 
@@ -375,7 +383,7 @@ px_dg~rdlp_katowice~nadl_olesno~wyniki_zapytania_ofertowego_na_uslugi_sprzatania
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_uslugi_sprzatania.zip (9.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_uslugi_sprzatania.zip
 
 
 
@@ -384,7 +392,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_na_uslugi_sprzatania.zip
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___uslugi_lesne.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___uslugi_lesne.pdf
 
 
 
@@ -393,7 +401,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___uslugi_lesne.pdf (1.0M
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_sprzedazy_sprzetu_komputerowego.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_sprzedazy_sprzetu_komputerowego.pdf
 
 
 
@@ -402,7 +410,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_sprzedazy_sprzetu_komputerowego.pdf
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___farba_do_znakowania_drzew_20190107.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___farba_do_znakowania_drzew_20190107.pdf
 
 
 
@@ -411,7 +419,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___farba_do_znakowania_dr
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~inf._o_projekcie_patnerskim_realizowanym_wspolnie_z_gmina_olesno.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~inf._o_projekcie_patnerskim_realizowanym_wspolnie_z_gmina_olesno.pdf
 
 
 
@@ -420,7 +428,7 @@ px_dg~rdlp_katowice~nadl_olesno~inf._o_projekcie_patnerskim_realizowanym_wspolni
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_router_cisco_4331.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_router_cisco_4331.pdf
 
 
 
@@ -429,7 +437,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_router_cisco_4331.pdf (1
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_sprzetu_komputerowego.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_sprzetu_komputerowego.pdf
 
 
 
@@ -438,7 +446,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_sprzetu_komputerowego.pdf (
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___stacja_meteo.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___stacja_meteo.pdf
 
 
 
@@ -447,7 +455,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu___stacja_meteo.pdf (1.0M
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_lornetki_termowizyjnej.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_lornetki_termowizyjnej.pdf
 
 
 
@@ -456,7 +464,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zakupie_lornetki_termowizyjnej.pdf 
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~info._o_wyborze_najkorzyst._oferty_stawy.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~info._o_wyborze_najkorzyst._oferty_stawy.pdf
 
 
 
@@ -465,7 +473,7 @@ px_dg~rdlp_katowice~nadl_olesno~info._o_wyborze_najkorzyst._oferty_stawy.pdf (1.
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_olesno~sprzedaz_komputerow_2018.zip (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~sprzedaz_komputerow_2018.zip
 
 
 
@@ -474,7 +482,7 @@ px_dg~rdlp_katowice~nadl_olesno~sprzedaz_komputerow_2018.zip (1.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_olesno~przetarg_na_dzierzawe_stawow.zip (3.0MB)
+px_dg~rdlp_katowice~nadl_olesno~przetarg_na_dzierzawe_stawow.zip
 
 
 
@@ -483,7 +491,7 @@ px_dg~rdlp_katowice~nadl_olesno~przetarg_na_dzierzawe_stawow.zip (3.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie___sprzedaz_pustostanu_pruskow_29.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie___sprzedaz_pustostanu_pruskow_29.pdf
 
 
 
@@ -492,7 +500,7 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie___sprzedaz_pustostanu_pruskow_29.pdf 
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_01.06.2018.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_01.06.2018.pdf
 
 
 
@@ -501,7 +509,7 @@ px_dg~rdlp_katowice~nadl_olesno~informacja_o_zamowieniu_01.06.2018.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_telefonow_kom..pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_telefonow_kom..pdf
 
 
 
@@ -523,9 +531,9 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_tel
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Olesno mgr inż. Grzegorz Kimla
 
-Data modyfikacji: 2020/12/22 15:00:06
+Data modyfikacji: 2021/02/02 13:29:22
 Redaktor zatwierdzający: Joanna Kubiak
-Wprowadzający: Grzegorz Bek
+Wprowadzający: Magdalena Sabok
 Deklaracja Dostępności
 
 

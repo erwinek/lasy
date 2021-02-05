@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -561,7 +560,7 @@ Pliki do pobrania - lista załączników
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_kup~kosiarka_vogel_noot.zip (4.0MB)
+px_dg~rdlp_katowice~nadl_kup~kosiarka_vogel_noot.zip
 
 
 
@@ -570,7 +569,7 @@ px_dg~rdlp_katowice~nadl_kup~kosiarka_vogel_noot.zip (4.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_kup~hilux_opofn43.zip (4.0MB)
+px_dg~rdlp_katowice~nadl_kup~hilux_opofn43.zip
 
 
 
@@ -579,7 +578,7 @@ px_dg~rdlp_katowice~nadl_kup~hilux_opofn43.zip (4.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_kup~toyta_hilux_opo50s2.zip (4.0MB)
+px_dg~rdlp_katowice~nadl_kup~toyta_hilux_opo50s2.zip
 
 
 
@@ -588,7 +587,7 @@ px_dg~rdlp_katowice~nadl_kup~toyta_hilux_opo50s2.zip (4.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_kup~hilux_opo9gh5.zip (4.0MB)
+px_dg~rdlp_katowice~nadl_kup~hilux_opo9gh5.zip
 
 
 
@@ -597,7 +596,7 @@ px_dg~rdlp_katowice~nadl_kup~hilux_opo9gh5.zip (4.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_kup~sprzedaz_kosiarki_przetarg2.zip (3.0MB)
+px_dg~rdlp_katowice~nadl_kup~sprzedaz_kosiarki_przetarg2.zip
 
 
 
@@ -606,7 +605,7 @@ px_dg~rdlp_katowice~nadl_kup~sprzedaz_kosiarki_przetarg2.zip (3.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_kup~ogloszenie_badanie_bilansu.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_kup~ogloszenie_badanie_bilansu.pdf
 
 
 

@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -144,24 +143,8 @@ Komunikaty i ogłoszenia
 
 
 Komunikat
-Klauzula informacyjna dotyczaca danych osobowych w plikach do pobrania poniżej.
+Zapytanie ofertowe na obsługę dyzurów w PAD w roku 2021 (do pobrania poniżej)
  
-Komunikat z dnia 03.07.2020 r.
- 
-Nadleśnictwo Prudnik ogłasza nabór na stanowisko księgowej/go. Ogłoszenie oraz regulamin naboru na wolne stanowiska pracy w Nadleśnictwie Prudnik w plikach do pobrania.
- 
-
- 
- 
- 
-Komunikat z dnia 14.05.2020 r.
- 
-Zgodnie z Decyzją nr 7 Nadleśniczego Nadleśnictwa Prudnik z dnia 11.05.2020r. dniami wolnymi za święta przypadające w sobotę w Nadleśnictwie Prudnik ustalono: 
-
- 
-1. Dzień 14 sierpnia 2020r. za święto przypadające w sobotę tj. w dniu 15 sierpnia 2020r.
- 
-2. Dzień 24 grudnia 2020r. za święto przypadające w sobotę tj. w dniu 26 grudnia 2020r.
 
 
 
@@ -176,7 +159,7 @@ Pliki do pobrania - lista załączników
 
 .DOCX
 
-px_dg~rdlp_katowice~nadl_prudnik~1_klauzula_informacyjna_dotyczaca_danych_osobowych.docx (1.0MB)
+px_dg~rdlp_katowice~nadl_prudnik~1_klauzula_informacyjna_dotyczaca_danych_osobowych.docx
 
 
 
@@ -185,34 +168,7 @@ px_dg~rdlp_katowice~nadl_prudnik~1_klauzula_informacyjna_dotyczaca_danych_osobow
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_prudnik~decyzja_2020_07__z_dnia_11_05_2020.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_prudnik~ogloszenie_o_naborze_na_stanowisko_ksiegowej_go_.pdf (3.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_prudnik~regulamin_naboru_na_wolne_stanowiska_pracy_w_nadlesnictwie_prudnik.pdf (4.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_2020_28.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_prudnik~zapytanie_ofertowe___bip.pdf
 
 
 
@@ -234,7 +190,7 @@ px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_2020_28.pdf (1.0MB)
 Osoba odpowiedzialna za treść:
 Jarosław Myśliński- Nadleśniczy N-ctwa Prudnik
 
-Data modyfikacji: 2020/08/04 12:33:46
+Data modyfikacji: 2021/02/03 11:49:42
 Redaktor zatwierdzający: Rafał Kasza
 Wprowadzający: Rafał Kasza
 Deklaracja Dostępności

@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -207,7 +206,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_pustostanu_gdansk_spacerowa_2_4.pdf (2.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_pustostanu_gdansk_spacerowa_2_4.pdf
 
 
 
@@ -216,7 +215,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_pustostanu_gdansk_spacerowa
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zm.805.3.2020_decyzja_nr_15___cennik_detaliczny_od_1.07.2020.pdf (5.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zm.805.3.2020_decyzja_nr_15___cennik_detaliczny_od_1.07.2020.pdf
 
 
 
@@ -225,7 +224,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zm.805.3.2020_decyzja_nr_15___cennik_detaliczny_od
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2019.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2019.pdf
 
 
 
@@ -234,7 +233,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2019.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2018___aktualizacja.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2018___aktualizacja.pdf
 
 
 
@@ -243,7 +242,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2018___aktualizacja.pdf (1.0MB)
 
 .DOCX
 
-px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx
 
 
 
@@ -252,7 +251,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx (1.0MB)
 
 .DOCX
 
-px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx
 
 
 
@@ -261,7 +260,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_naborze_na_zamowienia_publiczne.pdf (3.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_naborze_na_zamowienia_publiczne.pdf
 
 
 
@@ -270,7 +269,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_naborze_na_zamowienia_publiczne.pdf (
 
 .DOC
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~formularz_oferty_cisowa_25.06.2019__002_.doc (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~formularz_oferty_cisowa_25.06.2019__002_.doc
 
 
 
@@ -279,7 +278,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~formularz_oferty_cisowa
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~mapa_6.06.2019.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~mapa_6.06.2019.pdf
 
 
 
@@ -288,7 +287,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~mapa_6.06.2019.pdf (1.0
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_dzierzawa_26.07.2019.pdf (2.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_dzierzawa_26.07.2019.pdf
 
 
 
@@ -297,7 +296,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_dzierzawa_26
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~projekt_umowy_26.07.2019.pdf (4.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~projekt_umowy_26.07.2019.pdf
 
 
 
@@ -306,7 +305,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~projekt_umowy_26.07.201
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_specjalista_ds._administracji.pdf (3.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_specjalista_ds._administracji.pdf
 
 
 
@@ -315,7 +314,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_specjalista_ds._administracji.pdf (3.0M
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_dla_kandydatow_do_pracy.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_dla_kandydatow_do_pracy.pdf
 
 
 
@@ -324,7 +323,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_d
 
 .DOCX
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.docx (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.docx
 
 
 
@@ -333,7 +332,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_siatki_lesnej_z_demontazu.pdf (2.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_siatki_lesnej_z_demontazu.pdf
 
 
 
@@ -342,7 +341,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_nieograniczonym_przetargu_21.09.2020.pdf (5.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_nieograniczonym_przetargu_21.09.2020.pdf
 
 
 
@@ -351,7 +350,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_nieograniczonym_przetargu_21.09.2020.
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_21.09.2020.pdf (2.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_21.09.2020.pdf
 
 
 
@@ -360,7 +359,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_21.09.2020.pdf (2.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_21.09.2020.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_21.09.2020.pdf
 
 
 
@@ -369,7 +368,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_21.09.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_21.09.2020.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_21.09.2020.pdf
 
 
 
@@ -378,7 +377,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_21.09.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_21.09.2020.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_21.09.2020.pdf
 
 
 
@@ -387,7 +386,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_21.09.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_5_21.09.2020.pdf (7.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_5_21.09.2020.pdf
 
 
 
@@ -396,7 +395,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_5_21.09.2020.pdf (7.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_6_21.09.2020.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_6_21.09.2020.pdf
 
 
 
@@ -405,7 +404,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_6_21.09.2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_7_21.09.2020.pdf (6.0MB)
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_7_21.09.2020.pdf
 
 
 

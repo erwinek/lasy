@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -156,12 +155,7 @@ Nadleśnictwo Lipusz ogłasza publiczny przetarg ofertowy na sprzedaż samochodu
  
  
 
-
- 
- 
- 
- 
-KOMUNIKAT NADLEŚNICZEGO NADEŚNICTWA LIPUSZ
+KOMUNIKAT NADLEŚNICZEGO NADLEŚNICTWA LIPUSZ
 W SPRAWIE ZAKAZU WSTĘPU DO LASU
  
  
@@ -232,7 +226,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o przetargu nieograniczonym ofertowym na sprzedaż samochodu marki Subaru Forester (1.0MB)
+Protokół z otwarcia ofert i rozstrzygnięcia przetargu na sprzedaż samochodu SUBARU FORESTER
 
 
 
@@ -241,7 +235,7 @@ Ogłoszenie o przetargu nieograniczonym ofertowym na sprzedaż samochodu marki S
 
 .PDF
 
-Opis stanu technicznego pojazdu Subaru Forester (1.0MB)
+Ogłoszenie o przetargu nieograniczonym ofertowym na sprzedaż samochodu marki Subaru Forester
 
 
 
@@ -250,7 +244,7 @@ Opis stanu technicznego pojazdu Subaru Forester (1.0MB)
 
 .PDF
 
-Dokumentacja fotograficzna pojazdu Subaru Forester (1.0MB)
+Opis stanu technicznego pojazdu Subaru Forester
 
 
 
@@ -259,7 +253,7 @@ Dokumentacja fotograficzna pojazdu Subaru Forester (1.0MB)
 
 .PDF
 
-Formularz ofertowy zakupu pojazdu Subaru Forester (1.0MB)
+Dokumentacja fotograficzna pojazdu Subaru Forester
 
 
 
@@ -268,7 +262,7 @@ Formularz ofertowy zakupu pojazdu Subaru Forester (1.0MB)
 
 .PDF
 
-Klauzula informacyjna dot. przetwarzania danych osobowych (1.0MB)
+Formularz ofertowy zakupu pojazdu Subaru Forester
 
 
 
@@ -277,7 +271,7 @@ Klauzula informacyjna dot. przetwarzania danych osobowych (1.0MB)
 
 .PDF
 
-Cennik sprzedaży detalicznej choinek świerka pospolitego wprowadzony Decyzją  nr 39/20 Nadleśniczego Nadleśnictwa Lipusz z dnia 07.12.2020r. (1.0MB)
+Klauzula informacyjna dot. przetwarzania danych osobowych
 
 
 
@@ -286,7 +280,7 @@ Cennik sprzedaży detalicznej choinek świerka pospolitego wprowadzony Decyzją 
 
 .PDF
 
-Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 15/20 z dnia 03.06.2020r. w sprawie wprowadzenia czasowego zakazu wstępu do lasu położonego na terenie Leśnictwa Kłodno w oddziale 233c (2.0MB)
+Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 15/20 z dnia 03.06.2020r. w sprawie wprowadzenia czasowego zakazu wstępu do lasu położonego na terenie Leśnictwa Kłodno w oddziale 233c
 
 
 
@@ -295,7 +289,7 @@ Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 15/20 z dnia 03.06.2020r. w spraw
 
 .PDF
 
-Opłaty za korzystanie z miejsc biwakowania Nadleśnictwa Lipusz oraz regulamin z ich korzystania (Decyzja nr 16/20 z dnia 04.06.2020r.) (1.0MB)
+Opłaty za korzystanie z miejsc biwakowania Nadleśnictwa Lipusz oraz regulamin z ich korzystania (Decyzja nr 16/20 z dnia 04.06.2020r.)
 
 
 
@@ -304,7 +298,7 @@ Opłaty za korzystanie z miejsc biwakowania Nadleśnictwa Lipusz oraz regulamin 
 
 .PDF
 
-Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 2/20 z dnia 29.01.2020r. w sprawie ustalenia opłat za korzystanie z gruntów Nadleśnictwa Lipusz oraz uszczegółowienia warunków zapewnienia dostępu oraz umieszczania obiektów i urządzeń infrastruktury telekomunikacyjnej na nieruchomościach zarządzanych przez Nadleśnictwo Lipusz (19.0MB)
+Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 2/20 z dnia 29.01.2020r. w sprawie ustalenia opłat za korzystanie z gruntów Nadleśnictwa Lipusz oraz uszczegółowienia warunków zapewnienia dostępu oraz umieszczania obiektów i urządzeń infrastruktury telekomunikacyjnej na nieruchomościach zarządzanych przez Nadleśnictwo Lipusz
 
 
 
@@ -313,7 +307,7 @@ Decyzja Nadleśniczego Nadleśnictwa Lipusz nr 2/20 z dnia 29.01.2020r. w sprawi
 
 .PDF
 
-Cennik sprzedaży drewna drobnym odbiorcom oraz sprzedaży "incydentalnej"(sprzedaż detaliczna)- Zarządzenie nr 50/20 z dnia 02.07.2020r.) (1.0MB)
+Cennik sprzedaży drewna drobnym odbiorcom oraz sprzedaży "incydentalnej"(sprzedaż detaliczna)- Zarządzenie nr 3/21 z dnia 08.01.2021r.)
 
 
 
@@ -322,7 +316,7 @@ Cennik sprzedaży drewna drobnym odbiorcom oraz sprzedaży "incydentalnej"(sprze
 
 .PDF
 
-Zarządzenie nr 12/20 z dnia 11.02.2020r.w sprawie sprzedaży detalicznej (5.0MB)
+Zarządzenie nr 2/21 z dnia 08.01.2021r. w sprawie sprzedaży detalicznej
 
 
 
@@ -331,7 +325,7 @@ Zarządzenie nr 12/20 z dnia 11.02.2020r.w sprawie sprzedaży detalicznej (5.0MB
 
 .DOCX
 
-Wniosek o przydział drewna opałowego (1.0MB)
+Wniosek o przydział drewna opałowego
 
 
 
@@ -340,7 +334,7 @@ Wniosek o przydział drewna opałowego (1.0MB)
 
 .DOCX
 
-Upoważnienie na zakup drewna (1.0MB)
+Upoważnienie na zakup drewna
 
 
 
@@ -349,7 +343,7 @@ Upoważnienie na zakup drewna (1.0MB)
 
 .PDF
 
-Decyzja nr 17/20 Nadleśniczego Nadleśnictwa Lipusz  z dnia 30.06.2020r. w sprawie wprowadzenia regulaminów korzystania z urządzeń infrastruktury turystycznej i edukacyjnej Nadleśnictwa Lipusz (1.0MB)
+Decyzja nr 17/20 Nadleśniczego Nadleśnictwa Lipusz  z dnia 30.06.2020r. w sprawie wprowadzenia regulaminów korzystania z urządzeń infrastruktury turystycznej i edukacyjnej Nadleśnictwa Lipusz
 
 
 
@@ -358,7 +352,7 @@ Decyzja nr 17/20 Nadleśniczego Nadleśnictwa Lipusz  z dnia 30.06.2020r. w spra
 
 .PDF
 
-Regulamin korzystania z miejsc postoju pojazdów Nadleśnictwa Lipusz (1.0MB)
+Regulamin korzystania z miejsc postoju pojazdów Nadleśnictwa Lipusz
 
 
 
@@ -367,7 +361,7 @@ Regulamin korzystania z miejsc postoju pojazdów Nadleśnictwa Lipusz (1.0MB)
 
 .PDF
 
-Regulamin korzystania ze ścieżek dydaktycznych Nadleśnictwa Lipusz (3.0MB)
+Regulamin korzystania ze ścieżek dydaktycznych Nadleśnictwa Lipusz
 
 
 
@@ -376,7 +370,7 @@ Regulamin korzystania ze ścieżek dydaktycznych Nadleśnictwa Lipusz (3.0MB)
 
 .PDF
 
-Regulamin korzystania ze szlaków pieszo-rowerowych Nadleśnictwa Lipusz (2.0MB)
+Regulamin korzystania ze szlaków pieszo-rowerowych Nadleśnictwa Lipusz
 
 
 
@@ -385,7 +379,7 @@ Regulamin korzystania ze szlaków pieszo-rowerowych Nadleśnictwa Lipusz (2.0MB)
 
 .PDF
 
-Regulamin korzystania z sali edukacyjnej Nadleśnictwa Lipusz (1.0MB)
+Regulamin korzystania z sali edukacyjnej Nadleśnictwa Lipusz
 
 
 
@@ -394,7 +388,7 @@ Regulamin korzystania z sali edukacyjnej Nadleśnictwa Lipusz (1.0MB)
 
 .PDF
 
-Wykaz zagrożeń występujących w lesie (1.0MB)
+Wykaz zagrożeń występujących w lesie
 
 
 
@@ -416,7 +410,7 @@ Wykaz zagrożeń występujących w lesie (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Maciej Kostka - Nadleśniczy Nadleśnictwa Lipusz
 
-Data modyfikacji: 2020/12/11 11:47:26
+Data modyfikacji: 2021/02/03 16:11:08
 Redaktor zatwierdzający: Bożena Suchy Lipińska
 Wprowadzający: Bożena Suchy Lipińska
 Deklaracja Dostępności

@@ -145,14 +145,6 @@ Aktualne ogłoszenia i komunikaty
 Nadleśnictwa Wejherowo
  
  
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku
-ZAPRASZA
-Zakłady Usług Leśnych do udziału w pilotażu realizowanym w ramach projektu
-"Rzetelne Przedsiębiorstwo Leśne"
-Działanie Budowa Modelu Certyfikacji Zakładów Usług Leśnych.
-Plik ogłoszenia  do pobrania poniżej.
- 
- 
  
 Sprzedaż drewna w biurze nadleśnictwa prowadzona jest codziennie od poniedziałku do piątku w godz. 800 – 1300  za wyjątkiem czterech pierwszych i ostatniego dnia roboczego miesiąca.
 Sprzedaż sadzonek prowadzona jest w Gospodarstwie Szkółkarskim Domatowo codziennie od poniedziałku do piątku w godz. 800 – 1400 . Zalecany wcześniejszy kontakt z leśniczym. Numer telefonu 692 406 471.
@@ -172,7 +164,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie - przetarg sprzedaż komputerów
+Cennik detaliczny 2021 r.
 
 
 
@@ -181,88 +173,7 @@ Ogłoszenie - przetarg sprzedaż komputerów
 
 .PDF
 
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr III
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020r. - nr II
-
-
-
-
-
-
-.PDF
-
-Protokół z rozstrzygnięcia przetargu na dzierżawę nieruchomości
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu na dzierżawę nieruchomości gruntowych 2020 r.
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu na dzierżawę gruntów rolnych 2020 r.
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu na dzierżawę gruntów rolnych
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o sprzedaży siatki ogrodzeniowej
-
-
-
-
-
-
-.PDF
-
-Przetarg dzierżawa nieruchomości gruntowych
-
-
-
-
-
-
-.PDF
-
-Cennik detaliczny 2020 r.
-
-
-
-
-
-
-.PDF
-
-Regulamin sprzedaży drewna.
+Regulamin sprzedaży drewna
 
 
 
@@ -289,43 +200,7 @@ Wniosek o udostępnienie informacji publicznej / o środowisku.
 
 .PDF
 
-Inwentaryzacja stanu lasu.
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie-Rzetelne Przedsiębiorstwo Leśne.
-
-
-
-
-
-
-.PDF
-
-Przetarg na dzierżawę gruntów z przeznaczeniem na obsługę ruchu turystycznego.
-
-
-
-
-
-
-.PDF
-
-Plan postępowań o udzielenie zamówień zgodnie z art. 13a na rok 2018.
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych
+Inwentaryzacja stanu lasu
 
 
 
@@ -347,7 +222,7 @@ Ogłoszenie II o przetargu nieograniczonym na sprzedaż urządzeń komputerowych
 Osoba odpowiedzialna za treść:
 Jacek Szulc
 
-Data modyfikacji: 2021/01/14 09:03:48
+Data modyfikacji: 2021/02/02 08:03:05
 Redaktor zatwierdzający: Gabriela Gaffke
 Wprowadzający: Gabriela Gaffke
 Deklaracja Dostępności
