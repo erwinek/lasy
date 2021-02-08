@@ -158,10 +158,10 @@ I PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2019 ZNAJDUJE SIĘ W PLIKU PONIŻ
 II Ogłoszenie o wyborze najkorzystniejszej oferty L. Matemblewo - w pliku poniżej
 III Ogłoszenie o wyborze najkorzystniejszej oferty L. Wyspowo - w pliku poniżej
 IV PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SIĘ W PLIKU PONIŻEJ
-V Ogłoszenie o nieograniczonym przetargu ofertowym - L.Cisowa - w plikach poniżej
-VI Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
-VII Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
-VIII Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawę terenów inwestycyjnych w Redzie
+V Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
+VI Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
+VII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
+ 
  
 
 
@@ -267,42 +267,6 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_naborze_na_zamowienia_publiczne.pdf
 
 
 
-.DOC
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~formularz_oferty_cisowa_25.06.2019__002_.doc
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~mapa_6.06.2019.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_dzierzawa_26.07.2019.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~projekt_umowy_26.07.2019.pdf
-
-
-
-
-
-
 .PDF
 
 px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_specjalista_ds._administracji.pdf
@@ -341,7 +305,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_nieograniczonym_przetargu_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_przetargu_na_sprzedaz_nieruchomosci_ul._boguckiego_08.02.2021.pdf
 
 
 
@@ -350,7 +314,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_nieograniczonym_przetargu_21.09.2020.
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~warunki_przetargu_na_sprzedaz_nieruchomosci_ul._boguckiego_08.02.2021.pdf
 
 
 
@@ -359,7 +323,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_ogloszenia_08.02.2021.pdf
 
 
 
@@ -368,7 +332,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_warunkow_08.02.2021.pdf
 
 
 
@@ -377,7 +341,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_ogloszenia_08.02.2021.pdf
 
 
 
@@ -386,7 +350,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_5_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_warunkow_08.02.2021.pdf
 
 
 
@@ -395,7 +359,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_5_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_6_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_do_ogloszenia_08.02.2021.pdf
 
 
 
@@ -404,7 +368,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_6_21.09.2020.pdf
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_7_21.09.2020.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_08.02.2021.pdf
 
 
 
@@ -426,9 +390,9 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_7_21.09.2020.pdf
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2020/09/22 12:41:52
-Redaktor zatwierdzający: Łukasz Plonus
-Wprowadzający: Martyna Pojawa
+Data modyfikacji: 2021/02/08 10:41:00
+Redaktor zatwierdzający: Ewelina Sobańska
+Wprowadzający: Ewelina Sobańska
 Deklaracja Dostępności
 
 
