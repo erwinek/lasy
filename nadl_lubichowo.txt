@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -172,6 +171,14 @@ Dodatkowych informacji udziela Pani Wiktoria Burdon pod numerem telefonu 600 020
 SPRZEDAŻ SPRZĘTU KOMPUTEROWEGO
  
 Nadleśnictwo Lubichowo podaje ogłoszenie o sprzedaży sprzętu komputerowego (załączniki poniżej). Szczegółowych informacji udziela Pan Maciej Jodko pod numerem telefony /58/ 58 85 474.
+ 
+ 
+
+ 
+
+OGŁOSZENIE O DZIERŻAWIE MIEJSCA TURYSTYCZNEGO
+Nadleśnictwo Lubichowo ogłasza pisemny przetarg nieograniczony na dzierżawę nieruchomości gruntowej położonej w miejscowości Wdecki Młyn, pod obsługę ruchu turystycznego. Wszelkie załączniki poniżej.
+
 
  
  
@@ -194,7 +201,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-RODO-klauzula informacyjna. (1.0MB)
+RODO-klauzula informacyjna.
 
 
 
@@ -203,7 +210,7 @@ RODO-klauzula informacyjna. (1.0MB)
 
 .PDF
 
-Cennik detaliczny-sprzedaż drewna 2020 rok (1.0MB)
+Cennik detaliczny-sprzedaż drewna 2020 rok
 
 
 
@@ -212,7 +219,7 @@ Cennik detaliczny-sprzedaż drewna 2020 rok (1.0MB)
 
 .PDF
 
-Zarządzenie w sprawie sprzedaży sadzonek w 2020 roku (1.0MB)
+Zarządzenie w sprawie sprzedaży sadzonek w 2020 roku
 
 
 
@@ -221,7 +228,7 @@ Zarządzenie w sprawie sprzedaży sadzonek w 2020 roku (1.0MB)
 
 .PDF
 
-Cennik sprzedaży sadzonek w 2020 roku (1.0MB)
+Cennik sprzedaży sadzonek w 2020 roku
 
 
 
@@ -230,7 +237,7 @@ Cennik sprzedaży sadzonek w 2020 roku (1.0MB)
 
 .PDF
 
-Oferta cenowa na sprzedaż polowań w sezonie 2020/2021 w OHZ LP 262 (4.0MB)
+Oferta cenowa na sprzedaż polowań w sezonie 2020/2021 w OHZ LP 262
 
 
 
@@ -239,7 +246,7 @@ Oferta cenowa na sprzedaż polowań w sezonie 2020/2021 w OHZ LP 262 (4.0MB)
 
 .ZIP
 
-Sprzedaż sprzętu komputerowego-dokumentacja (1.0MB)
+Sprzedaż sprzętu komputerowego-dokumentacja
 
 
 
@@ -248,7 +255,7 @@ Sprzedaż sprzętu komputerowego-dokumentacja (1.0MB)
 
 .PDF
 
-Ogłoszenie o sprzedaży samochodu Nissan navara (1.0MB)
+Ogłoszenie o sprzedaży samochodu Nissan navara
 
 
 
@@ -257,7 +264,7 @@ Ogłoszenie o sprzedaży samochodu Nissan navara (1.0MB)
 
 .PDF
 
-Zał. nr 1-Opis techniczny (1.0MB)
+Zał. nr 1-Opis techniczny
 
 
 
@@ -266,7 +273,7 @@ Zał. nr 1-Opis techniczny (1.0MB)
 
 .PDF
 
-Zał. nr 2-Dokumentacja fotograficzna (2.0MB)
+Zał. nr 2-Dokumentacja fotograficzna
 
 
 
@@ -275,7 +282,7 @@ Zał. nr 2-Dokumentacja fotograficzna (2.0MB)
 
 .PDF
 
-Zał. nr 3-Formularz ofertowy (1.0MB)
+Zał. nr 3-Formularz ofertowy
 
 
 
@@ -284,7 +291,43 @@ Zał. nr 3-Formularz ofertowy (1.0MB)
 
 .PDF
 
-Zał. nr 4-Klauzula informacyjna (1.0MB)
+Zał. nr 4-Klauzula informacyjna
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie o dzierżawie we Wdeckim Młynie
+
+
+
+
+
+
+.PDF
+
+Zał. nr 1 Mapa sytuacyjna- Wdecki Młyn
+
+
+
+
+
+
+.DOC
+
+Zał. nr 2 Formularz ofertowy- Wdecki Młyn
+
+
+
+
+
+
+.PDF
+
+Zał. nr 3 Wzór umowy i protokołu- Wdecki Młyn
 
 
 
@@ -306,7 +349,7 @@ Zał. nr 4-Klauzula informacyjna (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Mariusz Krysiak
 
-Data modyfikacji: 2020/12/01 08:32:01
+Data modyfikacji: 2021/02/12 11:35:47
 Redaktor zatwierdzający: Radosława Krysiak
 Wprowadzający: Radosława Krysiak
 Deklaracja Dostępności

@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -157,7 +156,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie o sprzedaży działki ewidencyjnej nr 497, obręb Bistuszowa, gmina Ryglice (2.0MB)
+Ogłoszenie o sprzedaży działki ewidencyjnej nr 497, obręb Bistuszowa, gmina Ryglice
 
 
 
@@ -166,7 +165,7 @@ Ogłoszenie o sprzedaży działki ewidencyjnej nr 497, obręb Bistuszowa, gmina 
 
 .PDF
 
-Informacja o zamianie gruntów (zniesienie współwłasności) z dn. 29.07.2019r. (1.0MB)
+Informacja o zamianie gruntów (zniesienie współwłasności) z dn. 29.07.2019r.
 
 
 
@@ -175,7 +174,7 @@ Informacja o zamianie gruntów (zniesienie współwłasności) z dn. 29.07.2019r
 
 .ZIP
 
-Ogłoszenie z dn. 23.01.2019 r. o sprzedaży środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019 (3.0MB)
+Ogłoszenie z dn. 23.01.2019 r. o sprzedaży środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019
 
 
 
@@ -184,7 +183,7 @@ Ogłoszenie z dn. 23.01.2019 r. o sprzedaży środków trwałych (telefony komó
 
 .PDF
 
-Informacja z dn. 20.02.2019 r. dotycząca przetargu pisemnego na sprzedaż środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019 (4.0MB)
+Informacja z dn. 20.02.2019 r. dotycząca przetargu pisemnego na sprzedaż środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019
 
 
 
@@ -193,7 +192,7 @@ Informacja z dn. 20.02.2019 r. dotycząca przetargu pisemnego na sprzedaż środ
 
 .PDF
 
-Ogłoszenie z dn.08.03.2019 r. o sprzedaży składników majątku, zn.spr.:SA.804.2.2019 (5.0MB)
+Ogłoszenie z dn.08.03.2019 r. o sprzedaży składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -202,7 +201,7 @@ Ogłoszenie z dn.08.03.2019 r. o sprzedaży składników majątku, zn.spr.:SA.80
 
 .PDF
 
-Informacja o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019 (1.0MB)
+Informacja o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -211,7 +210,7 @@ Informacja o wynikach przeprowadzonego przetargu na sprzedaż składników mają
 
 .PDF
 
-Ogłoszenie z dn. 02.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (5.0MB)
+Ogłoszenie z dn. 02.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
 
 
 
@@ -220,7 +219,7 @@ Ogłoszenie z dn. 02.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (5
 
 .PDF
 
-Informacja z dn. 17.04.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019 (1.0MB)
+Informacja z dn. 17.04.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -229,7 +228,7 @@ Informacja z dn. 17.04.2019 r. o wynikach przeprowadzonego przetargu na sprzeda�
 
 .PDF
 
-Ogłoszenie z dn. 18.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4.0MB)
+Ogłoszenie z dn. 18.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
 
 
 
@@ -238,7 +237,7 @@ Ogłoszenie z dn. 18.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4
 
 .PDF
 
-Informacja z dn. 07.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019 (1.0MB)
+Informacja z dn. 07.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -247,7 +246,7 @@ Informacja z dn. 07.05.2019 r. o wynikach przeprowadzonego przetargu na sprzeda�
 
 .PDF
 
-Ogłoszenie z dn. 17.05.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4.0MB)
+Ogłoszenie z dn. 17.05.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
 
 
 
@@ -256,7 +255,7 @@ Ogłoszenie z dn. 17.05.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4
 
 .PDF
 
-Informacja z dn. 31.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019 (1.0MB)
+Informacja z dn. 31.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -265,7 +264,7 @@ Informacja z dn. 31.05.2019 r. o wynikach przeprowadzonego przetargu na sprzeda�
 
 .PDF
 
-Ogłoszenie z dn. 04.06.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4.0MB)
+Ogłoszenie z dn. 04.06.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
 
 
 
@@ -274,7 +273,7 @@ Ogłoszenie z dn. 04.06.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019 (4
 
 .PDF
 
-Informacja z dn.01.07.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019 (1.0MB)
+Informacja z dn.01.07.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
 
 
 
@@ -283,7 +282,7 @@ Informacja z dn.01.07.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż
 
 .PDF
 
-px_dg~rdlp_krakow~nadl_gromnik~klauzula_informacyjna_nadlesnictwa_gromnik_o_ochronie_danych_osobowych_przetwarzanych_w_zwiazku_z_zapobieganiem_i_zwalczaniem_przestepczosci.pdf (1.0MB)
+px_dg~rdlp_krakow~nadl_gromnik~klauzula_informacyjna_nadlesnictwa_gromnik_o_ochronie_danych_osobowych_przetwarzanych_w_zwiazku_z_zapobieganiem_i_zwalczaniem_przestepczosci.pdf
 
 
 
@@ -292,7 +291,7 @@ px_dg~rdlp_krakow~nadl_gromnik~klauzula_informacyjna_nadlesnictwa_gromnik_o_ochr
 
 .PDF
 
-Ogłoszenie Zn. spr.ZG.804.9.2020 z dnia 11.08.2020 r. o sprzedaży używanych środków trwałych (1.0MB)
+Ogłoszenie Zn. spr.ZG.804.9.2020 z dnia 11.08.2020 r. o sprzedaży używanych środków trwałych
 
 
 
@@ -301,7 +300,7 @@ Ogłoszenie Zn. spr.ZG.804.9.2020 z dnia 11.08.2020 r. o sprzedaży używanych �
 
 .DOCX
 
-Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
+Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020
 
 
 
@@ -310,7 +309,7 @@ Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
 
 .PDF
 
-Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020 (1.0MB)
+Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020
 
 
 
@@ -319,7 +318,7 @@ Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020 (1.0MB)
 
 .PDF
 
-ZG.804.9.2020-Informacja z otwarcia ofert złożonych w przetargu pisemnym na sprzedaż używanych środków trwałych (1.0MB)
+ZG.804.9.2020-Informacja z otwarcia ofert złożonych w przetargu pisemnym na sprzedaż używanych środków trwałych
 
 
 
@@ -328,7 +327,7 @@ ZG.804.9.2020-Informacja z otwarcia ofert złożonych w przetargu pisemnym na sp
 
 .PDF
 
-Ogłoszenie Zn.spr.804.9.2020 z dnia 02.09.2020 r. o sprzedaży używanych środków trwałych (drugie postępowanie) (1.0MB)
+Ogłoszenie Zn.spr.804.9.2020 z dnia 02.09.2020 r. o sprzedaży używanych środków trwałych (drugie postępowanie)
 
 
 
@@ -337,7 +336,7 @@ Ogłoszenie Zn.spr.804.9.2020 z dnia 02.09.2020 r. o sprzedaży używanych środ
 
 .DOCX
 
-Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
+Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020
 
 
 
@@ -346,7 +345,7 @@ Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.9.2020 (1.0MB)
 
 .PDF
 
-Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020 (1.0MB)
+Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020
 
 
 
@@ -355,7 +354,7 @@ Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.9.2020 (1.0MB)
 
 .PDF
 
-Informacja z otwarcia ofert złożonych w drugim postępowaniu na sprzedaż używanych środków trwałych (1.0MB)
+Informacja z otwarcia ofert złożonych w drugim postępowaniu na sprzedaż używanych środków trwałych
 
 
 
@@ -364,7 +363,7 @@ Informacja z otwarcia ofert złożonych w drugim postępowaniu na sprzedaż uży
 
 .PDF
 
-Ogłoszenie Zn.spr.ZG.804.10.2020 z dnia 30.11.2020 r. o sprzedaży składników majątku (dachówka z rozbiórki) (1.0MB)
+Ogłoszenie Zn.spr.ZG.804.10.2020 z dnia 30.11.2020 r. o sprzedaży składników majątku (dachówka z rozbiórki)
 
 
 
@@ -373,7 +372,7 @@ Ogłoszenie Zn.spr.ZG.804.10.2020 z dnia 30.11.2020 r. o sprzedaży składników
 
 .DOCX
 
-Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.10.2020 - Formularz oferty (1.0MB)
+Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.10.2020 - Formularz oferty
 
 
 
@@ -382,7 +381,7 @@ Załącznik nr 1 do ogłoszenia Zn.spr.:ZG.804.10.2020 - Formularz oferty (1.0MB
 
 .PDF
 
-Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.10.2020 - Realizacja obowiązku informacyjnego o ochronie danych osobowych (1.0MB)
+Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.10.2020 - Realizacja obowiązku informacyjnego o ochronie danych osobowych
 
 
 
@@ -391,7 +390,34 @@ Załącznik nr 2 do ogłoszenia Zn. spr.ZG.804.10.2020 - Realizacja obowiązku i
 
 .PDF
 
-ZG.804.10.2020 - Informacja z otwarcia ofert złożonych w przetargu pisemnym na sprzedaż dachówki z rozbiórki (1.0MB)
+ZG.804.10.2020 - Informacja z otwarcia ofert złożonych w przetargu pisemnym na sprzedaż dachówki z rozbiórki
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie z dnia 15.02.2021 r. o sprzedaży używanych środków trwałych
+
+
+
+
+
+
+.DOCX
+
+Załącznik nr 1 - Formularz oferty
+
+
+
+
+
+
+.PDF
+
+Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobowych
 
 
 
@@ -411,9 +437,9 @@ ZG.804.10.2020 - Informacja z otwarcia ofert złożonych w przetargu pisemnym na
 
 
 Osoba odpowiedzialna za treść:
-Nadleśniczy <br>mgr inż. Eugeniusz Piech
+Nadleśniczy <br>mgr inż. Grzegorz Wojtanowski
 
-Data modyfikacji: 2020/12/10 08:36:19
+Data modyfikacji: 2021/02/16 14:52:20
 Redaktor zatwierdzający: Katarzyna Szczecina
 Wprowadzający: Piotr Pogoda
 Deklaracja Dostępności

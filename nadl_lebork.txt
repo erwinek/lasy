@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -161,9 +160,27 @@ Pliki do pobrania - lista załączników
 
 
 
+.PDF
+
+Ogłoszenie o przetargu na pomieszczenia użytkowe
+
+
+
+
+
+
 .ZIP
 
-Ogłoszenie na dzierżawę gruntu rolnego dz. 202/12L obr. ew. Osowo (1.0MB)
+Ogłoszenie na dzierżawę gruntu rolnego dz. 95/23L obr. Leśnice
+
+
+
+
+
+
+.ZIP
+
+Ogłoszenie na dzierżawę gruntu rolnego dz. 202/12L obr. ew. Osowo
 
 
 
@@ -172,7 +189,7 @@ Ogłoszenie na dzierżawę gruntu rolnego dz. 202/12L obr. ew. Osowo (1.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu na sprzedaż uszkodzonej kamery (1.0MB)
+Plan postępowań o udzielenie zamówień publicznych w 2020 r.
 
 
 
@@ -181,7 +198,7 @@ Ogłoszenie o przetargu na sprzedaż uszkodzonej kamery (1.0MB)
 
 .PDF
 
-Cennik na drewno i stroisz (2.0MB)
+Zarządzenie nr 8 DGLP z dnia 27.01.2010r. w sprawie ustalenia zasad i trybu udostępniania informacji przez PGL LP
 
 
 
@@ -190,7 +207,7 @@ Cennik na drewno i stroisz (2.0MB)
 
 .PDF
 
-Plan postępowań o udzielenie zamówień publicznych w 2020 r. (1.0MB)
+Załącznik do Zarządzenie nr 8 DGLP z dnia 27.01.2010r. - Zasady udostępniania informacji przez jednostki organizacyjne Lasów Państwowych
 
 
 
@@ -199,7 +216,7 @@ Plan postępowań o udzielenie zamówień publicznych w 2020 r. (1.0MB)
 
 .PDF
 
-Zarządzenie nr 8 DGLP z dnia 27.01.2010r. w sprawie ustalenia zasad i trybu udostępniania informacji przez PGL LP (1.0MB)
+RODO - klauzula informacyjna
 
 
 
@@ -208,7 +225,7 @@ Zarządzenie nr 8 DGLP z dnia 27.01.2010r. w sprawie ustalenia zasad i trybu udo
 
 .PDF
 
-Załącznik do Zarządzenie nr 8 DGLP z dnia 27.01.2010r. - Zasady udostępniania informacji przez jednostki organizacyjne Lasów Państwowych (1.0MB)
+OBOWIĄZUJĄCE UWARUNKOWANIA PRAWNE DOTYCZĄCE ZAMIANY GRUNTÓW
 
 
 
@@ -217,7 +234,7 @@ Załącznik do Zarządzenie nr 8 DGLP z dnia 27.01.2010r. - Zasady udostępniani
 
 .PDF
 
-RODO - klauzula informacyjna (1.0MB)
+Ogłoszenie - Rzetelne Przedsiębiorstwo Leśne
 
 
 
@@ -226,7 +243,7 @@ RODO - klauzula informacyjna (1.0MB)
 
 .PDF
 
-OBOWIĄZUJĄCE UWARUNKOWANIA PRAWNE DOTYCZĄCE ZAMIANY GRUNTÓW (1.0MB)
+Pismo Ministra Środowiska w sprawie rozpoczęcia wykonania Wielkoobszarowej Inwentaryzacji Stanu Lasu w kraju w latach 2015-2019
 
 
 
@@ -235,25 +252,7 @@ OBOWIĄZUJĄCE UWARUNKOWANIA PRAWNE DOTYCZĄCE ZAMIANY GRUNTÓW (1.0MB)
 
 .PDF
 
-Ogłoszenie - Rzetelne Przedsiębiorstwo Leśne (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Pismo Ministra Środowiska w sprawie rozpoczęcia wykonania Wielkoobszarowej Inwentaryzacji Stanu Lasu w kraju w latach 2015-2019 (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Ramowe zasady rozpatrywania reklamacji na surowiec drzewny na terenie RDLP w Gdańsku (1.0MB)
+Ramowe zasady rozpatrywania reklamacji na surowiec drzewny na terenie RDLP w Gdańsku
 
 
 
@@ -275,9 +274,9 @@ Ramowe zasady rozpatrywania reklamacji na surowiec drzewny na terenie RDLP w Gda
 Osoba odpowiedzialna za treść:
 mgr inż. Jan Dominiecki - Nadleśniczy
 
-Data modyfikacji: 2020/12/10 14:48:44
+Data modyfikacji: 2021/02/12 11:27:40
 Redaktor zatwierdzający: Jolanta Noryśkiewicz
-Wprowadzający: Anetta Jereczek
+Wprowadzający: Jolanta Noryśkiewicz
 Deklaracja Dostępności
 
 

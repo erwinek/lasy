@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -157,7 +156,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Informacja o dokonanym wyborze na wolne stanowiska pracy. (1.0MB)
+Informacja o dokonanym wyborze na wolne stanowiska pracy.
 
 
 
@@ -166,7 +165,7 @@ Informacja o dokonanym wyborze na wolne stanowiska pracy. (1.0MB)
 
 .PDF
 
-Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020). Przetarg II. (1.0MB)
+Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020). Przetarg II.
 
 
 
@@ -175,7 +174,7 @@ Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020). Przetarg
 
 .PDF
 
-Załącznik nr 1. Wykaz przedmiotów sprzedaży (SA.243.4.2020). Przetarg II. (1.0MB)
+Załącznik nr 1. Wykaz przedmiotów sprzedaży (SA.243.4.2020). Przetarg II.
 
 
 
@@ -184,7 +183,7 @@ Załącznik nr 1. Wykaz przedmiotów sprzedaży (SA.243.4.2020). Przetarg II. (1
 
 .DOC
 
-Załącznik nr 2. Formularz ofertowy (SA.234.4.2020). Przetarg II. (1.0MB)
+Załącznik nr 2. Formularz ofertowy (SA.234.4.2020). Przetarg II.
 
 
 
@@ -193,7 +192,7 @@ Załącznik nr 2. Formularz ofertowy (SA.234.4.2020). Przetarg II. (1.0MB)
 
 .PDF
 
-Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020) (1.0MB)
+Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020)
 
 
 
@@ -202,7 +201,7 @@ Ogłoszenie - sprzedaż używanych środków trwałych (SA.243.4.2020) (1.0MB)
 
 .PDF
 
-Załączni nr 2. Wykaz przedmiotów sprzedaży (SA.234.4.2020) (1.0MB)
+Załączni nr 2. Wykaz przedmiotów sprzedaży (SA.234.4.2020)
 
 
 
@@ -211,7 +210,7 @@ Załączni nr 2. Wykaz przedmiotów sprzedaży (SA.234.4.2020) (1.0MB)
 
 .DOC
 
-Załącznik nr 2. Formularz ofertowy (SA.234.4.2020) (1.0MB)
+Załącznik nr 2. Formularz ofertowy (SA.234.4.2020)
 
 
 
@@ -220,7 +219,7 @@ Załącznik nr 2. Formularz ofertowy (SA.234.4.2020) (1.0MB)
 
 .PDF
 
-Ogłoszenie o sprzedaży używanych środków trwałych (Znak spr. SA.234.2.2020) (2.0MB)
+Ogłoszenie o sprzedaży używanych środków trwałych (Znak spr. SA.234.2.2020)
 
 
 
@@ -229,7 +228,7 @@ Ogłoszenie o sprzedaży używanych środków trwałych (Znak spr. SA.234.2.2020
 
 .PDF
 
-Ogłoszenie o sprzedaży używanych środków trwałych. (3.0MB)
+Ogłoszenie o sprzedaży używanych środków trwałych.
 
 
 
@@ -238,7 +237,7 @@ Ogłoszenie o sprzedaży używanych środków trwałych. (3.0MB)
 
 .PDF
 
-Ogłoszenie o sprzedaży używanych środków trwałych i przedmiotów w ewidencji ilościowej. (2.0MB)
+Ogłoszenie o sprzedaży używanych środków trwałych i przedmiotów w ewidencji ilościowej.
 
 
 
@@ -247,7 +246,7 @@ Ogłoszenie o sprzedaży używanych środków trwałych i przedmiotów w ewidenc
 
 .PDF
 
-Ogłoszenie o zamiarze przeprowadzenia transakcji zamiany nieruchomości z jednostką samorządu terytorialnego. (1.0MB)
+Ogłoszenie o zamiarze przeprowadzenia transakcji zamiany nieruchomości z jednostką samorządu terytorialnego.
 
 
 
@@ -256,7 +255,7 @@ Ogłoszenie o zamiarze przeprowadzenia transakcji zamiany nieruchomości z jedno
 
 .PDF
 
- Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż używanych środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.4.2017. (2.0MB)
+ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż używanych środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.4.2017.
 
 
 
@@ -265,7 +264,7 @@ Ogłoszenie o zamiarze przeprowadzenia transakcji zamiany nieruchomości z jedno
 
 .PDF
 
-Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.3.2017. (2.0MB)
+Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.3.2017.
 
 
 
@@ -274,7 +273,7 @@ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i prz
 
 .PDF
 
-Ogłoszenie o sprzedaży samochodu Suzuki Jimny. (1.0MB)
+Ogłoszenie o sprzedaży samochodu Suzuki Jimny.
 
 
 
@@ -283,7 +282,7 @@ Ogłoszenie o sprzedaży samochodu Suzuki Jimny. (1.0MB)
 
 .PDF
 
-Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.2.2016. (2.0MB)
+Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilościowej. Znak sprawy: SA.234.2.2016.
 
 
 
@@ -292,7 +291,7 @@ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i prz
 
 .PDF
 
- Ogłoszenie o sprzedaży koparko-ładowarki K-162 Ursus Ostrówek - II. (1.0MB)
+ Ogłoszenie o sprzedaży koparko-ładowarki K-162 Ursus Ostrówek - II.
 
 
 
@@ -301,7 +300,7 @@ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i prz
 
 .PDF
 
- Ogłoszenie o sprzedaży koparko-ładowarki K-162 Ursus Ostrówek. (1.0MB)
+ Ogłoszenie o sprzedaży koparko-ładowarki K-162 Ursus Ostrówek.
 
 
 
@@ -310,7 +309,7 @@ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i prz
 
 .PDF
 
-Ogłoszenie o wynikach negocjacji cenowych na dzierżawę działki w Szczawniku. (1.0MB)
+Ogłoszenie o wynikach negocjacji cenowych na dzierżawę działki w Szczawniku.
 
 
 
@@ -319,7 +318,7 @@ Ogłoszenie o wynikach negocjacji cenowych na dzierżawę działki w Szczawniku.
 
 .PDF
 
-Ogłoszenie o negocjacjach cenowych na dzierżawę działki w Szczawniku. (4.0MB)
+Ogłoszenie o negocjacjach cenowych na dzierżawę działki w Szczawniku.
 
 
 
@@ -328,7 +327,7 @@ Ogłoszenie o negocjacjach cenowych na dzierżawę działki w Szczawniku. (4.0MB
 
 .PDF
 
-Informacja o wynikach przetargu na dzierżawę gruntu w obręb. ewid. Szczawnik nr działki 53/9 o pow. 0.14 ha. (1.0MB)
+Informacja o wynikach przetargu na dzierżawę gruntu w obręb. ewid. Szczawnik nr działki 53/9 o pow. 0.14 ha.
 
 
 
@@ -337,7 +336,7 @@ Informacja o wynikach przetargu na dzierżawę gruntu w obręb. ewid. Szczawnik 
 
 .PDF
 
-Informacja o wynikach sprzedaży w drodze negocjacji cenowej 1 nieruchomości lokalowej zlokalizowanej w Muszynie przy ulicy Kity 24 (1.0MB)
+Informacja o wynikach sprzedaży w drodze negocjacji cenowej 1 nieruchomości lokalowej zlokalizowanej w Muszynie przy ulicy Kity 24
 
 
 
@@ -346,7 +345,7 @@ Informacja o wynikach sprzedaży w drodze negocjacji cenowej 1 nieruchomości lo
 
 .PDF
 
-Ogłoszenie o przetargu nieograniczonym na dzierżawę gruntu rolnego Skarbu Państwa w zarządzie Nadleśnictwa Piwniczna w celu użytkowania komercyjnego w gminie Muszyna w obręb. ewid. Szczawnik nr działki 53/9 o pow. 0.14 ha. (4.0MB)
+Ogłoszenie o przetargu nieograniczonym na dzierżawę gruntu rolnego Skarbu Państwa w zarządzie Nadleśnictwa Piwniczna w celu użytkowania komercyjnego w gminie Muszyna w obręb. ewid. Szczawnik nr działki 53/9 o pow. 0.14 ha.
 
 
 
@@ -355,7 +354,7 @@ Ogłoszenie o przetargu nieograniczonym na dzierżawę gruntu rolnego Skarbu Pa�
 
 .PDF
 
-Ogłoszenie w sprawie sprzedaży w drodze negocjacji cenowej 1 nieruchomości lokalowej zlokalizowanej w Muszynie przy ulicy Kity 24. (1.0MB)
+Ogłoszenie w sprawie sprzedaży w drodze negocjacji cenowej 1 nieruchomości lokalowej zlokalizowanej w Muszynie przy ulicy Kity 24.
 
 
 
@@ -364,7 +363,7 @@ Ogłoszenie w sprawie sprzedaży w drodze negocjacji cenowej 1 nieruchomości lo
 
 .PDF
 
-Informacja o wyniku przetargu na sprzedaż lokali mieszkalnych przy ul Kity 24, 33-370 Muszyna. (1.0MB)
+Informacja o wyniku przetargu na sprzedaż lokali mieszkalnych przy ul Kity 24, 33-370 Muszyna.
 
 
 
@@ -373,7 +372,7 @@ Informacja o wyniku przetargu na sprzedaż lokali mieszkalnych przy ul Kity 24, 
 
 .PDF
 
-Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilosciowej. (2.0MB)
+Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i przedmiotów w ewidencji ilosciowej.
 
 
 
@@ -382,7 +381,7 @@ Ogłoszenie o przetargu (zbieranie ofert) na sprzedaż środków trwałych i prz
 
 .PDF
 
-Ogłoszenie o sprzedaży / II przetarg / dwóch lokali mieszkalnych zlokalizowanych w Muszynie przy ul. Kity 24 z dnia 22.06.2015 r. (1.0MB)
+Ogłoszenie o sprzedaży / II przetarg / dwóch lokali mieszkalnych zlokalizowanych w Muszynie przy ul. Kity 24 z dnia 22.06.2015 r.
 
 
 
@@ -391,7 +390,7 @@ Ogłoszenie o sprzedaży / II przetarg / dwóch lokali mieszkalnych zlokalizowan
 
 .PDF
 
-Ogłoszenie o sprzedaży dwóch lokali mieszkalnych zlokalizowanych w Muszynie przy ul. Kity 24 z dnia 15.04.2015 r. (1.0MB)
+Ogłoszenie o sprzedaży dwóch lokali mieszkalnych zlokalizowanych w Muszynie przy ul. Kity 24 z dnia 15.04.2015 r.
 
 
 
@@ -400,7 +399,7 @@ Ogłoszenie o sprzedaży dwóch lokali mieszkalnych zlokalizowanych w Muszynie p
 
 .PDF
 
-Sprzedaż pustostanów. (1.0MB)
+Sprzedaż pustostanów.
 
 
 
@@ -409,7 +408,7 @@ Sprzedaż pustostanów. (1.0MB)
 
 .PDF
 
-Nieruchomości zbywane i nabywane przez PGL LP Nadleśnictwo Piwniczna. (1.0MB)
+Nieruchomości zbywane i nabywane przez PGL LP Nadleśnictwo Piwniczna.
 
 
 

@@ -141,6 +141,10 @@ Komunikaty i ogłoszenia
 
 
 
+ Sprzedaż używanych środków trwałych wycofanych z eksploatacji
+ 
+Ogłoszenie o sprzedaży wraz z formularzem ofertowym  znajduje sie poniżej w załączeniu. 
+
  
  Informacje dotyczące sprzedaży drewna i innych produktów umieszczone są na stronie internetowej Nadleśnictwa w module sprzedaż
  
@@ -162,6 +166,42 @@ Inne ogłoszenia i komunikaty umieszczone są w module aktualności,  na stroni
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Ogłoszenie
+
+
+
+
+
+
+.PDF
+
+Załacznik nr 1
+
+
+
+
+
+
+.DOCX
+
+Załącznik _ formularz ofertowy
+
+
+
+
+
+
+.PDF
+
+Informacja RODO
+
 
 
 
@@ -191,7 +231,7 @@ INFORMACJA RODO
 Osoba odpowiedzialna za treść:
 Nadleśniczy <br>Nadleśnictwa Łosie <br>Bartłomiej Sołtys
 
-Data modyfikacji: 2021/01/29 15:02:07
+Data modyfikacji: 2021/02/12 09:58:45
 Redaktor zatwierdzający: Marcin Walczyk
 Wprowadzający: Marcin Walczyk
 Deklaracja Dostępności

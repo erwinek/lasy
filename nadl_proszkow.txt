@@ -106,7 +106,6 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -142,8 +141,93 @@ Komunikaty i ogłoszenia
 
 
 
+OGŁOSZENIE O NABORZE ZEWNĘTRZNYM
  
 
+
+
+Prószków, dnia 12.02.2021 r.
+Zn. spr.: NK.1101.10.10.2020
+
+Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Prószków ul. Opolska 11, 46-060 Prószków ogłasza nabór na stanowisko SPECJALISTY/REFERENTA DS. BUDOWLANYCH I ZAMÓWIEŃ PUBLICZNYCH do zatrudnienia na czas określony 1 roku, z możliwością przedłużenia.
+
+Treść ogłoszenia o naborze wraz z załącznikami nr 1 - 4 dostępna jest u dołu strony w polu Pliki do pobrania - lista załączników.
+
+Nadleśnictwo Prószków publikuje ogłoszenie wraz z załącznikami w postaci plików z rozszerzeniem .pdf oraz .docx
+
+W celu zapoznania się z ogłoszeniem otwórz pliki:
+
+Ogłoszenie i załącznik nr 1_nabór_stanowisko ds. budowlanych i zamówień publicznych;
+Załącznik nr 2_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych;
+Załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków;
+ Załącznik nr 4_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych.
+
+
+ 
+
+ OGŁOSZENIE O NABORZE ZEWNĘTRZNYM
+
+
+
+Prószków, dnia 12.02.2021 r.
+Zn. spr.: NK.1101.10.13.2020
+
+Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Prószków ul. Opolska 11, 46-060 Prószków ogłasza nabór na stanowisko REFERENTA DS. KANCELARYJNYCH do zatrudnienia na czas określony 1 roku, z możliwością przedłużenia.
+
+Treść ogłoszenia o naborze wraz z załącznikami nr 1 - 4 dostępna jest u dołu strony w polu Pliki do pobrania - lista załączników.
+
+Nadleśnictwo Prószków publikuje ogłoszenie wraz z załącznikami w postaci plików z rozszerzeniem .pdf oraz .docx
+
+W celu zapoznania się z ogłoszeniem otwórz pliki:
+
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. kancelaryjnych;
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. kancelaryjnych;
+ załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków;
+ załącznik nr 4_oświadczenie_nabór_stanowisko ds. kancelaryjnych.
+
+
+    UWAGA:
+    PLIK: załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków
+    jest wspólny dla wszystkich ogłaszanych naborów i został opublikowany jeden raz (plik z rozszerzeniem .docx oraz .pdf)
+
+
+ 
+
+ 
+OGŁOSZENIE O NABORZE ZEWNĘTRZNYM
+ 
+Prószków, dnia 12.02.2021 r.
+Zn. spr.: NK.1101.10.14.2020
+
+Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Prószków ul. Opolska 11, 46-060 Prószków ogłasza nabór na stanowisko REFERENTA DS. PRACOWNICZYCH do zatrudnienia na zastępstwo (umowa na zastępstwo).
+
+Treść ogłoszenia o naborze wraz z załącznikami nr 1 - 4 dostępna jest u dołu strony w polu Pliki do pobrania - lista załączników.
+
+Nadleśnictwo Prószków publikuje ogłoszenie wraz z załącznikami w postaci plików z rozszerzeniem .pdf oraz .docx
+
+W celu zapoznania się z ogłoszeniem otwórz pliki:
+
+
+
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. pracowniczych;
+ załącznik nr 2_oświadczenie_nabór_stanowisko ds. pracowniczych;
+załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków;
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. pracowniczych.
+
+
+
+UWAGA:
+
+ PLIK: załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków
+jest wspólny dla wszystkich ogłaszanych naborów i został opublikowany jeden raz (plik z rozszerzeniem .docx oraz .pdf)
+
+
+
+
+
+ 
+ 
+ 
 OCHRONA DANYCH OSOBOWYCH
  
  
@@ -306,18 +390,7 @@ Dlatego 1mp = 0,65m³ (drewna)
 
 
 
-
-
 Pliki do pobrania - lista załączników
-
-
-
-
-
-.DOC
-
-cennik na choinki-2020_wersja edytowalna (1.0MB)
-
 
 
 
@@ -325,16 +398,7 @@ cennik na choinki-2020_wersja edytowalna (1.0MB)
 
 .PDF
 
-cennik na choinki-2020 (1.0MB)
-
-
-
-
-
-
-.DOC
-
-informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa (1.0MB)
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. budowlanych i zamówień publicznych.pdf
 
 
 
@@ -343,7 +407,7 @@ informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa (1.0MB)
 
 .DOCX
 
-ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa (1.0MB)
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. budowlanych i zamówień publicznych.docx
 
 
 
@@ -352,7 +416,16 @@ ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa (1.0MB)
 
 .PDF
 
-cennik na drewno - 2020 (1.0MB)
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych.docx
 
 
 
@@ -361,7 +434,16 @@ cennik na drewno - 2020 (1.0MB)
 
 .PDF
 
-cennik na sadzonki-2020 (1.0MB)
+załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków.docx
 
 
 
@@ -370,7 +452,16 @@ cennik na sadzonki-2020 (1.0MB)
 
 .PDF
 
-zał.1-oświadczenie_przetarg na dzierżawę nieruchomości (1.0MB)
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. budowlanych i zamówień publicznych.docx
 
 
 
@@ -379,7 +470,16 @@ zał.1-oświadczenie_przetarg na dzierżawę nieruchomości (1.0MB)
 
 .PDF
 
-zał.2-wzór umowy_przetarg na dzierżawę nieruchomości (3.0MB)
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. kancelaryjnych.pdf
+
+
+
+
+
+
+.DOCX
+
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. kancelaryjnych.docx
 
 
 
@@ -388,7 +488,16 @@ zał.2-wzór umowy_przetarg na dzierżawę nieruchomości (3.0MB)
 
 .PDF
 
-regulamin przetargu na dzierżawę nieruchomości (2.0MB)
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. kancelaryjnych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. kancelaryjnych.docx
 
 
 
@@ -397,7 +506,70 @@ regulamin przetargu na dzierżawę nieruchomości (2.0MB)
 
 .PDF
 
-REGULAMIN NABORU NA WOLNE STANOWISKA PRACY W NADLEŚNICTWIE PRÓSZKÓW (1.0MB)
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. kancelaryjnych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. kancelaryjnych.docx
+
+
+
+
+
+
+.PDF
+
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. pracowniczych.pdf
+
+
+
+
+
+
+.DOCX
+
+ogłoszenie i załącznik nr 1_nabór_stanowisko ds. pracowniczych.docx
+
+
+
+
+
+
+.PDF
+
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. pracowniczych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 2_oświadczenie_nabór_stanowisko ds. pracowniczych.docx
+
+
+
+
+
+
+.PDF
+
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. pracowniczych.pdf
+
+
+
+
+
+
+.DOCX
+
+załącznik nr 4_oświadczenie_nabór_stanowisko ds. pracowniczych.docx
 
 
 
@@ -406,7 +578,7 @@ REGULAMIN NABORU NA WOLNE STANOWISKA PRACY W NADLEŚNICTWIE PRÓSZKÓW (1.0MB)
 
 .DOC
 
-wzór umowy dzierżawy gruntu (1.0MB)
+cennik na choinki-2020_wersja edytowalna
 
 
 
@@ -415,7 +587,61 @@ wzór umowy dzierżawy gruntu (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargow_na_sprzedaz_srodkow_trwa....pdf (12.0MB)
+cennik na choinki-2020
+
+
+
+
+
+
+.DOC
+
+informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa
+
+
+
+
+
+
+.DOCX
+
+ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa
+
+
+
+
+
+
+.PDF
+
+cennik na drewno - 2020
+
+
+
+
+
+
+.PDF
+
+cennik na sadzonki-2020
+
+
+
+
+
+
+.DOC
+
+wzór umowy dzierżawy gruntu
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargow_na_sprzedaz_srodkow_trwa....pdf
 
 
 
@@ -437,9 +663,9 @@ px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargo
 Osoba odpowiedzialna za treść:
 mgr inż. Marek Bocianowski
 
-Data modyfikacji: 2020/12/01 14:09:20
-Redaktor zatwierdzający: Piotr Goździewicz
-Wprowadzający: Piotr Goździewicz
+Data modyfikacji: 2021/02/12 14:52:23
+Redaktor zatwierdzający: Leszek Szawala
+Wprowadzający: Leszek Szawala
 Deklaracja Dostępności
 
 

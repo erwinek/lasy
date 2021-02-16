@@ -145,10 +145,6 @@ Komunikaty i ogłoszenia
 
 
 
-Nadleśnictwo Kościerzyna ogłasza pisemny przetarg nieograniczony na dzierżawę gruntów rolnych będących w zarządzie Nadleśnictwa, na cel prowadzenia gospodarki rolnej.
-Wszelkie informacje dotyczące przetargu dostępne w plikach poniżej do pobrania.
- 
-
 W oparciu o § 8 Zarządzenia Nr 59  Dyrektora Generalnego Lasów Państwowych z dnia 27 listopada 1998 r. w  sprawie wprowadzenia legitymacji służbowych dla pracowników Służby  Leśnej w Lasach Państwowych, Nadleśnictwo Kościerzyna informuje o zaginięciu legitymacji służbowej wydanej na nazwisko Kreft Krystian-leśniczy.
  
  
@@ -186,42 +182,6 @@ Skargi i wnioski przyjmuje Nadleśniczy Nadleśnictwa Kościerzyna we wtorki w g
 
 
 Pliki do pobrania - lista załączników
-
-
-
-
-
-.PDF
-
-Przetarg-ogłoszenie.
-
-
-
-
-
-
-.PDF
-
-Przetarg-formularz ofertowy.
-
-
-
-
-
-
-.PDF
-
-Przetarg-wzór umowy.
-
-
-
-
-
-
-.PDF
-
-Przetarg-klauzula RODO
-
 
 
 
@@ -373,6 +333,15 @@ Ramowe zasady reklamacji na surowiec drzewny.
 
 .PDF
 
+Cennik na sadzonki obowiązujący w 2021 roku.
+
+
+
+
+
+
+.PDF
+
 Cennik detaliczny na drewno obowiązujący w 2021 roku.
 
 
@@ -413,7 +382,7 @@ Wniosek o udostępnienie informacji publicznej/o środowisku.
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Kościerzyna - Michał Jaworski<br>
 
-Data modyfikacji: 2021/01/22 13:45:01
+Data modyfikacji: 2021/02/15 11:23:38
 Redaktor zatwierdzający: Maciej Piankowski
 Wprowadzający: Maciej Piankowski
 Deklaracja Dostępności

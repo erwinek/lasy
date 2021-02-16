@@ -141,44 +141,46 @@ Komunikaty i ogłoszenia
 
 
 
+ 
+ 
+Rudziniec, 16.02.2021 r.
+Zn. Spr. NK.1101.43.2020
+ 
+OGŁOSZENIE O NABORZE ZEWNĘTRZNYM
+NA STANOWISKO REFERENTA DS.ADMINISTRACYJNO-GOSPODARCZYCH
+W PGL LP NADLEŚNICTWO RUDZINIEC 
 
-      AKTUALNY CENNIK NA DREWNO DO POBRANIA NA DOLE STRONY
+Pełny tekst ogłoszenia 
+POBIERZ
+ 
+Kwestionariusz osobowy kandydata na pracownika Lasów Państwowych 
+POBIERZ
+ Klauzula informacyjna dla kandydatów do pracy w PGL LP Nadleśnictwie Rudziniec 
+POBIERZ
+ 
+________________________________________________________________________________________________________________
+Rudziniec, 25.11.2020 r.
+ 
+INFORMACJA Z SESJI OTWARCIA OFERT
 
-    _________________________________________________________________________________________
-
+  dot. postępowania przetargowego pn. "Wykonanie usług z zakresu gospodarki leśnej na terenie Nadleśnictw Rudziniec w roku 2021"
+Protokół POBIERZ
+ 
+________________________________________________________________________________________________________________
+ 
+ Rudziniec, 23.10.2020
  
-PGL LP Nadleśnictwo Rudziniec informuje, że od 18 kwietnia 2018 roku wprowadzono obowiązek składania przez Wykonawców Jednolitego Europejskiego Dokumentu Zamówień (JEDZ) w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym oraz opatrzony hasłem dostępowym. W związku z tym, każdy Wykonawca chcący brać udział w postępowaniu o udzielenie zamówienia publicznego w tzw. procedurze unijnej, powinien posiadać:
-   
-- kwalifikowany podpis elektroniczny,
-   
-- pocztę e-mail,
-   
-- narzędzia umożliwiające przygotowanie JEDZ w odpowiednim formacie m.in. .pdf, .doc, .docx, .rtf, .xps, .odt, podpisanie dokumentu kwalifikowanym podpisem elektronicznym oraz zaszyfrowanie JEDZ (opatrzenie hasłem dostępowym).
-    __________________________________________________________________________________________
-
-
-
-
-
-
-
 
  
 
 
+OGŁOSZENIE
+o przetergu nieograniczonym na wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictw Rudziniec w roku 2021
+ 
+Szczegółowe informacje dotyczące przetargu znajdują się w zakładce Zamówienia publiczne.
 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
@@ -194,7 +196,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Aktualny cennik detaliczny na drewno stosowe
+px_dg~rdlp_katowice~nadl_rudziniec~informacja_z_sesji_otwarcia_ofert_na_ul_2021.pdf
 
 
 
@@ -203,7 +205,7 @@ Aktualny cennik detaliczny na drewno stosowe
 
 .PDF
 
-Aktualny cennik detaliczny na drewno wielkowymiarowe
+px_dg~rdlp_katowice~nadl_rudziniec~klauzula_inforamcyjna_zal2_rda_d.pdf
 
 
 
@@ -212,7 +214,16 @@ Aktualny cennik detaliczny na drewno wielkowymiarowe
 
 .PDF
 
-CERTYFIKAT PEFC
+px_dg~rdlp_katowice~nadl_rudziniec~kwestionariusz_osobowy_zal1_rda_d.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_rudziniec~ogloszenie_o_naborze_referent_ds_sdmin_gosp.pdf
 
 
 
@@ -234,9 +245,9 @@ CERTYFIKAT PEFC
 Osoba odpowiedzialna za treść:
 mgr inż. Wiesław Kucharski -  Nadleśniczy Nadleśnictwa Rudziniec
 
-Data modyfikacji: 2018/07/23 13:39:54
-Redaktor zatwierdzający: Dariusz Kurzynoga
-Wprowadzający: Dariusz Kurzynoga
+Data modyfikacji: 2021/02/16 16:11:18
+Redaktor zatwierdzający: Piotr Rożniewski
+Wprowadzający: Piotr Rożniewski
 Deklaracja Dostępności
 
 
