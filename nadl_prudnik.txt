@@ -142,7 +142,11 @@ Komunikaty i ogłoszenia
 
 
 
-Komunikat
+Komunikat 17.02.2021
+
+Informacja o wyborze oferty na obsługę dyżuru w PAD w roku 2021 (do pobrania poniżej)
+Komunikat 01.02.2021
+
 Zapytanie ofertowe na obsługę dyzurów w PAD w roku 2021 (do pobrania poniżej)
  
 
@@ -175,6 +179,15 @@ px_dg~rdlp_katowice~nadl_prudnik~zapytanie_ofertowe___bip.pdf
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~informacja_o_wyborze_oferty_na_obsluge_dyzurow_w_pad.pdf
+
+
+
+
+
+
 
 
 
@@ -190,7 +203,7 @@ px_dg~rdlp_katowice~nadl_prudnik~zapytanie_ofertowe___bip.pdf
 Osoba odpowiedzialna za treść:
 Jarosław Myśliński- Nadleśniczy N-ctwa Prudnik
 
-Data modyfikacji: 2021/02/03 11:49:42
+Data modyfikacji: 2021/02/17 09:52:19
 Redaktor zatwierdzający: Rafał Kasza
 Wprowadzający: Rafał Kasza
 Deklaracja Dostępności

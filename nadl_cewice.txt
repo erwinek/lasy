@@ -235,42 +235,6 @@ Zarządzenie nr 31 sprzedaż choinek z plantacji Leśnictwa Okalice
 
 
 
-.PDF
-
-Cennik na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku
-
-
-
-
-
-
-.PDF
-
-Decyzja nr 3/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla jednostek LP w 2020 roku.
-
-
-
-
-
-
-.PDF
-
-Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku
-
-
-
-
-
-
-.PDF
-
-Decyzja nr 4/2020 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2020 roku.
-
-
-
-
-
-
 .ZIP
 
 Ogłoszenie komórki przetarg
@@ -334,6 +298,42 @@ Cennik detaliczny na  drewno i użytki uboczne w 2021 roku
 
 
 
+.PDF
+
+Decyzja nr 6/2021 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla jednostek LP w 2021 roku.
+
+
+
+
+
+
+.PDF
+
+Cennik na sadzonki drzew i krzewów leśnych dla jednostek LP w 2021 roku
+
+
+
+
+
+
+.PDF
+
+Decyzja nr 7/2021 w sprawie wprowadzenia cennika na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2021 roku.
+
+
+
+
+
+
+.PDF
+
+Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2021 roku
+
+
+
+
+
+
 
 
 
@@ -349,9 +349,9 @@ Cennik detaliczny na  drewno i użytki uboczne w 2021 roku
 Osoba odpowiedzialna za treść:
 Krzysztof Liżiński  -  Nadleśniczy
 
-Data modyfikacji: 2021/02/10 15:04:07
+Data modyfikacji: 2021/02/17 10:39:44
 Redaktor zatwierdzający: Grażyna Krawiec
-Wprowadzający: Aleksandra Smentoch
+Wprowadzający: Aleksandra Olenderek
 Deklaracja Dostępności
 
 

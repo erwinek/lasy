@@ -165,6 +165,15 @@ Pliki do pobrania - lista załączników
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_udzielonym_zamowieniu_sprzet_komputerowy_urzadzenia_biurowe_19.02.2021.pdf
+
+
+
+
+
+
 .ZIP
 
 px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_zamowieniu_zg.270.2.2021.zip
@@ -540,9 +549,9 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_tel
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Olesno mgr inż. Grzegorz Kimla
 
-Data modyfikacji: 2021/02/15 11:55:03
-Redaktor zatwierdzający: Grzegorz Bek
-Wprowadzający: Magdalena Sabok
+Data modyfikacji: 2021/02/19 09:51:49
+Redaktor zatwierdzający: Joanna Kubiak
+Wprowadzający: Grzegorz Bek
 Deklaracja Dostępności
 
 
