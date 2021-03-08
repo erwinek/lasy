@@ -156,6 +156,15 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_krakow~nadl_gromnik~raport_o_stanie_zapewnienia_dostepnosci_podmiotu_publicznego.pdf
+
+
+
+
+
+
+.PDF
+
 Ogłoszenie o sprzedaży działki ewidencyjnej nr 497, obręb Bistuszowa, gmina Ryglice
 
 
@@ -424,6 +433,42 @@ Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobow
 
 
 
+.PDF
+
+ZG.804.9.2020 - Informacja z otwarcia ofert złożonych w przetargu pisemnym na sprzedaż używanych środków trwałych
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie Zn.spr.ZG.804.1.2021 z dnia 05.03.2021 r. o sprzedaży składników majątku (kręgi betonowe)
+
+
+
+
+
+
+.DOCX
+
+Załącznik nr 1 - Formularz oferty
+
+
+
+
+
+
+.PDF
+
+Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobowych
+
+
+
+
+
+
 
 
 
@@ -439,7 +484,7 @@ Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobow
 Osoba odpowiedzialna za treść:
 Nadleśniczy <br>mgr inż. Grzegorz Wojtanowski
 
-Data modyfikacji: 2021/02/16 14:52:20
+Data modyfikacji: 2021/03/05 14:37:33
 Redaktor zatwierdzający: Katarzyna Szczecina
 Wprowadzający: Piotr Pogoda
 Deklaracja Dostępności

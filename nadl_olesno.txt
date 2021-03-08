@@ -165,6 +165,33 @@ Pliki do pobrania - lista załączników
 
 
 
+.ZIP
+
+px_dg~rdlp_katowice~nadl_olesno~uslugi_sprzatania_i_prace_porzadkowo_gospodarcze_s.270.1.1.2021.zip
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_udzieleniu_zamowienia___zg.270.2.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~informacja_z_otwarcia_ofert_22.02.2021.pdf
+
+
+
+
+
+
 .PDF
 
 px_dg~rdlp_katowice~nadl_olesno~informacja_o_udzielonym_zamowieniu_sprzet_komputerowy_urzadzenia_biurowe_19.02.2021.pdf
@@ -549,9 +576,9 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_tel
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Olesno mgr inż. Grzegorz Kimla
 
-Data modyfikacji: 2021/02/19 09:51:49
+Data modyfikacji: 2021/03/04 13:25:15
 Redaktor zatwierdzający: Joanna Kubiak
-Wprowadzający: Grzegorz Bek
+Wprowadzający: Magdalena Sabok
 Deklaracja Dostępności
 
 

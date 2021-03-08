@@ -161,6 +161,7 @@ IV PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SI�
 V Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
 VI Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
 VII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
+VIII Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawe terenów inwestycyjnych w Redzie
  
  
 
@@ -375,6 +376,51 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_08.02.2021.pdf
 
 
 
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_przetargu_teren_inwestycyjny_w_redzie_23.02.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_ogloszenia_23.02.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_ogloszenia_23.02.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_do_ogloszenia_23.02.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_23.02.2021.pdf
+
+
+
+
+
+
 
 
 
@@ -390,9 +436,9 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_08.02.2021.pdf
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2021/02/08 10:41:00
-Redaktor zatwierdzający: Ewelina Sobańska
-Wprowadzający: Ewelina Sobańska
+Data modyfikacji: 2021/02/23 13:54:49
+Redaktor zatwierdzający: Łukasz Plonus
+Wprowadzający: Martyna Pojawa
 Deklaracja Dostępności
 
 
