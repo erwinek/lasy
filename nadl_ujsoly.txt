@@ -106,10 +106,10 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Ujsoły
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Ujsoły
 
 
 wyszukaj w BIP
@@ -129,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Ujsoły
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Ujsoły
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -145,7 +143,14 @@ Komunikaty i ogłoszenia
  
  
  
- Nadleśnictwo Ujsoły nie przechowuje danych osobowych związanych z rekrutacją.
+ 
+
+OGŁOSZENIE O PRZETARGU
+NA DZIERŻAWĘ GRUNTU ROLNEGO
+ 
+Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe - Nadleśnictwo Ujsoły, ul. Św. Huberta 2, 34-371 Ujsoły ogłasza pisemny nieograniczony przetarg ofertowy na dzierżawę gruntów rolnych Skarbu Państwa, pozostających w zarządzie Nadleśnictwa Ujsoły. Znak sprawy: S.2217.16.2021.
+ 
+Informacje o przetargu w zakładce plki do pobrania
 
 
 
@@ -160,7 +165,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Informacja RODO (2.0MB)
+Informacja RODO
 
 
 
@@ -169,7 +174,7 @@ Informacja RODO (2.0MB)
 
 .DOCX
 
-Cennik na drewno obowiązujący w roku 2019 (1.0MB)
+Cennik na drewno obowiązujący w roku 2019
 
 
 
@@ -178,34 +183,7 @@ Cennik na drewno obowiązujący w roku 2019 (1.0MB)
 
 .PDF
 
-Wynik przetargu na sprzedaż samochodu Land Rover (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Wynik przetargu na sprzedaż samochodu Subaru Forester (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu na sprzedaż Mitsubishi L-200 (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Wycena Mitsubishi L-200 (2.0MB)
+S.2217.16.2021 Ogłoszenie o przetargu na dzierżawę gruntów rolnych
 
 
 
@@ -227,7 +205,7 @@ Wycena Mitsubishi L-200 (2.0MB)
 Osoba odpowiedzialna za treść:
 dr inż. Piotr Olesiak - Nadleśniczy Nadleśnictwa Ujsoły
 
-Data modyfikacji: 2020/11/20 09:08:57
+Data modyfikacji: 2021/03/12 13:34:38
 Redaktor zatwierdzający: Iwona Kocoń
 Wprowadzający: Iwona Kocoń
 Deklaracja Dostępności

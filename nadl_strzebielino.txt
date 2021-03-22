@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Strzebielino
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Strzebielino
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Strzebielino
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Strzebielino
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -364,7 +363,7 @@ Decyzja w sprawie ustalenia opłat za korzystanie z obiektów turystycznych i re
 
 .PDF
 
-Cennik detalicznej sprzedaży drewna w roku 2020
+Cennik detalicznej sprzedaży drewna w roku 2021
 
 
 
@@ -373,7 +372,7 @@ Cennik detalicznej sprzedaży drewna w roku 2020
 
 .PDF
 
-Cennik detaliczny na materiał sadzeniowy 2020
+Cennik detaliczny na materiał sadzeniowy 2021
 
 
 
@@ -467,7 +466,7 @@ projekt umowy umieszczenie urządzeń na nieruchomości art 33
 Osoba odpowiedzialna za treść:
 mgr inż. Mariusz Kaliszewski - Nadleśniczy Nadleśnictwa Strzebielino
 
-Data modyfikacji: 2021/01/28 15:03:55
+Data modyfikacji: 2021/03/04 13:49:39
 Redaktor zatwierdzający: Grażyna Dampc
 Wprowadzający: Grażyna Dampc
 Deklaracja Dostępności

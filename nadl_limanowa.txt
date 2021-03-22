@@ -106,9 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Limanowa
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Limanowa
 
 
 wyszukaj w BIP
@@ -128,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Limanowa
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Limanowa
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -141,10 +141,32 @@ Komunikaty i ogłoszenia
 
 
 
-Nadleśnictwo Limanowa informuje o zamiarze przeprowadzenia transakcji zamiany gruntów pomiędzy Nadleśnictwem Limanowa a jednostkąsamorządową - Urzędem Gminy Kamienica.
-Ogłoszenie w linku poniżej:
-limanowa.krakow.lasy.gov.pl/documents/17275392/37378942/Og%C5%82oszenie+o+zamianie+gruntu.pdf/0bf3f71a-a811-1e79-4c48-0f7618648266
+ 
+ 
 
+
+
+
+
+
+Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Ogłoszenie o zamianie gruntu z Gminą Kamienica
+
+
+
+
+
+
+.PDF
+
+Raport o stanie dostępności podmiotu publicznego
 
 
 
@@ -166,8 +188,8 @@ limanowa.krakow.lasy.gov.pl/documents/17275392/37378942/Og%C5%82oszenie+o+zamian
 Osoba odpowiedzialna za treść:
 mgr inż. Wojciech Łukacz
 
-Data modyfikacji: 2020/12/23 11:53:07
-Redaktor zatwierdzający: Miłosz Mucha
+Data modyfikacji: 2021/03/16 07:42:32
+Redaktor zatwierdzający: Bogusław Pawłowski
 Wprowadzający: Miłosz Mucha
 Deklaracja Dostępności
 

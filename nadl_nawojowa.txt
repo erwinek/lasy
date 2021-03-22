@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Nawojowa
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Nawojowa
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Nawojowa
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Nawojowa
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -160,7 +159,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-zamiana gruntów (1.0MB)
+zamiana gruntów
 
 
 
@@ -169,7 +168,7 @@ zamiana gruntów (1.0MB)
 
 .PDF
 
-grunty-zamiany (1.0MB)
+grunty-zamiany
 
 
 
@@ -178,7 +177,7 @@ grunty-zamiany (1.0MB)
 
 .PDF
 
-Wyłożenie do wglądu p.PUL (1.0MB)
+Wyłożenie do wglądu p.PUL
 
 
 
@@ -187,7 +186,7 @@ Wyłożenie do wglądu p.PUL (1.0MB)
 
 .PDF
 
-Ogłoszenie o planowanej transakcji zamiany gruntów (1.0MB)
+Ogłoszenie o planowanej transakcji zamiany gruntów
 
 
 
@@ -196,7 +195,7 @@ Ogłoszenie o planowanej transakcji zamiany gruntów (1.0MB)
 
 .PDF
 
-Ogłoszenie o planowanej transakcji zamiany gruntów w gm.Łabowa (1.0MB)
+Ogłoszenie o planowanej transakcji zamiany gruntów w gm.Łabowa
 
 
 
@@ -205,7 +204,7 @@ Ogłoszenie o planowanej transakcji zamiany gruntów w gm.Łabowa (1.0MB)
 
 .PDF
 
-Informacje o zamianach gruntów (1.0MB)
+Informacje o zamianach gruntów
 
 
 
@@ -214,7 +213,7 @@ Informacje o zamianach gruntów (1.0MB)
 
 .PDF
 
-Informacja o zamiarze dokonania transakcji zamiany Biała Niżna (1.0MB)
+Informacja o zamiarze dokonania transakcji zamiany Biała Niżna
 
 
 
@@ -234,7 +233,7 @@ Informacja o zamiarze dokonania transakcji zamiany Biała Niżna (1.0MB)
 
 
 Osoba odpowiedzialna za treść:
-Tomasz Romanowski Nadleśniczy Nadleśnictwa Nawojowa
+Wojciech Kurzeja Nadleśniczy Nadleśnictwa Nawojowa
 
 Data modyfikacji: 2018/12/12 11:25:29
 Redaktor zatwierdzający: Paweł Skoczeń

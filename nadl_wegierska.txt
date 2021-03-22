@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Węgierska Górka
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Węgierska Górka
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Węgierska Górka
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Węgierska Górka
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -158,7 +157,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~zg1.2280.12.2020_informacja_o_wykonaniu_przez_lp_prawa_pierwokupu.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_zwolaniu_kzp_dla_pul_na_lata_2024_2033.pdf
 
 
 
@@ -167,7 +166,7 @@ px_dg~rdlp_katowice~nadl_wegierska~zg1.2280.12.2020_informacja_o_wykonaniu_przez
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_zamiarze_poddania_badaniu_sprawozdnia_finansowego_za_2019.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~zg1.2280.12.2020_informacja_o_wykonaniu_przez_lp_prawa_pierwokupu.pdf
 
 
 
@@ -176,7 +175,7 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_zamiarze_poddania_badaniu_sprawo
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_naborze_na_staz_dla_absolwentow_szkol_srednich_i_wyzszych.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_zamiarze_poddania_badaniu_sprawozdnia_finansowego_za_2019.pdf
 
 
 
@@ -185,7 +184,7 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_naborze_na_staz_dla_absolwentow_
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_sprzedazy_pustostanu_s_2101_8_2019_mk.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_naborze_na_staz_dla_absolwentow_szkol_srednich_i_wyzszych.pdf
 
 
 
@@ -194,7 +193,7 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_sprzedazy_pustostanu_s_2101_8_20
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~nadlesnictwo_wydzierzawi_grunt_rolny.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_sprzedazy_pustostanu_s_2101_8_2019_mk.pdf
 
 
 
@@ -203,7 +202,16 @@ px_dg~rdlp_katowice~nadl_wegierska~nadlesnictwo_wydzierzawi_grunt_rolny.pdf (1.0
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruntach_do_wydzierzawienia1.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wegierska~nadlesnictwo_wydzierzawi_grunt_rolny.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruntach_do_wydzierzawienia1.pdf
 
 
 
@@ -225,7 +233,7 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruntach_do_wydzierzawienia1.pdf
 Osoba odpowiedzialna za treść:
 mgr inż. Marian Knapek
 
-Data modyfikacji: 2020/09/01 15:01:51
+Data modyfikacji: 2021/03/17 12:54:24
 Redaktor zatwierdzający: Paweł Griner
 Wprowadzający: Paweł Griner
 Deklaracja Dostępności

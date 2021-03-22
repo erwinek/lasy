@@ -106,9 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Wejherowo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Wejherowo
 
 
 wyszukaj w BIP
@@ -128,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Wejherowo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Wejherowo
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -157,6 +157,24 @@ Dzień 04 czerwca 2021 roku oraz 24 grudnia 2021 roku są w Nadleśnictwie Wejhe
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Protokół z otwarcia ofert - dzierżawa gruntów
+
+
+
+
+
+
+.PDF
+
+Przetarg - dzierżawa nieruchomości gruntowej
+
 
 
 
@@ -222,9 +240,9 @@ Inwentaryzacja stanu lasu
 Osoba odpowiedzialna za treść:
 Jacek Szulc
 
-Data modyfikacji: 2021/02/02 08:03:05
+Data modyfikacji: 2021/03/18 13:45:37
 Redaktor zatwierdzający: Gabriela Gaffke
-Wprowadzający: Gabriela Gaffke
+Wprowadzający: Grazyna Bekisch - Buja
 Deklaracja Dostępności
 
 

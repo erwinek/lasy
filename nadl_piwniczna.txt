@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Piwniczna
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Piwniczna
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Piwniczna
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Piwniczna
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -141,7 +140,7 @@ Komunikaty i ogłoszenia
 
 
 
-Drewno pozyskane w Lasach Państwowych Regionalnej Dyrekcji Lasów Państwowych w Krakowie pochodzi z lasów o prawidłowo i racjonalnie prowadzonej gospodarce leśnej, zgodnej z międzynarodowymi standardami FSC i PEFC.    Pozyskiwanie drewna w Lasach Państwowych odbywa się zgodnie z międzynarodowymi zasadami: zachowania trwałości lasów, zrównoważonego rozwoju i ochrony przyrody. Potwierdzają to przyznane Regionalnej Dyrekcji Lasów Państwowych w Krakowie certyfikaty:   Certyfikat Gospodarki Leśnej PEFC o nr FM/02/20/BS, zgodnie z kryterium oceny: PEFC PL 1003:2012 v.2 - ważny od dnia 13.11.2020 do dnia 12.02.2021 roku. Certyfikat Gospodarki Leśnej FSC o nr SGS-FM/COC-010065 - ważny od dnia 20.02.2019 do dnia 19.02.2024 roku.
+Drewno pozyskane w Lasach Państwowych Regionalnej Dyrekcji Lasów Państwowych w Krakowie pochodzi z lasów o prawidłowo i racjonalnie prowadzonej gospodarce leśnej, zgodnej z międzynarodowymi standardami FSC i PEFC.    Pozyskiwanie drewna w Lasach Państwowych odbywa się zgodnie z międzynarodowymi zasadami: zachowania trwałości lasów, zrównoważonego rozwoju i ochrony przyrody. Potwierdzają to przyznane Regionalnej Dyrekcji Lasów Państwowych w Krakowie certyfikaty:   Certyfikat Gospodarki Leśnej PEFC o nr FM/01/21/BC, zgodnie z kryterium oceny: PEFC PL 1003:2012 v.2 - ważny od dnia 13.02.2021 do dnia 12.11.2023 roku. Certyfikat Gospodarki Leśnej FSC o nr SGS-FM/COC-010065 - ważny od dnia 20.02.2019 do dnia 19.02.2024 roku.
 
 
 
@@ -149,6 +148,15 @@ Drewno pozyskane w Lasach Państwowych Regionalnej Dyrekcji Lasów Państwowych 
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Informacja o dokonanym wyborze na wolne stanowiska pracy - NK.1101.6.2021.
+
 
 
 
@@ -430,9 +438,9 @@ Nieruchomości zbywane i nabywane przez PGL LP Nadleśnictwo Piwniczna.
 Osoba odpowiedzialna za treść:
 mgr inż. Stanisław Michalik - Nadleśniczy Nadleśnictwa Piwniczna.
 
-Data modyfikacji: 2020/11/16 09:05:51
+Data modyfikacji: 2021/03/08 09:10:59
 Redaktor zatwierdzający: Edward Miejski
-Wprowadzający: Krzysztof Tomasiak
+Wprowadzający: Izabela Piwowar
 Deklaracja Dostępności
 
 

@@ -106,9 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Gromnik
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Gromnik
 
 
 wyszukaj w BIP
@@ -128,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Gromnik
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Gromnik
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -175,123 +175,6 @@ Ogłoszenie o sprzedaży działki ewidencyjnej nr 497, obręb Bistuszowa, gmina 
 .PDF
 
 Informacja o zamianie gruntów (zniesienie współwłasności) z dn. 29.07.2019r.
-
-
-
-
-
-
-.ZIP
-
-Ogłoszenie z dn. 23.01.2019 r. o sprzedaży środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019
-
-
-
-
-
-
-.PDF
-
-Informacja z dn. 20.02.2019 r. dotycząca przetargu pisemnego na sprzedaż środków trwałych (telefony komórkowe), zn.spr.:SA.804.1.2019
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie z dn.08.03.2019 r. o sprzedaży składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Informacja o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie z dn. 02.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Informacja z dn. 17.04.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie z dn. 18.04.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Informacja z dn. 07.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie z dn. 17.05.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Informacja z dn. 31.05.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie z dn. 04.06.2019 r. o sprzedaży dachówki, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-Informacja z dn.01.07.2019 r. o wynikach przeprowadzonego przetargu na sprzedaż składników majątku, zn.spr.:SA.804.2.2019
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_krakow~nadl_gromnik~klauzula_informacyjna_nadlesnictwa_gromnik_o_ochronie_danych_osobowych_przetwarzanych_w_zwiazku_z_zapobieganiem_i_zwalczaniem_przestepczosci.pdf
 
 
 
@@ -469,6 +352,78 @@ Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobow
 
 
 
+.JPG
+
+Zdjęcie kręgów-1
+
+
+
+
+
+
+.JPG
+
+Zdjęcie kręgów-2
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie z dn. 16.03.2021 r. o sprzedaży używanych środków trwałych, Zn.spr.:ZG.804.9.2020
+
+
+
+
+
+
+.DOCX
+
+Załącznik nr 1 do ogłoszenia-Formularz oferty
+
+
+
+
+
+
+.PDF
+
+Załącznik nr 2 do ogłoszenia - Realizacja obowiązku informacyjnego o ochronie danych osobowych
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie z dn. 18.03.2021 r. o sprzedaży składników majątku, Zn.spr.: ZG.804.2.2021
+
+
+
+
+
+
+.DOCX
+
+Załącznik nr 1 do ogłoszenia - formularz oferty
+
+
+
+
+
+
+.PDF
+
+Załącznik nr 2 do ogłoszenia - Realizacja obowiązku informacyjnego o ochronie danych osobowych
+
+
+
+
+
+
 
 
 
@@ -484,7 +439,7 @@ Załącznik nr 2 - Realizacja obowiązku informacyjnego o ochronie danych osobow
 Osoba odpowiedzialna za treść:
 Nadleśniczy <br>mgr inż. Grzegorz Wojtanowski
 
-Data modyfikacji: 2021/03/05 14:37:33
+Data modyfikacji: 2021/03/18 13:17:08
 Redaktor zatwierdzający: Katarzyna Szczecina
 Wprowadzający: Piotr Pogoda
 Deklaracja Dostępności

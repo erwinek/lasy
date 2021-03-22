@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Kobiór
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Kobiór
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Kobiór
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Kobiór
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -141,52 +140,12 @@ Komunikaty i ogłoszenia
 
 
 
+ ZG.7320.9.2021
+dnia 12.03.2021r
+Nadleśnictwo Kobiór informuje, że w wyniku wyboru ofert, które wpłynęły na zaproszenie do złożenia oferty na Dostawę wraz z transportem kukurydzy paszowej do celów gospodarki łowieckiej rok 2021 - wybrany został dostawca:
+Gospodarstwo Rolne - Wojciech Bojdoł z Mikołowa
+podpisał Nadleśniczy Marian Pigan
  
- 
-
-
-
-
-Zn. spr.: ZG.7320.16.2021  
-
-
-
-
-ZAPROSZENIE DO ZŁOŻENIA   OFERTY
-
-
-
-
-Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Kobiór z siedzibą w 43-211 Piasek, ul. Katowicka 141, jako Zamawiający zaprasza do udziału w postępowaniu 
-pn. „Dostawa wraz z transportem kukurydzy paszowej do celów gospodarki łowieckiej rok 2021” prowadzonym w trybie wyboru ofert na podstawie Zarządzenia nr 11/2017 Nadleśniczego Nadleśnictwa Kobiór. Niniejszej postępowanie nie jest prowadzone na podstawie ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2019 r., poz. 2019), zgodnie z wyłączeniem przewidzianym w art. 2 ust. 1 pkt. 1 tej ustawy. Do postępowania mają zastosowanie art. 70 1 do 703   Kodeksu Cywilnego. 
- 
-Zamówienie obejmuje dostawę:
- 
-Część pierwsza:
- 
-Kukurydzy paszowej w ilości 10 ton luzem – adres dostawy 43-211 Piasek, Osowiec 1
- 
-Część druga: 
- 
-Kukurydzy paszowej w ilości 10 ton luzem – adres dostawy 43-262 Radostowice, ul. Dworcowa 140
- 
-Część trzecia:
- 
-Kukurydzy paszowej w ilości 2 tony workowane - adres dostawy 43-215 Jankowice ul. Żubrów 151 (Ośrodek Hodowli Żubrów i Edukacji Leśnej).
- 
-
-
-
-
- 
-Termin dostawy: do dnia 22 marca 2021 roku.
-
-
-Termin składania ofert upływa w dniu 11.03.2021 roku o godz. 15:00.
- 
-szczegóły do pobrania w plikach do pobrania:
-1. ZG.7320.9.2021 - zaproszenie do złożenia oferty
-2. ZG.7320.9.2021 - druk oferty
 
 
 =================================
@@ -474,7 +433,7 @@ ZG.7320.9.2021 - Druk oferty na kukurydzę
 Osoba odpowiedzialna za treść:
 dr inż. Marian Pigan - Nadleśniczy
 
-Data modyfikacji: 2021/03/05 14:45:09
+Data modyfikacji: 2021/03/12 13:02:30
 Redaktor zatwierdzający: Jadwiga Długajczyk
 Wprowadzający: Jadwiga Długajczyk
 Deklaracja Dostępności

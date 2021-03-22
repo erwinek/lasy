@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Elbląg
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Elbląg
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Elbląg
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Elbląg
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -141,7 +140,6 @@ Komunikaty i ogłoszenia
 
 
 
-Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Elbląg ogłasza przetarg nieograniczony ofertowy na dzierżawę nieruchomości Skarbu Państwa położonej w Krynicy Morskiej stanowiącej działkę ewidencyjną nr 29/121 na cel budowy i utrzymania ośrodka wypoczynkowego. Ogłoszenie o przetargu nieograniczonym ofertowym, regulamin przetargu nieograniczonego ofertowego, wzór oferty i oświadczenia oraz wzór umowy dzierżawy znajdują się w plikach zamieszczonych u dołu strony (do pobrania).W przypadku jakichkolwiek pytań prosimy o kontakt telefoniczny z pracownikiem Nadleśnictwa Elbląg pod numerem telefonu 668573796.
 
 Nadleśnictwo Elbląg ogłasza drugi przetarg na sprzedaż samochodu osobowego Volkswagen Caravelle- szczegóły postepowania i zdjęcia zamieszczone są w plikach do pobrania (u dołu strony)Nadleśnictwo Elbląg ogłasza przetarg na sprzedaż samochodu osobowego Volkswagen Caravelle- szczegóły postepowania i zdjęcia zamieszczone są w plikach do pobrania (u dołu strony).- PRZETARG UNIEWAŻNIONY
 Klauzula informacyjna dotycząca danych osobowych. 
@@ -164,51 +162,6 @@ Wypełniając obowiązek prawny, uregulowany zapisami art. 13 ust. 1 i ust. 2 Ro
 
 
 Pliki do pobrania - lista załączników
-
-
-
-
-
-.PDF
-
-Ogłoszenie o przetargu nieograniczonym ofertowym - Krynica Morska działka 29/121
-
-
-
-
-
-
-.PDF
-
-Regulamin przetargu nieograniczonego ofertowego na dzierżawę działki nr 29/121 (zarządzenie Nadleśniczego Nadleśnictwa Elbląg nr 43/2020 z dnia 09.12.2020 r.
-
-
-
-
-
-
-.PDF
-
-Wzór umowy dzierżawy działki nr 29/121 w Krynicy Morskiej wraz z załącznikiem mapowym oraz protokołem przekazania
-
-
-
-
-
-
-.PDF
-
-Wzór oferty oraz oświadczenia do przetargu nieograniczonego ofertowego na dzierżawę działki nr 29/121 w Krynicy Morskiej
-
-
-
-
-
-
-.PDF
-
-Zgoda organu nadrzędnego na zawarcie umowy dzierżawy działki nr 29/121 w Krynicy Morskiej
-
 
 
 
@@ -328,7 +281,7 @@ NABÓR NA STANOWISKO KSIĘGOWEJ/EGO
 Osoba odpowiedzialna za treść:
 mgr inż. Mariusz Potoczny 
 
-Data modyfikacji: 2021/02/03 13:17:29
+Data modyfikacji: 2021/03/10 09:30:22
 Redaktor zatwierdzający: Marta Niemczyk
 Wprowadzający: Janusz Śpiołek
 Deklaracja Dostępności

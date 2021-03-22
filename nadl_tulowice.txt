@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Tułowice             
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Tułowice             
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Tułowice             
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Tułowice             
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -162,6 +161,27 @@ Pełna treść zarządzeń do pobrania na dole strony.
            
 
  
+ 
+ 
+Dyrektor Regionalnej Dyrekcji Lasów Państwowych w Katowicach
+zawiadamia o:
+ 
+1. Przystąpieniu do opracowania projektu Planu Urządzenia Lasu dla Nadleśnictwa Tułowice na lata 2024-2033 wraz Programem Ochrony Przyrody i Prognozą Oddziaływania tego planu na Środowisko. 
+2. Zwołaniu w dniu 22.04.2021 r., o godz. 900, w siedzibie Regionalnej Dyrekcji Lasów Państwowych w Katowicach: ul. św. Huberta 43/45, 40-543 Katowice – posiedzenia Komisji Założeń Planu (KZP) w formie debaty publicznej.
+3. Celem KZP jest sformułowanie „Założeń do planu urządzenia lasu” oraz zakresu projektowanych uzgodnień do prognozy oddziaływania tego planu na środowisko”. 
+4. Z uwagi na panującą w kraju pandemię wirusa Covid-19 zapewnia się możliwość udziału społeczeństwa w obradach KZP wyłącznie w trybie wideokonferencji.
+Zaprasza się przedstawicieli urzędów, samorządów, przedsiębiorców leśnych oraz organizacji zainteresowanych gospodarka leśną i ochroną przyrody w lasach nadleśnictwa, jak również media, itp. do uczestniczenia w posiedzeniu KZP wyłącznie za pośrednictwem środków komunikacji elektronicznej (wideokonferencji).
+ 
+Ze względów organizacyjnych prosimy zainteresowanych o potwierdzenie uczestnictwa pocztą elektroniczną na adres email nadleśnictwa:  tulowice@katowice.lasy.gov.pl nie później niż na 3 dni przed planowanym terminem KZP. W zgłoszeniu należy podać imię i nazwisko osoby uczestniczącej, nazwę instytucji/organizacji, którą się reprezentuje oraz adres mailowy, na który zostanie wysłany link do wideokonferencji w dniu posiedzenia KZP.
+ 
+ 
+Dyrektor RDLP w Katowicach
+                                                                                                                           Józef Kubica
+
+ 
+ 
+ 
+
  
 
 
@@ -298,7 +318,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Informacja o wyborze najkorzystniejszej oferty w przetargu na grunty rolne (4.0MB)
+Informacja o wyborze najkorzystniejszej oferty w przetargu na grunty rolne
 
 
 
@@ -307,7 +327,7 @@ Informacja o wyborze najkorzystniejszej oferty w przetargu na grunty rolne (4.0M
 
 .PDF
 
-Komunikat do przetargu na dzierżawę gruntów rolnych z dnia 19.11.2020 r. (1.0MB)
+Komunikat do przetargu na dzierżawę gruntów rolnych z dnia 19.11.2020 r.
 
 
 
@@ -316,7 +336,7 @@ Komunikat do przetargu na dzierżawę gruntów rolnych z dnia 19.11.2020 r. (1.0
 
 .PDF
 
-OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO (2.0MB)
+OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO
 
 
 
@@ -325,7 +345,7 @@ OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO (2.0MB)
 
 .PDF
 
-Załącznik nr 1 Wykaz gruntów do przetargu (2.0MB)
+Załącznik nr 1 Wykaz gruntów do przetargu
 
 
 
@@ -334,7 +354,7 @@ Załącznik nr 1 Wykaz gruntów do przetargu (2.0MB)
 
 .PDF
 
-Załącznik nr 2 Regulamin przetargu (1.0MB)
+Załącznik nr 2 Regulamin przetargu
 
 
 
@@ -343,7 +363,7 @@ Załącznik nr 2 Regulamin przetargu (1.0MB)
 
 .PDF
 
-Załącznik nr 3 Formularz ofertowy (1.0MB)
+Załącznik nr 3 Formularz ofertowy
 
 
 
@@ -352,7 +372,7 @@ Załącznik nr 3 Formularz ofertowy (1.0MB)
 
 .DOC
 
-Załącznik nr 3 Formularz ofertowy - wersja edytowalna (1.0MB)
+Załącznik nr 3 Formularz ofertowy - wersja edytowalna
 
 
 
@@ -361,7 +381,7 @@ Załącznik nr 3 Formularz ofertowy - wersja edytowalna (1.0MB)
 
 .PDF
 
-Załącznik nr 4 Wzór umowy (3.0MB)
+Załącznik nr 4 Wzór umowy
 
 
 
@@ -370,7 +390,7 @@ Załącznik nr 4 Wzór umowy (3.0MB)
 
 .PDF
 
- Załącznik nr 5 Komunikat w sprawie wadium (1.0MB)
+ Załącznik nr 5 Komunikat w sprawie wadium
 
 
 
@@ -379,7 +399,7 @@ Załącznik nr 4 Wzór umowy (3.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_15_2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_15_2020.pdf
 
 
 
@@ -388,7 +408,7 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_15_2020.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~cennik_detaliczny_na_drewno_iv_kwartal_2020.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~cennik_detaliczny_na_drewno_iv_kwartal_2020.pdf
 
 
 
@@ -397,7 +417,7 @@ px_dg~rdlp_katowice~nadl_tulowice~cennik_detaliczny_na_drewno_iv_kwartal_2020.pd
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~klauzula_informacyjna_o_przetwarzaniu_danych_osobowych.pdf (3.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~klauzula_informacyjna_o_przetwarzaniu_danych_osobowych.pdf
 
 
 
@@ -406,7 +426,7 @@ px_dg~rdlp_katowice~nadl_tulowice~klauzula_informacyjna_o_przetwarzaniu_danych_o
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_4_2020.pdf (3.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_4_2020.pdf
 
 
 
@@ -415,7 +435,7 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_4_2020.pdf (3.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf (3.0MB)
+px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf
 
 
 
@@ -437,9 +457,9 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf (3.0MB)
 Osoba odpowiedzialna za treść:
 Wiesław Skrzypek
 
-Data modyfikacji: 2020/12/14 14:56:33
+Data modyfikacji: 2021/03/17 14:49:29
 Redaktor zatwierdzający: Paweł Zmorawski
-Wprowadzający: Adam Pienio
+Wprowadzający: Grzegorz Mazurek
 Deklaracja Dostępności
 
 

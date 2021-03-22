@@ -106,10 +106,10 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Dąbrowa Tarnowska
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Dąbrowa Tarnowska
 
 
 wyszukaj w BIP
@@ -129,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Dąbrowa Tarnowska
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Dąbrowa Tarnowska
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -142,7 +140,7 @@ Komunikaty i ogłoszenia
 
 
 
-Dyrekcja Regionalna Lasów Państwowych w Krakowie (w skład której wchodzi Nadleśnictwo Dąbrowa Tarnowska) posiada certyfikat FSC nr SGS-FM/COC-010065 ważny od 2.12.2013 r. do 2.12.2018 r. Drewno pozyskiwane w Lasach Państwowych RDLP w Krakowie pochodzi z lasów o prawidłowo i racjonalnie prowadzonej gospodarce leśnej zgodnej z międzynarodowymi standardami FSC.Od dnia 14.11.2011 roku RDLP w Krakowie posiada certyfikat PEFC nr CSL/723/2014 ważny do dnia 11.11.2017 r.
+Dyrekcja Regionalna Lasów Państwowych w Krakowie (w skład której wchodzi Nadleśnictwo Dąbrowa Tarnowska) posiada certyfikat FSC nr SGS-FM/COC-010065 ważny od 20.02.2019 r. do 19.02.2024 r. Drewno pozyskiwane w Lasach Państwowych RDLP w Krakowie pochodzi z lasów o prawidłowo i racjonalnie prowadzonej gospodarce leśnej zgodnej z międzynarodowymi standardami FSC.Od dnia 13.02.2021 roku RDLP w Krakowie posiada certyfikat PEFC nr FM/01/21/BC-02 ważny do dnia 12.11.2023 r.
 
 
 
@@ -163,10 +161,10 @@ Dyrekcja Regionalna Lasów Państwowych w Krakowie (w skład której wchodzi Nad
 
 
 Osoba odpowiedzialna za treść:
-Zygmunt Głowacki
+Tomasz Romanowski
 
-Data modyfikacji: 2015/09/15 11:51:04
-Redaktor zatwierdzający: Adela Ogórek
+Data modyfikacji: 2021/03/09 14:05:35
+Redaktor zatwierdzający: Grzegorz Świątkowski
 Wprowadzający: Grzegorz Świątkowski
 Deklaracja Dostępności
 

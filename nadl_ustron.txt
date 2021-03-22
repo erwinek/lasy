@@ -106,10 +106,10 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
-Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Ustroń
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Ustroń
 
 
 wyszukaj w BIP
@@ -129,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Ustroń
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Ustroń
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -142,6 +140,141 @@ Komunikaty i ogłoszenia
 
 
 
+Ustroń, dnia 17 lutego 2021 r. 
+ 
+ 
+INFORMACJA O ZAMIARZE PRZEPROWADZENIA TRANSAKCJI ZAMIANY NIERUCHOMOŚCI  
+ 
+Regionalna Dyrekcja Lasów Państwowych Katowice
+Nadleśnictwo Ustroń
+ 
+Na podstawie art. 38e ustawy z dnia 28 września 1991 r. o lasach (t.j. Dz.U. z 2020 r. poz. 1463), Ramowych wytycznych w sprawie zamian lasów, gruntów i innych nieruchomości znajdujących się w zarządzie Lasów Państwowych wprowadzonych do stosowania pismem Dyrektora Generalnego Lasów Państwowych z dnia 12 grudnia 2012 r. Zn. spr.: ZS-D-2141-11-2/12 oraz zgody dyrektora Regionalnej Dyrekcji Lasów Państwowych w Katowicach z dnia 16 lutego 2021 r. Zn. spr.: ES.2261.5.2020.WD, Nadleśnictwo Ustroń informuje o zamiarze przeprowadzenia transakcji zamiany niżej wymienionych nieruchomości:
+
+
+
+
+
+Data zgody na zamianę
+
+
+Nieruchomość zbywana   przez Lasy Państwowe
+
+
+
+
+adres leśny
+
+
+adres administracyjny
+
+
+kategoria użytku
+
+
+powierzchnia (w ha)
+
+
+wartość
+(w tys. zł)
+
+
+
+
+16.02.2021   r.
+
+
+02-35-1-02-58-c-00
+
+
+24-03-042-0001-4476/7
+
+
+Ps   V
+
+
+0,1552
+
+
+106,00
+
+
+
+
+Razem:
+
+
+0,1552
+
+
+106,00
+
+
+
+
+
+ 
+
+
+
+
+
+Nieruchomość nabywana   przez Lasy Państwowe
+
+
+
+
+właściciel
+
+
+adres administracyjny
+
+
+kategoria użytku
+
+
+powierzchnia (w ha)
+
+
+wartość
+(w tys. zł)
+
+
+
+
+Osoba   fizyczna
+
+
+24-03-042-0001-1382/3
+
+
+Ls   III, Ls V
+
+
+1,7873
+
+
+106,00
+
+
+
+
+Razem:
+
+
+1,7873
+
+
+106,00
+
+
+
+
+
+ 
+ 
+Nadleśniczy Nadleśnictwa Ustroń
+ 
+inż. Sławomir Kohut
 
 
 
@@ -165,9 +298,9 @@ Komunikaty i ogłoszenia
 Osoba odpowiedzialna za treść:
 inż Sławomir Kohut - Nadleśniczy 
 
-Data modyfikacji: 2020/12/21 14:56:51
-Redaktor zatwierdzający: Jarosław Gabryś
-Wprowadzający: Jarosław Gabryś
+Data modyfikacji: 2021/03/10 07:35:29
+Redaktor zatwierdzający: Monika Matl
+Wprowadzający: Monika Matl
 Deklaracja Dostępności
 
 

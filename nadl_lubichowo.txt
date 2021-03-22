@@ -106,9 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Lubichowo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Lubichowo
 
 
 wyszukaj w BIP
@@ -128,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Lubichowo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Lubichowo
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -158,29 +158,6 @@ Informacje szczegółowe można uzyskać pod nr telefonu 600326162 ( leśniczy s
  
  
 
-Sprzedaż samochodu Nissan Navara
- 
-
-Nadleśnictwo Lubichowo ogłasza ponownie publiczny przetarg nieograniczony na sprzedaż samochodu marki Nissan Navara - wszelkie załączniki poniżej.
-Dodatkowych informacji udziela Pani Wiktoria Burdon pod numerem telefonu 600 020 066.
-
- 
- 
-
- 
-SPRZEDAŻ SPRZĘTU KOMPUTEROWEGO
- 
-Nadleśnictwo Lubichowo podaje ogłoszenie o sprzedaży sprzętu komputerowego (załączniki poniżej). Szczegółowych informacji udziela Pan Maciej Jodko pod numerem telefony /58/ 58 85 474.
- 
- 
-
- 
-
-OGŁOSZENIE O DZIERŻAWIE MIEJSCA TURYSTYCZNEGO
-Nadleśnictwo Lubichowo ogłasza pisemny przetarg nieograniczony na dzierżawę nieruchomości gruntowej położonej w miejscowości Wdecki Młyn, pod obsługę ruchu turystycznego. Wszelkie załączniki poniżej.
-
-
- 
  
  
  
@@ -219,24 +196,6 @@ Cennik detaliczny-sprzedaż drewna 2020 rok
 
 .PDF
 
-Zarządzenie w sprawie sprzedaży sadzonek w 2020 roku
-
-
-
-
-
-
-.PDF
-
-Cennik sprzedaży sadzonek w 2020 roku
-
-
-
-
-
-
-.PDF
-
 Oferta cenowa na sprzedaż polowań w sezonie 2020/2021 w OHZ LP 262
 
 
@@ -244,9 +203,9 @@ Oferta cenowa na sprzedaż polowań w sezonie 2020/2021 w OHZ LP 262
 
 
 
-.ZIP
+.PDF
 
-Sprzedaż sprzętu komputerowego-dokumentacja
+Dodatkowe dni wolne od pracy w 2021 roku W Nadleśnictwie Lubichowo
 
 
 
@@ -255,7 +214,7 @@ Sprzedaż sprzętu komputerowego-dokumentacja
 
 .PDF
 
-Ogłoszenie o sprzedaży samochodu Nissan navara
+Zarządzenie w sprawie sprzedaży sadzonek w 2021 roku
 
 
 
@@ -264,79 +223,7 @@ Ogłoszenie o sprzedaży samochodu Nissan navara
 
 .PDF
 
-Zał. nr 1-Opis techniczny
-
-
-
-
-
-
-.PDF
-
-Zał. nr 2-Dokumentacja fotograficzna
-
-
-
-
-
-
-.PDF
-
-Zał. nr 3-Formularz ofertowy
-
-
-
-
-
-
-.PDF
-
-Zał. nr 4-Klauzula informacyjna
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie o dzierżawie we Wdeckim Młynie
-
-
-
-
-
-
-.PDF
-
-Zał. nr 1 Mapa sytuacyjna- Wdecki Młyn
-
-
-
-
-
-
-.DOC
-
-Zał. nr 2 Formularz ofertowy- Wdecki Młyn
-
-
-
-
-
-
-.PDF
-
-Zał. nr 3 Wzór umowy i protokołu- Wdecki Młyn
-
-
-
-
-
-
-.PDF
-
-Zawiadomienie o wynikach na dzierżawę we Wdeckim Młynie
+Cennik drzew i krzewów na 2021 rok
 
 
 
@@ -358,7 +245,7 @@ Zawiadomienie o wynikach na dzierżawę we Wdeckim Młynie
 Osoba odpowiedzialna za treść:
 Nadleśniczy Mariusz Krysiak
 
-Data modyfikacji: 2021/03/04 10:42:25
+Data modyfikacji: 2021/03/15 11:47:49
 Redaktor zatwierdzający: Radosława Krysiak
 Wprowadzający: Radosława Krysiak
 Deklaracja Dostępności

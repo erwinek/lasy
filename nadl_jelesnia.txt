@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Jeleśnia
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Jeleśnia
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Jeleśnia
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Jeleśnia
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -142,6 +141,59 @@ Komunikaty i ogłoszenia
 
 
  
+ 
+ 
+ 
+Jeleśnia, dnia 10.03.2021 
+ 
+ 
+
+
+
+
+Zn. spr. S.2101.9.2019
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INFORMACJA O WYNIKU PRZETARGU USTNEGO NIEOGRANICZONEGO
+ 
+ 
+ 
+Działając na podstawie art. 38 ust. 1 pkt. 3 ust. 2,3  ustawy o lasach z dnia 28.09.1991 r.   (tekst jednolity  Dz.U.  z 2015 r, poz. 2100 z późn. zm.), rozporządzenia Ministra Środowiska z dnia 20.04.2007 r.  (Dz.U. Nr 78, poz. 532), ustawy z dnia 23.04.1964 r. Kodeks Cywilny (Dz.U. nr 16, poz. 93 z późn. zm.), 
+Skarb Państwa – Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Jeleśnia w dniu 2 marca 2021 roku o godz. 10:00 w sali narad Nadleśnictwa Jeleśnia przy ul. Suskiej 5, 34-340 Jeleśnia,  przeprowadziło ustny przetarg nieograniczony na sprzedaż jednej z trzech nieruchomości, tj.:  Nieruchomość C: nieruchomość gruntowa przy ul. Żywieckiej 35 w Jeleśni.
+ 
+Oznaczenie nieruchomości według księgi wieczystej: Nieruchomość objęta jest KW  nr BB1Z/00087712/5 prowadzoną przez Wydział Ksiąg Wieczystych Sądu Rejonowego w Żywcu.
+ 
+Oznaczenie nieruchomości według danych z ewidencji gruntów i budynków: Nieruchomość położona jest 
+w miejscowości Jeleśnia, nr ewidencyjny działki 2210/4, obręb 0001 Jeleśnia, gmina Jeleśnia, powiat żywiecki,  województwo śląskie,  rodzaj użytku – Tr 0.0434 ha. Nieruchomość stanowi działkę niezabudowaną.
+ 
+W przetargu wzieły udział 2 osoby.
+ 
+Cena wywoławcza nieruchomości:     
+21 990,00 zł netto (słownie: dwadzieścia jeden tysięcy dziewięćset dziewięćdziesiąt złotych).
+ 
+Cena nabycia
+ 
+22 290,00 zł netto (słownie: dwadzieścia dwa tysiące dwieście  dziewięćdziesiąt złotych ).
+ 
+Imię i nazwisko nabywcy:
+ 
+Eliasz Jakub Wiwatowski
+ 
+
+
+ 
+
 Jeleśnia, dnia 28.01.2021
  
  
@@ -899,7 +951,7 @@ px_dg~rdlp_katowice~nadl_jelesnia~zalacznik_nr_1_do_ogloszenia__przetargu_na_sam
 Osoba odpowiedzialna za treść:
 Nadleśniczy Grzegorz Basiura
 
-Data modyfikacji: 2021/01/28 11:44:16
+Data modyfikacji: 2021/03/10 07:43:40
 Redaktor zatwierdzający: Władysław Wyród
 Wprowadzający: Ewelina Szwiec
 Deklaracja Dostępności

@@ -106,9 +106,11 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo PRÓSZKÓW
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo PRÓSZKÓW
 
 
 wyszukaj w BIP
@@ -128,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo PRÓSZKÓW
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo PRÓSZKÓW
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -141,6 +141,42 @@ Komunikaty i ogłoszenia
 
 
 
+ 
+ 
+ 
+ 
+Prószków, 12.03.2021 r.
+Zn. spr.: NK.1101.10.10.2020
+
+
+LISTA KANDYDATÓW
+spełniających wymogi formalne określone w ogłoszeniu o naborze na stanowisko: Specjalisty/Referenta ds. budowlanych i zamówień publicznych:
+1.   oferta nr 1 – Kamil Sroka;
+2.   oferta nr 2 – Adam Holiński.
+
+ 
+ 
+ 
+
+ 
+ 
+
+
+
+Prószków, 12.03.2021 r.
+Zn. spr.: NK.1101.10.14.2020
+
+
+LISTA KANDYDATÓW
+spełniających wymogi formalne określone w ogłoszeniu o naborze na stanowisko: Referent ds. pracowniczych:
+1.   oferta nr 1 – Martyna Kiełbus;
+2.   oferta nr 2 – Olga Fitowska.
+ 
+
+ 
+
+ 
+ 
 OGŁOSZENIE O NABORZE ZEWNĘTRZNYM
  
 
@@ -217,7 +253,6 @@ załącznik nr 4_oświadczenie_nabór_stanowisko ds. pracowniczych.
 
 
 UWAGA:
-
  PLIK: załącznik nr 3_regulamin rekrutacji zewnętrznej na wolne stanowiska pracy w PGL LP Nadleśnictwie Prószków
 jest wspólny dla wszystkich ogłaszanych naborów i został opublikowany jeden raz (plik z rozszerzeniem .docx oraz .pdf)
 
@@ -391,6 +426,24 @@ Dlatego 1mp = 0,65m³ (drewna)
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+cennik na drewno 2021
+
+
+
+
+
+
+.XLS
+
+cennik na drewno 2021_wersja edytowalna
+
 
 
 
@@ -578,24 +631,6 @@ załącznik nr 4_oświadczenie_nabór_stanowisko ds. pracowniczych.docx
 
 .DOC
 
-cennik na choinki-2020_wersja edytowalna
-
-
-
-
-
-
-.PDF
-
-cennik na choinki-2020
-
-
-
-
-
-
-.DOC
-
 informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa
 
 
@@ -606,24 +641,6 @@ informacja o wynikach przetargu na sprzedaż RAV4 - wersja tekstowa
 .DOCX
 
 ogłoszenie o przetargu na dzierżawę gruntu rolnego-wersja tekstowa
-
-
-
-
-
-
-.PDF
-
-cennik na drewno - 2020
-
-
-
-
-
-
-.PDF
-
-cennik na sadzonki-2020
 
 
 
@@ -663,9 +680,9 @@ px_dg~rdlp_katowice~nadl_proszkow~regulamin_w_zakresie_przeprowadzania_przetargo
 Osoba odpowiedzialna za treść:
 mgr inż. Marek Bocianowski
 
-Data modyfikacji: 2021/02/12 14:52:23
-Redaktor zatwierdzający: Leszek Szawala
-Wprowadzający: Leszek Szawala
+Data modyfikacji: 2021/03/15 11:12:49
+Redaktor zatwierdzający: Piotr Goździewicz
+Wprowadzający: Piotr Goździewicz
 Deklaracja Dostępności
 
 

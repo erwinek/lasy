@@ -109,6 +109,7 @@ Zamówienia publiczne
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -117,8 +118,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Stary Sącz
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Stary Sącz
 
 
 wyszukaj w BIP
@@ -128,8 +128,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Stary Sącz
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Stary Sącz
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -185,7 +184,7 @@ Ogłoszenie o zamianie gruntów
 
 
 Osoba odpowiedzialna za treść:
-Paweł Szczygieł
+Tadeusz Chlipała
 
 Data modyfikacji: 2018/06/07 07:53:55
 Redaktor zatwierdzający: Katarzyna Lis
