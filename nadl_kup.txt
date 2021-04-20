@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -140,6 +141,16 @@ Komunikaty i ogłoszenia
 
 
 
+ 
+ Kup dnia, 25.03.2021r.
+Zn. Spr.:S.064.1.2021
+Udostępnienie raportu o stanie dostępności podmiotu publicznego
+Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Kup w załącznikach do pobrania poniżej udostępnia raport o stanie dostępności podmiotu publicznego.
+ 
+Zatwierdził:
+Nadleśniczy Nadleśnictwa Kup
+Jarosław Jańczyk
+ 
  Kup dnia, 04.02.2021r.
 Zn. Spr.: NK.1101.8.2020
 
@@ -567,6 +578,15 @@ Pliki do pobrania - lista załączników
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_kup~raport_dostepnosci_2021.pdf
+
+
+
+
+
+
 .ZIP
 
 px_dg~rdlp_katowice~nadl_kup~kosiarka_vogel_noot.zip
@@ -636,7 +656,7 @@ px_dg~rdlp_katowice~nadl_kup~ogloszenie_badanie_bilansu.pdf
 Osoba odpowiedzialna za treść:
 dr inż. Jarosław Jańczyk
 
-Data modyfikacji: 2021/02/08 08:33:40
+Data modyfikacji: 2021/03/26 12:58:04
 Redaktor zatwierdzający: Daniel Chodorowski
 Wprowadzający: Marcin Ślusarczyk
 Deklaracja Dostępności

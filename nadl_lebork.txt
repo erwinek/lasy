@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -154,6 +155,15 @@ Nadleśniczego Nadleśnictwa Lębork
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+ Ogłoszenie o PRZETARGU na dzierżawę gruntu leśnego dz. nr 13/2-L w Łebie
+
 
 
 
@@ -273,9 +283,9 @@ Ramowe zasady rozpatrywania reklamacji na surowiec drzewny na terenie RDLP w Gda
 Osoba odpowiedzialna za treść:
 mgr inż. Jan Dominiecki - Nadleśniczy
 
-Data modyfikacji: 2021/02/12 11:27:40
-Redaktor zatwierdzający: Jolanta Noryśkiewicz
-Wprowadzający: Jolanta Noryśkiewicz
+Data modyfikacji: 2021/04/13 14:57:49
+Redaktor zatwierdzający: Katarzyna Kaczmarczyk
+Wprowadzający: Katarzyna Tańcula
 Deklaracja Dostępności
 
 

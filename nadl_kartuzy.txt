@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kartuzy
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kartuzy
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kartuzy
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kartuzy
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -144,6 +143,22 @@ Komunikaty i ogłoszenia
 
 Aktualne ogłoszenia i komunikaty
 Nadleśnictwa Kartuzy
+ 
+ 
+ 
+ 
+Odcinek szlaku rowerowego Kartuzy – Dzierżążno zamknięty
+W związku z realizacją przez PKP PLK S.A. inwestycji kolejowej pn.  „Prace na alternatywnym ciągu transportowym Bydgoszcz-Trójmiasto.  Odcinek D” zamknięty do odwołania zostaje odcinek leśny szlaku  rowerowego Kartuzy – Dzierżążno (od miasta Kartuzy do drogi na Kaliska).
+ 
+ 
+_____________________________________________________________________________________________________
+ 
+Nadleśnictwo Kartuzy ogłasza przetarg nieograniczony oferowy na dzierżawę części nieruchomości stanowiącej działkę nr 109/5, obr. ewid. Szymbark, gm. Stężyca, o powierzchni 0,1517 ha, położonej w Leśnictwie Kolańska Huta z przeznaczeniem na miejsce postoju pojazdów. 
+
+Oferty można składać do dnia 23.04.2021 r. do godz. 10:00.
+ 
+Ogłoszenie o przetargu, wzór oferty i wzór umowy znajdują się poniżej jako pliki do pobrania.
+(poniżej załączono dwa wzory umów dzierżawy, prosimy pobierać aktualny wzór umowy dzierżawy)
  
  
  
@@ -207,7 +222,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Cennik detaliczny surowca drzewnego na 2020 rok (1.0MB)
+ Ogłoszenie - miejsce postoju pojazdów
 
 
 
@@ -216,7 +231,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Decyzja nr 24 z 30.06.2020 r. w spr. cen detalicznych surowca drzewnego (1.0MB)
+ Wzór oferty - miejsce postoju pojazdów
 
 
 
@@ -225,7 +240,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Cennik choinek (1.0MB)
+ Wzór umowy dzierżawy (aktualny) - miejsce postoju pojazdów
 
 
 
@@ -234,7 +249,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Cennik detaliczny materiału sadzeniowego obowiązujący w 2020 r. (1.0MB)
+ Wzór umowy dzierżawy (nieaktualny)- miejsce postoju pojazdów
 
 
 
@@ -243,7 +258,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Program Monitoringu Lasów (1.0MB)
+ Cennik detaliczny surowca drzewnego na 2020 rok
 
 
 
@@ -252,7 +267,43 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wniosek o udostępnienie informacji publicznej/o środowisku (1.0MB)
+ Decyzja nr 24 z 30.06.2020 r. w spr. cen detalicznych surowca drzewnego
+
+
+
+
+
+
+.PDF
+
+ Cennik choinek
+
+
+
+
+
+
+.PDF
+
+ Cennik detaliczny materiału sadzeniowego obowiązujący w 2021 r.
+
+
+
+
+
+
+.PDF
+
+ Program Monitoringu Lasów
+
+
+
+
+
+
+.PDF
+
+ Wniosek o udostępnienie informacji publicznej/o środowisku
 
 
 
@@ -261,7 +312,7 @@ Pliki do pobrania - lista załączników
 
 .DOC
 
- Wniosek u udostępnienie informacji publicznej/o środowisku (1.0MB)
+ Wniosek u udostępnienie informacji publicznej/o środowisku
 
 
 
@@ -283,7 +334,7 @@ Pliki do pobrania - lista załączników
 Osoba odpowiedzialna za treść:
 mgr inż. Michał Majewski - Nadleśniczy
 
-Data modyfikacji: 2020/07/01 13:04:45
+Data modyfikacji: 2021/04/15 13:40:37
 Redaktor zatwierdzający: Piotr Majkowski
 Wprowadzający: Iga Konkol
 Deklaracja Dostępności

@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -147,20 +148,22 @@ Komunikaty i ogłoszenia
 
 
 
-Planowane zabiegi gospodarcze w 2020 roku
+Planowane zabiegi gospodarcze w 2021 roku
 
 
 
 
 
-I PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2019 ZNAJDUJE SIĘ W PLIKU PONIŻEJ
-II Ogłoszenie o wyborze najkorzystniejszej oferty L. Matemblewo - w pliku poniżej
-III Ogłoszenie o wyborze najkorzystniejszej oferty L. Wyspowo - w pliku poniżej
-IV PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SIĘ W PLIKU PONIŻEJ
-V Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
-VI Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
-VII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
-VIII Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawe terenów inwestycyjnych w Redzie
+I OGŁOSZENIE O NABORZE NA STANOWISKO SEKTERARZA NADLEŚNICTWA (w pliku poniżej)
+II PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2019 ZNAJDUJE SIĘ W PLIKU PONIŻEJ
+III Ogłoszenie o wyborze najkorzystniejszej oferty L. Matemblewo - w pliku poniżej
+IV Ogłoszenie o wyborze najkorzystniejszej oferty L. Wyspowo - w pliku poniżej
+V PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SIĘ W PLIKU PONIŻEJ
+VI Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
+VII Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
+VIII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
+IX Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawe terenów inwestycyjnych w Redzie
+X Informacja o wyniku przetargu na sprzedaż nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego
  
  
 
@@ -252,42 +255,6 @@ px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx
 .DOCX
 
 px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_naborze_na_zamowienia_publiczne.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_specjalista_ds._administracji.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_dla_kandydatow_do_pracy.pdf
-
-
-
-
-
-
-.DOCX
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.docx
 
 
 
@@ -420,6 +387,42 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_oglos
 
 
 
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_sekretarz.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_dla_kandydatow_do_pracy.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~informacja_wyniku_przetargu_08_04_2021.pdf
+
+
+
+
+
+
 
 
 
@@ -435,7 +438,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_oglos
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2021/02/23 13:54:49
+Data modyfikacji: 2021/04/08 12:34:34
 Redaktor zatwierdzający: Łukasz Plonus
 Wprowadzający: Martyna Pojawa
 Deklaracja Dostępności

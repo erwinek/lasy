@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Gorlice
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Gorlice
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Gorlice
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Gorlice
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -163,7 +162,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wykaz gruntów podlegających zamianie w 2018 r. (1.0MB)
+ Wykaz gruntów podlegających zamianie w 2018 r.
 
 
 
@@ -172,7 +171,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Ogłoszenie o sprzedaży pustostanu. (1.0MB)
+ Ogłoszenie o sprzedaży pustostanu.
 
 
 
@@ -181,7 +180,16 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wykaz gruntów podlegających zamianie (1.0MB)
+ Wykaz gruntów podlegających zamianie
+
+
+
+
+
+
+.PDF
+
+ Raport o stanie zapewnienia dostępności podmiotu publicznego
 
 
 
@@ -203,9 +211,9 @@ Pliki do pobrania - lista załączników
 Osoba odpowiedzialna za treść:
 mgr inż. Józef Legutko
 
-Data modyfikacji: 2018/09/12 15:02:32
+Data modyfikacji: 2021/04/15 14:26:53
 Redaktor zatwierdzający: Rafał Stolarski
-Wprowadzający: Konrad Barczyk
+Wprowadzający: Rafał Stolarski
 Deklaracja Dostępności
 
 

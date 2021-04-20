@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kaliska
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kaliska
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kaliska
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kaliska
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -142,23 +141,39 @@ Komunikaty i ogłoszenia
 
 
 
-OGŁOSZENIE
+ 
+KOMUNIKAT
+Nadleśnictwo Kaliska ogłasza pisemny przetarg na sprzedaż sprzętu wycofanego z eksploatacji  
 
-nr 5/2020 O SPRZEDAŻY SPRZĘTU WYCOFANEGO Z EKSPLOATACJI 
+Termin składania ofert do 28.04.2021 do godziny 8:00.
+Szczególy znajdują się w załączniku na dole strony - Ogłoszenie nr 2/2021.
 
-Oferty należy składać do 08.12.2020r. do godziny 8:00 w siedzibie nadleśnictwa
-(szczegóły przetargu znajdują się w załaczniku na dole strony)
+ 
+ 
+ 
+
+ 
+ 
+ KOMUNIKAT
+Nadleśnictwo Kaliska ogłasza pisemny przetarg na sprzedaż sprzętu wycofanego z eksploatacji  
+
+Termin składania ofert do 28.04.2021 do godziny 8:00.
+Szczególy znajdują się w załączniku na dole strony - Ogłoszenie nr 1/2021.
+
+ 
+ 
  
 
 
-INFORMACJA
+KOMUNIKAT
+Nadleśnictwo Kaliska ogłasza nabór na stanowisko Robotnik leśny.
+Termin składania ofert do 19.04.2021 do godziny 10:00.
+Szczególy znajdują się w załączniku na dole strony.
 
-O ZAMIARZE PRZEPROWADZENIA ZAMIANY NIERUCHOMOŚCI Z GMINĄ KALISKA 
-NA PODSTAWIE ART 38e USTAWY O LASACH
+ 
 
 
-Zamiana zostanie zrealizowana w ostatnim tygodniu sierpnia bieżącego roku
-(szczegóły znajdują się w załaczniku na dole strony)
+ 
  
 
  
@@ -206,7 +221,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Cennik na choinki świąteczne (2.0MB)
+ Ogłoszenie o sprzedaży sprzętu wycofanego z eksploatacji nr 2/2021.
 
 
 
@@ -215,7 +230,7 @@ Cennik na choinki świąteczne (2.0MB)
 
 .PDF
 
-Warunki kupna-sprzedaży detalicznej drewna i użytków ubocznych (5.0MB)
+ Ogłoszenie o sprzedaży sprzętu wycofanego z eksploatacji nr 1/2021.
 
 
 
@@ -224,25 +239,7 @@ Warunki kupna-sprzedaży detalicznej drewna i użytków ubocznych (5.0MB)
 
 .PDF
 
-Cennik detaliczny drewna i produktów niedrzewnych (3.0MB)
-
-
-
-
-
-
-.PDF
-
-Informacja o zamiarze dokonania zamiany z Gminą Kaliska na podstawie art. 38e UoL (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Ogłoszenie nr 5/2020 o sprzedaży sprzętu wycofanego z eksploatacji. (2.0MB)
+ Ogłoszenie 04/2021 o naborze na stanowisko Robotnik Leśny
 
 
 
@@ -264,8 +261,8 @@ Ogłoszenie nr 5/2020 o sprzedaży sprzętu wycofanego z eksploatacji. (2.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Andrzej Przewłocki
 
-Data modyfikacji: 2020/11/23 14:42:38
-Redaktor zatwierdzający: Katarzyna Mroczkiewicz
+Data modyfikacji: 2021/04/13 14:54:54
+Redaktor zatwierdzający: Kordian Kromer
 Wprowadzający: Kordian Kromer
 Deklaracja Dostępności
 

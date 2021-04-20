@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Gidle
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Gidle
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Gidle
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Gidle
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -175,20 +174,7 @@ Komunikaty i ogłoszenia
 
 
 
-
-
-
-
 Pliki do pobrania - lista załączników
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_gidle~zapytanie_o_cene_27.11.2020.pdf (1.0MB)
-
 
 
 
@@ -196,7 +182,7 @@ px_dg~rdlp_katowice~nadl_gidle~zapytanie_o_cene_27.11.2020.pdf (1.0MB)
 
 .ZIP
 
-px_dg~rdlp_katowice~nadl_gidle~zalaczniki_do_zapytania_o_cene_27.11.2020.zip (1.0MB)
+px_dg~rdlp_katowice~nadl_gidle~zapytanie_sprzatanie_2021.zip
 
 
 
@@ -218,7 +204,7 @@ px_dg~rdlp_katowice~nadl_gidle~zalaczniki_do_zapytania_o_cene_27.11.2020.zip (1.
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Gidle mgr inż. Jan Wiśniewski
 
-Data modyfikacji: 2020/11/27 11:51:45
+Data modyfikacji: 2021/03/23 08:29:56
 Redaktor zatwierdzający: Karol Cudak
 Wprowadzający: Karol Cudak
 Deklaracja Dostępności

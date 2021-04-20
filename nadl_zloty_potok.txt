@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -142,6 +143,246 @@ Komunikaty i ogłoszenia
 
 
 
+ 
+ 
+ 
+ 
+Regionalna Dyrekcja Lasów Państwowych Katowice
+Nadleśnictwo Złoty Potok
+Zgodnie z Ramowymi wytycznymi w sprawie zamian lasów, gruntów i innych nieruchomości znajdujących się w zarządzie Lasów Państwowych, które obowiązują od dnia 1 stycznia 2013 r., zamian dokonywanych na podstawie art. 38e ustawy z dnia 28 września 1991 r. o lasach (Dz. U. z 2020r. poz. 1463), Nadleśnictwo Złoty Potok informuje o zamiarze przeprowadzenia transakcji zamiany nieruchomości, na którą w dniu 19.04.2021 r. uzyskało zgodę dyrektora Regionalnej Dyrekcji Lasów Państwowych w Katowicach, zn. spr.: ES.2261.5.2021.WD.
+ 
+INFORMACJA O ZAMIARZE TRANSAKCJI ZAMIANY Z DNIA 20.04.2021r.
+ 
+
+
+
+
+
+Data zgody
+na zamianę
+
+
+Nieruchomość   zbywana przez LP
+
+
+Nieruchomość   nabywana przez LP
+
+
+
+
+Adres leśny
+
+
+Adres   administra-cyjny
+
+
+Kategoria   użytku
+
+
+Pow.
+(w ha)
+
+
+Wartość
+(w tys. zł)
+
+
+Właściciel1
+
+
+Adres   administra-cyjny
+
+
+Kategoria   użytku
+
+
+Pow.
+(w ha)
+
+
+Wartość
+(w tys. zł)
+
+
+
+
+ES.2261.5.2021.WD
+z   19.04.2021r.
+
+
+02-38-1-06-715A-x-00
+
+
+24-09-032-0003
+
+
+Ls V
+
+
+0,36
+
+
+142,02
+
+
+Osoba fizyczna
+
+
+24-04-142-0014
+
+
+Ls VI
+
+
+2,29
+
+
+142,26
+
+
+
+
+02-38-1-06-715A-y-00
+
+
+24-09-032-0003
+
+
+Ls V
+
+
+0,41
+
+
+ 
+
+
+ 
+
+
+R VI
+
+
+0,08
+
+
+
+
+02-38-1-06-715A-z-00
+
+
+24-09-032-0003
+
+
+Ls V
+
+
+1,40
+
+
+ 
+
+
+ 
+
+
+Ps VI
+
+
+0,62
+
+
+
+
+02-38-1-06-715A-ax-00
+
+
+24-09-032-0003
+
+
+Ls V
+
+
+0,16
+
+
+ 
+
+
+ 
+
+
+N
+
+
+0,63
+
+
+
+
+02-38-1-06-715A-bx-00
+
+
+24-09-032-0003
+
+
+Ls V
+
+
+0,56
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+RAZEM
+
+
+2,89
+
+
+142,02
+
+
+RAZEM
+
+
+3,62
+
+
+142,26
+
+
+
+
+
+ 
+Złoty Potok, dn. 20.04.2021r.
+NADLEŚNICZY NADLEŚNICTWA ZŁOTY POTOK
+ANDRZEJ KRZYPKOWSKI
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+ 
+ 
  Złoty Potok, dnia 11 lutego 2021r.
 ZG.7410.2.2021
 O G Ł O S Z E N I E
@@ -388,9 +629,9 @@ Załącznik nr 1 do ogłoszenia SA.234.1.2020.KM z dnia 20.08.2020
 Osoba odpowiedzialna za treść:
 mgr inż. Andrzej Krzypkowski - Nadleśniczy
 
-Data modyfikacji: 2021/02/11 14:52:11
+Data modyfikacji: 2021/04/20 11:26:17
 Redaktor zatwierdzający: Adam Deksymer
-Wprowadzający: Katarzyna Szostak
+Wprowadzający: Tadeusz Wychowski
 Deklaracja Dostępności
 
 

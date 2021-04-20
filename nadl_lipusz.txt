@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -219,6 +220,15 @@ www.gios.gov.pl/pl/stan-srodowiska/pms 
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Protokół z otwarcia ofert i rozstrzygnięcia II przetargu na sprzedaż samochodu marki Subaru Forester
+
 
 
 
@@ -401,7 +411,7 @@ Wykaz zagrożeń występujących w lesie
 Osoba odpowiedzialna za treść:
 mgr inż. Maciej Kostka - Nadleśniczy Nadleśnictwa Lipusz
 
-Data modyfikacji: 2021/03/08 08:06:25
+Data modyfikacji: 2021/03/29 11:50:51
 Redaktor zatwierdzający: Bożena Suchy Lipińska
 Wprowadzający: Bożena Suchy Lipińska
 Deklaracja Dostępności

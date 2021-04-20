@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Namysłów
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Namysłów
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Namysłów
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Namysłów
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -143,45 +142,13 @@ Komunikaty i ogłoszenia
 
 
  
-
-
-OGŁOSZENIE
  
-
-
-
-
-Spotkanie z Wykonawcami ws. zamówienia publicznego pn. 
-"Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Namysłów  w roku 2021” 
-(Z.270.8.2020)
  
-Nadleśnictwo Namysłów, działając na podstawie art. 38 ust. 3 ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (tekst jedn. Dz. U. z 2019 r., poz. 1843 z poźn. zm.), zaprasza wszystkich zainteresowanych wykonawców na spotkanie w celu wyjaśnienia ewentualnych wątpliwości dotyczących treści SIWZ dla postępowania prowadzonego 
-w trybie przetargu nieograniczonego pn.: "Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Namysłów w roku 2021" (nr postępowania: Z.270.8.2020, ogłoszenie o przetargu nr 2020/S 215-527458).
- 
- 
- 
-Spotkanie odbędzie się w dniu 1 grudnia 2020 r. o godzinie 10.00 w siedzibie Nadleśnictwa Namysłów (sala konferencyjna) przy ul. M. Skłodowskiej-Curie 14A, 46-100 Namysłów.
- 
- 
- 
-Z uwagi na panującą sytuację epidemiologiczną i związane z nią ograniczenia dotyczące zgromadzeń, zainteresowanych Wykonawców prosimy o potwierdzenie chęci wzięcia udziału w spotkaniu do dnia 30.11.2020 roku 
-do godz. 14.00. (zgłoszenie udziału należy przesłać drogą elektroniczną na adres: namyslow@katowice.lasy.gov.pl).
-W przypadku większej liczby zainteresowanych spotkanie odbędzie się w kilku turach.
- 
-INFORMACJA ZE SPOTKANIA Z WYKONAWCAMI
+OGŁOSZENIE 
+ przetargu ustnego nieograniczonego na sprzedaż nieruchomości gruntowej zabudowanej o powierzchni  0,4500 ha, położonej na terenie gminy Świerczów, wsi Starościn – obręb ewidencyjny 0060, oznaczonej  w ewidencji gruntów jako działka nr 387/2. 
  
  
 
- 
-
- 
-
- 
- 
- Informacja o wykonaniu przez Lasy Państwowe prawa pierwokupu
-
- 
- 
  
 
 
@@ -195,18 +162,18 @@ Pliki do pobrania - lista załączników
 
 
 
+.DOC
+
+Ogłoszenie o przetargu nieograniczonym na sprzedaż nieruchomości gruntowej
+
+
+
+
+
+
 .PDF
 
-Informacja o wykonaniu przez Lasy Państwowe prawa pierwokupu (1.0MB)
-
-
-
-
-
-
-.PDF
-
-Zamiana gruntów (1.0MB)
+Ogłoszenie - prasa
 
 
 
@@ -228,7 +195,7 @@ Zamiana gruntów (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Paweł Bak - Nadleśniczy Nadleśnictwa Namysłów
 
-Data modyfikacji: 2020/12/02 11:50:06
+Data modyfikacji: 2021/04/12 07:31:02
 Redaktor zatwierdzający: Małgorzata Lizurej
 Wprowadzający: Małgorzata Lizurej
 Deklaracja Dostępności

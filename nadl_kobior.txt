@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -140,7 +141,20 @@ Komunikaty i ogłoszenia
 
 
 
- ZG.7320.9.2021
+ 
+Piasek, dnia 29 marca 2021 r. 
+ 
+INFORMACJA O ZAMIARZE PRZEPROWADZENIA TRANSAKCJI ZAMIANY NIERUCHOMOŚCI  
+ 
+Regionalna Dyrekcja Lasów Państwowych Katowice
+Nadleśnictwo Kobiór
+ 
+Na podstawie  art. 38e ustawy z dnia 28 września 1991 r. o lasach (t.j. Dz.U. z 2020  r. poz. 1463 ze zm.), Ramowych wytycznych w sprawie zamian lasów,  gruntów i innych nieruchomości znajdujących się w zarządzie Lasów  Państwowych wprowadzonych do stosowania pismem Dyrektora Generalnego  Lasów Państwowych z dnia 12 grudnia 2012 r. Zn. spr.: ZS-D-2141-11-2/12  oraz zgody dyrektora Regionalnej Dyrekcji Lasów Państwowych w Katowicach  z dnia 24.03 2021 r. Zn. spr.: ES.2261.15.2020.WD, Nadleśnictwo  Kobiór informuje o zamiarze przeprowadzenia transakcji zamiany nieruchomości wymienionych w 
+ 
+pliku do pobrania o nazwie "Zamiana nieruchomosci"
+
+ 
+ZG.7320.9.2021
 dnia 12.03.2021r
 Nadleśnictwo Kobiór informuje, że w wyniku wyboru ofert, które wpłynęły na zaproszenie do złożenia oferty na Dostawę wraz z transportem kukurydzy paszowej do celów gospodarki łowieckiej rok 2021 - wybrany został dostawca:
 Gospodarstwo Rolne - Wojciech Bojdoł z Mikołowa
@@ -346,21 +360,6 @@ Nadleśniczy Nadleśnictwa Kobiór
 dr inż. Marian Pigan 
 
 =======================================================================================================
-Piasek 2.02.2021r
- 
-Nadleśnictwo Kobiór informuje, że w ramach ogłoszonego publicznego postępowania przetargowego na dzierżawę stawu w leśnictwie Mościska oddz. 394c, wpłynęły 2 oferty. W wyniku postępowania wyłoniono najbardziej korzystną ofertę złożoną przez Pana Dawida Dubaj.
- 
-                                                   podpisał Nadleśniczy Marian Pigan
-  
-Piasek, 25.01.2021r
- 
-OGŁOSZENIE
-PGL LP Nadleśnictwo Kobiór ogłasza publiczny, pisemny przetarg nieograniczony (wybór ofert) na wyłonienie dzierżawcy stawu w leśnictwie Mościska oddz 394 c, na cele rolnicze
-staw położony jest w oddz 394c leśnictwa Mościska, w granicach gminy Orzesze, działka ewidencyjna nr 94, obrębu Zawada, o powierzchni ewidencyjnej 0,3833 ha.
-termin składania ofert upływa w dniu 2.02.2021r o godz 9:30
-szczegóły do pobrania w plikach do pobrania
- 
- 
 ================================================================================================================================  KLAUZULA INFORMACYJNA dot. przetwarzania danych osobowych Szanowny/-a  Pan/Pani w ramach naszych starań w celu osiągnięcia zgodności z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (dalej jako RODO), a także w celu dostarczenia informacji o tym, jak Państwa dane osobowe są przetwarzane przez Nadleśnictwo Kobiór oraz o przysługujących Państwu prawach z tym związanych przekazujemy poniżej niezbędne informacje w tym zakresie. Informacje zawarte są w plikach do pobrania: 1.Obowiązkowa informacja RODO 2. Informacja RODO dla osób zawierających umowy
 
 
@@ -384,16 +383,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-ZG.7320.9.2021 Zaproszenie do złożenia oferty Dostawa kukurydzy
-
-
-
-
-
-
-.DOC
-
-ZG.7320.9.2021 - Druk oferty na kukurydzę
+Zamiana nieruchomości
 
 
 
@@ -433,7 +423,7 @@ ZG.7320.9.2021 - Druk oferty na kukurydzę
 Osoba odpowiedzialna za treść:
 dr inż. Marian Pigan - Nadleśniczy
 
-Data modyfikacji: 2021/03/12 13:02:30
+Data modyfikacji: 2021/03/29 19:08:12
 Redaktor zatwierdzający: Jadwiga Długajczyk
 Wprowadzający: Jadwiga Długajczyk
 Deklaracja Dostępności

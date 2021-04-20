@@ -157,6 +157,15 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruncie_rolnym_do_wydzierzawienia.pdf
+
+
+
+
+
+
+.PDF
+
 px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_zwolaniu_kzp_dla_pul_na_lata_2024_2033.pdf
 
 
@@ -233,7 +242,7 @@ px_dg~rdlp_katowice~nadl_wegierska~ogloszenie_o_gruntach_do_wydzierzawienia1.pdf
 Osoba odpowiedzialna za treść:
 mgr inż. Marian Knapek
 
-Data modyfikacji: 2021/03/17 12:54:24
+Data modyfikacji: 2021/04/19 14:03:51
 Redaktor zatwierdzający: Paweł Griner
 Wprowadzający: Paweł Griner
 Deklaracja Dostępności

@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -333,6 +334,15 @@ Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2021
 
 
 
+.ZIP
+
+Grunty rolne - przetarg
+
+
+
+
+
+
 
 
 
@@ -348,9 +358,9 @@ Cennik na sadzonki drzew i krzewów leśnych dla odbiorców zewnętrznych w 2021
 Osoba odpowiedzialna za treść:
 Krzysztof Liżiński  -  Nadleśniczy
 
-Data modyfikacji: 2021/02/17 10:39:44
+Data modyfikacji: 2021/04/07 10:49:43
 Redaktor zatwierdzający: Grażyna Krawiec
-Wprowadzający: Aleksandra Olenderek
+Wprowadzający: Adam Pawlak
 Deklaracja Dostępności
 
 

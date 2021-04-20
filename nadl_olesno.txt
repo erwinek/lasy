@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -159,6 +160,24 @@ bip.olesno.pl/8918/11141/naprawa-rozmytego-fragmentu-grobli-w-rezerwacie-przyrod
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~zapytanie_ofertowe___akcesoria_komputerowe_08.04.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~informacja_o_udzielonym_zamowieniu_na_uslugi_sprzatania_i_prace_porzadkowo_gospodarcze_s.270.1.1.2021.pdf
+
 
 
 
@@ -575,9 +594,9 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_tel
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Olesno mgr inż. Grzegorz Kimla
 
-Data modyfikacji: 2021/03/04 13:25:15
+Data modyfikacji: 2021/04/08 13:22:52
 Redaktor zatwierdzający: Joanna Kubiak
-Wprowadzający: Magdalena Sabok
+Wprowadzający: Grzegorz Bek
 Deklaracja Dostępności
 
 

@@ -106,6 +106,7 @@ Archiwa
 Informacja o kontrolach
 Wystąpienia, komunikaty i ogłoszenia
 Zamówienia publiczne
+Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
@@ -166,6 +167,24 @@ Klauzula informacyjna dotycząca ochrony osób fizycznych w związku z przetwarz
 
 .PDF
 
+aktualizacja planu postępowań o udzielenie zamówienia na 2021 r.
+
+
+
+
+
+
+.PDF
+
+Cennik materiału sadzeniowego
+
+
+
+
+
+
+.PDF
+
 raport o stanie zapewniania dostępności 2021 r.
 
 
@@ -176,15 +195,6 @@ raport o stanie zapewniania dostępności 2021 r.
 .PDF
 
 Obowiązujące ceny sprzedaży detalicznej drewna
-
-
-
-
-
-
-.PDF
-
- Cennik materiału sadzeniowego w 2019 r.
 
 
 
@@ -233,7 +243,7 @@ ogłoszenie o sprzedaży chłodni
 Osoba odpowiedzialna za treść:
 mgr inż. Andrzej Gajowniczek - Nadleśniczy
 
-Data modyfikacji: 2021/02/24 07:23:06
+Data modyfikacji: 2021/04/07 11:07:54
 Redaktor zatwierdzający: Agata Murawska
 Wprowadzający: Agata Murawska
 Deklaracja Dostępności

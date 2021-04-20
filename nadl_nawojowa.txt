@@ -159,7 +159,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-zamiana gruntów
+Zamiana gruntów
 
 
 
@@ -168,7 +168,7 @@ zamiana gruntów
 
 .PDF
 
-grunty-zamiany
+Grunty - zamiany
 
 
 
@@ -195,7 +195,7 @@ Ogłoszenie o planowanej transakcji zamiany gruntów
 
 .PDF
 
-Ogłoszenie o planowanej transakcji zamiany gruntów w gm.Łabowa
+Ogłoszenie o planowanej transakcji zamiany gruntów w gm. Łabowa
 
 
 
@@ -220,6 +220,15 @@ Informacja o zamiarze dokonania transakcji zamiany Biała Niżna
 
 
 
+.PDF
+
+Raport o stanie zapewniania dostępności podmiotu publicznego 2021
+
+
+
+
+
+
 
 
 
@@ -235,9 +244,9 @@ Informacja o zamiarze dokonania transakcji zamiany Biała Niżna
 Osoba odpowiedzialna za treść:
 Wojciech Kurzeja Nadleśniczy Nadleśnictwa Nawojowa
 
-Data modyfikacji: 2018/12/12 11:25:29
+Data modyfikacji: 2021/04/02 11:06:47
 Redaktor zatwierdzający: Paweł Skoczeń
-Wprowadzający: Magda Czerniak
+Wprowadzający: Artur Stępień
 Deklaracja Dostępności
 
 
