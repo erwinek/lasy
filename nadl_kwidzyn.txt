@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kwidzyn
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kwidzyn
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Kwidzyn
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Kwidzyn
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -183,7 +182,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Zaproszenie do udziału w projekcie "Rzetelne Przedsiębiorstwo Leśne" (1.0MB)
+ Zaproszenie do udziału w projekcie "Rzetelne Przedsiębiorstwo Leśne"
 
 
 
@@ -192,7 +191,7 @@ Pliki do pobrania - lista załączników
 
 .ZIP
 
- "Rzetelne Przedsiębiorstwo Leśne" - załączniki (3.0MB)
+ "Rzetelne Przedsiębiorstwo Leśne" - załączniki
 
 
 
@@ -201,7 +200,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Pismo ws. monitoringu lasów (1.0MB)
+ Pismo ws. monitoringu lasów
 
 
 
@@ -210,7 +209,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Klauzula informacyjna dotycząca ochrony danych osobowych w Nadleśnictwie Kwidzyn (1.0MB)
+ Klauzula informacyjna dotycząca ochrony danych osobowych w Nadleśnictwie Kwidzyn
 
 
 
@@ -219,7 +218,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Ogłoszenie - I przetarg ustny (licytacja) na sprzedaż środka trwałego, samochód osobowy VOLKSWAGEN 7HCCARAVELLE 2,0 TDI (1.0MB)
+Ogłoszenie - I przetarg ustny (licytacja) na sprzedaż środka trwałego, samochód osobowy VOLKSWAGEN 7HCCARAVELLE 2,0 TDI
 
 
 
@@ -228,7 +227,7 @@ Ogłoszenie - I przetarg ustny (licytacja) na sprzedaż środka trwałego, samoc
 
 .PDF
 
-Ogłoszenie o sprzedaży pustostanu (1.0MB)
+Ogłoszenie o sprzedaży pustostanu
 
 
 
@@ -237,7 +236,7 @@ Ogłoszenie o sprzedaży pustostanu (1.0MB)
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_kwidzyn~dg~rdlp_gdansk~nadl_kwidzyn~rdlp_gdanskzalacznik_nr_1_do_zamiana_gmina_sadlinki.pdf (1.0MB)
+px_dg~rdlp_gdansk~nadl_kwidzyn~dg~rdlp_gdansk~nadl_kwidzyn~rdlp_gdanskzalacznik_nr_1_do_zamiana_gmina_sadlinki.pdf
 
 
 
@@ -260,8 +259,8 @@ Osoba odpowiedzialna za treść:
 Nadleśniczy Zbigniew Lubiński
 
 Data modyfikacji: 2020/03/10 14:37:32
-Redaktor zatwierdzający: Agnieszka Raczkowska
-Wprowadzający: Agnieszka Raczkowska
+Redaktor zatwierdzający: 
+Wprowadzający: Marek Matecki
 Deklaracja Dostępności
 
 

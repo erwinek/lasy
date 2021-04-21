@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Kłobuck
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Kłobuck
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Kłobuck
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Kłobuck
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -157,6 +156,32 @@ Komunikaty i ogłoszenia
 
 
 
+ 
+ 
+                                          OGŁOSZENIE
+
+Nadleśnictwo Kłobuck informuje, że posiada do sprzedaży siatkę ogrodzeniową
+leśną symbol M 200/25/15 pozyskaną z demontażu grodzeń upraw leśnych.
+Siatkę można nabyć w leśnictwie: Lemańsk, Długość 450mb, wysokość 2,0m. 
+ 
+Cena wywoławcza za 1 mb – 0,70 zł netto (+23% VAT)
+Wypełniony FORMULARZ OFERTOWY z oferowaną ceną zakupu (nie niższą niż cena
+wywoławcza) należy złożyć w siedzibie Nadleśnictwa Kłobuck mieszczącej się przy
+ul. Zakrzewskiej 85 lub przesłać na adres e-mail: klobuck@katowice.lasy.gov.pl
+w nieprzekraczalnym terminie do 23.04.2021 r.
+Oferty złożone po upływie wyznaczonego terminu nie podlegają rozpatrzeniu.
+Wybór ofert nastąpi w dniu 26.04.2021 r.
+WAŻNE:
+Przed dokonaniem zakupu zapraszamy do szczegółowych oględzin w/w siatki
+ogrodzeniowej. Pochodzi ona z demontażu grodzeń upraw leśnych, w związku z czym
+może posiadać usterki, dlatego nie będzie możliwe złożenie do Nadleśnictwa Kłobuck
+reklamacji lub dokonanie zwrotu zakupionej siatki.
+W sprawie oględzin oraz w przypadku odbioru zakupionej siatki prosimy o
+skontaktowanie się z Leśniczym Leśnictwa Lemańsk – tel. 602-193-034.
+
+                                                                          Jerzy Sądel
+                                                               Nadleśniczy Nadleśnictwa Kłobuck
+ - formularz ofertowy do pobrania na końcu strony
  
  
 Nadleśnictwo Kłobuck wprowadza zakaz wstępu do lasu obejmujący teren części leśnictwa Rębielice i Zagórze.
@@ -887,7 +912,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~24_04_2017_zalaczniki_art_38.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~formularz_ofertowy.pdf
 
 
 
@@ -896,7 +921,7 @@ px_dg~rdlp_katowice~nadl_klobuck~24_04_2017_zalaczniki_art_38.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~posiedzenie_kzp_nadlesnictwoklobuck_mapka.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~24_04_2017_zalaczniki_art_38.pdf
 
 
 
@@ -905,7 +930,7 @@ px_dg~rdlp_katowice~nadl_klobuck~posiedzenie_kzp_nadlesnictwoklobuck_mapka.pdf (
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~referat_n_czego_kzp_klobuck_19_04_2016.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~posiedzenie_kzp_nadlesnictwoklobuck_mapka.pdf
 
 
 
@@ -914,7 +939,7 @@ px_dg~rdlp_katowice~nadl_klobuck~referat_n_czego_kzp_klobuck_19_04_2016.pdf (2.0
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~zalaczniki__art_38.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~referat_n_czego_kzp_klobuck_19_04_2016.pdf
 
 
 
@@ -923,7 +948,7 @@ px_dg~rdlp_katowice~nadl_klobuck~zalaczniki__art_38.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~28_10_2016_zalaczniki_art_38.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~zalaczniki__art_38.pdf
 
 
 
@@ -932,7 +957,16 @@ px_dg~rdlp_katowice~nadl_klobuck~28_10_2016_zalaczniki_art_38.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_klobuck~warunki_zapewnienia_dostepu_i_warunki_umieszczania_na_nieruchomosci_obiektow_i_urzadzen.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_klobuck~28_10_2016_zalaczniki_art_38.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~warunki_zapewnienia_dostepu_i_warunki_umieszczania_na_nieruchomosci_obiektow_i_urzadzen.pdf
 
 
 
@@ -954,7 +988,7 @@ px_dg~rdlp_katowice~nadl_klobuck~warunki_zapewnienia_dostepu_i_warunki_umieszcza
 Osoba odpowiedzialna za treść:
 Jerzy Sądel Nadleśniczy Nadleśnictwa Kłobuck
 
-Data modyfikacji: 2019/05/08 08:58:20
+Data modyfikacji: 2021/04/21 11:19:21
 Redaktor zatwierdzający: Paweł Krej
 Wprowadzający: Paweł Krej
 Deklaracja Dostępności

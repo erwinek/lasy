@@ -164,6 +164,7 @@ VII Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikac
 VIII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
 IX Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawe terenów inwestycyjnych w Redzie
 X Informacja o wyniku przetargu na sprzedaż nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego
+XI. Raport z konsultacji społecznych w sprawie planowanych zabiegów gospodarczych w 2021 roku.
  
  
 
@@ -189,7 +190,10 @@ Sprzedaż w siedzibie Nadleśnictwa odbywa się od poniedziałku do piątku w go
 ·         Matemblewo – piątek  7:30 – 10:30
 ·         Sobieszewo – wtorek  7:30 – 10:30  
  
-Aktualny wykaz obowiązujących cen sprzedaży detalicznej drewna i użytków ubocznych do pobrania jest poniżej.
+Aktualny wykaz obowiązujących cen sprzedaży detalicznej drewna i użytków ubocznych publikujemy poniżej:
+Cennik
+Regulamin
+ 
 
 
 
@@ -219,6 +223,15 @@ px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_pustostanu_gdansk_spacerowa
 .PDF
 
 px_dg~rdlp_gdansk~nadl_gdansk~zm.805.3.2020_decyzja_nr_15___cennik_detaliczny_od_1.07.2020.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_zarzadzenia_nr_2___regulamin_sprzedazy_detalicznej_drewna_oraz_uzytkow_ubocznych_na_2021.pdf
 
 
 
@@ -423,6 +436,15 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~informacja_wyniku_przet
 
 
 
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zm.0152.1.2021_raport_z_konsultacji_spolecznych.pdf
+
+
+
+
+
+
 
 
 
@@ -438,9 +460,9 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~informacja_wyniku_przet
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2021/04/08 12:34:34
+Data modyfikacji: 2021/04/20 12:56:24
 Redaktor zatwierdzający: Łukasz Plonus
-Wprowadzający: Martyna Pojawa
+Wprowadzający: Jędrzej Damski
 Deklaracja Dostępności
 
 
