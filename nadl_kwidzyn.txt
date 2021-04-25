@@ -182,6 +182,24 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+ Cennik sprzedaży detalicznej drewna
+
+
+
+
+
+
+.PDF
+
+ Cennik materiału sadzeniowego 2021r.
+
+
+
+
+
+
+.PDF
+
  Zaproszenie do udziału w projekcie "Rzetelne Przedsiębiorstwo Leśne"
 
 
@@ -258,9 +276,9 @@ px_dg~rdlp_gdansk~nadl_kwidzyn~dg~rdlp_gdansk~nadl_kwidzyn~rdlp_gdanskzalacznik_
 Osoba odpowiedzialna za treść:
 Nadleśniczy Zbigniew Lubiński
 
-Data modyfikacji: 2020/03/10 14:37:32
-Redaktor zatwierdzający: 
-Wprowadzający: Marek Matecki
+Data modyfikacji: 2021/04/23 12:06:27
+Redaktor zatwierdzający: Magdalena Gabryś
+Wprowadzający: Magdalena Gabryś
 Deklaracja Dostępności
 
 

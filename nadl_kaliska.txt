@@ -142,6 +142,13 @@ Komunikaty i ogłoszenia
 
 
  
+ 
+KOMUNIKAT
+ 
+Nadleśnictwo Kaliska ogłasza nabór na stanowisko Robotnik leśny. 
+Składanie ofert w terminie do dnia 27.04.2021 do godziny 10:00. 
+Szczegóły znajdują się w załączniku na dole strony.
+
 KOMUNIKAT
 Nadleśnictwo Kaliska ogłasza pisemny przetarg na sprzedaż sprzętu wycofanego z eksploatacji  
 
@@ -224,6 +231,15 @@ Pliki do pobrania - lista załączników
 
 
 
+.PDF
+
+ Ogłoszenie o naborze na stanowisko Robotnik leśny
+
+
+
+
+
+
 
 
 
@@ -239,8 +255,8 @@ Pliki do pobrania - lista załączników
 Osoba odpowiedzialna za treść:
 Nadleśniczy Andrzej Przewłocki
 
-Data modyfikacji: 2021/04/20 12:53:35
-Redaktor zatwierdzający: Łukasz Grzywacz
+Data modyfikacji: 2021/04/22 09:51:15
+Redaktor zatwierdzający: Michał Lewandowski
 Wprowadzający: Michał Lewandowski
 Deklaracja Dostępności
 
