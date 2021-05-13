@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Wisła
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Wisła
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Wisła
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Wisła
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -155,7 +154,7 @@ Teren Nadleśnictwa Wisła jest monitorowany.
 Informacja z zakresu danych osobowych w załaczniku poniżej.
 Informacja dotycząca dokumentów aplikacyjnych wpływających do Nadleśnictwa poza naborem w załaczniku poniżej.
  
-Zaproszenie do składania ofert na badanie sprawozdania finansowego za rok 2018 w załączniku poniżej.
+ 
  INFORMACJA  O ZAMIARZE TRANSAKCJI ZAMIANY NIERUCHOMOŚCI - plik do pobrania w załczniku poniżej.
 Ogłoszenie o naborze na wolne stanowisko pracy wraz z załącznikami - w załączniku poniżej
  
@@ -173,7 +172,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wisla~2018.06.19_zaproszenie_do_skladania_ofert_na_badanie_sprawozdania_finansowego_za_rok_2018.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wisla~2019.07.02_informacja_z_zakresu_danych_osobowych.pdf
 
 
 
@@ -182,7 +181,7 @@ px_dg~rdlp_katowice~nadl_wisla~2018.06.19_zaproszenie_do_skladania_ofert_na_bada
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wisla~2019.07.02_informacja_z_zakresu_danych_osobowych.pdf (6.0MB)
+px_dg~rdlp_katowice~nadl_wisla~2019.09.24_informacja_dotyczaca_dokumentow_aplikacyjnych_wplywajacych_do_nadlesnictwa_poza_naborem.pdf
 
 
 
@@ -191,7 +190,7 @@ px_dg~rdlp_katowice~nadl_wisla~2019.07.02_informacja_z_zakresu_danych_osobowych.
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wisla~2019.09.24_informacja_dotyczaca_dokumentow_aplikacyjnych_wplywajacych_do_nadlesnictwa_poza_naborem.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_wisla~dg~rdlp_katowice~nadl_wisla~informacja_o_zamiarze_transakcji_zamiany_nieruchomosci.pdf
 
 
 
@@ -200,16 +199,7 @@ px_dg~rdlp_katowice~nadl_wisla~2019.09.24_informacja_dotyczaca_dokumentow_aplika
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wisla~dg~rdlp_katowice~nadl_wisla~informacja_o_zamiarze_transakcji_zamiany_nieruchomosci.pdf (1.0MB)
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_wisla~2020.12.09_ogloszenie_o_naborze_na_wolne_stanowisko_pracy.pdf (3.0MB)
+px_dg~rdlp_katowice~nadl_wisla~2021.05.12_ogloszenie_nabor_zewn__ksiegowa.pdf
 
 
 
@@ -218,7 +208,7 @@ px_dg~rdlp_katowice~nadl_wisla~2020.12.09_ogloszenie_o_naborze_na_wolne_stanowis
 
 .DOCX
 
-px_dg~rdlp_katowice~nadl_wisla~2020.12.09_zalaczniki_do_ogloszenia_o_naborze.docx (1.0MB)
+px_dg~rdlp_katowice~nadl_wisla~2021.05.12_zalaczniki_do_ogloszenia_o_naborze_zewn._ksiegowy.docx
 
 
 
@@ -240,9 +230,9 @@ px_dg~rdlp_katowice~nadl_wisla~2020.12.09_zalaczniki_do_ogloszenia_o_naborze.doc
 Osoba odpowiedzialna za treść:
 mgr inż. Andrzej Kudełka - Nadleśniczy   N-ctwa Wisła
 
-Data modyfikacji: 2020/12/10 13:13:13
-Redaktor zatwierdzający: Andrzej Kudełka
-Wprowadzający: Magdalena Mijal
+Data modyfikacji: 2021/05/12 13:22:30
+Redaktor zatwierdzający: Urszula Podżorska
+Wprowadzający: Urszula Podżorska
 Deklaracja Dostępności
 
 

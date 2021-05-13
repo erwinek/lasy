@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Bielsko
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Bielsko
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Bielsko
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Bielsko
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -157,7 +156,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~ogloszenie_o_sprzedazy_subaru_forester.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~ogloszenie_o_sprzedazy_subaru_forester.pdf
 
 
 
@@ -166,7 +165,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~ogloszenie_o_sprz
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~regulamin_sprzedaz_subaru.pdf (2.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~regulamin_sprzedaz_subaru.pdf
 
 
 
@@ -175,7 +174,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~regulamin_sprzeda
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_1_do_regulam_projekt_umowy.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_1_do_regulam_projekt_umowy.pdf
 
 
 
@@ -184,7 +183,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_1_do_regulam_
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_2_do_regulam_oferta.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_2_do_regulam_oferta.pdf
 
 
 
@@ -193,7 +192,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_2_do_regulam_
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_3_do_regulam_klauzula_informacyjna.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_3_do_regulam_klauzula_informacyjna.pdf
 
 
 
@@ -202,7 +201,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~zal_3_do_regulam_
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121055.jpg (5.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121055.jpg
 
 
 
@@ -211,7 +210,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121055.j
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121128.jpg (5.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121128.jpg
 
 
 
@@ -220,7 +219,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~20200703_121128.j
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0010.jpg (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0010.jpg
 
 
 
@@ -229,7 +228,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa00
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0011.jpg (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0011.jpg
 
 
 
@@ -238,7 +237,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa00
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0015.jpg (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0015.jpg
 
 
 
@@ -247,7 +246,7 @@ px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa00
 
 .JPG
 
-px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0018.jpg (1.0MB)
+px_dg~rdlp_katowice~nadl_bielsko~dg~rdlp_katowice~nadl_bielsko~img_20200707_wa0018.jpg
 
 
 

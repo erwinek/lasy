@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Myślenice
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Myślenice
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Krakowie, 
-Nadleśnictwo Myślenice
+Regionalna Dyrekcja Lasów Państwowych w Krakowie, Nadleśnictwo Myślenice
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -151,10 +150,24 @@ Regionalna Dyrekcja Lasów Państwowych w Krakowie posiada :
  Certyfikat Gospodarki Leśnej  PEFC Nr CSL/723/2014 r. ważny od 12.11.2014 do 11.11.2017 roku.
 
 
-Certyfikat FSC nr SGS-FM/COC-010065 ważny od 02.12.2013 do 01.12.2018r. FSC 100% . 
+Certyfikat FSC nr SGS-FM/COC-010065 ważny od 02.12.2013 do 01.12.2018r. FSC 100% .
 
 
 
+
+
+
+
+
+Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+Informacja o wynikach postępowania rekrutacyjnego
 
 
 
@@ -176,9 +189,9 @@ Certyfikat FSC nr SGS-FM/COC-010065 ważny od 02.12.2013 do 01.12.2018r. FSC 10
 Osoba odpowiedzialna za treść:
 mgr inż. Tomasz Bartko - Nadleśniczy Nadleśnictwa Myślenice
 
-Data modyfikacji: 2015/05/25 12:42:56
+Data modyfikacji: 2021/05/06 13:09:32
 Redaktor zatwierdzający: Izabela Wójtowicz
-Wprowadzający: Marek Biela
+Wprowadzający: Izabela Wójtowicz
 Deklaracja Dostępności
 
 

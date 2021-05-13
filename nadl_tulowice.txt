@@ -142,6 +142,27 @@ Komunikaty i ogłoszenia
 
 
 
+ Zn.Spr.:NN.22127.4.2021.MW
+Tułowice, 07.05.2021 r.
+ 
+OGŁOSZENIE O PRZETARGU
+NA DZIERŻAWĘ GRUNTU ROLNEGO
+MAJ 2021
+ 
+Skarb  Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe - Nadleśnictwo  Tułowice, ul Parkowa 14/14a , 49-130 Tułowice, ogłasza publiczny  (nieograniczony) przetarg ofert pisemnych na dzierżawę gruntów rolnych  Skarbu Państwa, pozostających w zarządzie Nadleśnictwa Tułowice  (Organizator przetargu).
+ 
+Pełna treść ogłoszenia o przetargu wraz z załącznikami znajduje się na dole strony, pliki:
+OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO
+Załącznik nr 1 Wykaz gruntów do przetargu
+Załącznik nr 2 Regulamin przetargu
+Załącznik nr 3 Formularz ofertowy - wersja edytowalna
+Załącznik nr 4 Wzór umowy
+Termin składania ofert: 21.05.2021 r. godzina 09:00
+ 
+Termin otwarcia ofert: 21.05.2021 r. godzina 10:00
+
+ 
+ 
  
  Sprzedaż drewna dla ludności prowadzona jest w Biurze Nadleśnictwa
 oraz w siedzibach Leśnictw od dnia 6-go do końca każdego miesiąca.
@@ -318,24 +339,6 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-Informacja o wyborze najkorzystniejszej oferty w przetargu na grunty rolne
-
-
-
-
-
-
-.PDF
-
-Komunikat do przetargu na dzierżawę gruntów rolnych z dnia 19.11.2020 r.
-
-
-
-
-
-
-.PDF
-
 OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO
 
 
@@ -361,18 +364,9 @@ Załącznik nr 2 Regulamin przetargu
 
 
 
-.PDF
-
-Załącznik nr 3 Formularz ofertowy
-
-
-
-
-
-
 .DOC
 
-Załącznik nr 3 Formularz ofertowy - wersja edytowalna
+Załącznik nr 3 Formularz ofertowy do przetargu na grunty rolne
 
 
 
@@ -382,15 +376,6 @@ Załącznik nr 3 Formularz ofertowy - wersja edytowalna
 .PDF
 
 Załącznik nr 4 Wzór umowy
-
-
-
-
-
-
-.PDF
-
- Załącznik nr 5 Komunikat w sprawie wadium
 
 
 
@@ -457,9 +442,9 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf
 Osoba odpowiedzialna za treść:
 Wiesław Skrzypek
 
-Data modyfikacji: 2021/03/17 14:49:29
+Data modyfikacji: 2021/05/07 14:40:51
 Redaktor zatwierdzający: Paweł Zmorawski
-Wprowadzający: Grzegorz Mazurek
+Wprowadzający: Adam Pienio
 Deklaracja Dostępności
 
 

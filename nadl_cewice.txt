@@ -343,6 +343,15 @@ Grunty rolne - przetarg
 
 
 
+.PDF
+
+wynik przetargu grunty rolne
+
+
+
+
+
+
 
 
 
@@ -358,7 +367,7 @@ Grunty rolne - przetarg
 Osoba odpowiedzialna za treść:
 Krzysztof Liżiński  -  Nadleśniczy
 
-Data modyfikacji: 2021/04/07 10:49:43
+Data modyfikacji: 2021/04/27 08:41:45
 Redaktor zatwierdzający: Grażyna Krawiec
 Wprowadzający: Adam Pawlak
 Deklaracja Dostępności

@@ -165,6 +165,69 @@ Raport o stanie zapewnienia dostępności podmiotu publicznego - stan na 01.01.2
 
 
 
+.PDF
+
+Ogłoszenie o sprzedaży używanych telefonów
+
+
+
+
+
+
+.PDF
+
+1. Wykaz telefonów komórkowych do sprzedaży
+
+
+
+
+
+
+.DOC
+
+2. Formularz oferty - telefony komórkowe
+
+
+
+
+
+
+.PDF
+
+Ogłoszenie o sprzedaży używanych skłądników majątkowych z byłej siedziby
+
+
+
+
+
+
+._WYKAZ_PRZEDMIOTOW_SPRZEDAZY___8211
+
+1. Wykaz przedmiotów sprzedaży - była siedziba
+
+
+
+
+
+
+._FORMULARZ_OFERTOWY___8211
+
+2. Formularz ofertowy - była siedziba
+
+
+
+
+
+
+.PDF
+
+3. Dokumentacja fotograficzna - była siedziba
+
+
+
+
+
+
 
 
 
@@ -180,7 +243,7 @@ Raport o stanie zapewnienia dostępności podmiotu publicznego - stan na 01.01.2
 Osoba odpowiedzialna za treść:
 Nadleśniczy: Mariusz Suma
 
-Data modyfikacji: 2021/03/24 13:07:14
+Data modyfikacji: 2021/05/12 10:28:01
 Redaktor zatwierdzający: Jarosław Bielan
 Wprowadzający: Jarosław Bielan
 Deklaracja Dostępności

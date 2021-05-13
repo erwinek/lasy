@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Koniecpol
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Koniecpol
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Koniecpol
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Koniecpol
 
 Wystąpienia, komunikaty i ogłoszenia
 

@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Świerklaniec
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Świerklaniec
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Świerklaniec
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Świerklaniec
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -164,35 +163,14 @@ Dotacja na realizację zadania 
 
 
  
- 
+ Świerklaniec 29.04.2021
 OGŁOSZENIE
-o wyłożeniu do publicznej wiadomości:
-„Założeń do opracowania projektu Planu Urządzenia Lasu”
+o przetargu na grunty rolne
+Nadleśnictwo Świerklaniec zaprasza do zapoznania się i udziału w postępowaniu na dzierżawę gruntów rolnych będących w zarządzie PGL LP Nadleśnictwo Świerklaniec. 
+Szczegółowe informacje poniżej w załączniku.
  
- 
-Dyrektor Regionalnej Dyrekcji Lasów Państwowych w Katowicach zawiadamia, iż w dniach od 15 października 2020 roku do 4 listopada 2020 roku zostanie wyłożony do publicznej wiadomości protokół Komisji Założeń Planu do projektu Planu Urządzenia Lasu Nadleśnictwa na lata 2023-2032 opracowywanego wg stanu na 01.01.2023 r. dla Nadleśnictwa Świerklaniec
-
- 
-Wyłożenie dokumentacji do konsultacji społecznych ma na celu zapewnienie udziału lokalnej społeczności w planach z zakresu ochrony środowiska, zgodnie z ustawą z dnia 3 października 2008 roku o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2020 r. poz. 283, 284, 322, 471, 1378 z późn. zm.) oraz treścią Instrukcji Urządzania Lasu wprowadzonej Zarządzeniem Nr 55 Dyrektora Generalnego Lasów Państwowych z dnia 21 listopada 2011 r. w sprawie Instrukcji Urządzania Lasu.
- 
-W czasie trwania wyłożenia zainteresowane osoby, podmioty mają możliwość składania w formie pisemnej uwag i wniosków do opracowania. 
-Wystąpienia w powyższej sprawie prosimy przesyłać w terminie do 4 listopada 2020 roku na adres: 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-ul. św. Huberta 43/45,
-40-543 Katowice.
-Uwagi i wnioski zostaną rozpatrzone przez Dyrektora Regionalnej Dyrekcji Lasów Państwowych w Katowicach.
-                                               
-Dokumenty w formie analogowej są do wglądu w siedzibie Nadleśnictwa oraz w siedzibie RDLP Katowice.
-Dokumenty opisowe (protokół z KZP) w formie elektronicznej (.pdf) są zamieszczone na stronie internetowej RDLP w Katowicach w zakładce „Urządzanie lasu”.
-link: http://bip.lasy.gov.pl/pl/bip/dg/rdlp_katowice/plan_urzadzenia_lasu
- 
- 
- 
-Dyrektor Regionalnej Dyrekcji Lasów Państwowych w Katowicach 
-                                                                                                                                       Józef Kubica            
-
-
- 
+zatwierdził po. Nadleśniczy Nadleśnictwa Świerklaniec
+mgr inż. Wojciech Kubica
 
 
  
@@ -236,8 +214,16 @@ Przepraszamy za niedogodności
 
 
 
-
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+ogłoszenie o przetargu na grunty rolne
+
 
 
 
@@ -245,7 +231,7 @@ Pliki do pobrania - lista załączników
 
 .PPT
 
-prezentacja wyłączenie gruntów z produkcji leśnej (1.0MB)
+prezentacja wyłączenie gruntów z produkcji leśnej
 
 
 
@@ -254,7 +240,7 @@ prezentacja wyłączenie gruntów z produkcji leśnej (1.0MB)
 
 .DOC
 
- umowa o współpracę w zakresie edukacji leśnej wraz z załącznikami (1.0MB)
+ umowa o współpracę w zakresie edukacji leśnej wraz z załącznikami
 
 
 
@@ -263,7 +249,7 @@ prezentacja wyłączenie gruntów z produkcji leśnej (1.0MB)
 
 .PDF
 
-Zarządzenie 18/2020 wprowadzające cennik detalicznej sprzedaży drewna (2.0MB)
+Zarządzenie 18/2020 wprowadzające cennik detalicznej sprzedaży drewna
 
 
 
@@ -272,7 +258,7 @@ Zarządzenie 18/2020 wprowadzające cennik detalicznej sprzedaży drewna (2.0MB)
 
 .PDF
 
-Zarządzenie nr 12/2020 wprowadzające regulamin sprzedaży detalicznej w Nadleśnictwie Świerklaniec (2.0MB)
+Zarządzenie nr 12/2020 wprowadzające regulamin sprzedaży detalicznej w Nadleśnictwie Świerklaniec
 
 
 
@@ -281,7 +267,7 @@ Zarządzenie nr 12/2020 wprowadzające regulamin sprzedaży detalicznej w Nadle�
 
 .PDF
 
-klauzula RODO (1.0MB)
+klauzula RODO
 
 
 
@@ -303,7 +289,7 @@ klauzula RODO (1.0MB)
 Osoba odpowiedzialna za treść:
 mgr inż. Włodzimierz Błaszczyk
 
-Data modyfikacji: 2020/10/09 11:35:11
+Data modyfikacji: 2021/04/30 09:02:51
 Redaktor zatwierdzający: Monika Szewczyk
 Wprowadzający: Monika Szewczyk
 Deklaracja Dostępności
