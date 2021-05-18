@@ -191,6 +191,15 @@ Przetarg dzierżawa gruntów nr III
 
 .PDF
 
+Informacja o wyniku przetargu - sprzedaż działki
+
+
+
+
+
+
+.PDF
+
 Ogłoszenie o sprzedaży działki
 
 
@@ -312,7 +321,7 @@ Inwentaryzacja stanu lasu
 Osoba odpowiedzialna za treść:
 Jacek Szulc
 
-Data modyfikacji: 2021/05/05 14:47:02
+Data modyfikacji: 2021/05/18 07:53:26
 Redaktor zatwierdzający: Gabriela Gaffke
 Wprowadzający: Grazyna Bekisch - Buja
 Deklaracja Dostępności

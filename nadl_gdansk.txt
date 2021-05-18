@@ -161,10 +161,8 @@ IV Ogłoszenie o wyborze najkorzystniejszej oferty L. Wyspowo - w pliku poniżej
 V PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SIĘ W PLIKU PONIŻEJ
 VI Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
 VII Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
-VIII Ogłoszenie o sprzedaży nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego - w plikach poniżej
-IX Ogłoszenie o nieograniczonym przetargu ofertowym na dzierżawe terenów inwestycyjnych w Redzie
-X Informacja o wyniku przetargu na sprzedaż nieruchomości niezabudowanej w Gdańsku, ul. Boguckiego
-XI. Raport z konsultacji społecznych w sprawie planowanych zabiegów gospodarczych w 2021 roku.
+VIII Raport z konsultacji społecznych w sprawie planowanych zabiegów gospodarczych w 2021 roku.
+IX Ogłoszenie o przetargu na sprzedaż dz. nr 5/9 w obrębie Dębogórze, gm. Kosakowo
  
  
 
@@ -285,123 +283,6 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_przetargu_na_sprzedaz_nieruchomosci_ul._boguckiego_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~warunki_przetargu_na_sprzedaz_nieruchomosci_ul._boguckiego_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_ogloszenia_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_warunkow_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_ogloszenia_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_warunkow_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_do_ogloszenia_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_08.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_przetargu_teren_inwestycyjny_w_redzie_23.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_ogloszenia_23.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_do_ogloszenia_23.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_do_ogloszenia_23.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_do_ogloszenia_23.02.2021.pdf
-
-
-
-
-
-
-.PDF
-
 px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_sekretarz.pdf
 
 
@@ -429,7 +310,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~informacja_wyniku_przetargu_08_04_2021.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~zm.0152.1.2021_raport_z_konsultacji_spolecznych.pdf
 
 
 
@@ -438,7 +319,34 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~informacja_wyniku_przet
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~zm.0152.1.2021_raport_z_konsultacji_spolecznych.pdf
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~formularz_ofertowy_zal._nr_1_14.05.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_przetargu_14.05.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~oswiadczenie_14.05.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~warunki_przetargu_14.05.2021.pdf
 
 
 
@@ -460,9 +368,9 @@ px_dg~rdlp_gdansk~nadl_gdansk~zm.0152.1.2021_raport_z_konsultacji_spolecznych.pd
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2021/04/20 12:56:24
+Data modyfikacji: 2021/05/17 10:14:40
 Redaktor zatwierdzający: Łukasz Plonus
-Wprowadzający: Jędrzej Damski
+Wprowadzający: Łukasz Plonus
 Deklaracja Dostępności
 
 
