@@ -153,16 +153,11 @@ Planowane zabiegi gospodarcze w 2021 roku
 
 
 
-
-I OGŁOSZENIE O NABORZE NA STANOWISKO SEKTERARZA NADLEŚNICTWA (w pliku poniżej)
-II PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2019 ZNAJDUJE SIĘ W PLIKU PONIŻEJ
-III Ogłoszenie o wyborze najkorzystniejszej oferty L. Matemblewo - w pliku poniżej
-IV Ogłoszenie o wyborze najkorzystniejszej oferty L. Wyspowo - w pliku poniżej
-V PLAN POSTĘPOWAŃ O UDZIELENIE ZAMÓWIEŃ NA 2018 - aktualizacja ZNAJDUJE SIĘ W PLIKU PONIŻEJ
-VI Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
-VII Ogłoszenie o sprzedaży pustostanu w Gdańsku, ul. Spacerowa 2/4 - w plikach poniżej
-VIII Raport z konsultacji społecznych w sprawie planowanych zabiegów gospodarczych w 2021 roku.
-IX Ogłoszenie o przetargu na sprzedaż dz. nr 5/9 w obrębie Dębogórze, gm. Kosakowo
+I Ogłoszenie o sprzedaży siatki leśnej z demontażu - w plikach poniżej
+II Raport z konsultacji społecznych w sprawie planowanych zabiegów gospodarczych w 2021 roku.
+III Ogłoszenie o przetargu na sprzedaż dz. nr 5/9 w obrębie Dębogórze, gm. Kosakowo
+IV Ogłoszenie o przetargu na dzierżawę pola biwakowego wraz z parkingiem nad jeziorem Borowo
+V Ogłoszenie o przetargu na dzierżawę gruntów inwestycyjnych w Redzie przy ul. Gdańskiej
  
  
 
@@ -211,15 +206,6 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_pustostanu_gdansk_spacerowa_2_4.pdf
-
-
-
-
-
-
-.PDF
-
 px_dg~rdlp_gdansk~nadl_gdansk~zm.805.3.2020_decyzja_nr_15___cennik_detaliczny_od_1.07.2020.pdf
 
 
@@ -238,70 +224,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_do_zarzadzenia_nr_2___regulamin_spr
 
 .PDF
 
-px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2019.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~plan_postepowan_2018___aktualizacja.pdf
-
-
-
-
-
-
-.DOCX
-
-px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_matemblewo.docx
-
-
-
-
-
-
-.DOCX
-
-px_dg~rdlp_gdansk~nadl_gdansk~wyniki_przetargu_wyspowo.docx
-
-
-
-
-
-
-.PDF
-
 px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_sprzedazy_siatki_lesnej_z_demontazu.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_sekretarz.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~klauzula_informacyjna_dla_kandydatow_do_pracy.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_gdansk~nadl_gdansk~kwestionariusz_osobowy_kandydata_na_pracownika_lp.pdf
 
 
 
@@ -353,6 +276,96 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~warunki_przetargu_14.05
 
 
 
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_przetargu_pola_biwakowego_przy_j._borowo_17.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_17.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_17.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_17.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_do_umowy_17.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~ogloszenie_o_przetargu_na_dzierzawe_gruntow_inwestycyjnych_w_redzie_18.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_1_reda_18.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_2_reda_18.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_3_reda_18.06.2021.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_gdansk~nadl_gdansk~zalacznik_nr_4_reda_18.06.2021.pdf
+
+
+
+
+
+
 
 
 
@@ -368,7 +381,7 @@ px_dg~rdlp_gdansk~nadl_gdansk~dg~rdlp_gdansk~nadl_gdansk~warunki_przetargu_14.05
 Osoba odpowiedzialna za treść:
 dr inż. Janusz Mikoś
 
-Data modyfikacji: 2021/05/17 10:14:40
+Data modyfikacji: 2021/06/18 13:30:23
 Redaktor zatwierdzający: Łukasz Plonus
 Wprowadzający: Łukasz Plonus
 Deklaracja Dostępności

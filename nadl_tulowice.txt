@@ -142,6 +142,27 @@ Komunikaty i ogłoszenia
 
 
 
+Zn.Spr.:SA.2217.46.2021
+Tułowice, 10.06.2021 r.
+OGŁOSZENIE O PRZETARGU
+NA DZIERŻAWĘ GRUNTU ROLNEGO
+CZERWIEC 2021
+ 
+Skarb   Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe - Nadleśnictwo   Tułowice, ul Parkowa 14/14a , 49-130 Tułowice, ogłasza publiczny   (nieograniczony) przetarg ofert pisemnych na dzierżawę gruntów rolnych   Skarbu Państwa, pozostających w zarządzie Nadleśnictwa Tułowice   (Organizator przetargu).
+ 
+Pełna treść ogłoszenia o przetargu wraz z załącznikami znajduje się na dole strony, pliki:
+OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO
+Załącznik nr 1 Wykaz gruntów do przetargu
+Załącznik nr 2 Regulamin przetargu
+Załącznik nr 3 Formularz ofertowy - wersja edytowalna
+Załącznik nr 4 Wzór umowy
+Termin składania ofert: 29.06.2021 r. godzina 09:00
+ 
+Termin otwarcia ofert: 29.06.2021 r. godzina 10:00
+ 
+
+ 
+ 
  Zn.Spr.:NN.22127.4.2021.MW
 Tułowice, 07.05.2021 r.
  
@@ -339,7 +360,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO
+OGŁOSZENIE O PRZETARGU NA DZIERŻAWĘ GRUNTU ROLNEGO - czerwiec 2021
 
 
 
@@ -364,9 +385,18 @@ Załącznik nr 2 Regulamin przetargu
 
 
 
-.DOC
+.PDF
 
 Załącznik nr 3 Formularz ofertowy do przetargu na grunty rolne
+
+
+
+
+
+
+.DOC
+
+Załącznik nr 3 Formularz ofertowy do przetargu na grunty rolne - wersja edytowalna
 
 
 
@@ -442,7 +472,7 @@ px_dg~rdlp_katowice~nadl_tulowice~zarzadzenie_nr_5_2020.pdf
 Osoba odpowiedzialna za treść:
 Wiesław Skrzypek
 
-Data modyfikacji: 2021/05/07 14:40:51
+Data modyfikacji: 2021/06/10 13:49:52
 Redaktor zatwierdzający: Paweł Zmorawski
 Wprowadzający: Adam Pienio
 Deklaracja Dostępności

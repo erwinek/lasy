@@ -167,7 +167,7 @@ Raport o stanie zapewnienia dostępności podmiotu publicznego - stan na 01.01.2
 
 .PDF
 
-Ogłoszenie o sprzedaży używanych telefonów
+Ogłoszenie o sprzedaży używanych telefonów II
 
 
 
@@ -176,7 +176,7 @@ Ogłoszenie o sprzedaży używanych telefonów
 
 .PDF
 
-1. Wykaz telefonów komórkowych do sprzedaży
+1. Wykaz telefonów komórkowych do sprzedaży II
 
 
 
@@ -185,7 +185,7 @@ Ogłoszenie o sprzedaży używanych telefonów
 
 .DOC
 
-2. Formularz oferty - telefony komórkowe
+2. Formularz oferty - telefony komórkowe II
 
 
 
@@ -194,25 +194,7 @@ Ogłoszenie o sprzedaży używanych telefonów
 
 .PDF
 
-Ogłoszenie o sprzedaży używanych skłądników majątkowych z byłej siedziby
-
-
-
-
-
-
-._WYKAZ_PRZEDMIOTOW_SPRZEDAZY___8211
-
-1. Wykaz przedmiotów sprzedaży - była siedziba
-
-
-
-
-
-
-._FORMULARZ_OFERTOWY___8211
-
-2. Formularz ofertowy - była siedziba
+Ogłoszenie o sprzedaży - VI przetarg
 
 
 
@@ -221,7 +203,25 @@ Ogłoszenie o sprzedaży używanych skłądników majątkowych z byłej siedziby
 
 .PDF
 
-3. Dokumentacja fotograficzna - była siedziba
+1. Wykaz przedmiotów sprzedaży - VI przetarg
+
+
+
+
+
+
+.DOC
+
+2. Formularz oferty - VI przetarg
+
+
+
+
+
+
+.PDF
+
+3. Dokumentacja fotograficzna - VI przetarg
 
 
 
@@ -243,7 +243,7 @@ Ogłoszenie o sprzedaży używanych skłądników majątkowych z byłej siedziby
 Osoba odpowiedzialna za treść:
 Nadleśniczy: Mariusz Suma
 
-Data modyfikacji: 2021/05/12 10:28:01
+Data modyfikacji: 2021/06/08 12:51:08
 Redaktor zatwierdzający: Jarosław Bielan
 Wprowadzający: Jarosław Bielan
 Deklaracja Dostępności

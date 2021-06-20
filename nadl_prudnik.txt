@@ -142,7 +142,9 @@ Komunikaty i ogłoszenia
 
 
 
- 
+Ogłoszenie 01.06.2021
+Ogłosznie w sprawie badania sprawozdania fionansowego za rok 2021 (do pobrania poniżej)
+
 Ogłoszenie 28.04.2021
 Zarządzenie Nadleśniczego Nadleśnictwa Prudnik nr 22/2021 w sprawie ustalenia dni wolnych od pracy (do pobrania poniżej)
 Ogłoszenie 05.03.2021
@@ -152,7 +154,6 @@ Komunikat 17.02.2021
 Komunikat 01.02.2021
 
 Zapytanie ofertowe na obsługę dyzurów w PAD w roku 2021 (do pobrania poniżej)
- 
 
 
 
@@ -255,6 +256,15 @@ px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_nadlesniczego_nr_22.2021.pdf
 
 
 
+.PDF
+
+px_dg~rdlp_katowice~nadl_prudnik~ogloszenie_o_zamiarze_poddania_badaniu_sprawozdania_finansowego_za_2021_rok.pdf
+
+
+
+
+
+
 
 
 
@@ -270,7 +280,7 @@ px_dg~rdlp_katowice~nadl_prudnik~zarzadzenie_nadlesniczego_nr_22.2021.pdf
 Osoba odpowiedzialna za treść:
 Jarosław Myśliński- Nadleśniczy N-ctwa Prudnik
 
-Data modyfikacji: 2021/04/28 12:07:15
+Data modyfikacji: 2021/06/01 11:46:53
 Redaktor zatwierdzający: Rafał Kasza
 Wprowadzający: Rafał Kasza
 Deklaracja Dostępności

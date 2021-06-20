@@ -147,7 +147,7 @@ Komunikaty i ogłoszenia
 OGŁOSZENIE 
  przetargu ustnego nieograniczonego na sprzedaż nieruchomości gruntowej zabudowanej o powierzchni  0,4500 ha, położonej na terenie gminy Świerczów, wsi Starościn – obręb ewidencyjny 0060, oznaczonej  w ewidencji gruntów jako działka nr 387/2. 
  
- 
+INFORMACJA O WYNIKACH PRZETARGU
 
  
 
@@ -180,6 +180,15 @@ Ogłoszenie - prasa
 
 
 
+.PDF
+
+INFORMACJA O WYNIKACH PRZETARGU
+
+
+
+
+
+
 
 
 
@@ -195,7 +204,7 @@ Ogłoszenie - prasa
 Osoba odpowiedzialna za treść:
 mgr inż. Paweł Bak - Nadleśniczy Nadleśnictwa Namysłów
 
-Data modyfikacji: 2021/04/12 07:31:02
+Data modyfikacji: 2021/05/25 13:05:27
 Redaktor zatwierdzający: Małgorzata Lizurej
 Wprowadzający: Małgorzata Lizurej
 Deklaracja Dostępności

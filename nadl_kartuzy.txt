@@ -144,6 +144,9 @@ Komunikaty i ogłoszenia
 Aktualne ogłoszenia i komunikaty
 Nadleśnictwa Kartuzy
  
+Wielkoobszarowa inwentaryzacja stanu lasu 
+(szczegółowe informacje w załącznikach do pobrania poniżej)
+ 
  
  
  
@@ -153,12 +156,7 @@ W związku z realizacją przez PKP PLK S.A. inwestycji kolejowej pn.  „Prace n
  
 _____________________________________________________________________________________________________
  
-Nadleśnictwo Kartuzy ogłasza przetarg nieograniczony oferowy na dzierżawę części nieruchomości stanowiącej działkę nr 109/5, obr. ewid. Szymbark, gm. Stężyca, o powierzchni 0,1517 ha, położonej w Leśnictwie Kolańska Huta z przeznaczeniem na miejsce postoju pojazdów. 
-
-Oferty można składać do dnia 23.04.2021 r. do godz. 10:00.
  
-Ogłoszenie o przetargu, wzór oferty i wzór umowy znajdują się poniżej jako pliki do pobrania.
-(poniżej załączono dwa wzory umów dzierżawy, prosimy pobierać aktualny wzór umowy dzierżawy)
  
  
  
@@ -222,7 +220,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Ogłoszenie - miejsce postoju pojazdów
+ Informacja o Wielkoobszarowej Inwentaryzacji Stanu Lasu 2020-2024
 
 
 
@@ -231,7 +229,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wzór oferty - miejsce postoju pojazdów
+ Wielkoobszarowa inwentaryzacja stanu lasu - ulotka informacyjna
 
 
 
@@ -240,7 +238,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wzór umowy dzierżawy (aktualny) - miejsce postoju pojazdów
+ Cennik detaliczny surowca drzewnego na 2021 rok
 
 
 
@@ -249,25 +247,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
- Wzór umowy dzierżawy (nieaktualny)- miejsce postoju pojazdów
-
-
-
-
-
-
-.PDF
-
- Cennik detaliczny surowca drzewnego na 2020 rok
-
-
-
-
-
-
-.PDF
-
- Decyzja nr 24 z 30.06.2020 r. w spr. cen detalicznych surowca drzewnego
+ Decyzja nr 46 z 31.12.2020 r. w spr. cen detalicznych surowca drzewnego
 
 
 
@@ -334,9 +314,9 @@ Pliki do pobrania - lista załączników
 Osoba odpowiedzialna za treść:
 mgr inż. Michał Majewski - Nadleśniczy
 
-Data modyfikacji: 2021/04/15 13:40:37
-Redaktor zatwierdzający: Piotr Majkowski
-Wprowadzający: Iga Konkol
+Data modyfikacji: 2021/06/18 14:02:40
+Redaktor zatwierdzający: Edyta Pawlikowska
+Wprowadzający: Edyta Pawlikowska
 Deklaracja Dostępności
 
 

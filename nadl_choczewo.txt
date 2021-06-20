@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Choczewo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Choczewo
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Gdańsku, 
-Nadleśnictwo Choczewo
+Regionalna Dyrekcja Lasów Państwowych w Gdańsku, Nadleśnictwo Choczewo
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -142,16 +141,8 @@ Komunikaty i ogłoszenia
 
 
 
-Przetarg na dostawę bonów towarowych w formie elektronicznych kart przedpłaconych
-Nadleśnictwo Choczewo zaprasza do uczestnictwa w przetargu na dostawę bonów towarowych w formie elektronicznych kart przedpłaconych. Oferty nalezy składać w trminie do dnia 22.12.2020r. do godz. 11:30 w sekretariacie nadleśnictwa.
-Pozostałe informacje oraz dokumenty do pobrania znajdują się poniżej w Plikach do pobrania.
  
-Przetarg na dzierżawę gruntu leśnego w Lubiatowie - działalność handlowa (sklepy)
 
-Nadleśnictwo Choczewo zaprasza do uczestnictwa w przetargu na dzierżawę gruntu leśnego w miejscowości Lubiatowo na działalność handlową - handel art. spożywczo-przemysłowymi, pamiątkami i art. plażowymi (sklep).
-Oferty składać można w terminie do dnia 17.12.2020r. do godziny 14:00 w sekretariacie nadleśnictwa.
-Pozostałe informacje oraz dokumenty do pobrania znajdują się poniżej w Plikach do pobrania.
- 
 Wielkoobszarowa Inwentaryzacja Stanu Lasu 
 Nadleśnictwo Choczewo informuje o rozpoczęciu na terenie całego kraju wielkoobszarowej inwentaryzacji stanu lasu w latach 2015-2019 - szczegółowa informacja w piśmie Ministra Środowiska nr DLP-I-610-29/23267/15/JŁ z dnia 22 czerwca 2015 r. (plik do pobrania poniżej)
 Sprzedaż drewna
@@ -171,13 +162,13 @@ Ponadto informacje na temat sadzonek można uzyskać w biurze Nadleśnictwa Choc
 Sprzedaż zezwoleń wędkarskich
 Nadleśnictwo Choczewo zaprasza wędkarzy do wędkowania na jeziorze Choczewo przez cały rok.
 Zezwolenia wędkarskie można kupić:
-   a) w kasie nadleśnictwa w godzinach 800 - 1400
+   a) w kasie nadleśnictwa w godzinach 900 - 1200
    b)  elektronicznie poprzez stronę internetową  https//:www.choczewo.eparki.pl 
  
 Ośrodek Szkoleniowo-Wypoczynkowy w Białogórze
 Nadleśnictwo Choczewo zaprasza do spędzania letniego wypoczynku w Ośrodku Szkoleniowo-Wypoczynkowym w Białogórze.
 Rezerwacje poza sezonem można dokonać telefonicznie w sekretariacie nadleśnictwa u Pani Ewy Borowskiej - nr tel. (58) 572 26 00.
-Natomiast w sezonie od 01.05. do 30.09. u Pani Lucyny Skrzyńskiej - nr tel. (58) 673 50 58, kom. 698 564 280.
+Natomiast w sezonie od 01.05. do 30.09. u Pani Bożeny Dąbrowskiej - nr tel. (58) 673 50 58, kom. 508 546 762.
 Szczegółowe informacje dotyczące Ośrodka Szkoleniowo-Wypoczynkowego w Białogórze znajdują się na stronie internetowej : www.choczewo.gdansk.lasy.gov.pl oraz  www.lesnewakacje.pl
  
 
@@ -192,18 +183,9 @@ Pliki do pobrania - lista załączników
 
 
 
-.ZIP
+.PDF
 
-Przetarg na dostawę kart przedpłaconych (1.0MB)
-
-
-
-
-
-
-.ZIP
-
-Przetarg na dzierżawę gruntu leśnego w Lubiatowie - działalność handlowa (sklep) (4.0MB)
+Informacja o Wielkoobszarowej Inwentaryzacji Stanu Lasu w kraju w latach 2015-2019
 
 
 
@@ -212,7 +194,7 @@ Przetarg na dzierżawę gruntu leśnego w Lubiatowie - działalność handlowa (
 
 .PDF
 
-Informacja o Wielkoobszarowej Inwentaryzacji Stanu Lasu w kraju w latach 2015-2019 (1.0MB)
+Informacja o pracach obserwacyjno-pomiarowych w ramach programu monitoringu lasów w latach 2016-2020
 
 
 
@@ -221,7 +203,7 @@ Informacja o Wielkoobszarowej Inwentaryzacji Stanu Lasu w kraju w latach 2015-20
 
 .PDF
 
-Informacja o pracach obserwacyjno-pomiarowych w ramach programu monitoringu lasów w latach 2016-2020 (1.0MB)
+Regulamin niestrzeżonego Miejsca Postoju Pojazdów (MPP) i Miejsca Postoju Kamperów (MPK) Nadleśnictwa Choczewo w miejscowości Białogóra od 2019 roku
 
 
 
@@ -230,7 +212,7 @@ Informacja o pracach obserwacyjno-pomiarowych w ramach programu monitoringu las�
 
 .PDF
 
-Regulamin niestrzeżonego Miejsca Postoju Pojazdów (MPP) i Miejsca Postoju Kamperów (MPK) Nadleśnictwa Choczewo w miejscowości Białogóra od 2019 roku (6.0MB)
+Regulamin oraz cennik detaliczny niestrzeżonego Miejsca Postoju Pojazdów (MPP)położonego w Kopalinie w 2020 roku
 
 
 
@@ -239,7 +221,7 @@ Regulamin niestrzeżonego Miejsca Postoju Pojazdów (MPP) i Miejsca Postoju Kamp
 
 .PDF
 
-Cennik za wędkowanie na jeziorze Choczewo w 2020 roku (2.0MB)
+Regulamin korzystania z leśnych dróg udostępnionych do ruchu publicznego dla pojazdów silnikowych, zaprzęgowych i motorowerów na terenie Nadleśnictwa Choczewo od 18.12.2019 roku
 
 
 
@@ -248,7 +230,7 @@ Cennik za wędkowanie na jeziorze Choczewo w 2020 roku (2.0MB)
 
 .PDF
 
-Cennik detaliczny drewna i użytków ubocznych w 2020 roku oraz zasady przelegiwania drewna w lesie w okresie od jego zaewidencjonowania do wydania (9.0MB)
+Zasady korzystania z obiektów turystyczno-edukacyjnych na terenie Nadleśnictwa Choczewo oraz ceny detaliczne za korzystanie w 2020 roku
 
 
 
@@ -257,7 +239,7 @@ Cennik detaliczny drewna i użytków ubocznych w 2020 roku oraz zasady przelegiw
 
 .PDF
 
-Cennik za pobyt w Apartamencie Szklana Huta i pokoi socjalnych przy Nadleśnictwie Choczewo w 2020 roku (3.0MB)
+Regulaminy korzystania z obiektów infrastruktury turystycznej i edukacyjnej na terenie Nadleśnictwa Choczewo
 
 
 
@@ -266,7 +248,7 @@ Cennik za pobyt w Apartamencie Szklana Huta i pokoi socjalnych przy Nadleśnictw
 
 .PDF
 
-Cennik za pobyt w Ośrodku Szkoleniowo-Wypoczynkowym w Białogórze w 2020 roku (3.0MB)
+Regulaminy korzystania z Ośrodka Szkoleniowo-Wypoczynkowego w Białogórze oraz Apartamentu w Szklanej Hucie
 
 
 
@@ -275,7 +257,7 @@ Cennik za pobyt w Ośrodku Szkoleniowo-Wypoczynkowym w Białogórze w 2020 roku 
 
 .PDF
 
-Cennik na sadzonki drzew i krzewów leśnych oraz nasion w 2020 roku (5.0MB)
+Sprzedaż drewna, ceny detaliczne drewna i użytków ubocznych w 2021 roku oraz zasady przelegiwania drewna w lesie w okresie od jego zaewidencjonowania do wydania
 
 
 
@@ -284,7 +266,7 @@ Cennik na sadzonki drzew i krzewów leśnych oraz nasion w 2020 roku (5.0MB)
 
 .PDF
 
-Regulamin oraz cennik detaliczny niestrzeżonego Miejsca Postoju Pojazdów (MPP)położonego w Kopalinie w 2020 roku (3.0MB)
+Ceny detaliczne za wędkowanie na jeziorze Choczewo w 2021 roku
 
 
 
@@ -293,7 +275,7 @@ Regulamin oraz cennik detaliczny niestrzeżonego Miejsca Postoju Pojazdów (MPP)
 
 .PDF
 
-Regulamin korzystania z leśnych dróg udostępnionych do ruchu publicznego dla pojazdów silnikowych, zaprzęgowych i motorowerów na terenie Nadleśnictwa Choczewo od 18.12.2019 roku (5.0MB)
+Ceny detaliczne za pobyt w Ośrodku Szkoleniowo-Wypoczynkowym w Białogórze, Apartamencie Szklana Huta i Pokojach socjalnych znajdujących się przy Nadleśnictwie Choczewo w 2021 roku
 
 
 
@@ -302,7 +284,7 @@ Regulamin korzystania z leśnych dróg udostępnionych do ruchu publicznego dla 
 
 .PDF
 
-Zasady korzystania z obiektów turystyczno-edukacyjnych na terenie Nadleśnictwa Choczewo oraz ceny detaliczne za korzystanie w 2020 roku (3.0MB)
+Ceny detaliczne na sadzonki drzew i krzewów leśnych oraz nasion w 2021 roku
 
 
 
@@ -311,25 +293,7 @@ Zasady korzystania z obiektów turystyczno-edukacyjnych na terenie Nadleśnictwa
 
 .PDF
 
-Regulaminy korzystania z obiektów infrastruktury turystycznej i edukacyjnej na terenie Nadleśnictwa Choczewo (3.0MB)
-
-
-
-
-
-
-.PDF
-
-Regulaminy korzystania z Ośrodka Szkoleniowo-Wypoczynkowego w Białogórze oraz Apartamentu w Szklanej Hucie (3.0MB)
-
-
-
-
-
-
-.PDF
-
-Cenniki na sadzonki drzew i krzewów leśnych oraz nasion w Nadleśnictwie Choczewo, dodanie czterech załączników (3.0MB)
+Regulamin oraz cennik niestrzeżonego Miejsca Postoju Pojazdów położonego w Białogórze - MPP Białogóra II w roku 2021
 
 
 
@@ -351,7 +315,7 @@ Cenniki na sadzonki drzew i krzewów leśnych oraz nasion w Nadleśnictwie Chocz
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Choczewo<br>Sebastian Wejer
 
-Data modyfikacji: 2020/12/14 15:16:17
+Data modyfikacji: 2021/06/16 12:15:33
 Redaktor zatwierdzający: Ewa Mrulewicz
 Wprowadzający: Ewa Mrulewicz
 Deklaracja Dostępności

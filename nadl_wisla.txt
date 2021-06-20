@@ -153,10 +153,8 @@ Czasowy zakaz wstępu do lasu wprowadza Nadleśniczy, w razie gdy:
 Teren Nadleśnictwa Wisła jest monitorowany.
 Informacja z zakresu danych osobowych w załaczniku poniżej.
 Informacja dotycząca dokumentów aplikacyjnych wpływających do Nadleśnictwa poza naborem w załaczniku poniżej.
- 
- 
- INFORMACJA  O ZAMIARZE TRANSAKCJI ZAMIANY NIERUCHOMOŚCI - plik do pobrania w załczniku poniżej.
-Ogłoszenie o naborze na wolne stanowisko pracy wraz z załącznikami - w załączniku poniżej
+Ogłoszenie o zatrudnieniu na stanowisko pracy - księgowa w załaczniku poniżej
+Zaproszenie do składanie ofert na badanie bilansu 2021 w załaczniku poniżej
  
 
 
@@ -190,16 +188,7 @@ px_dg~rdlp_katowice~nadl_wisla~2019.09.24_informacja_dotyczaca_dokumentow_aplika
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_wisla~dg~rdlp_katowice~nadl_wisla~informacja_o_zamiarze_transakcji_zamiany_nieruchomosci.pdf
-
-
-
-
-
-
-.PDF
-
-px_dg~rdlp_katowice~nadl_wisla~2021.05.12_ogloszenie_nabor_zewn__ksiegowa.pdf
+px_dg~rdlp_katowice~nadl_wisla~02.06.2021_ogloszenie_ii_nabor_zewn.ksiegowa.pdf
 
 
 
@@ -208,7 +197,16 @@ px_dg~rdlp_katowice~nadl_wisla~2021.05.12_ogloszenie_nabor_zewn__ksiegowa.pdf
 
 .DOCX
 
-px_dg~rdlp_katowice~nadl_wisla~2021.05.12_zalaczniki_do_ogloszenia_o_naborze_zewn._ksiegowy.docx
+px_dg~rdlp_katowice~nadl_wisla~2021.06.02_zalaczniki_do_ogloszenia_o_naborze_zewn._ksiegowy.docx
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_wisla~2021.06.09_zaproszenie_do_skl._ofert_na_bad._bilansu_2021.pdf
 
 
 
@@ -230,9 +228,9 @@ px_dg~rdlp_katowice~nadl_wisla~2021.05.12_zalaczniki_do_ogloszenia_o_naborze_zew
 Osoba odpowiedzialna za treść:
 mgr inż. Andrzej Kudełka - Nadleśniczy   N-ctwa Wisła
 
-Data modyfikacji: 2021/05/12 13:22:30
+Data modyfikacji: 2021/06/09 08:57:49
 Redaktor zatwierdzający: Urszula Podżorska
-Wprowadzający: Urszula Podżorska
+Wprowadzający: Magdalena Mijal
 Deklaracja Dostępności
 
 

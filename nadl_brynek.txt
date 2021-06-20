@@ -110,6 +110,7 @@ Klauzula informacyjna udodo
 Informacje nieopublikowane w BIP
 Ponowne wykorzystanie informacji publicznej
 Rejestr zbiorów danych osobowych
+Dostępność - Raport
 Redakcja BIP
 0
 Logowanie
@@ -118,8 +119,7 @@ Logowanie
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Brynek
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Brynek
 
 
 wyszukaj w BIP
@@ -129,8 +129,7 @@ wyszukaj w BIP
 
 
 
-Regionalna Dyrekcja Lasów Państwowych w Katowicach, 
-Nadleśnictwo Brynek
+Regionalna Dyrekcja Lasów Państwowych w Katowicach, Nadleśnictwo Brynek
 
 Wystąpienia, komunikaty i ogłoszenia
 
@@ -145,6 +144,65 @@ Komunikaty i ogłoszenia
 
 
  
+Zaproszenie na debaty dotyczące nowego Planu Urządzania Lasu Nadleśnictwa Brynek
+ 
+
+
+
+Nadleśniczy Nadleśnictwa Brynek z uwagi na trwające prace projektowe nad nowym Planem Urządzania Lasu dla naszej jednostki na lata 2022-2031 oraz w trosce o zarządzane powierzchnie leśne znajdujące się blisko terenów zabudowanych uprzejmie informuje, a zarazem i zaprasza zainteresowane osoby na spotkania terenowe mające charakter „otwartej debaty”. Bezpośrednio na gruncie będzie możliwość wspólnego omówienia przyszłego zagospodarowania terenów leśnych znajdujących się w bliskim sąsiedztwie obszarów osiedlowych.
+Planowane panele dyskusyjne umożliwić mają zaprezentowanie przyszłej koncepcji niezbędnego postępowania gospodarczego w lasach znajdujących się nieopodal osiedli, jak i przyczynić się do wspólnego omówienia i wypracowania najrozsądniejszych kierunków na przyszłość.
+ 
+Poniżej harmonogram „otwartych debat” dla mieszkańców:
+ 
+- Dzielnicy Żerniki/miejscowości Gliwice
+Miejsce spotkania: wejście do lasu od strony ulicy Legnickiej
+Data: 28.06.2021 r.
+Planowany czas  debaty: od godz. 9:00 do godz. 12:00
+ 
+- Dzielnicy Łabędy/miejscowości Gliwice
+Miejsce spotkania: przy tablicy informacyjnej Nadleśnictwa Brynek na ul. Gajowej
+Data: 28.06.2021 r.
+Planowany czas  debaty: od godz. 13:00 do godz. 16:00
+ 
+- Dzielnicy Rokitnica/miejscowości Zabrze
+Miejsce spotkania: przy wejściu do lasu od strony ulicy Miczurina
+Data: 29.06.2021 r.
+Planowany czas  debaty: od godz. 8:00 do godz. 9:30
+ 
+- Dzielnicy Helenka/miejscowości Zabrze
+Miejsce spotkania: parking przy cmentarzu na ulicy Jordana
+Data: 29.06.2021 r.
+Planowany czas  debaty: od godz. 10:00 do godz. 11:30
+ 
+- Dzielnicy Miechowice/ miejscowości Bytom
+Miejsce spotkania: przy byłem leśniczówce „Miechowice” ulica Leśniczówka 1
+Data: 29.06.2021 r.
+Planowany czas  debaty: od godz. 12:00 do godz. 14:00
+ 
+- Dzielnicy Repty Śląskie/ miejscowości Tarnowskie Góry
+Miejsce spotkania: przy lesie na ulicy Żeromskiego
+Data: 29.06.2021 r.
+Planowany czas  debaty: od godz. 14:30 do godz. 16:00
+ 
+ 
+- Gminy Krupski Młyn/ miejscowości Krupski Młyn
+Miejsce spotkania: na parkingu leśnym przy ulicy Polnej
+Data: 30.06.2021 r.
+Planowany czas  debaty: od godz. 8:00 do godz. 10:00
+ 
+- Gminy Tworóg/ miejscowości Tworóg oraz okoliczne miejscowości
+Miejsce spotkania: przy siedzibie Nadleśnictwa Brynek, ulica Grabowa 3 Brynek
+Data: 30.06.2021 r.
+Planowany czas  debaty: od godz. 10:30 do godz. 12:30
+ 
+Do pobrania w załącznikach znajdują się także pisma wystosowane przez Nadleśnictwo Brynek informujące o planowanej „otwartej debacie” na temat przyszłego Planu Urządzania Lasu.
+ 
+ 
+ 
+ 
+
+ 
+ 
 Brynek, 21.08.2020r.
 Procedury bezpieczeństwa w Nadleśnictwie Brynek w okresie pandemii COVID-19
 
@@ -195,7 +253,7 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_brynek~certyfikat_fsc__2_.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_brynek~certyfikat_fsc__2_.pdf
 
 
 
@@ -204,7 +262,7 @@ px_dg~rdlp_katowice~nadl_brynek~certyfikat_fsc__2_.pdf (1.0MB)
 
 .PDF
 
-px_dg~rdlp_katowice~nadl_brynek~rdlp_katowice_pefc_issue2__2_.pdf (1.0MB)
+px_dg~rdlp_katowice~nadl_brynek~rdlp_katowice_pefc_issue2__2_.pdf
 
 
 
@@ -226,9 +284,9 @@ px_dg~rdlp_katowice~nadl_brynek~rdlp_katowice_pefc_issue2__2_.pdf (1.0MB)
 Osoba odpowiedzialna za treść:
 Nadleśniczy Janusz Wojciechowski
 
-Data modyfikacji: 2020/08/24 13:38:01
-Redaktor zatwierdzający: Agnieszka Ciężarek
-Wprowadzający: Agnieszka Ciężarek
+Data modyfikacji: 2021/05/28 11:21:30
+Redaktor zatwierdzający: Sandra Sorbal
+Wprowadzający: Sandra Sorbal
 Deklaracja Dostępności
 
 

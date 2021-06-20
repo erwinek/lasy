@@ -141,6 +141,9 @@ Komunikaty i ogłoszenia
 
 
 
+Ogłoszenie o zamiarze poddania badaniu sprawozdania finansowego za 2021 rok:
+Treść ogłoszenia należy pobrać z listy plików do pobrania, lista znajduje się na dole strony.
+ 
 Ogłoszenie o wyborze oferty na prace dot. remontu grobli w rez. "Kamieniec"
  
 http://bip.olesno.pl/8918/naprawa-rozmytego-fragmentu-grobli-w-rezerwacie-przyrody-kamieniec.html?PagePreviewCode=DF2E43E31387C6EF366AF4E88C50E22D&prev=1
@@ -160,6 +163,15 @@ bip.olesno.pl/8918/11141/naprawa-rozmytego-fragmentu-grobli-w-rezerwacie-przyrod
 
 
 Pliki do pobrania - lista załączników
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_zamiarze_poddania_badaniu_sprawozdania_finansowego_za_2021_rok.pdf
+
 
 
 
@@ -594,9 +606,9 @@ px_dg~rdlp_katowice~nadl_olesno~ogloszenie_o_przeatrgu_na_sprzedaz_uzywanych_tel
 Osoba odpowiedzialna za treść:
 Nadleśniczy Nadleśnictwa Olesno mgr inż. Grzegorz Kimla
 
-Data modyfikacji: 2021/04/08 13:22:52
-Redaktor zatwierdzający: Joanna Kubiak
-Wprowadzający: Grzegorz Bek
+Data modyfikacji: 2021/06/10 09:05:57
+Redaktor zatwierdzający: Grzegorz Bek
+Wprowadzający: Justyna Błaszczyk
 Deklaracja Dostępności
 
 

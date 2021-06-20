@@ -141,6 +141,21 @@ Komunikaty i ogłoszenia
 
 
 
+Kup dnia 2021-06-10
+Zn. spr.: ZG.234.1.2021
+ 
+Obwieszczenie o przetargu nieograniczonym 
+ na sprzedaż sprzętu komputerowego zbędnego dla potrzeb Nadleśnictwa Kup
+
+ 
+Państwowe      Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Kup, ul 1-go Maja 9,      46-082 Kup, woj. opolskie tel. (77)4695212 fax. 4695353 e-mail kup@katowice.lasy.gov.pl,  zamierza dokonać sprzedaży używanego  sprzętu komputerowego zbędnego dla potrzeb Nadleśnictwa Kup
+
+Zainteresowanych zakupem zapraszamy do zapoznania się z dokumentacją zawartą w pliku:  Sprzedaż_komp_2021.zip Link do pobrania w/w pliku znajduje się na dole strony w: plikach do pobrania - lista załączników.
+Przed  przystąpieniem do przetargu należy zapoznać się z informacjami dot.  przetawarzania danych osobowych. Informacje te znajdują się na stronie  internetowej Nadleśnictwa Kup tj.:  https://kup.katowice.lasy.gov.pl/aktualnosci/-/asset_publisher/1M8a/content/ochrona-danych-osobowych#.X36xDO0whPY
+Podpisał:
+Nadleśniczy Nadleśnictwa Kup
+dr inż. Jarosław Jańczyk
+ 
  
  Kup dnia, 25.03.2021r.
 Zn. Spr.:S.064.1.2021
@@ -578,6 +593,15 @@ Pliki do pobrania - lista załączników
 
 
 
+.ZIP
+
+px_dg~rdlp_katowice~nadl_kup~sprzedaz_komp_2021.zip
+
+
+
+
+
+
 .PDF
 
 px_dg~rdlp_katowice~nadl_kup~raport_dostepnosci_2021.pdf
@@ -656,9 +680,9 @@ px_dg~rdlp_katowice~nadl_kup~ogloszenie_badanie_bilansu.pdf
 Osoba odpowiedzialna za treść:
 dr inż. Jarosław Jańczyk
 
-Data modyfikacji: 2021/03/26 12:58:04
+Data modyfikacji: 2021/06/10 11:17:00
 Redaktor zatwierdzający: Daniel Chodorowski
-Wprowadzający: Marcin Ślusarczyk
+Wprowadzający: Jakub Gowin
 Deklaracja Dostępności
 
 

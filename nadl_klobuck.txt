@@ -156,7 +156,13 @@ Komunikaty i ogłoszenia
 
 
 
+                                                             Ogłoszenie               
+Na podstawie Decyzji Nadleśniczego Nadleśnictwa Kłobuck nr 1/2021 z dnia 21.01.2021 roku dzień 04 czerwca 2021 roku jest dniem wolnym od pracy. Biuro w tym dniu nie będzie czynne.
  
+ 
+                                                         OGŁOSZENIE 
+NADLEŚNICZEGO NADLEŚNICTWA KŁOBUCK O NABORZE ZEWNĘTRZNYM NA STANOWISKO KSIĘGOWA/Y W DZIALE FINANSOWO - KSIĘGOWYM ( umowa na zastępstwo)  
+- dokumenty do pobrania na końcu strony
  
                                           OGŁOSZENIE
 
@@ -912,6 +918,69 @@ Pliki do pobrania - lista załączników
 
 .PDF
 
+px_dg~rdlp_katowice~nadl_klobuck~ogloszenie.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~oswiadczenie.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~klauzula_informacyjna.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~kwestionariusz.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~zalacznik_nr_3.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~zarzadzenie.pdf
+
+
+
+
+
+
+.PDF
+
+px_dg~rdlp_katowice~nadl_klobuck~zgoda_na_przetwarzanie.pdf
+
+
+
+
+
+
+.PDF
+
 px_dg~rdlp_katowice~nadl_klobuck~formularz_ofertowy.pdf
 
 
@@ -988,7 +1057,7 @@ px_dg~rdlp_katowice~nadl_klobuck~warunki_zapewnienia_dostepu_i_warunki_umieszcza
 Osoba odpowiedzialna za treść:
 Jerzy Sądel Nadleśniczy Nadleśnictwa Kłobuck
 
-Data modyfikacji: 2021/04/21 11:19:21
+Data modyfikacji: 2021/06/02 10:18:18
 Redaktor zatwierdzający: Paweł Krej
 Wprowadzający: Paweł Krej
 Deklaracja Dostępności
