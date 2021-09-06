@@ -12,6 +12,10 @@ from email.mime.multipart import MIMEMultipart
 import urllib.parse
 import urllib.request
 
+import ssl
+
+ssl._create_default_https_context = ssl._create_unverified_context
+
 
 listaKato = ["nadl_andrychow", "nadl_bielsko", "nadl_brynek", "nadl_jelesnia","nadl_klobuck","nadl_koszecin","nadl_kup","nadl_proszkow","nadl_turawa","nadl_zawadzkie",
 "nadl_brzeg", "nadl_chrzanow","nadl_gidle","nadl_herby","nadl_katowice","nadl_kedzierzyn","nadl_kluczbork",
